@@ -20,6 +20,8 @@
 // ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 // (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 // SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+//
+// iOS 15+ / __DATA_CONST fix: use vm_protect before writing to read-only GOT pages.
 
 #include "fishhook.h"
 
@@ -30,6 +32,7 @@
 #include <mach-o/dyld.h>
 #include <mach-o/loader.h>
 #include <mach-o/nlist.h>
+#include <mach/mach.h>  /* vm_protect, mach_task_self */
 
 #ifdef __LP64__
 typedef struct mach_header_64 mach_header_t;
@@ -72,6 +75,29 @@ static int prepend_rebindings(struct rebindings_entry **rebindings_head,
     return 0;
 }
 
+/* Make a single pointer-sized slot writable, write both old+new, restore RO.
+   VM_PROT_COPY triggers COW so the write lands in our private page. */
+static void write_symbol_binding(void **slot, void *replacement, void **replaced) {
+    vm_address_t addr  = (vm_address_t)slot;
+    vm_size_t    psize = sizeof(void *);
+
+    /* Try to make the page writable (needed for __DATA_CONST on iOS 15+) */
+    kern_return_t kr = vm_protect(mach_task_self(), addr, psize,
+                                  false,
+                                  VM_PROT_READ | VM_PROT_WRITE | VM_PROT_COPY);
+    if (kr != KERN_SUCCESS) {
+        /* Already writable (__DATA) or truly locked — attempt anyway */
+    }
+
+    if (replaced != NULL && *slot != replacement) {
+        *replaced = *slot;
+    }
+    *slot = replacement;
+
+    /* Restore read-only protection (best effort; ignore error) */
+    vm_protect(mach_task_self(), addr, psize, false, VM_PROT_READ);
+}
+
 static void perform_rebinding_with_section(struct rebindings_entry *rebindings,
                                            section_t *section,
                                            intptr_t slide,
@@ -93,11 +119,9 @@ static void perform_rebinding_with_section(struct rebindings_entry *rebindings,
             for (size_t j = 0; j < cur->rebindings_nel; j++) {
                 if (symbol_name_longer_than_1 &&
                     strcmp(&symbol_name[1], cur->rebindings[j].name) == 0) {
-                    if (cur->rebindings[j].replaced != NULL &&
-                        indirect_symbol_bindings[i] != cur->rebindings[j].replacement) {
-                        *(cur->rebindings[j].replaced) = indirect_symbol_bindings[i];
-                    }
-                    indirect_symbol_bindings[i] = cur->rebindings[j].replacement;
+                    write_symbol_binding(&indirect_symbol_bindings[i],
+                                         cur->rebindings[j].replacement,
+                                         cur->rebindings[j].replaced);
                     goto symbol_loop;
                 }
             }
