@@ -1,0 +1,42 @@
+name: Build sf2_moves_hook.dylib
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Select Xcode
+        run: sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+
+      - name: Build dylib
+        run: |
+          SDK=$(xcrun --sdk iphoneos --show-sdk-path)
+          CC=$(xcrun --sdk iphoneos -f clang)
+          "$CC" \
+            -arch arm64 \
+            -isysroot "$SDK" \
+            -miphoneos-version-min=14.0 \
+            -O2 -fvisibility=hidden \
+            -fobjc-arc \
+            -shared \
+            -framework Foundation \
+            -framework Security \
+            -o sf2_moves_hook.dylib \
+            sf2_moves_hook.m fishhook.c
+          codesign -f -s - sf2_moves_hook.dylib
+          file sf2_moves_hook.dylib
+          ls -lh sf2_moves_hook.dylib
+
+      - name: Upload dylib artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sf2_moves_hook
+          path: sf2_moves_hook.dylib
+          retention-days: 30
