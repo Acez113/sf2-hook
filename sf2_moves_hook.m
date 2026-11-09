@@ -4,6 +4,7 @@
  * Just logs on load to confirm binary patching works.
  */
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 __attribute__((constructor))
 static void sf2_hook_init(void) {
