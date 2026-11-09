@@ -26,7 +26,7 @@
     _interpose_##_old \
     __attribute__((section("__DATA,__interpose"))) \
     = { (const void *)(unsigned long)&(_new), \
-        (const void *)(unsigned long)&(_old) }
+        (const void *)(unsigned long)&(_old) };
 
 /* ── CONFIG URL ───────────────────────────────────────────────────────────── */
 #define SF2_CONFIG_URL @"https://raw.githubusercontent.com/Acez113/sf2-hook/main/sf2_config.json"
