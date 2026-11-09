@@ -1,6 +1,7 @@
 {
   "enabled": true,
   "log_key": true,
+  "dump_xml": true,
 
   "patches": [
     { "find": "locked=\"1\"",    "replace": "locked=\"0\"" },

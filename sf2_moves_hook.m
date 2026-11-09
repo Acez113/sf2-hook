@@ -300,6 +300,15 @@ static CCCryptorStatus hooked_CCCrypt(
     }
 
     LOG(@"Target XML detected (%zu bytes) — applying patches...", outLen);
+
+    /* Dump first 3000 chars of XML when dump_xml:true in config */
+    if ([(NSNumber *)cfg[@"dump_xml"] boolValue]) {
+        NSString *dump = [[NSString alloc] initWithBytes:dataOut
+                                                  length:MIN(outLen, 3000)
+                                                encoding:NSUTF8StringEncoding];
+        LOG(@"=== XML DUMP (first 3000 chars) ===\n%@", dump ?: @"(non-utf8)");
+    }
+
     NSData *patched = applyPatches(dataOut, outLen, cfg);
     if (!patched) return status;
 
