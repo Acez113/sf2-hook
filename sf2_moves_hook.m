@@ -47,7 +47,7 @@
  * Point this at your GitHub raw file, e.g.:
  *   https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/sf2_config.json
  * ----------------------------------------------------------------------- */
-#define SF2_CONFIG_URL @"https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/sf2_config.json"
+#define SF2_CONFIG_URL @"https://raw.githubusercontent.com/Acez113/sf2-hook/main/sf2_config.json"
 
 /* Fallback config used if the URL fetch fails */
 #define SF2_FALLBACK_JSON @"{\
