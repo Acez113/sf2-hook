@@ -1,0 +1,84 @@
+==============================================================================
+ SF2 Moves Hook — Build & Inject Instructions
+==============================================================================
+
+FILES
+-----
+  sf2_moves_hook.m  — main hook (CCCrypt + CCKeyDerivationPBKDF intercept)
+  fishhook.c / .h   — Facebook's fishhook for hooking C functions
+  Makefile          — macOS build script
+
+WHAT THE HOOK DOES
+------------------
+1. Hooks CCKeyDerivationPBKDF → logs the AES password + salt to NSLog
+   (lets us extract the actual encryption key the game uses)
+
+2. Hooks CCCrypt (decrypt) → after every AES-256-CBC decrypt:
+   • If plaintext starts with <?xml and contains move attributes → patch it
+   • Patches: locked="1" → "0", IsLocked="1" → "0",
+              IsOpen="0" → "1", IsOpened="0" → "1",
+              MinLevel="N" → "0"
+
+PHASE 1 (key discovery) — first run
+------------------------------------
+  Build + inject the dylib, launch the game, wait for it to reach the
+  main menu (config data loaded). Check NSLog / device log for lines like:
+
+    [SF2Hook] CCKeyDerivationPBKDF called:
+    [SF2Hook]   password (N bytes): <THE_PASSWORD>
+    [SF2Hook]   salt     (M bytes): <HEX>
+    [SF2Hook]   derived key: <32-byte hex>
+
+  Capture password, salt, rounds → you now have the AES key offline.
+
+PHASE 2 (auto-patch) — same run
+---------------------------------
+  Whenever the game decrypts moves.xml, the hook patches it in memory
+  before the game parses it → all moves appear unlocked.
+
+BUILD ON MACOS (Xcode required)
+---------------------------------
+  cd C:\Users\mysti\Desktop\sf2_hook
+  make
+
+  Or manually:
+    SDK=$(xcrun --sdk iphoneos --show-sdk-path)
+    clang -arch arm64 -isysroot $SDK -miphoneos-version-min=14.0 \
+          -O2 -fobjc-arc -fvisibility=hidden \
+          -shared \
+          -framework Foundation -framework Security \
+          -o sf2_moves_hook.dylib sf2_moves_hook.m fishhook.c
+
+BUILD ON WINDOWS (Docker + theos)
+-----------------------------------
+  Option A — Docker with theos image:
+    docker pull ghcr.io/theos/theos:latest
+    docker run -it -v "%CD%":/work ghcr.io/theos/theos:latest bash
+    # inside container:
+    cd /work
+    make
+
+  Option B — WSL2 + macOS cross-compiler (osxcross):
+    Install osxcross with iOS SDK support, then:
+    CC=arm64-apple-iphoneos-clang make
+
+INJECT WITH iLOADER
+--------------------
+  1. Build sf2_moves_hook.dylib on a Mac (or VM)
+  2. Sign (ad-hoc): codesign -f -s - sf2_moves_hook.dylib
+  3. Copy to your device (via SSH, FilzaEscaped, etc.)
+  4. Use iLoader (or TrollStore + DYLD_INSERT_LIBRARIES) to inject it
+     into com.nekki.shadowfight
+
+VIEW LOGS
+----------
+  On device: use libimobiledevice's idevicesyslog or Xcode's Console app
+    idevicesyslog | grep SF2Hook
+
+  Or on a jailbroken device:
+    oslog --predicate 'eventMessage contains "SF2Hook"'
+
+==============================================================================
+ After extracting the key from logs, run sf2_decrypt.py (see Desktop) to
+ decrypt the latest configs bundle offline and verify the XML structure.
+==============================================================================

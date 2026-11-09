@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "log_key": true,
+
+  "patches": [
+    { "find": "locked=\"1\"",    "replace": "locked=\"0\"" },
+    { "find": "IsLocked=\"1\"",  "replace": "IsLocked=\"0\"" },
+    { "find": "IsOpen=\"0\"",    "replace": "IsOpen=\"1\"" },
+    { "find": "IsOpened=\"0\"",  "replace": "IsOpened=\"1\"" },
+    {
+      "find":    "MinLevel=\"[1-9][0-9]*\"",
+      "replace": "MinLevel=\"0\"",
+      "regex":   true
+    }
+  ],
+
+  "target_files": ["moves", "weapons", "list"]
+}
