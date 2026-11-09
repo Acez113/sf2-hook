@@ -2,6 +2,7 @@
 // BSD License — https://github.com/facebook/fishhook
 #pragma once
 #include <stddef.h>
+#include <stdint.h>
 struct rebinding {
     const char *name;
     void *replacement;
