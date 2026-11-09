@@ -1,38 +1,15 @@
 /*
  * SF2 v2.46.0 — Remote-Configurable Moves Unlocker
  *
- * COMPILE ONCE, UPDATE FOREVER
- * -----------------------------
- * The dylib fetches a JSON config from a GitHub raw URL at startup.
- * To change what gets patched, just edit the JSON on GitHub — no
- * reinstall needed.
+ * Uses DYLD_INTERPOSE instead of fishhook — works on arm64e (A12+) and
+ * iOS 15–27 without touching any read-only GOT pages.
  *
- * Set SF2_CONFIG_URL below to your GitHub raw URL before building.
- *
- * CONFIG JSON FORMAT (see sf2_config.json):
- * {
- *   "enabled": true,
- *   "log_key": true,
- *   "patches": [
- *     {"find": "locked=\"1\"",   "replace": "locked=\"0\""},
- *     {"find": "IsLocked=\"1\"", "replace": "IsLocked=\"0\"", "regex": false},
- *     {"find": "MinLevel=\"[1-9][0-9]*\"", "replace": "MinLevel=\"0\"", "regex": true}
- *   ],
- *   "target_files": ["moves", "weapons", "list"]
- * }
- *
- * HOW TO BUILD
+ * HOW IT WORKS
  * ------------
- *   SDK=$(xcrun --sdk iphoneos --show-sdk-path)
- *   clang -arch arm64 -isysroot $SDK -miphoneos-version-min=14.0 \
- *         -O2 -fobjc-arc -shared \
- *         -framework Foundation -framework Security \
- *         -o sf2_moves_hook.dylib sf2_moves_hook.m fishhook.c
- *   codesign -f -s - sf2_moves_hook.dylib
- *
- * INJECT
- * ------
- *   Use iLoader (DYLD_INSERT_LIBRARIES) to inject into com.nekki.shadowfight.
+ * The __DATA,__interpose section tells dyld to substitute hooked_CCCrypt
+ * for CCCrypt in every image EXCEPT this dylib itself.  So calling CCCrypt()
+ * from inside this file calls the real function; the game's calls go to our
+ * hook.  No vm_protect, no fishhook, no PAC issues.
  */
 
 #import <Foundation/Foundation.h>
@@ -41,15 +18,19 @@
 #include <dlfcn.h>
 #include <string.h>
 #include <stdlib.h>
-#include "fishhook.h"
 
-/* ── CONFIG URL ────────────────────────────────────────────────────────────
- * Point this at your GitHub raw file, e.g.:
- *   https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/sf2_config.json
- * ----------------------------------------------------------------------- */
+/* ── DYLD_INTERPOSE macro ──────────────────────────────────────────────────── */
+#define DYLD_INTERPOSE(_new, _old) \
+    __attribute__((used)) \
+    static struct { const void *r; const void *o; } \
+    _interpose_##_old \
+    __attribute__((section("__DATA,__interpose"))) \
+    = { (const void *)(unsigned long)&(_new), \
+        (const void *)(unsigned long)&(_old) }
+
+/* ── CONFIG URL ───────────────────────────────────────────────────────────── */
 #define SF2_CONFIG_URL @"https://raw.githubusercontent.com/Acez113/sf2-hook/main/sf2_config.json"
 
-/* Fallback config used if the URL fetch fails */
 #define SF2_FALLBACK_JSON @"{\
 \"enabled\":true,\
 \"log_key\":true,\
@@ -66,7 +47,7 @@
 /* ── logging ──────────────────────────────────────────────────────────────── */
 #define LOG(fmt, ...) NSLog(@"[SF2Hook] " fmt, ##__VA_ARGS__)
 
-/* ── remote config state ─────────────────────────────────────────────────── */
+/* ── remote config ───────────────────────────────────────────────────────── */
 static NSDictionary *s_config = nil;
 static dispatch_once_t s_config_once;
 static dispatch_semaphore_t s_config_ready;
@@ -82,37 +63,40 @@ static NSDictionary *parseConfig(NSData *jsonData) {
 static void loadRemoteConfig(void) {
     dispatch_once(&s_config_once, ^{
         s_config_ready = dispatch_semaphore_create(0);
-        NSURL *url = [NSURL URLWithString:SF2_CONFIG_URL];
-        NSURLSessionConfiguration *cfg =
-            [NSURLSessionConfiguration ephemeralSessionConfiguration];
-        cfg.timeoutIntervalForRequest = 8.0;
-        NSURLSession *session = [NSURLSession sessionWithConfiguration:cfg];
 
-        [[session dataTaskWithURL:url completionHandler:^(NSData *d, NSURLResponse *r, NSError *e) {
-            if (!e && d) {
-                NSDictionary *remote = parseConfig(d);
-                if (remote) {
-                    s_config = remote;
-                    LOG(@"Config loaded from GitHub (%lu bytes)", (unsigned long)d.length);
+        dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(1.0 * NSEC_PER_SEC)),
+                       dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+            NSURL *url = [NSURL URLWithString:SF2_CONFIG_URL];
+            NSURLSessionConfiguration *cfg =
+                [NSURLSessionConfiguration ephemeralSessionConfiguration];
+            cfg.timeoutIntervalForRequest = 8.0;
+            NSURLSession *session = [NSURLSession sessionWithConfiguration:cfg];
+
+            [[session dataTaskWithURL:url completionHandler:^(NSData *d, NSURLResponse *r, NSError *e) {
+                if (!e && d) {
+                    NSDictionary *remote = parseConfig(d);
+                    if (remote) {
+                        s_config = remote;
+                        LOG(@"Config loaded from GitHub (%lu bytes)", (unsigned long)d.length);
+                    } else {
+                        LOG(@"Config JSON parse failed, using fallback");
+                    }
                 } else {
-                    LOG(@"Config JSON parse failed, using fallback");
+                    LOG(@"Config fetch failed (%@), using fallback", e.localizedDescription);
                 }
-            } else {
-                LOG(@"Config fetch failed (%@), using fallback", e.localizedDescription);
-            }
-            if (!s_config) {
-                s_config = parseConfig([SF2_FALLBACK_JSON dataUsingEncoding:NSUTF8StringEncoding]);
-            }
-            dispatch_semaphore_signal(s_config_ready);
-        }] resume];
+                if (!s_config) {
+                    s_config = parseConfig([SF2_FALLBACK_JSON dataUsingEncoding:NSUTF8StringEncoding]);
+                }
+                dispatch_semaphore_signal(s_config_ready);
+            }] resume];
+        });
     });
 }
 
-/* Wait for config to be ready (max 10s) */
 static NSDictionary *getConfig(void) {
     if (!s_config) {
         dispatch_semaphore_wait(s_config_ready,
-            dispatch_time(DISPATCH_TIME_NOW, 10LL * NSEC_PER_SEC));
+            dispatch_time(DISPATCH_TIME_NOW, 12LL * NSEC_PER_SEC));
     }
     return s_config;
 }
@@ -144,7 +128,7 @@ static NSData *applyPatches(const void *bytes, size_t length, NSDictionary *conf
             NSUInteger n = [re replaceMatchesInString:xml options:0
                                                range:NSMakeRange(0, xml.length)
                                         withTemplate:replace];
-            if (n) { LOG(@"  [regex] %@ → %@ x%lu", find, replace, (unsigned long)n); total += n; }
+            if (n) { LOG(@"  [regex] %@ -> %@ x%lu", find, replace, (unsigned long)n); total += n; }
         } else {
             NSUInteger n = 0;
             NSRange sr = NSMakeRange(0, xml.length);
@@ -155,7 +139,7 @@ static NSData *applyPatches(const void *bytes, size_t length, NSDictionary *conf
                 NSUInteger next = found.location + replace.length;
                 sr = NSMakeRange(next, xml.length - next);
             }
-            if (n) { LOG(@"  %@ → %@ x%lu", find, replace, (unsigned long)n); total += n; }
+            if (n) { LOG(@"  %@ -> %@ x%lu", find, replace, (unsigned long)n); total += n; }
         }
     }
 
@@ -163,87 +147,12 @@ static NSData *applyPatches(const void *bytes, size_t length, NSDictionary *conf
     return total > 0 ? [xml dataUsingEncoding:NSUTF8StringEncoding] : nil;
 }
 
-/* ── original function pointers ───────────────────────────────────────────── */
-static CCCryptorStatus (*orig_CCCrypt)(
-    CCOperation, CCAlgorithm, CCOptions,
-    const void *, size_t,
-    const void *,
-    const void *, size_t,
-    void *, size_t, size_t *) = NULL;
+/* ─────────────────────────────────────────────────────────────────────────── *
+ * HOOKED FUNCTIONS
+ * Calling CCCrypt / CCKeyDerivationPBKDF / CCCryptorCreate from WITHIN this
+ * dylib calls the real function (our image is excluded from our own interpose).
+ * ─────────────────────────────────────────────────────────────────────────── */
 
-static int (*orig_CCKeyDerivationPBKDF)(
-    CCPBKDFAlgorithm,
-    const char *, size_t,
-    const uint8_t *, size_t,
-    CCPseudoRandomAlgorithm,
-    uint32_t,
-    uint8_t *, size_t) = NULL;
-
-static CCCryptorStatus (*orig_CCCryptorCreate)(
-    CCOperation, CCAlgorithm, CCOptions,
-    const void *, size_t,
-    const void *,
-    CCCryptorRef *) = NULL;
-
-/* ── CCKeyDerivationPBKDF hook ───────────────────────────────────────────── */
-static int hooked_CCKeyDerivationPBKDF(
-    CCPBKDFAlgorithm algo,
-    const char *password, size_t passwordLen,
-    const uint8_t *salt, size_t saltLen,
-    CCPseudoRandomAlgorithm prf,
-    uint32_t rounds,
-    uint8_t *derivedKey, size_t derivedKeyLen)
-{
-    int rc = orig_CCKeyDerivationPBKDF(algo, password, passwordLen,
-                                       salt, saltLen, prf, rounds,
-                                       derivedKey, derivedKeyLen);
-
-    NSDictionary *cfg = s_config;  /* non-blocking — may be nil early */
-    BOOL shouldLog = cfg ? [(NSNumber *)cfg[@"log_key"] boolValue] : YES;
-    if (!shouldLog) return rc;
-
-    static dispatch_once_t once;
-    dispatch_once(&once, ^{
-        NSString *pwd    = [[NSString alloc] initWithBytes:password length:passwordLen
-                                                  encoding:NSUTF8StringEncoding];
-        NSString *saltHx = [NSData dataWithBytes:salt length:saltLen].description;
-        NSString *keyHx  = [NSData dataWithBytes:derivedKey length:derivedKeyLen].description;
-        LOG(@"=== CCKeyDerivationPBKDF ===");
-        LOG(@"  password (%zu B): %@", passwordLen, pwd ?: @"(non-utf8)");
-        LOG(@"  salt     (%zu B): %@", saltLen, saltHx);
-        LOG(@"  rounds=%u  keyLen=%zu", rounds, derivedKeyLen);
-        LOG(@"  derived key: %@", keyHx);
-    });
-
-    return rc;
-}
-
-/* ── CCCryptorCreate hook ────────────────────────────────────────────────── */
-static CCCryptorStatus hooked_CCCryptorCreate(
-    CCOperation  op,
-    CCAlgorithm  alg,
-    CCOptions    opts,
-    const void  *key,  size_t keyLen,
-    const void  *iv,
-    CCCryptorRef *ref)
-{
-    CCCryptorStatus st = orig_CCCryptorCreate(op, alg, opts, key, keyLen, iv, ref);
-
-    if (st == kCCSuccess && op == kCCDecrypt && alg == kCCAlgorithmAES && keyLen == 32) {
-        NSDictionary *cfg = s_config;
-        BOOL shouldLog = cfg ? [(NSNumber *)cfg[@"log_key"] boolValue] : YES;
-        if (shouldLog) {
-            static dispatch_once_t once;
-            dispatch_once(&once, ^{
-                NSString *keyHx = [NSData dataWithBytes:key length:keyLen].description;
-                LOG(@"=== CCCryptorCreate AES-256-CBC key: %@", keyHx);
-            });
-        }
-    }
-    return st;
-}
-
-/* ── CCCrypt hook ────────────────────────────────────────────────────────── */
 static CCCryptorStatus hooked_CCCrypt(
     CCOperation     op,
     CCAlgorithm     alg,
@@ -254,9 +163,10 @@ static CCCryptorStatus hooked_CCCrypt(
     void           *dataOut,      size_t dataOutAvailable,
     size_t         *dataOutMoved)
 {
-    CCCryptorStatus status = orig_CCCrypt(op, alg, opts, key, keyLen, iv,
-                                          dataIn, dataInLen,
-                                          dataOut, dataOutAvailable, dataOutMoved);
+    /* Call the real CCCrypt (our image is excluded from the interpose) */
+    CCCryptorStatus status = CCCrypt(op, alg, opts, key, keyLen, iv,
+                                      dataIn, dataInLen,
+                                      dataOut, dataOutAvailable, dataOutMoved);
 
     if (status != kCCSuccess)   return status;
     if (op  != kCCDecrypt)      return status;
@@ -270,11 +180,9 @@ static CCCryptorStatus hooked_CCCrypt(
     if (!(o[0]=='<' && o[1]=='?' && o[2]=='x' && o[3]=='m' && o[4]=='l'))
         return status;
 
-    /* Wait for config (network might still be in flight on first decrypt) */
     NSDictionary *cfg = getConfig();
     if (!cfg) return status;
 
-    /* Log key (guarded by config flag) */
     if ([(NSNumber *)cfg[@"log_key"] boolValue]) {
         static dispatch_once_t once;
         dispatch_once(&once, ^{
@@ -286,7 +194,6 @@ static CCCryptorStatus hooked_CCCrypt(
         });
     }
 
-    /* Check if this XML file is in our target list */
     NSArray *targets = cfg[@"target_files"];
     if (targets && [targets count] > 0) {
         NSString *prefix = [[NSString alloc] initWithBytes:dataOut
@@ -299,9 +206,8 @@ static CCCryptorStatus hooked_CCCrypt(
         if (!match) return status;
     }
 
-    LOG(@"Target XML detected (%zu bytes) — applying patches...", outLen);
+    LOG(@"Target XML detected (%zu bytes) - applying patches...", outLen);
 
-    /* Dump first 3000 chars of XML when dump_xml:true in config */
     if ([(NSNumber *)cfg[@"dump_xml"] boolValue]) {
         NSString *dump = [[NSString alloc] initWithBytes:dataOut
                                                   length:MIN(outLen, 3000)
@@ -323,30 +229,68 @@ static CCCryptorStatus hooked_CCCrypt(
     return status;
 }
 
-/* ── constructor ─────────────────────────────────────────────────────────── */
+static int hooked_CCKeyDerivationPBKDF(
+    CCPBKDFAlgorithm algo,
+    const char *password, size_t passwordLen,
+    const uint8_t *salt, size_t saltLen,
+    CCPseudoRandomAlgorithm prf,
+    uint32_t rounds,
+    uint8_t *derivedKey, size_t derivedKeyLen)
+{
+    int rc = CCKeyDerivationPBKDF(algo, password, passwordLen,
+                                   salt, saltLen, prf, rounds,
+                                   derivedKey, derivedKeyLen);
+
+    NSDictionary *cfg = s_config;
+    if (!cfg || ![(NSNumber *)cfg[@"log_key"] boolValue]) return rc;
+
+    static dispatch_once_t once;
+    dispatch_once(&once, ^{
+        NSString *pwd    = [[NSString alloc] initWithBytes:password length:passwordLen
+                                                  encoding:NSUTF8StringEncoding];
+        NSString *saltHx = [NSData dataWithBytes:salt length:saltLen].description;
+        NSString *keyHx  = [NSData dataWithBytes:derivedKey length:derivedKeyLen].description;
+        LOG(@"=== CCKeyDerivationPBKDF ===");
+        LOG(@"  password (%zu B): %@", passwordLen, pwd ?: @"(non-utf8)");
+        LOG(@"  salt     (%zu B): %@", saltLen, saltHx);
+        LOG(@"  rounds=%u  keyLen=%zu", rounds, derivedKeyLen);
+        LOG(@"  derived key: %@", keyHx);
+    });
+
+    return rc;
+}
+
+static CCCryptorStatus hooked_CCCryptorCreate(
+    CCOperation  op,
+    CCAlgorithm  alg,
+    CCOptions    opts,
+    const void  *key,  size_t keyLen,
+    const void  *iv,
+    CCCryptorRef *ref)
+{
+    CCCryptorStatus st = CCCryptorCreate(op, alg, opts, key, keyLen, iv, ref);
+
+    if (st == kCCSuccess && op == kCCDecrypt && alg == kCCAlgorithmAES && keyLen == 32) {
+        NSDictionary *cfg = s_config;
+        if (cfg && [(NSNumber *)cfg[@"log_key"] boolValue]) {
+            static dispatch_once_t once;
+            dispatch_once(&once, ^{
+                NSString *keyHx = [NSData dataWithBytes:key length:keyLen].description;
+                LOG(@"=== CCCryptorCreate AES-256-CBC key: %@", keyHx);
+            });
+        }
+    }
+    return st;
+}
+
+/* ── register interposes ─────────────────────────────────────────────────── */
+DYLD_INTERPOSE(hooked_CCCrypt,              CCCrypt)
+DYLD_INTERPOSE(hooked_CCKeyDerivationPBKDF, CCKeyDerivationPBKDF)
+DYLD_INTERPOSE(hooked_CCCryptorCreate,      CCCryptorCreate)
+
+/* ── constructor: kick off config fetch with 1s delay ────────────────────── */
 __attribute__((constructor))
 static void sf2_hook_init(void) {
-    LOG(@"SF2 hook loading — fetching config from GitHub...");
-
-    /* Start config fetch asynchronously right away */
+    LOG(@"SF2 hook loaded (DYLD_INTERPOSE) - fetching config in 1s...");
     loadRemoteConfig();
-
-    struct rebinding bindings[] = {
-        { "CCCrypt",              (void *)hooked_CCCrypt,              (void **)&orig_CCCrypt              },
-        { "CCKeyDerivationPBKDF", (void *)hooked_CCKeyDerivationPBKDF, (void **)&orig_CCKeyDerivationPBKDF },
-        { "CCCryptorCreate",      (void *)hooked_CCCryptorCreate,      (void **)&orig_CCCryptorCreate      },
-    };
-    int rc = rebind_symbols(bindings, 3);
-
-    if (rc == 0) {
-        LOG(@"Hooks installed: CCCrypt=%p  CCKeyDerivationPBKDF=%p  CCCryptorCreate=%p",
-            (void *)orig_CCCrypt, (void *)orig_CCKeyDerivationPBKDF, (void *)orig_CCCryptorCreate);
-    } else {
-        LOG(@"rebind_symbols failed (%d) — dlsym fallback", rc);
-        orig_CCCrypt = dlsym(RTLD_DEFAULT, "CCCrypt");
-        orig_CCKeyDerivationPBKDF = dlsym(RTLD_DEFAULT, "CCKeyDerivationPBKDF");
-        orig_CCCryptorCreate = dlsym(RTLD_DEFAULT, "CCCryptorCreate");
-    }
-
-    LOG(@"SF2 hook ready.");
 }
