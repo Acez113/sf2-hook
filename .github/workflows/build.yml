@@ -28,6 +28,7 @@ jobs:
             -shared \
             -framework Foundation \
             -framework Security \
+            -framework UIKit \
             -o sf2_moves_hook.dylib \
             sf2_moves_hook.m
           codesign -f -s - sf2_moves_hook.dylib
