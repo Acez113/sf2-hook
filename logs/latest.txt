@@ -42,3 +42,5 @@
 00:05:54.574 VC_CAPTURE started fd=53
 00:05:54.574 open fd=53 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
 00:05:54.617 VC_DUMP: 6956341 B -> /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Documents/sf2redir/vc_dump.bin
+00:06:12.557 open fd=48 oflag=0x601 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/dump.bin
+00:06:16.486 open fd=49 oflag=0x601 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/dump/users.xml
