@@ -87,3 +87,5 @@
 18:03:49.072 manual reload + flush
 18:03:52.169 config: 0 rules / 1 redir
 18:03:52.174 config: 0 rules / 1 redir
+18:04:33.942 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+18:04:34.628 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
