@@ -1,9 +1,10 @@
-=== SF2Menu session 20261110-155655 ===
-17:56:55.363 dylib loaded
-17:56:55.363 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/9AE79555-D8DD-44B2-9037-2EEF8A027635/ShadowFight2.app/configs_hacked.bin
-17:56:56.421 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics/crashLog.json
-17:56:56.640 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/packs.xml
-17:56:56.640 PACKS_XML(16383 B): <Packs>
+=== SF2Menu session 20261110-155945 ===
+17:59:45.279 dylib loaded
+17:59:45.279 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/9AE79555-D8DD-44B2-9037-2EEF8A027635/ShadowFight2.app/configs_hacked.bin
+17:59:45.916 config: 0 rules / 1 redir
+17:59:46.193 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics/crashLog.json
+17:59:46.448 open fd=29 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/packs.xml
+17:59:46.448 PACKS_XML(16383 B): <Packs>
   <Pack Name="ZONE_1" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_1_14-39-36_06_06_2025_87c5b7ccde28a853ca342cbbae217077_814862658_ios" Version="2.46.0" Attach="1" Hash="B4F5AA27D93A77ECCC2250B81D2DCC66" Priority="0" />
   <Pack Name="ANIMATIONS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/animations_19-30-53_18_09_2026_7a2da5a269d40489b3a99573fc43f7b0_4066023854_ios" Version="2.46.0" Attach="1" Hash="1B6AAAB375659DE0B002F7F0DA6394AB" Priority="0" />
   <Pack Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-34-03_27_10_2026_40b7d1fe69515446853cf2f26c67e9cf_152920749_ios" Version="2.46.0" Attach="1" Hash="D235EACE7F5D764B177C63E42650317C" Priority="0" />
@@ -64,19 +65,20 @@
   <Pack Name="OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_39_shadow_lord_25_18-20-51_14_10_2025_c097ecc658f6a6d105f80a5b1582edcf_2021939842_ios" Version="2.46.0" Attach="1" Hash="3DB5D5664A4C4972B06819721EFBEA78" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_40_OLD_KING_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_40_old_king_25_14-30-59_28_10_2025_5ec7474816ac912b801c2b2d0db87dd2_1850418541_ios" Version="2.46.0" Attach="1" Hash="F153B8E5AF315253B5641342E2639BBE" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-18-10_19_12_2025_c2d4333d79852b8d95a93fb477874e83_364129234_ios" 
-17:56:56.845 config: 0 rules / 1 redir
-17:56:58.526 overlay shown (attempt 1)
-17:57:04.200 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/config_cdn.xml
-17:57:04.234 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/config_cdn.xml.hash
-17:57:05.870 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
-17:57:07.992 manual reload + flush
-17:57:08.841 config: 0 rules / 1 redir
-17:57:09.268 toggle -> ON
-17:57:09.357 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics
-17:57:09.358 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/dojo_buttons
-17:57:09.358 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/news
-17:57:09.359 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/raid_configs
-17:57:09.360 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles
-17:57:09.360 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/SETS
-17:57:09.361 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/OFFERS
-17:57:09.361 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/EVENTS
+17:59:48.299 overlay shown (attempt 1)
+17:59:53.791 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+17:59:54.013 open fd=30 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/config_cdn.xml
+17:59:54.048 open fd=30 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/config_cdn.xml.hash
+18:00:08.425 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics
+18:00:08.426 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/dojo_buttons
+18:00:08.426 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/news
+18:00:08.426 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/raid_configs
+18:00:08.426 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles
+18:00:08.426 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/SETS
+18:00:08.426 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/OFFERS
+18:00:08.427 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/EVENTS
+18:00:13.112 open fd=54 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics/sessions.json
+18:00:13.118 open fd=54 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics/events_data.xml
+18:00:13.124 open fd=54 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics/events.json
+18:00:30.921 open fd=54 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_1
+18:00:30.930 open fd=54 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
