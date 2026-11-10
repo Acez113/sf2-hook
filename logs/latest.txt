@@ -9,3 +9,7 @@
 01:45:11.089 config: 1 redir
 01:45:45.606 manual reload
 01:45:55.608 config: The request timed out.
+01:46:13.476 redirect ready VERSIONAL_CONFIGS (10607995 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+01:46:23.093 redirect ready VERSIONAL_CONFIGS (10607995 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+01:46:23.122 REDIRECT fd=57 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+01:46:23.170 REDIRECT fd=57 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
