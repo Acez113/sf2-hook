@@ -1,6 +1,4 @@
-=== SF2Menu session 20261110-131424 ===
-15:14:24.449 dylib loaded
-15:14:25.532 config: 0 rules
-15:14:27.480 overlay shown (attempt 1)
-15:14:35.463 toggle -> ON
-15:15:25.233 manual reload + flush
+=== SF2Menu session 20261110-131537 ===
+15:15:37.553 dylib loaded
+15:15:37.992 config: 0 rules
+15:15:40.697 overlay shown (attempt 1)
