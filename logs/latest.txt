@@ -1,7 +1,9 @@
-=== SF2KeySniffer session 20261110-233600 ===
-01:36:00.364 keysniffer v2.0 loaded
-01:36:00.811 CCCrypt op=0 AES256 key=98145ce497076f95cb991dc0ad796ca1591cf2387f70efa4e9bdca962e2bf521 iv=none
-01:36:03.390 overlay shown (attempt 1)
-01:36:07.963 CCCrypt op=1 AES256 key=72336640336c4c316b65354330306c537472696e677346443736343537332d36 iv=00000000000000000000000000000000
-01:36:07.989 CCCrypt op=1 AES256 key=4333384642323341343032323232413043313744333441393246393731443146 iv=none
-01:36:08.520 CCCrypt op=0 AES256 key=c26d0249ba80befb1876d0ced3c7c4a67cc83c697913c1ce9d17f616be8b2a76 iv=d90cf6e3bc028fbeddc5fb798302b63d
+=== SF2Mod v3.0 session 20261110-234504 ===
+01:45:04.175 dylib v3.0 loaded
+01:45:04.176 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
+01:45:05.172 config: 1 redir
+01:45:05.913 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
+01:45:07.116 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
+01:45:07.191 overlay shown
+01:45:10.306 manual reload
+01:45:11.089 config: 1 redir
