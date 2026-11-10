@@ -1,21 +1,12 @@
-=== SF2Menu session 20261110-135438 ===
-15:54:38.374 dylib loaded
-15:54:38.860 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
-15:54:39.013 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
-15:54:39.014 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
-15:54:41.551 overlay shown (attempt 1)
-15:54:45.252 config: 0 rules / 3 redir
-15:54:46.570 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/config_cdn.xml
-15:54:46.602 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/config_cdn.xml.hash
-15:54:46.798 redirect ready /packs.xml.hash (32 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml.hash
-15:54:46.830 redirect ready /packs.xml (24155 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml
-15:54:59.712 toggle -> ON
-15:55:03.286 redirect ready /VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
-15:55:05.321 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics
-15:55:05.321 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/dojo_buttons
-15:55:05.322 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/news
-15:55:05.322 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/raid_configs
-15:55:05.322 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles
-15:55:05.323 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/SETS
-15:55:05.323 open fd=45 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS
-15:55:05.324 open fd=43 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS
+=== SF2Menu session 20261110-135533 ===
+15:55:33.201 dylib loaded
+15:55:33.693 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
+15:55:33.847 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
+15:55:33.848 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
+15:55:36.151 config: 0 rules / 3 redir
+15:55:36.277 overlay shown (attempt 1)
+15:55:37.134 redirect ready /packs.xml.hash (32 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml.hash
+15:55:37.167 redirect ready /packs.xml (24155 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml
+15:55:41.451 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/config_cdn.xml
+15:55:41.473 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/config_cdn.xml.hash
+15:55:42.173 redirect ready /VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
