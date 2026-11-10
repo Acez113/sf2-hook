@@ -94,3 +94,5 @@
 00:14:00.994 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_7_3_download.nekki
 00:14:13.887 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_7_3
 00:14:13.950 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/shadow_gate_download.nekki
+00:14:21.139 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/Shadow_fight_ending_download.nekki
+00:14:29.060 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/FUNGUS_SET_download.nekki
