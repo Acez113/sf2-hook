@@ -79,3 +79,14 @@
 00:12:57.542 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_5_download.nekki
 00:13:11.703 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_5
 00:13:11.765 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_6_download.nekki
+00:13:42.751 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_6
+00:13:42.839 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_IM_download.nekki
+00:13:46.101 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_IM
+00:13:46.129 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_7_download.nekki
+00:13:55.774 CCCrypt decrypt(1042 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
+00:13:55.774 CCCrypt decrypt(1045 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
+00:13:55.775 CCCrypt decrypt(1043 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
+00:13:55.775 CCCrypt decrypt(1052 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
+00:13:55.775 CCCrypt decrypt(1046 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
+00:13:57.895 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_7
+00:13:57.954 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_7_2_download.nekki
