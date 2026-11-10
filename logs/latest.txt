@@ -89,3 +89,9 @@
 17:27:35.856 open fd=56 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
 17:28:40.297 manual reload + flush
 17:28:40.490 config: 0 rules / 1 redir
+17:28:58.325 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+17:29:07.596 open fd=40 oflag=0x601 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/packs.xml.hash
+17:29:07.710 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ANIMATIONS
+17:29:07.712 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ANIMATIONS_download.nekki
+17:29:16.321 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ZONE_RAID
+17:29:16.333 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ZONE_RAID_download.nekki
