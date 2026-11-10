@@ -3,5 +3,7 @@
   "dump_xml": true,
   "log_upload_interval_sec": 20,
   "rules": [],
-  "file_redirects": []
+  "file_redirects": [
+    {"match": "VERSIONAL_CONFIGS", "url": "https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin"}
+  ]
 }
