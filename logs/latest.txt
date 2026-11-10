@@ -52,3 +52,5 @@
 00:06:42.885 CCCrypt decrypt(1043 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
 00:08:07.606 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_1
 00:08:07.715 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_RAID_download.nekki
+00:09:26.103 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_RAID
+00:09:26.356 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/CLANS_download.nekki
