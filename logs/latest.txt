@@ -73,3 +73,7 @@
 00:12:18.276 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_2_download.nekki
 00:12:30.548 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_2
 00:12:30.611 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_3_download.nekki
+00:12:44.180 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_3
+00:12:44.244 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_4_download.nekki
+00:12:57.483 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_4
+00:12:57.542 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_5_download.nekki
