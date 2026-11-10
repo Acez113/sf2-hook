@@ -69,3 +69,5 @@
 00:10:35.507 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/MODELS_download.nekki
 00:11:29.928 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/MODELS
 00:11:30.124 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/TACTICS_download.nekki
+00:12:18.107 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/TACTICS
+00:12:18.276 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_2_download.nekki
