@@ -82,3 +82,8 @@
 18:00:13.124 open fd=54 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/statistics/events.json
 18:00:30.921 open fd=54 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_1
 18:00:30.930 open fd=54 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
+18:03:46.471 manual reload + flush
+18:03:47.688 toggle -> ON
+18:03:49.072 manual reload + flush
+18:03:52.169 config: 0 rules / 1 redir
+18:03:52.174 config: 0 rules / 1 redir
