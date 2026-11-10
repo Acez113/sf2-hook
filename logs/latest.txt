@@ -27,3 +27,6 @@
 16:28:50.006 manual reload + flush
 16:28:50.431 config: 0 rules / 0 redir
 16:28:52.487 manual reload + flush
+16:28:52.590 config: 0 rules / 0 redir
+16:28:54.303 toggle -> ON
+16:28:55.271 manual reload + flush
