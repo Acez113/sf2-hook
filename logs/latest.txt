@@ -67,3 +67,5 @@
 00:09:41.662 CCCrypt decrypt(1043 B) first32: 7b202022706f73744461746122203a207b202020202275696422203a20223042
 00:10:35.324 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/CLANS
 00:10:35.507 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/MODELS_download.nekki
+00:11:29.928 open fd=48 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/MODELS
+00:11:30.124 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/TACTICS_download.nekki
