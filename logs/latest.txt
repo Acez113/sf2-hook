@@ -94,3 +94,5 @@
 18:05:15.832 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ANIMATIONS_download.nekki
 18:05:22.514 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_RAID
 18:05:22.523 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_RAID_download.nekki
+18:08:14.658 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/CLANS
+18:08:14.665 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/CLANS_download.nekki
