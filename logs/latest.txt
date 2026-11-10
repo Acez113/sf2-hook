@@ -60,3 +60,8 @@
 16:35:18.768 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/shadow_gate_download.nekki
 16:35:24.459 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/Shadow_fight_ending.mp4
 16:35:24.467 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/Shadow_fight_ending_download.nekki
+16:35:31.388 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS_download.nekki
+16:35:35.899 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
+16:35:35.952 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/FUNGUS_SET_download.nekki
+16:35:41.053 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/FUNGUS_SET
+16:35:41.106 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VOLCANO_SET_download.nekki
