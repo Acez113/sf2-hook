@@ -35,3 +35,5 @@
 16:29:36.692 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/CLANS_download.nekki
 16:30:40.489 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/CLANS
 16:30:40.681 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/MODELS_download.nekki
+16:31:42.647 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/MODELS
+16:31:42.851 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/TACTICS_download.nekki
