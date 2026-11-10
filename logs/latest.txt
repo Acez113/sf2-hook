@@ -5,3 +5,4 @@
 15:16:42.601 toggle -> ON
 15:17:30.306 toggle -> OFF
 15:17:31.661 manual reload + flush
+15:17:31.715 config: 0 rules
