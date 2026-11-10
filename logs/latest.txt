@@ -63,3 +63,4 @@
 16:48:24.063 open fd=26 oflag=0x0 /var/mobile/Containers/Data/Application/DFB907EE-DA5E-40FD-85DF-FFCDE477BAFD/Library/Caches/gamedata/bundles/ZONE_IM
 16:48:25.909 overlay shown (attempt 1)
 16:48:42.795 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+16:49:24.673 manual reload + flush
