@@ -45,3 +45,8 @@
 17:37:26.071 open fd=55 oflag=0x601 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/dump.bin
 17:37:27.533 open fd=55 oflag=0x0 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/bundles/ZONE_1
 17:37:27.535 open fd=55 oflag=0x201 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
+17:38:37.746 open fd=55 oflag=0x601 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/packs.xml.hash
+17:38:37.859 open fd=55 oflag=0x0 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/bundles/ANIMATIONS
+17:38:37.861 open fd=55 oflag=0x201 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/bundles/ANIMATIONS_download.nekki
+17:38:44.768 open fd=55 oflag=0x0 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/bundles/ZONE_RAID
+17:38:44.777 open fd=55 oflag=0x201 /var/mobile/Containers/Data/Application/8FCB62DC-7F68-4F14-A753-634BA2BF9BA7/Library/Caches/gamedata/bundles/ZONE_RAID_download.nekki
