@@ -3,9 +3,5 @@
   "dump_xml": true,
   "log_upload_interval_sec": 20,
   "rules": [],
-  "file_redirects": [
-    { "match": "/packs.xml.hash",    "url": "https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml.hash" },
-    { "match": "/packs.xml",         "url": "https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml" },
-    { "match": "/VERSIONAL_CONFIGS", "url": "https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin" }
-  ]
+  "file_redirects": []
 }
