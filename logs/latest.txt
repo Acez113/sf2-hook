@@ -65,3 +65,4 @@
 17:21:58.030 overlay shown (attempt 1)
 17:22:04.903 toggle -> ON
 17:22:10.945 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+17:22:34.612 REDIRECT fd=57 orig=/var/mobile/Containers/Data/Application/6FE3A4CE-28B8-473A-BA5B-2194D7308C44/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS_download.nekki -> /var/mobile/Containers/Data/Application/6FE3A4CE-28B8-473A-BA5B-2194D7308C44/Documents/sf2redir/f0090555e977ee903ca096c0
