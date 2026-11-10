@@ -1,15 +1,6 @@
-=== SF2Mod v3.0 session 20261110-234504 ===
-01:45:04.175 dylib v3.0 loaded
-01:45:04.176 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
-01:45:05.172 config: 1 redir
-01:45:05.913 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
-01:45:07.116 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
-01:45:07.191 overlay shown
-01:45:10.306 manual reload
-01:45:11.089 config: 1 redir
-01:45:45.606 manual reload
-01:45:55.608 config: The request timed out.
-01:46:13.476 redirect ready VERSIONAL_CONFIGS (10607995 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
-01:46:23.093 redirect ready VERSIONAL_CONFIGS (10607995 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
-01:46:23.122 REDIRECT fd=57 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
-01:46:23.170 REDIRECT fd=57 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+=== SF2Mod v3.0 session 20261110-234803 ===
+01:48:03.728 dylib v3.0 loaded
+01:48:03.728 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
+01:48:04.111 config: 1 redir
+01:48:06.744 overlay shown
+01:48:27.892 redirect ready VERSIONAL_CONFIGS (10607995 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
