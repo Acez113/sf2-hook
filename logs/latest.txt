@@ -26,3 +26,20 @@
 18:17:33.236 manual reload + flush
 18:17:36.445 config: 0 rules / 1 redir
 18:17:39.655 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+18:17:47.346 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+18:17:49.139 open fd=52 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/statistics
+18:17:49.140 open fd=52 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/dojo_buttons
+18:17:49.140 open fd=52 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/news
+18:17:49.141 open fd=52 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/raid_configs
+18:17:49.141 open fd=52 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles
+18:17:49.141 open fd=53 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles/SETS
+18:17:49.142 open fd=53 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles/OFFERS
+18:17:49.143 open fd=53 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles/EVENTS
+18:17:50.051 open fd=53 oflag=0x0 /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/statistics/sessions.json
+18:17:50.053 open fd=53 oflag=0x0 /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/statistics/events_data.xml
+18:17:50.056 open fd=53 oflag=0x201 /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/statistics/events.json
+18:18:02.998 open fd=60 oflag=0x601 /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/dump.bin
+18:18:04.110 open fd=60 oflag=0x201 /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS_download.nekki
+18:18:11.687 open fd=60 oflag=0x601 /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/packs.xml.hash
+18:18:11.689 REDIRECT fd=60 orig=/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Documents/sf2redir/f0090555e977ee903ca096c0
+18:18:11.725 REDIRECT fd=60 orig=/var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/9FD3C407-983F-4BEF-9809-3C63A74B5724/Documents/sf2redir/f0090555e977ee903ca096c0
