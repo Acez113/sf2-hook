@@ -76,3 +76,8 @@
 17:50:23.282 open fd=46 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
 17:50:23.318 open fd=46 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/FUNGUS_SET
 17:50:23.321 open fd=46 oflag=0x201 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/FUNGUS_SET_download.nekki
+17:50:24.279 open fd=46 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/VOLCANO_SET
+17:50:24.282 open fd=46 oflag=0x201 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/VOLCANO_SET_download.nekki
+17:50:26.422 open fd=46 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/SETS/KARCER_SET
+17:50:26.425 open fd=46 oflag=0x201 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/SETS/KARCER_SET_download.nekki
+17:50:27.499 open fd=46 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/EVENT_FALL_24
