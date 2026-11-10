@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "dump_xml": true,
+  "log_upload_interval_sec": 20,
+  "rules": []
+}
