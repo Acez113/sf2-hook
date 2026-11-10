@@ -3,3 +3,4 @@
 15:14:25.532 config: 0 rules
 15:14:27.480 overlay shown (attempt 1)
 15:14:35.463 toggle -> ON
+15:15:25.233 manual reload + flush
