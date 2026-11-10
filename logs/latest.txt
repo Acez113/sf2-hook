@@ -1,86 +1,81 @@
-=== SF2Menu session 20261110-133618 ===
-15:36:18.097 dylib loaded
-15:36:18.563 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
-15:36:18.715 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
-15:36:18.717 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
-15:36:18.720 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_1
-15:36:18.738 config: 0 rules / 1 redir
-15:36:18.805 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:36:18.809 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:36:18.814 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:36:18.815 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:36:18.817 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:36:18.821 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:36:18.825 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:36:18.828 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:36:18.838 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:36:18.841 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:36:18.844 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25
-15:36:18.845 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:36:18.848 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:36:18.850 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:36:18.856 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:36:18.863 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:36:18.865 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25
-15:36:18.871 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25
-15:36:18.875 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25
-15:36:18.877 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25
-15:36:18.880 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:36:18.882 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25
-15:36:18.888 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:36:18.891 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/AMERICAN_26
-15:36:18.897 open fd=31 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/VAISAKHI_25
-15:36:18.909 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_26
-15:36:18.914 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_25
-15:36:18.927 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_CHEST
-15:36:18.930 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_58_STACCATO_26
-15:36:18.943 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26
-15:36:18.946 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26
-15:36:18.948 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26
-15:36:18.952 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26
-15:36:18.960 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/AMERICAN_25
-15:36:18.971 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26
-15:36:18.974 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26
-15:36:18.976 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26
-15:36:18.979 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26
-15:36:18.981 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26
-15:36:18.984 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_26
-15:36:18.986 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/HW_26_ITEMS
-15:36:19.000 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/MA_FEST_26_ITEMS
-15:36:19.013 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_26
-15:36:19.015 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_24
-15:36:19.022 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26
-15:36:19.024 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/HW26
-15:36:19.055 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION
-15:36:19.064 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER
-15:36:19.065 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/SETS/KARCER_SET
-15:36:19.081 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VOLCANO_SET
-15:36:19.099 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/FUNGUS_SET
-15:36:19.117 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
-15:36:19.134 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7_3
-15:36:19.167 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7_2
-15:36:19.176 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7
-15:36:19.206 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENT_FALL_24
-15:36:20.801 redirect ready /VERSIONAL_CONFIGS (3801658 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
-15:36:21.166 overlay shown (attempt 1)
-15:36:24.749 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:24.750 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:24.763 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:24.764 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:24.906 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:24.906 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.200 REDIRECT fd=45 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.200 REDIRECT fd=14 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.209 REDIRECT fd=14 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.210 REDIRECT fd=14 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.863 REDIRECT fd=14 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.863 REDIRECT fd=14 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.925 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.926 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.933 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:25.934 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:29.437 REDIRECT fd=53 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:29.438 REDIRECT fd=53 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
-15:36:51.771 manual reload + flush
-15:36:51.833 config: 0 rules / 1 redir
-15:36:53.954 redirect ready /VERSIONAL_CONFIGS (3801658 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+=== SF2Menu session 20261110-133945 ===
+15:39:45.162 dylib loaded
+15:39:45.810 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
+15:39:45.943 config: 0 rules / 1 redir
+15:39:45.982 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
+15:39:45.983 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
+15:39:45.987 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_1
+15:39:46.070 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:39:46.074 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:39:46.079 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:39:46.080 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:39:46.082 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:39:46.086 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:39:46.090 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:39:46.092 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:39:46.102 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:39:46.109 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:39:46.115 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25
+15:39:46.116 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:39:46.120 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:39:46.121 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:39:46.127 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:39:46.133 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+15:39:46.136 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25
+15:39:46.141 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25
+15:39:46.145 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25
+15:39:46.147 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25
+15:39:46.150 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:39:46.152 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25
+15:39:46.157 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:39:46.160 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/AMERICAN_26
+15:39:46.166 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/VAISAKHI_25
+15:39:46.177 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_26
+15:39:46.182 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_25
+15:39:46.195 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_CHEST
+15:39:46.198 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_58_STACCATO_26
+15:39:46.211 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26
+15:39:46.214 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26
+15:39:46.217 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26
+15:39:46.220 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26
+15:39:46.229 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/AMERICAN_25
+15:39:46.239 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26
+15:39:46.242 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26
+15:39:46.245 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26
+15:39:46.248 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26
+15:39:46.250 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26
+15:39:46.252 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_26
+15:39:46.255 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/HW_26_ITEMS
+15:39:46.269 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/MA_FEST_26_ITEMS
+15:39:46.282 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_26
+15:39:46.284 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_24
+15:39:46.290 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26
+15:39:46.292 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/HW26
+15:39:46.323 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION
+15:39:46.333 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER
+15:39:46.334 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/SETS/KARCER_SET
+15:39:46.350 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VOLCANO_SET
+15:39:46.370 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/FUNGUS_SET
+15:39:46.388 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
+15:39:46.404 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7_3
+15:39:46.439 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7_2
+15:39:46.449 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7
+15:39:46.478 open fd=21 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENT_FALL_24
+15:39:48.337 overlay shown (attempt 1)
+15:39:50.662 redirect ready /VERSIONAL_CONFIGS (3801658 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+15:39:55.797 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:55.798 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:55.817 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:55.817 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:55.966 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:55.967 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.242 REDIRECT fd=45 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.243 REDIRECT fd=13 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.252 REDIRECT fd=13 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.252 REDIRECT fd=13 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.902 REDIRECT fd=13 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.902 REDIRECT fd=13 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.972 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.972 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.980 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
+15:39:56.980 REDIRECT fd=15 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
