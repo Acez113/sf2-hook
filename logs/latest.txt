@@ -1,4 +1,5 @@
-=== SF2Menu session 20261110-131537 ===
-15:15:37.553 dylib loaded
-15:15:37.992 config: 0 rules
-15:15:40.697 overlay shown (attempt 1)
+=== SF2Menu session 20261110-131630 ===
+15:16:30.884 dylib loaded
+15:16:31.677 config: 0 rules
+15:16:34.032 overlay shown (attempt 1)
+15:16:42.601 toggle -> ON
