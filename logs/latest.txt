@@ -4,3 +4,5 @@
 01:48:04.111 config: 1 redir
 01:48:06.744 overlay shown
 01:48:27.892 redirect ready VERSIONAL_CONFIGS (10607995 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+01:48:43.199 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+01:48:43.269 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
