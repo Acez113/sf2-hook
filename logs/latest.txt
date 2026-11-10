@@ -1,8 +1,67 @@
-=== SF2Menu session 20261110-131630 ===
-15:16:30.884 dylib loaded
-15:16:31.677 config: 0 rules
-15:16:34.032 overlay shown (attempt 1)
-15:16:42.601 toggle -> ON
-15:17:30.306 toggle -> OFF
-15:17:31.661 manual reload + flush
-15:17:31.715 config: 0 rules
+=== SF2Menu session 20261110-133046 ===
+15:30:46.358 dylib loaded
+15:30:47.315 config: 0 rules / 0 redir
+15:30:47.427 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
+15:30:47.685 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
+15:30:47.687 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
+15:30:47.690 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_1
+15:30:47.786 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:30:47.791 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:30:47.795 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:30:47.797 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:30:47.799 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:30:47.803 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:30:47.807 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:30:47.810 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:30:47.821 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:30:47.824 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:30:47.827 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25
+15:30:47.828 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:30:47.832 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:30:47.833 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:30:47.840 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:30:47.847 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+15:30:47.850 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25
+15:30:47.856 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25
+15:30:47.859 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25
+15:30:47.861 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25
+15:30:47.865 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:30:47.868 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25
+15:30:47.873 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:30:47.876 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/AMERICAN_26
+15:30:47.882 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/VAISAKHI_25
+15:30:47.896 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_26
+15:30:47.901 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_25
+15:30:47.918 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_CHEST
+15:30:47.920 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_58_STACCATO_26
+15:30:47.933 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26
+15:30:47.937 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26
+15:30:47.939 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26
+15:30:47.943 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26
+15:30:47.954 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/AMERICAN_25
+15:30:47.965 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26
+15:30:47.967 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26
+15:30:47.970 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26
+15:30:47.973 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26
+15:30:47.976 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26
+15:30:47.978 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_26
+15:30:47.980 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/HW_26_ITEMS
+15:30:47.995 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/MA_FEST_26_ITEMS
+15:30:48.010 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_26
+15:30:48.012 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_24
+15:30:48.019 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26
+15:30:48.020 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS/HW26
+15:30:48.055 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION
+15:30:48.064 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER
+15:30:48.065 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/SETS/KARCER_SET
+15:30:48.083 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VOLCANO_SET
+15:30:48.102 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/FUNGUS_SET
+15:30:48.120 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
+15:30:48.137 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7_3
+15:30:48.177 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7_2
+15:30:48.186 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_7
+15:30:48.222 open fd=24 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENT_FALL_24
+15:30:49.394 overlay shown (attempt 1)
+15:31:00.161 toggle -> ON
+15:31:00.162 toggle -> OFF
+15:31:06.519 toggle -> ON
