@@ -84,3 +84,6 @@
 23:37:10.606 open fd=50 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/dump.bin
 23:37:14.012 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_1
 23:37:14.019 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
+23:37:58.635 open fd=50 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/packs.xml.hash
+23:37:58.752 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ANIMATIONS
+23:37:58.753 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ANIMATIONS_download.nekki
