@@ -44,3 +44,4 @@
 00:05:54.617 VC_DUMP: 6956341 B -> /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Documents/sf2redir/vc_dump.bin
 00:06:12.557 open fd=48 oflag=0x601 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/dump.bin
 00:06:16.486 open fd=49 oflag=0x601 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/dump/users.xml
+00:06:36.120 open fd=48 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
