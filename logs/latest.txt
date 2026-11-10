@@ -1,9 +1,10 @@
-=== SF2Menu session 20261110-213638 ===
-23:36:38.929 dylib loaded
-23:36:38.930 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/45AD815D-C14F-40C2-8D8F-C77C451BF3C3/ShadowFight2.app/configs_hacked.bin
-23:36:39.459 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics/crashLog.json
-23:36:39.689 open fd=26 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/packs.xml
-23:36:39.689 PACKS_XML(16383 B): <Packs>
+=== SF2Menu session 20261110-214055 ===
+23:40:55.700 dylib loaded
+23:40:55.700 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/45AD815D-C14F-40C2-8D8F-C77C451BF3C3/ShadowFight2.app/configs_hacked.bin
+23:40:56.119 config: 0 rules / 1 redir
+23:40:56.383 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics/crashLog.json
+23:40:56.578 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/packs.xml
+23:40:56.578 PACKS_XML(16383 B): <Packs>
   <Pack Name="ZONE_1" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_1_14-39-36_06_06_2025_87c5b7ccde28a853ca342cbbae217077_814862658_ios" Version="2.46.0" Attach="1" Hash="B4F5AA27D93A77ECCC2250B81D2DCC66" Priority="0" />
   <Pack Name="ANIMATIONS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/animations_19-30-53_18_09_2026_7a2da5a269d40489b3a99573fc43f7b0_4066023854_ios" Version="2.46.0" Attach="1" Hash="1B6AAAB375659DE0B002F7F0DA6394AB" Priority="0" />
   <Pack Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-34-03_27_10_2026_40b7d1fe69515446853cf2f26c67e9cf_152920749_ios" Version="2.46.0" Attach="1" Hash="D235EACE7F5D764B177C63E42650317C" Priority="0" />
@@ -64,85 +65,9 @@
   <Pack Name="OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_39_shadow_lord_25_18-20-51_14_10_2025_c097ecc658f6a6d105f80a5b1582edcf_2021939842_ios" Version="2.46.0" Attach="1" Hash="3DB5D5664A4C4972B06819721EFBEA78" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_40_OLD_KING_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_40_old_king_25_14-30-59_28_10_2025_5ec7474816ac912b801c2b2d0db87dd2_1850418541_ios" Version="2.46.0" Attach="1" Hash="F153B8E5AF315253B5641342E2639BBE" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-18-10_19_12_2025_c2d4333d79852b8d95a93fb477874e83_364129234_ios" 
-23:36:40.792 config: 0 rules / 1 redir
-23:36:42.048 overlay shown (attempt 1)
-23:36:42.777 toggle -> ON
-23:36:42.946 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/config_cdn.xml
-23:36:42.952 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/config_cdn.xml.hash
-23:36:48.079 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_ios.bin
-23:36:50.079 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics
-23:36:50.080 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/dojo_buttons
-23:36:50.081 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/news
-23:36:50.081 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/raid_configs
-23:36:50.082 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles
-23:36:50.082 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/SETS
-23:36:50.084 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/OFFERS
-23:36:50.087 open fd=44 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/EVENTS
-23:37:04.524 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics/sessions.json
-23:37:04.530 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics/events_data.xml
-23:37:04.536 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics/events.json
-23:37:10.606 open fd=50 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/dump.bin
-23:37:14.012 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_1
-23:37:14.019 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
-23:37:58.635 open fd=50 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/packs.xml.hash
-23:37:58.752 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ANIMATIONS
-23:37:58.753 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ANIMATIONS_download.nekki
-23:38:03.871 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_RAID
-23:38:03.880 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_RAID_download.nekki
-23:38:13.371 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/CLANS
-23:38:13.378 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/CLANS_download.nekki
-23:38:25.155 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/MODELS
-23:38:25.163 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/MODELS_download.nekki
-23:38:35.160 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/TACTICS
-23:38:35.167 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/TACTICS_download.nekki
-23:38:41.710 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_2
-23:38:41.712 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_2_download.nekki
-23:38:43.587 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_3
-23:38:43.591 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_3_download.nekki
-23:38:45.122 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_4
-23:38:45.126 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_4_download.nekki
-23:38:46.633 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_5
-23:38:46.638 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_5_download.nekki
-23:38:48.371 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_6
-23:38:48.376 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_6_download.nekki
-23:38:51.338 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_IM
-23:38:51.340 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_IM_download.nekki
-23:38:51.988 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_7
-23:38:51.992 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_7_download.nekki
-23:38:53.596 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_7_2
-23:38:53.598 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_7_2_download.nekki
-23:38:54.141 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_7_3
-23:38:54.145 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_7_3_download.nekki
-23:38:55.756 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/shadow_gate.mp4
-23:38:55.758 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/shadow_gate_download.nekki
-23:38:56.583 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/Shadow_fight_ending.mp4
-23:38:56.587 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/Shadow_fight_ending_download.nekki
-23:38:57.414 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:38:57.418 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS_download.nekki
-23:38:58.322 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:38:58.361 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:38:58.362 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:38:58.365 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/FUNGUS_SET
-23:38:58.367 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/FUNGUS_SET_download.nekki
-23:39:00.002 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VOLCANO_SET
-23:39:00.005 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VOLCANO_SET_download.nekki
-23:39:01.210 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/SETS/KARCER_SET
-23:39:01.211 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/SETS/KARCER_SET_download.nekki
-23:39:02.530 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/EVENT_FALL_24
-23:39:02.531 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/EVENT_FALL_24_download.nekki
-23:39:18.697 REDIRECT fd=50 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:39:18.714 REDIRECT fd=50 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:39:18.715 REDIRECT fd=50 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:39:19.071 REDIRECT fd=50 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:39:19.071 REDIRECT fd=50 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:40:16.185 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:40:16.200 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:40:16.200 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:40:17.691 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:40:17.692 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Documents/sf2redir/cb24fe7e9e9d4d49a8938886
-23:40:34.597 manual reload + flush
-23:40:34.763 config: 0 rules / 1 redir
-23:40:43.576 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_ios.bin
-23:40:43.829 manual reload + flush
-23:40:43.982 config: 0 rules / 1 redir
-23:40:46.345 manual reload + flush
+23:40:58.880 overlay shown (attempt 1)
+23:40:59.351 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_ios.bin
+23:40:59.943 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/config_cdn.xml
+23:40:59.949 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/config_cdn.xml.hash
+23:41:00.765 manual reload + flush
+23:41:01.600 config: 0 rules / 1 redir
