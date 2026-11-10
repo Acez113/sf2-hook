@@ -1,24 +1,11 @@
-=== SF2Menu session 20261110-135533 ===
-15:55:33.201 dylib loaded
-15:55:33.693 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
-15:55:33.847 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
-15:55:33.848 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
-15:55:36.151 config: 0 rules / 3 redir
-15:55:36.277 overlay shown (attempt 1)
-15:55:37.134 redirect ready /packs.xml.hash (32 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml.hash
-15:55:37.167 redirect ready /packs.xml (24155 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml
-15:55:41.451 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/config_cdn.xml
-15:55:41.473 open fd=39 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/config_cdn.xml.hash
-15:55:42.173 redirect ready /VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
-15:56:08.353 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics
-15:56:08.354 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/dojo_buttons
-15:56:08.354 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/news
-15:56:08.355 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/raid_configs
-15:56:08.356 open fd=48 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles
-15:56:08.356 open fd=49 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/SETS
-15:56:08.358 open fd=49 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/OFFERS
-15:56:08.359 open fd=49 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/EVENTS
-15:56:11.078 open fd=55 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/sessions.json
-15:56:11.079 open fd=55 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/events_data.xml
-15:56:11.082 open fd=55 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/events.json
-15:56:15.348 open fd=55 oflag=0x601 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/dump.bin
+=== SF2Menu session 20261110-140259 ===
+16:02:59.615 dylib loaded
+16:03:00.183 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/statistics/crashLog.json
+16:03:00.400 open fd=26 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml
+16:03:00.400 open fd=26 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/packs.xml.hash
+16:03:02.315 config: 0 rules / 3 redir
+16:03:02.792 overlay shown (attempt 1)
+16:03:03.922 redirect ready /packs.xml.hash (32 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml.hash
+16:03:03.971 redirect ready /packs.xml (24155 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/packs_hacked.xml
+16:03:05.386 manual reload + flush
+16:03:06.501 toggle -> ON
