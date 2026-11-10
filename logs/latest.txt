@@ -1,10 +1,9 @@
-=== SF2Menu session 20261110-214055 ===
-23:40:55.700 dylib loaded
-23:40:55.700 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/45AD815D-C14F-40C2-8D8F-C77C451BF3C3/ShadowFight2.app/configs_hacked.bin
-23:40:56.119 config: 0 rules / 1 redir
-23:40:56.383 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/statistics/crashLog.json
-23:40:56.578 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/packs.xml
-23:40:56.578 PACKS_XML(16383 B): <Packs>
+=== SF2Menu session 20261110-215904 ===
+23:59:05.029 dylib loaded
+23:59:05.928 config: 0 rules / 0 redir
+23:59:06.068 open fd=18 oflag=0x0 /var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/statistics/crashLog.json
+23:59:06.285 open fd=38 oflag=0x0 /var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/packs.xml
+23:59:06.286 PACKS_XML(16383 B): <Packs>
   <Pack Name="ZONE_1" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_1_14-39-36_06_06_2025_87c5b7ccde28a853ca342cbbae217077_814862658_ios" Version="2.46.0" Attach="1" Hash="B4F5AA27D93A77ECCC2250B81D2DCC66" Priority="0" />
   <Pack Name="ANIMATIONS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/animations_19-30-53_18_09_2026_7a2da5a269d40489b3a99573fc43f7b0_4066023854_ios" Version="2.46.0" Attach="1" Hash="1B6AAAB375659DE0B002F7F0DA6394AB" Priority="0" />
   <Pack Name="ZONE_RAID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_raid_18-34-03_27_10_2026_40b7d1fe69515446853cf2f26c67e9cf_152920749_ios" Version="2.46.0" Attach="1" Hash="D235EACE7F5D764B177C63E42650317C" Priority="0" />
@@ -65,9 +64,16 @@
   <Pack Name="OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_39_shadow_lord_25_18-20-51_14_10_2025_c097ecc658f6a6d105f80a5b1582edcf_2021939842_ios" Version="2.46.0" Attach="1" Hash="3DB5D5664A4C4972B06819721EFBEA78" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_40_OLD_KING_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_40_old_king_25_14-30-59_28_10_2025_5ec7474816ac912b801c2b2d0db87dd2_1850418541_ios" Version="2.46.0" Attach="1" Hash="F153B8E5AF315253B5641342E2639BBE" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-18-10_19_12_2025_c2d4333d79852b8d95a93fb477874e83_364129234_ios" 
-23:40:58.880 overlay shown (attempt 1)
-23:40:59.351 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_ios.bin
-23:40:59.943 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/config_cdn.xml
-23:40:59.949 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/config_cdn.xml.hash
-23:41:00.765 manual reload + flush
-23:41:01.600 config: 0 rules / 1 redir
+23:59:07.317 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/config_cdn.xml
+23:59:07.324 open fd=39 oflag=0x601 /var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/config_cdn.xml.hash
+23:59:08.081 overlay shown (attempt 1)
+23:59:10.559 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/statistics
+23:59:10.560 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/dojo_buttons
+23:59:10.561 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/news
+23:59:10.561 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/raid_configs
+23:59:10.561 open fd=46 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/bundles
+23:59:10.561 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/bundles/SETS
+23:59:10.562 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/bundles/OFFERS
+23:59:10.565 open fd=47 oflag=0x1100000 /private/var/mobile/Containers/Data/Application/D533C9D0-6FF1-41BA-A337-19D976C47008/Library/Caches/gamedata/bundles/EVENTS
+23:59:11.032 manual reload + flush
+23:59:11.079 config: 0 rules / 0 redir
