@@ -119,3 +119,7 @@
 17:35:09.352 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ZONE_7_2_download.nekki
 17:35:12.181 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ZONE_7_3
 17:35:12.184 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/ZONE_7_3_download.nekki
+17:35:27.266 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/shadow_gate.mp4
+17:35:27.269 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/shadow_gate_download.nekki
+17:35:34.743 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/Shadow_fight_ending.mp4
+17:35:34.750 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/DDA93F3F-5387-4D98-A925-3416E306B5CB/Library/Caches/gamedata/bundles/Shadow_fight_ending_download.nekki
