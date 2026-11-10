@@ -33,3 +33,12 @@
 00:05:32.523 CCCrypt decrypt(32773 B) first32: 7b0a20202020226e616d65223a202276756e676c65222c0a2020202022646973
 00:05:33.825 CCCrypt decrypt(23118 B) first32: 7b0a20202020226e616d65223a20226279746564616e6365222c0a2020202022
 00:05:36.925 CCCrypt decrypt(20169 B) first32: 7b0a20202020226e616d65223a20226368617274626f6f7374222c0a20202020
+00:05:40.250 CCCrypt decrypt(15071 B) first32: 7b0a20202020226e616d65223a20227461706a6f79222c0a2020202022646973
+00:05:41.667 CCCrypt decrypt(10722 B) first32: 7b0a20202020226e616d65223a20226d79746172676574222c0a202020202264
+00:05:45.304 open fd=53 oflag=0x601 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/packs.xml
+00:05:45.311 open fd=53 oflag=0x601 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/packs.xml.hash
+00:05:45.312 open fd=53 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/ANIMATIONS
+00:05:45.342 open fd=53 oflag=0x201 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS_download.nekki
+00:05:54.574 VC_CAPTURE started fd=53
+00:05:54.574 open fd=53 oflag=0x0 /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS
+00:05:54.617 VC_DUMP: 6956341 B -> /var/mobile/Containers/Data/Application/FAEA1B25-9CD4-4496-801D-4E04EC39881D/Documents/sf2redir/vc_dump.bin
