@@ -31,3 +31,5 @@
 16:28:54.303 toggle -> ON
 16:28:55.271 manual reload + flush
 16:28:55.439 config: 0 rules / 0 redir
+16:29:36.421 open fd=40 oflag=0x0 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/ZONE_RAID
+16:29:36.692 open fd=40 oflag=0x201 /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/CLANS_download.nekki
