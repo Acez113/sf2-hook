@@ -22,3 +22,7 @@
 23:10:00.502 manual reload + flush
 23:10:01.902 toggle -> ON
 23:10:02.067 config: 0 rules / 1 redir
+23:10:10.044 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_ios.bin
+23:10:14.439 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/8EB2E612-8F22-4326-8032-B394FA12B9FA/Library/Caches/gamedata/statistics/sessions.json
+23:10:14.444 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/8EB2E612-8F22-4326-8032-B394FA12B9FA/Library/Caches/gamedata/statistics/events_data.xml
+23:10:14.451 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/8EB2E612-8F22-4326-8032-B394FA12B9FA/Library/Caches/gamedata/statistics/events.json
