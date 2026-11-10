@@ -82,3 +82,5 @@
 15:36:29.437 REDIRECT fd=53 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
 15:36:29.438 REDIRECT fd=53 orig=/var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/4ADE390B-99A4-4EC7-A4C8-4841A4D60F5F/Documents/sf2redir/f0090555e977ee903ca096c0
 15:36:51.771 manual reload + flush
+15:36:51.833 config: 0 rules / 1 redir
+15:36:53.954 redirect ready /VERSIONAL_CONFIGS (3801658 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
