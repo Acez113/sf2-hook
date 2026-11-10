@@ -87,3 +87,7 @@
 23:37:58.635 open fd=50 oflag=0x601 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/packs.xml.hash
 23:37:58.752 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ANIMATIONS
 23:37:58.753 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ANIMATIONS_download.nekki
+23:38:03.871 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_RAID
+23:38:03.880 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/ZONE_RAID_download.nekki
+23:38:13.371 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/CLANS
+23:38:13.378 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/3A376DA3-E302-4D5A-91DE-F70E1FB362C7/Library/Caches/gamedata/bundles/CLANS_download.nekki
