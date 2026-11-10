@@ -36,3 +36,6 @@
 17:48:46.046 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/statistics/sessions.json
 17:48:46.051 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/statistics/events_data.xml
 17:48:46.057 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/statistics/events.json
+17:48:50.479 open fd=50 oflag=0x601 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/dump.bin
+17:48:51.709 open fd=50 oflag=0x0 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/ZONE_1
+17:48:51.713 open fd=50 oflag=0x201 /var/mobile/Containers/Data/Application/031A046B-478A-4056-8EF7-378ACC297A22/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
