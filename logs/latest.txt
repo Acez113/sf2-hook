@@ -110,3 +110,13 @@
 18:11:11.818 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_5_download.nekki
 18:11:21.868 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_6
 18:11:21.872 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_6_download.nekki
+18:11:31.073 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_IM
+18:11:31.075 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_IM_download.nekki
+18:11:33.676 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_7
+18:11:33.680 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_7_download.nekki
+18:11:38.912 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_7_2
+18:11:38.914 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_7_2_download.nekki
+18:11:40.211 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_7_3
+18:11:40.215 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/ZONE_7_3_download.nekki
+18:11:46.912 open fd=25 oflag=0x0 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/shadow_gate.mp4
+18:11:46.915 open fd=25 oflag=0x201 /var/mobile/Containers/Data/Application/51CF04E5-B8FD-46F6-9011-A76A9C443C0B/Library/Caches/gamedata/bundles/shadow_gate_download.nekki
