@@ -64,3 +64,6 @@
 16:45:00.168 overlay shown (attempt 1)
 16:45:01.769 manual reload + flush
 16:45:06.820 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+16:45:08.640 config: 0 rules / 1 redir
+16:45:14.777 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked.bin
+16:45:19.051 manual reload + flush
