@@ -2,3 +2,7 @@
 09:58:29.876 ACE v5.0 loaded. selected=none
 09:58:32.932 ACE bubble shown
 09:59:20.724 selected: thruster
+09:59:35.413 selected: titan
+09:59:37.333 selected: thruster
+09:59:41.213 selected: skeleton
+09:59:47.213 selected: all_moves
