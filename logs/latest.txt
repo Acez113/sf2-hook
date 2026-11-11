@@ -25,3 +25,5 @@
 08:26:37.213 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
 08:26:37.213 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
 08:27:40.366 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+08:27:41.925 manual reload
+08:27:43.092 manual reload
