@@ -1,9 +1,9 @@
-=== SF2Mod ACE v6.0 session 20261111-202608 ===
-22:26:08.481 ACE v6.4 runtime-patch loaded
-22:26:10.044 prepopulate: copied 102, replaced 0, failed 0
-22:26:10.046 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/gamedata/packs.xml (ok=YES)
-22:26:10.048 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/gamedata/packs.xml.hash (ok=YES)
-22:26:10.055 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Documents/userdata (xml=YES, hash=YES)
-22:26:10.060 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Application Support/userdata (xml=YES, hash=YES)
-22:26:10.066 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/userdata (xml=YES, hash=YES)
-22:26:14.270 ACE bubble shown
+=== SF2Mod ACE v6.0 session 20261111-202654 ===
+22:26:54.840 ACE v6.4 runtime-patch loaded
+22:26:56.302 prepopulate: copied 0, replaced 102, failed 0
+22:26:56.304 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/gamedata/packs.xml (ok=YES)
+22:26:56.307 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/gamedata/packs.xml.hash (ok=YES)
+22:26:56.310 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Documents/userdata (xml=YES, hash=YES)
+22:26:56.313 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Application Support/userdata (xml=YES, hash=YES)
+22:26:56.317 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/userdata (xml=YES, hash=YES)
+22:26:59.334 ACE bubble shown
