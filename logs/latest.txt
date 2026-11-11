@@ -6,3 +6,6 @@
 10:56:16.174 ACE bubble shown
 10:56:33.284 apply_patch 'Thruster MidFrames' starting (find len 58)
 10:56:33.681 apply_patch 'Skeleton Lock' starting (find len 43)
+10:57:30.414 apply_patch 'Thruster MidFrames' done: 1 hits  (scanned 577 / skipped 311 regions)
+10:57:30.417 applied 'Thruster MidFrames': 1 hits
+10:57:30.420 apply_patch 'Thruster FirstFrame' starting (find len 43)
