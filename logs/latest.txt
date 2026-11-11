@@ -1,40 +1,8 @@
-=== SF2Mod v3.0 session 20261111-062620 ===
-08:26:20.968 dylib v3.0 loaded
-08:26:20.968 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
-08:26:21.973 config: 1 redir
-08:26:23.926 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
-08:26:23.943 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
-08:26:23.943 REDIRECT fd=24 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
-08:26:23.980 overlay shown
-08:26:26.292 manual reload
-08:26:26.954 config: 1 redir
-08:26:27.505 manual reload
-08:26:28.587 config: 1 redir
-08:26:32.940 manual reload
-08:26:33.872 manual reload
-08:26:33.883 config: 1 redir
-08:26:34.256 manual reload
-08:26:34.489 manual reload
-08:26:34.689 manual reload
-08:26:34.872 manual reload
-08:26:35.776 config: 1 redir
-08:26:36.279 config: 1 redir
-08:26:36.281 config: 1 redir
-08:26:36.283 config: 1 redir
-08:26:36.552 config: 1 redir
-08:26:37.213 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
-08:26:37.213 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
-08:27:40.366 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
-08:27:41.925 manual reload
-08:27:43.092 manual reload
-08:27:43.309 manual reload
-08:27:43.476 manual reload
-08:27:43.659 manual reload
-08:27:43.844 manual reload
-08:27:44.893 manual reload
-08:27:45.314 config: 1 redir
-08:27:45.995 config: 1 redir
-08:27:46.658 config: 1 redir
-08:27:46.660 config: 1 redir
-08:27:46.662 config: 1 redir
-08:27:47.000 config: 1 redir
+=== SF2Mod v3.0 session 20261111-063432 ===
+08:34:32.983 dylib v3.0 loaded
+08:34:32.983 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/34620CC9-7DF7-43C5-956F-B468B456CE20/ShadowFight2.app/configs_hacked.bin
+08:34:33.862 config: 1 redir
+08:34:35.776 REDIRECT fd=37 orig=/var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/34620CC9-7DF7-43C5-956F-B468B456CE20/ShadowFight2.app/configs_hacked.bin
+08:34:35.801 REDIRECT fd=37 orig=/var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/34620CC9-7DF7-43C5-956F-B468B456CE20/ShadowFight2.app/configs_hacked.bin
+08:34:36.202 overlay shown
+08:34:38.827 manual reload
