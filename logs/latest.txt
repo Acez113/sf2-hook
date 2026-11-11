@@ -13,3 +13,14 @@
 08:26:32.940 manual reload
 08:26:33.872 manual reload
 08:26:33.883 config: 1 redir
+08:26:34.256 manual reload
+08:26:34.489 manual reload
+08:26:34.689 manual reload
+08:26:34.872 manual reload
+08:26:35.776 config: 1 redir
+08:26:36.279 config: 1 redir
+08:26:36.281 config: 1 redir
+08:26:36.283 config: 1 redir
+08:26:36.552 config: 1 redir
+08:26:37.213 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
+08:26:37.213 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/7F4C6FC3-3626-4650-B19F-C05BC324A940/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/680F7B84-EA53-4C70-9A50-86AD5C554371/ShadowFight2.app/configs_hacked.bin
