@@ -1,6 +1,5 @@
-=== SF2Mod ACE v6.0 session 20261111-084830 ===
-10:48:30.355 ACE v6.3 runtime-patch loaded
-10:48:30.361 prepopulate: copied 0, skipped 95 (already on disk)
-10:48:33.378 ACE bubble shown
-10:48:53.266 apply_patch 'Thruster MidFrames' starting (find len 58)
-10:49:06.238 apply_patch 'Skeleton Lock' starting (find len 43)
+=== SF2Mod ACE v6.0 session 20261111-085448 ===
+10:54:48.238 ACE v6.3 runtime-patch loaded
+10:54:48.244 prepopulate: copied 0, skipped 95 (already on disk)
+10:54:48.246 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/D38063F8-7204-4E96-A00C-82788E108E70/Library/Caches/gamedata/packs.xml (ok=NO)
+10:54:48.247 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/D38063F8-7204-4E96-A00C-82788E108E70/Library/Caches/gamedata/packs.xml.hash (ok=NO)
