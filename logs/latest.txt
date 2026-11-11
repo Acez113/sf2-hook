@@ -2174,3 +2174,5 @@ GUS_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/fungus_s
   <Pack Name="OFFERS/MA_FEST_26_ITEMS" Url="https://assets.nekki.com/sha
 09:36:24.997 overlay shown
 09:36:28.941 manual flush
+09:36:30.802 manual flush
+09:36:32.027 manual flush
