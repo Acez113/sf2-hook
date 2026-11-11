@@ -6,3 +6,5 @@
 10:22:20.900 apply_patch 'Thruster MidFrames' done: 1 hits  (scanned 616 / skipped 389 regions)
 10:22:20.900 applied 'Thruster MidFrames': 1 hits
 10:22:20.901 apply_patch 'Thruster FirstFrame' starting (find len 43)
+10:22:48.293 apply_patch 'Skeleton Lock' done: 254 hits  (scanned 620 / skipped 389 regions)
+10:22:48.295 applied 'Skeleton Lock': 254 hits
