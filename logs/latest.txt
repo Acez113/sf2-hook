@@ -213,3 +213,4 @@
 22:48:52.396 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/AED526EB-D7DD-476D-AB07-4BC74C647926/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_CHEST
 22:48:52.397 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/AED526EB-D7DD-476D-AB07-4BC74C647926/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_58_STACCATO_26
 22:48:52.455 ACE bubble shown
+22:48:59.419 manual flush
