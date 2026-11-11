@@ -7,3 +7,6 @@
 09:10:09.605 manual reload
 09:10:13.792 config: 1 redir
 09:10:13.792 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:10:14.137 manual reload
+09:10:15.696 config: 1 redir
+09:10:15.696 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
