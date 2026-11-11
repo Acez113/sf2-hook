@@ -2173,3 +2173,4 @@ GUS_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/fungus_s
   <Pack Name="OFFERS/EVENT_FALL_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_26_14-17-24_03_09_2026_50735fc3a34fa5e3d20dfbf36684e4b7_635013867_ios" Version="2.46.0" Attach="1" Hash="CDFAD85C6E0F3C99679999939451F866" Priority="0" />
   <Pack Name="OFFERS/MA_FEST_26_ITEMS" Url="https://assets.nekki.com/sha
 09:36:24.997 overlay shown
+09:36:28.941 manual flush
