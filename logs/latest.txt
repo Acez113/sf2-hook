@@ -5,3 +5,5 @@
 08:19:46.198 overlay shown
 08:19:47.597 manual reload
 08:19:48.108 config: 1 redir
+08:19:49.197 manual reload
+08:19:50.103 config: 1 redir
