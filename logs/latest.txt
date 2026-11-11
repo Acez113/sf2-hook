@@ -7,3 +7,6 @@
 09:32:00.410 PACKS-PATCH fd=38 url+hash swapped (MD5=C68ECA4BA894E5CFDD224A90E2D534B1)
 09:32:02.217 overlay shown
 09:32:05.234 manual reload
+09:32:05.279 config: 1 redir
+09:32:05.280 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:32:15.236 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/AFF7170D-1A68-41FC-9619-61E9029CB678/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/A4DDE560-0B5C-47C7-A5AD-DEB22BF46191/ShadowFight2.app/configs_hacked.bin
