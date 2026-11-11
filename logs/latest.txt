@@ -11,3 +11,5 @@
 10:57:30.420 apply_patch 'Thruster FirstFrame' starting (find len 43)
 10:57:31.910 apply_patch 'Skeleton Lock' done: 120 hits  (scanned 579 / skipped 311 regions)
 10:57:31.911 applied 'Skeleton Lock': 120 hits
+10:58:22.198 apply_patch 'Thruster FirstFrame' done: 16 hits  (scanned 629 / skipped 355 regions)
+10:58:22.201 applied 'Thruster FirstFrame': 16 hits
