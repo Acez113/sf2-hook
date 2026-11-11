@@ -10,3 +10,6 @@
 09:10:14.137 manual reload
 09:10:15.696 config: 1 redir
 09:10:15.696 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:10:50.155 REDIRECT fd=49 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
+09:10:50.191 REDIRECT fd=49 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
+09:10:50.191 REDIRECT fd=49 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
