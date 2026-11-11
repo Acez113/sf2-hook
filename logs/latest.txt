@@ -1,3 +1,4 @@
 === SF2Mod ACE v5.0 session 20261111-080551 ===
 10:05:51.473 ACE v5.0 loaded. selected=all_moves
 10:05:54.635 ACE bubble shown
+10:06:20.536 selected: full
