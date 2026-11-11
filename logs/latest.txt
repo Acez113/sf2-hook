@@ -21,3 +21,5 @@
 08:35:09.351 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Documents/sf2redir/724116f98d298e01d09a6156
 08:35:11.666 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Documents/sf2redir/724116f98d298e01d09a6156
 08:35:11.700 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Documents/sf2redir/724116f98d298e01d09a6156
+08:35:13.696 manual reload
+08:35:13.736 config: 1 redir
