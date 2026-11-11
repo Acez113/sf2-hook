@@ -1,9 +1,9 @@
-=== SF2Mod v3.0 session 20261111-070018 ===
-09:00:18.419 dylib v3.0 loaded
-09:00:18.419 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/00DC83EB-BA32-4DA8-83EC-7D00C6DCA26B/ShadowFight2.app/configs_hacked.bin
-09:00:19.290 config: 1 redir
-09:00:19.291 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:00:24.068 overlay shown
-09:00:28.911 manual reload
-09:00:29.021 config: 1 redir
-09:00:29.022 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+=== SF2Mod v3.0 session 20261111-070621 ===
+09:06:21.322 dylib v3.0 loaded
+09:06:21.322 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/DE742B98-1B24-4BB4-8BD6-F5C21C906997/ShadowFight2.app/configs_hacked.bin
+09:06:23.460 config: 1 redir
+09:06:23.462 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:06:24.339 overlay shown
+09:06:25.917 manual reload
+09:06:25.986 config: 1 redir
+09:06:25.987 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
