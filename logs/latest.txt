@@ -1,36 +1,9 @@
-=== SF2Mod v3.0 session 20261111-065352 ===
-08:53:52.658 dylib v3.0 loaded
-08:53:52.658 bundled redirect ready: packs.xml.hash -> /private/var/containers/Bundle/Application/AE818D6F-EA5D-4DC4-B695-334198DFD494/ShadowFight2.app/packs_hacked.xml.hash
-08:53:52.659 bundled redirect ready: packs.xml -> /private/var/containers/Bundle/Application/AE818D6F-EA5D-4DC4-B695-334198DFD494/ShadowFight2.app/packs_hacked.xml
-08:53:52.659 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/AE818D6F-EA5D-4DC4-B695-334198DFD494/ShadowFight2.app/configs_hacked.bin
-08:53:53.667 config: 3 redir
-08:53:53.669 redirect FAIL packs.xml.hash status=0 err=unsupported URL
-08:53:53.669 redirect FAIL packs.xml status=0 err=unsupported URL
-08:53:53.670 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-08:53:54.181 REDIRECT fd=38 orig=/var/mobile/Containers/Data/Application/306A4BBE-8AE1-4AFD-B881-68E9E95B992C/Library/Caches/gamedata/packs.xml -> /private/var/containers/Bundle/Application/AE818D6F-EA5D-4DC4-B695-334198DFD494/ShadowFight2.app/packs_hacked.xml
-08:53:55.691 overlay shown
-08:53:58.044 manual reload
-08:53:58.082 config: 3 redir
-08:53:58.083 redirect FAIL packs.xml.hash status=0 err=unsupported URL
-08:53:58.083 redirect FAIL packs.xml status=0 err=unsupported URL
-08:53:58.083 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-08:54:07.423 manual reload
-08:54:07.467 config: 3 redir
-08:54:07.469 redirect FAIL packs.xml.hash status=0 err=unsupported URL
-08:54:07.469 redirect FAIL packs.xml status=0 err=unsupported URL
-08:54:07.470 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-08:54:09.090 manual reload
-08:54:09.136 config: 3 redir
-08:54:09.137 redirect FAIL packs.xml.hash status=0 err=unsupported URL
-08:54:09.139 redirect FAIL packs.xml status=0 err=unsupported URL
-08:54:09.141 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-08:54:09.323 manual reload
-08:54:09.364 config: 3 redir
-08:54:09.364 redirect FAIL packs.xml.hash status=0 err=unsupported URL
-08:54:09.365 redirect FAIL packs.xml status=0 err=unsupported URL
-08:54:09.365 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-08:54:09.557 manual reload
-08:54:09.597 config: 3 redir
-08:54:09.598 redirect FAIL packs.xml.hash status=0 err=unsupported URL
-08:54:09.598 redirect FAIL packs.xml status=0 err=unsupported URL
-08:54:09.598 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+=== SF2Mod v3.0 session 20261111-070018 ===
+09:00:18.419 dylib v3.0 loaded
+09:00:18.419 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/00DC83EB-BA32-4DA8-83EC-7D00C6DCA26B/ShadowFight2.app/configs_hacked.bin
+09:00:19.290 config: 1 redir
+09:00:19.291 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:00:24.068 overlay shown
+09:00:28.911 manual reload
+09:00:29.021 config: 1 redir
+09:00:29.022 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
