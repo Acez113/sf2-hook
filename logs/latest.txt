@@ -1,3 +1,4 @@
 === SF2Mod ACE v5.0 session 20261111-075829 ===
 09:58:29.876 ACE v5.0 loaded. selected=none
 09:58:32.932 ACE bubble shown
+09:59:20.724 selected: thruster
