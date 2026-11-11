@@ -3,3 +3,4 @@
 21:16:02.951 prepopulate: copied 102, replaced 0, failed 0
 21:16:02.953 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/A3197D50-4C1D-47B2-AA0E-C6B738FEBCB8/Library/Caches/gamedata/packs.xml (ok=YES)
 21:16:02.956 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/A3197D50-4C1D-47B2-AA0E-C6B738FEBCB8/Library/Caches/gamedata/packs.xml.hash (ok=YES)
+21:16:06.990 ACE bubble shown
