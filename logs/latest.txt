@@ -6,3 +6,4 @@
 09:31:59.882 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
 09:32:00.410 PACKS-PATCH fd=38 url+hash swapped (MD5=C68ECA4BA894E5CFDD224A90E2D534B1)
 09:32:02.217 overlay shown
+09:32:05.234 manual reload
