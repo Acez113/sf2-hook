@@ -1701,8 +1701,8 @@ tformID="2,11" Attach="1" Active="0" Reload="1" Size="14548963" Hash="AC4D21D177
   </FightSpenderType>
 </data>
 
-09:44:13.096 CACHE users.xml : (not present)
-09:44:13.097 CACHE packs.xml (26414 B):
+09:47:19.424 CACHE users.xml : (not present)
+09:47:19.424 CACHE packs.xml (26414 B):
 <Packs>
   <Pack Name="ZONE_1" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/zone_1_14-39-36_06_06_2025_87c5b7ccde28a853ca342cbbae217077_814862658_ios" Version="2.46.0" Attach="1" Hash="B4F5AA27D93A77ECCC2250B81D2DCC66" Priority="0" />
   <Pack Name="ANIMATIONS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/animations_19-30-53_18_09_2026_7a2da5a269d40489b3a99573fc43f7b0_4066023854_ios" Version="2.46.0" Attach="1" Hash="1B6AAAB375659DE0B002F7F0DA6394AB" Priority="0" />
@@ -1800,7 +1800,313 @@ tformID="2,11" Attach="1" Active="0" Reload="1" Size="14548963" Hash="AC4D21D177
   <Pack Name="OFFERS/EVENT_FALL_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_26_14-17-24_03_09_2026_50735fc3a34fa5e3d20dfbf36684e4b7_635013867_ios" Version="2.46.0" Attach="1" Hash="CDFAD85C6E0F3C99679999939451F866" Priority="0" />
   <Pack Name="OFFERS/MA_FEST_26_ITEMS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ma_fest_26_items_19-30-53_18_09_2026_983d59508ea14bb8ad5862593164f96e_1406738088_ios" Version="2.46.0" Attach="1" Hash="E11044D5559FF73BB79CC0F3A69D08F5" Priority="0" />
 </Packs>
-09:44:13.097 CACHE config_cdn.xml.hash (32 B):
+09:47:19.425 CACHE config_cdn.xml.hash (32 B):
 CCC02475ECE7CD33BD7D94E709A60937
-09:44:13.097 CACHE packs.xml.hash (32 B):
+09:47:19.425 CACHE packs.xml.hash (32 B):
 A2F14BE651355D689A104B52FF9B2B57
+09:47:20.051 FILE @*Á?ºÅö  (19512 B):
+dowfight.forgepack2" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack3" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack4" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack5" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack6" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepackim" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack7_1" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack7_2" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.forgepack7_3" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_1" Price="0.99" PriceString="0,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_super" Price="9.99" PriceString="9,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_super_zone2" Price="9.99" PriceString="9,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_super_zone3" Price="9.99" PriceString="9,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_super_zone4" Price="11.99" PriceString="11,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_super_zone5" Price="11.99" PriceString="11,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.starterpack_super_zone6" Price="11.99" PriceString="11,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.premium_pack_zoneraid4" Price="17.99" PriceString="17,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.event_pack_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weapon_offer_zone1" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weapon_offer_zone2" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weapon_offer_zone3" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weapon_offer_zone4" Price="0" PriceString="" CurrencyCode="" />
+          <Product Id="com.nekki.shadowfight.weapon_offer_zone5" Price="0" PriceString="" CurrencyCode="" />
+          <Product Id="com.nekki.shadowfight.weapon_offer_zone6" Price="0" PriceString="" CurrencyCode="" />
+          <Product Id="com.nekki.shadowfight.raid_beginner_pack" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.ny21_pack_offer" Price="1.99" PriceString="1,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.chny21_pack_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.ie21_pack_offer" Price="3.99" PriceString="3,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.ae21_pack_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer21_pack_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.chny22_pack_offer" Price="3.99" PriceString="3,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.boat_festival_22_pack_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.unlimitedenergy2" Price="22.99" PriceString="22,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.sphere2_offer_3_1" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.sphere3_offer_5_1" Price="5.99" PriceString="5,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.potions_offer_5_1" Price="5.99" PriceString="5,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.event_coins_offer_3_1" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.keys_offer_3_1" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.event_consumables_offer_5_1" Price="5.99" PriceString="5,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.keys_event_offer_3_1" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.bp_premium_3_1" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_16" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_17" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_18" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_19" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_20" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_21" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_22" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_23" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_24" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_25" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.event_keys_consumables_offer" Price="1.99" PriceString="1,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_26" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_27" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_28" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_29" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_30" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_31" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_32" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_33" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_34" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_35" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_36" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_37" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_helm" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_knuckles" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_armor" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_38" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_39" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_40" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_41" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_42" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_43" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_44" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_45" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_46" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_47" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_48" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_49" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_50" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_51" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_52" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_53" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.fall26_sickles_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_54" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_55" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_56" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_57" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_58" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_26_offer_helm" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_26_offer_weapon" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_weapon_dynasty_sword" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_weapon_bringer_of_opulence" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_weapon_death_gou" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_helm_chengziguan" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_magic_green_dragon_ray" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_ranged_lotus_mine" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_weapon_katars" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_armor_endlessnight" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_helmet_lastcoven" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_helmet_visage" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_weapon_scythe" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_magic_raven" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.bp_premium_9_1" Price="9.99" PriceString="9,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.af26_coins_n_bp_offer_3" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+        </MetadataCache>
+      </Payments>
+      <FBData id="" />
+      <Advertising>
+        <Counter ID="RaidFight" CounterCurrent="3" Counter="10" Timer="1783461845" />
+        <Counter ID="MultiplyLottery" CounterCurrent="1" Counter="-1" Timer="1794103738" />
+      </Advertising>
+      <Perks>
+        <Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
+        <Perk Level="3" Name="PERK_DESPERATE" UpgradeLevel="7" />
+        <Perk Level="4" Name="PERK_DOUBLE_JUMP_KICK" />
+        <Perk Level="5" Name="PERK_ROCK" UpgradeLevel="7" />
+        <Perk Level="7" Name="PERK_FURIOUS" UpgradeLevel="7" />
+        <Perk Level="8" Name="PERK_ELBOW_STRIKE" />
+        <Perk Level="11" Name="PERK_TWO_FOOT_JUMP_KICK" />
+        <Perk Level="13" Name="PERK_PAIN_RAGE" UpgradeLevel="7" />
+        <Perk Level="14" Name="PERK_BACK_FLIP_KICK" />
+        <Perk Level="17" Name="PERK_SUPLEX" />
+        <Perk Level="20" Name="PERK_FULL_POWER" UpgradeLevel="7" />
+        <Perk Level="26" Name="PERK_BLOCK_BREAKER" UpgradeLevel="7" />
+        <Perk Level="32" Name="PERK_MARTIAL_SPIRIT" UpgradeLevel="7" />
+        <Perk Level="38" Name="PERK_ENLIGHTENMENT" UpgradeLevel="7" />
+        <Perk Level="45" Name="PERK_RICOCHET" UpgradeLevel="7" />
+      </Perks>
+      <PerkHistory>
+        <Level Value="2" Perk="PERK_DOUBLE_SWEEP" />
+        <Level Value="3" Perk="PERK_DESPERATE" />
+        <Level Value="4" Perk="PERK_DOUBLE_JUMP_KICK" />
+        <Level Value="5" Perk="PERK_ROCK" />
+        <Level Value="6" Perk="PERK_ROCK" />
+        <Level Value="7" Perk="PERK_FURIOUS" />
+        <Level Value="8" Perk="PERK_ELBOW_STRIKE" />
+        <Level Value="9" Perk="PERK_DESPERATE" />
+        <Level Value="10" Perk="PERK_ROCK" />
+        <Level Value="11" Perk="PERK_TWO_FOOT_JUMP_KICK" />
+        <Level Value="12" Perk="PERK_DESPERATE" />
+        <Level Value="13" Perk="PERK_PAIN_RAGE" />
+        <Level Value="14" Perk="PERK_BACK_FLIP_KICK" />
+        <Level Value="15" Perk="PERK_PAIN_RAGE" />
+        <Level Value="16" Perk="PERK_ROCK" />
+        <Level Value="17" Perk="PERK_SUPLEX" />
+        <Level Value="18" Perk="PERK_PAIN_RAGE" />
+        <Level Value="19" Perk="PERK_FURIOUS" />
+        <Level Value="20" Perk="PERK_FULL_POWER" />
+        <Level Value="21" Perk="PERK_DESPERATE" />
+        <Level Value="22" Perk="PERK_FURIOUS" />
+        <Level Value="23" Perk="PERK_FULL_POWER" />
+        <Level Value="24" Perk="PERK_PAIN_RAGE" />
+        <Level Value="25" Perk="PERK_FULL_POWER" />
+        <Level Value="26" Perk="PERK_BLOCK_BREAKER" />
+        <Level Value="27" Perk="PERK_BLOCK_BREAKER" />
+        <Level Value="28" Perk="PERK_FURIOUS" />
+        <Level Value="29" Perk="PERK_BLOCK_BREAKER" />
+        <Level Value="30" Perk="PERK_FULL_POWER" />
+        <Level Value="31" Perk="PERK_BLOCK_BREAKER" />
+        <Level Value="32" Perk="PERK_MARTIAL_SPIRIT" />
+        <Level Value="33" Perk="PERK_MARTIAL_SPIRIT" />
+        <Level Value="34" Perk="PERK_BLOCK_BREAKER" />
+        <Level Value="35" Perk="PERK_ROCK" />
+        <Level Value="36" Perk="PERK_DESPERATE" />
+        <Level Value="37" Perk="PERK_MARTIAL_SPIRIT" />
+        <Level Value="38" Perk="PERK_ENLIGHTENMENT" />
+        <Level Value="39" Perk="PERK_ENLIGHTENMENT" />
+        <Level Value="40" Perk="PERK_MARTIAL_SPIRIT" />
+        <Level Value="41" Perk="PERK_ENLIGHTENMENT" />
+        <Level Value="42" Perk="PERK_FULL_POWER" />
+        <Level Value="43" Perk="PERK_ENLIGHTENMENT" />
+        <Level Value="44" Perk="PERK_ENLIGHTENMENT" />
+        <Level Value="45" Perk="PERK_RICOCHET" />
+        <Level Value="46" Perk="PERK_RICOCHET" />
+        <Level Value="47" Perk="PERK_RICOCHET" />
+        <Level Value="48" Perk="PERK_RICOCHET" />
+        <Level Value="49" Perk="PERK_RICOCHET" />
+        <Level Value="50" Perk="PERK_ENLIGHTENMENT" />
+        <Level Value="51" Perk="PERK_RICOCHET" />
+        <Level Value="52" Perk="PERK_ENLIGHTENMENT" />
+      </PerkHistory>
+      <OpenTricks>
+      </OpenTricks>
+      <ViewedHintItems>
+        <Item Name="Sphere1_Name" />
+        <Item Name="PotionResistance" />
+        <Item Name="PotionRock" />
+        <Item Name="PotionBomb" />
+        <Item Name="PotionMagic" />
+        <Item Name="PotionSpikes" />
+        <Item Name="PotionLife" />
+        <Item Name="PotionLegend" />
+      </ViewedHintItems>
+      <ActiveLotteries>
+        <Lottery Name="TicketMysteryBox_Junior" StartTime="1631466660" EndTime="1631574660" />
+      </ActiveLotteries>
+      <Offers>
+        <Offer Name="DailyOffer_3_15" State="End" StartCount="10" />
+        <Offer Name="DailyOffer_9_10" State="Active" StartCount="11" />
+        <Offer Name="DailyOffer_9_11" State="End" StartCount="11" />
+        <Offer Name="DailyOffer_9_15" State="End" StartCount="10" />
+        <Offer Name="DailyOffer_9_5" State="End" StartCount="10" />
+        <Offer Name="hw26_offer_helm_visage_of_desolation" State="End" StartCount="1" />
+        <Offer Name="hw26_offer_helm_witch" State="End" StartCount="1" />
+        <Offer Name="hw26_offer_magic_crow" State="Active" StartCount="1" />
+        <Offer Name="hw26_offer_weapon_knuckles" State="End" StartCount="1" />
+        <Offer Name="hw26_offer_weapon_scythe_glaive" State="Active" StartCount="1" />
+        <Offer Name="WeeklyOffer_15" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_16" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_17" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_23" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_24" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_25" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_46" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_47" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_48" State="End" StartCount="1" />
+        <Offer Name="WeeklyOffer_58" State="Active" StartCount="1" />
+        <Offer Name="Zone4CyberDragonOffer" State="End" StartCount="1" />
+      </Offers>
+      <LocalDaily ResetTimer="1794452400">
+        <Data Id="1" Count="0" Claimed="False" />
+        <Data Id="2" Count="0" Claimed="False" />
+        <Data Id="3" Count="0" Claimed="False" />
+      </LocalDaily>
+      <CounterItems>
+        <Items>
+          <Item Name="Unlimited_Energy" />
+          <Item Name="Sphere1_Name" />
+        </Items>
+      </CounterItems>
+    </Warrior>
+  </Warriors>
+  <Versions>
+    <Version Value="2.46.0" />
+    <DataVersion Value="2.10.0.0" />
+  </Versions>
+  <GameLaunchIndex Value="485" />
+</Root>
+09:47:20.245 FILE ê$Á?ºÅö  (18222 B):
+ERS/HW_26_ITEMS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/hw_26_items_14-40-37_02_11_2026_9c1834d5b28a7177271413527ce9052e_3563008357_ios" Version="2.46.0" Attach="1" Hash="463A9593E09C2AC2F42E730EB9C96098" Priority="0" />
+  <Pack Name="OFFERS/SUMMER_FEST_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_26_13-57-57_17_07_2026_e1c30092e8a2f48968bedf9f388a97e6_3944856505_ios" Version="2.46.0" Attach="1" Hash="4363F9A6A8813FC68384E31007A893F2" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_48_DIESEL_SCREAM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_48_diesel_scream_26_18-46-34_18_06_2026_dff957030dd5866b65b8a36e8820cb0b_447779941_ios" Version="2.46.0" Attach="1" Hash="8D7BED04A212C2EA9C1F775458EFF947" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_49_JASPER_SUNSET_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_49_jasper_sunset_26_18-46-34_18_06_2026_2721bad2d767c20efdd3185860aee461_540476322_ios" Version="2.46.0" Attach="1" Hash="AE1601F87BF4F42677D7288D4EE1876D" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_50_DRAGONS_GIFT_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_50_dragons_gift_26_18-46-34_18_06_2026_6b24142e6797c2146173adfd8aa7c611_2855497643_ios" Version="2.46.0" Attach="1" Hash="086D137F85D0978A8B7737BABC9E9B5F" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_51_BARRIER_REEF_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_51_barrier_reef_26_18-46-34_18_06_2026_e404abbe1e36a49760ee6f146c254d5f_2018650845_ios" Version="2.46.0" Attach="1" Hash="18D443F48FD68707020166475E2BC891" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_52_valor_and_discipline_26_18-46-34_18_06_2026_239c5c84cad536e3bc686a1b3729ede3_1057461922_ios" Version="2.46.0" Attach="1" Hash="2034FDAF89556F8EA92A2D51FC3E3C22" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_53_GIANTS_WRATH_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_53_giants_wrath_26_18-46-34_18_06_2026_b0d1c2191956f6d165add322cca9534d_996080037_ios" Version="2.46.0" Attach="1" Hash="76B7D63F62737F346948677DDFD72B41" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_54_song_of_inevitability_26_14-00-28_09_09_2026_3dd62cb7f689e4dc536b13387b84ca0a_1916394255_ios" Version="2.46.0" Attach="1" Hash="58FBD011376DC4FC72C21C232C09557E" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_55_SHADOW_DJ_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_55_shadow_dj_26_15-36-10_02_09_2026_92a2f7442d6c6e9abefa12b1203ec9f8_2877409113_ios" Version="2.46.0" Attach="1" Hash="04D29C0055EC6D64B8CCE887FB11FD77" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_56_dance_of_dragons_26_15-36-10_02_09_2026_fb44beef8cd01e2c42a8c42e6fa6289c_545329065_ios" Version="2.46.0" Attach="1" Hash="E143CF730A83D9EA66017B5F22CBA8FD" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_57_DARK_FUGUE_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_57_dark_fugue_26_15-36-10_02_09_2026_5addb7e7f750be77fb4e006bf6f6227d_3472366188_ios" Version="2.46.0" Attach="1" Hash="48B58BF390B2B3DFED740AF7BC772858" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_58_STACCATO_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_58_staccato_26_15-36-10_02_09_2026_4cbb467c10959cd8fedbaff8ba8e3c5a_3104545578_ios" Version="2.46.0" Attach="1" Hash="9FD983BAF93B95D4D0612DDBEE0E4F69" Priority="0" />
+  <Pack Name="EVENTS/SUMMER_FEST_CHEST" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_chest_19-05-17_17_07_2026_7cea2b04c8be9643e23c28a20ffc1d4f_1137849166_ios" Version="2.46.0" Attach="1" Hash="F406C228923F54365E10A0540D65D984" Priority="0" />
+  <Pack Name="EVENTS/SUMMER_FEST_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_19-05-17_17_07_2026_fbfac6b1935e7d0f105e8025715dacc2_995579789_ios" Version="2.46.0" Attach="1" Hash="CB8F592A5F9927F9ABBEF36A16F00845" Priority="0" />
+  <Pack Name="EVENTS/SUMMER_FEST_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_26_16-23-57_12_08_2026_2faf700e8cae8857e8308002c084e409_82210426_ios" Version="2.46.0" Attach="1" Hash="92B21A093452F227B288D704BFA3AFB4" Priority="0" />
+  <Pack Name="EVENTS/VAISAKHI_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/vaisakhi_25_11-01-48_16_04_2025_b42df7193215df1631ae702d78d045a9_3368960300_ios" Version="2.46.0" Attach="1" Hash="8708352D7C6ED6A01F9D112A31CE9BCD" Priority="0" />
+  <Pack Name="EVENTS/HW26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/hw26_10-47-31_03_11_2026_099fc1cbd6614e00cf796bedac30fbaf_1007611900_ios" Version="2.46.0" Attach="1" Hash="69D9F0CE150E2740F6F934D808FE5CDB" Priority="0" />
+  <Pack Name="EVENTS/NEKKI_FEST_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/nekki_fest_26_18-34-03_27_10_2026_c36b117b792889bbaf794d9a1e11fe56_2867710138_ios" Version="2.46.0" Attach="1" Hash="679D45695B149D33AAA7369A75851B77" Priority="0" />
+  <Pack Name="VERSIONAL_CONFIGS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/versional_configs_15-43-42_28_10_2026_66b173bf9220b211a3e4ce0cce13ca35_2191783234_ios" Version="2.46.0" Attach="1" Hash="50E7FE6CB4E151A21E4C895695F6E538" Priority="0" />
+  <Pack Name="FUNGUS_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/fungus_set_15-03-19_07_02_2025_c864d5097afdf64a5539475a7d800ec0_1285846678_ios" Version="2.46.0" Attach="1" Hash="66FE7069C1D8B8FDCAF5FE30BD135C8B" Priority="0" />
+  <Pack Name="VOLCANO_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/volcano_set_15-03-19_07_02_2025_d95b9c7d45cf3a13b491dfb8c5f91575_487766641_ios" Version="2.46.0" Attach="1" Hash="16AFD2AE4FD339CDE7A8687DB30BFB3E" Priority="0" />
+  <Pack Name="SETS/KARCER_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/karcer_set_19-45-29_30_05_2025_0c8f08feb4f8bf932f024f5973ee4756_641725159_ios" Version="2.46.0" Attach="1" Hash="DBF99DC932B7905F4D81C77F0F7A726B" Priority="0" />
+  <Pack Name="EVENT_FALL_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_24_15-03-19_07_02_2025_d03a9ecc1cec8a0e19fa9c3220bafac9_3187186571_ios" Version="2.46.0" Attach="1" Hash="5019B15055F7D7C3B6140FA100B3D2D9" Priority="0" />
+  <Pack Name="EVENT_HW_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_hw_24_15-03-19_07_02_2025_d09c61583f8174738fea53b9a8d5ac38_1819124510_ios" Version="2.46.0" Attach="1" Hash="D3C7A076ED3D096E08DB260F7C2173CE" Priority="0" />
+  <Pack Name="ASCENSION" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ascension_19-24-21_26_03_2025_0555410ca81502611ccf92f5f2e5068a_4176431871_ios" Version="2.46.0" Attach="1" Hash="94E3B8304F0269BE1856D0F83D2B68A9" Priority="0" />
+  <Pack Name="AZTEC_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/aztec_24_15-03-19_07_02_2025_1d0222deb887ca0d6a4c5c91302a5a34_3122605617_ios" Version="2.46.0" Attach="1" Hash="C6966BCF96FBA7ADB987BCF30195F697" Priority="0" />
+  <Pack Name="NEW_YEAR_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/new_year_25_20-40-25_21_02_2025_46f3aee5c39fc236da2579a13c15b9a1_3144082424_ios" Version="2.46.0" Attach="1" Hash="2BE748AA111C08DEE845DC1DB2DAA0B2" Priority="0" />
+  <Pack Name="FOREST_DEMON_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/forest_demon_25_15-03-19_07_02_2025_33447ff4c8a834e2fe2a3e81f9bb8004_3447091490_ios" Version="2.46.0" Attach="1" Hash="C623165914687A0605A0115060868EC2" Priority="0" />
+  <Pack Name="OFFERS/WEEKLYOFFER12" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weeklyoffer12_18-49-55_28_02_2025_11da9cb5c2fa566079920607662e41d9_3475651495_ios" Versi"https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_26_ranged_roguesfortune_13-57-58_15_05_2025_7ae9284db37ff6f3d29a2a2bbf624faa_2118213640_ios" Version="2.46.0" Attach="1" Hash="F0458A6B6131702B8C1DDEAABDE9EBF9" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_27_NUNCHAKU_DANCEOFSTATIC" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_27_nunchaku_danceofstatic_13-57-58_15_05_2025_4be7059065afda6e9f78af3e1906a2dc_2978566300_ios" Version="2.46.0" Attach="1" Hash="B57E0021E45CCF5690CF44973825E070" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_28_MAGIC_GAZEOFTHEVOID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_28_magic_gazeofthevoid_13-57-58_15_05_2025_a9f94d35535dd44a7c5b8037e276cdef_2148122153_ios" Version="2.46.0" Attach="1" Hash="ED2C3102F5823014A73F105D1FF5CE7D" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_29_ranged_needles_nemesis_stinger_14-39-36_06_06_2025_86033455b613ac532787a4d90aef617c_2789138324_ios" Version="2.46.0" Attach="1" Hash="7306F7BE7E1F6978E856772B2FCFFBAE" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_30_weapon_kusarigama_silent_moon_14-39-36_06_06_2025_f30a3c82bfa6b4146ab8407239931e81_1765508130_ios" Version="2.46.0" Attach="1" Hash="C97E8F392EED426C193E9704AA3B7574" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_31_magic_bomb_seed_of_creation_14-39-36_06_06_2025_9b92e6136403a39b759054c468d7ffe5_2484611210_ios" Version="2.46.0" Attach="1" Hash="9494D809D1D6BE66B5DB3A92863AE6BC" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_32_weapon_orders_oath_25_12-19-23_27_06_2025_72d54da7e0ec14a97cea1b112cf3559f_256565862_ios" Version="2.46.0" Attach="1" Hash="F5F1C36E32B2C0180E9FDDC6269812CD" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_33_helm_veil_of_dawn_25_12-19-23_27_06_2025_b6188abd50947bc091b105049b26fbd4_2806616372_ios" Version="2.46.0" Attach="1" Hash="E193011662CC5FE5BCEC3ED0DF8C5403" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_34_ranged_winds_harmony_25_12-19-23_27_06_2025_4b540e86b62fd684e020d467074e877f_1169839354_ios" Version="2.46.0" Attach="1" Hash="D69AFFC17C64AEFE386EE5426452F24F" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_35_weapon_seers_staff_25_17-22-43_16_07_2025_072e5b67ed3790f760bb65c6fa0154e3_3302925066_ios" Version="2.46.0" Attach="1" Hash="29FBC9C19AAE90D74D09033F5BE3749E" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_36_magic_song_of_the_tide_25_17-22-43_16_07_2025_dca4f77fc2872f777e3b5b720be6967f_3818117703_ios" Version="2.46.0" Attach="1" Hash="FBD120BDAF813C7EAF93ED99AEF3EAFD" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_37_ranged_path_of_heresy_25_17-22-43_16_07_2025_044b4a371a7ed8dd7a914b6735b9f950_3868088473_ios" Version="2.46.0" Attach="1" Hash="8D673DDF6F81296EDD3A5B6537A98DCE" Priority="0" />
+  <Pack Name="OFFERS/SUMMER_FEST_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_01-19-27_31_07_2025_84e0d79d9224c572084e8d16e7b20a81_397481497_ios" Version="2.46.0" Attach="1" Hash="7E9AAE79A4994C95F54934F767CE66E1" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_38_sparks_of_prometheus_25_16-47-10_11_09_2025_6d059c424494f0d1cf4b51af2e7059af_3183945105_ios" Version="2.46.0" Attach="1" Hash="3F7DF20B4F5BAA63B5754ED87CD78162" Priority="0" />
+  <Pack Name="OFFERS/GIFT_12_YEARS_SF2_NAGINATA" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/gift_12_years_sf2_naginata_19-22-55_19_09_2025_1c54334eacb9aff40f42ee56240e37d4_1312441951_ios" Version="2.46.0" Attach="1" Hash="311017BDBBAA26EB97CF5F91F7C1B8C2" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_39_shadow_lord_25_18-20-51_14_10_2025_c097ecc658f6a6d105f80a5b1582edcf_2021939842_ios" Version="2.46.0" Attach="1" Hash="3DB5D5664A4C4972B06819721EFBEA78" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_40_OLD_KING_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_40_old_king_25_14-30-59_28_10_2025_5ec7474816ac912b801c2b2d0db87dd2_1850418541_ios" Version="2.46.0" Attach="1" Hash="F153B8E5AF315253B5641342E2639BBE" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-18-10_19_12_2025_c2d4333d79852b8d95a93fb477874e83_364129234_ios" Version="2.46.0" Attach="1" Hash="DF0E0E94604089B81DE93E171E5E5FEC" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_42_claw_of_wisdom_26_16-40-40_19_02_2026_91709d18172b9b23670c9ecf68715d89_2460780582_ios" Version="2.46.0" Attach="1" Hash="7D1A31DB438D550F545D21121B683165" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_43_gentle_storm_26_11-49-07_07_04_2026_5112630a6b88f5403e4cf88598e2e963_310862231_ios" Version="2.46.0" Attach="1" Hash="EF81DFFF97D2FBD18133346804E694DA" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_44_blades_of_faith_26_11-49-07_07_04_2026_b66bf44b27de7130d927168c251513d1_1751681387_ios" Version="2.46.0" Attach="1" Hash="A6063B3148235C4F52FCFD9A8BE3D2E5" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_45_crown_of_despair_26_11-49-07_07_04_2026_cd7559492a47553b0eacf3bd273b1b44_901154371_ios" Version="2.46.0" Attach="1" Hash="037810C1B5ECF3CCDDB8FA2EFAD2E66E" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_46_depth_of_holiness_26_11-49-07_07_04_2026_79a34dcf3c963a043d33ea07ab79a573_175870888_ios" Version="2.46.0" Attach="1" Hash="7D9F93F24BAFC2F8D90E8A66097C51A3" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_47_heart_of_lily_26_11-49-07_07_04_2026_f7c93baca940bfc7d7d3ce212b0b334f_953738218_ios" Version="2.46.0" Attach="1" Hash="DCA904765EAAF0F15495BB375754E4BA" Priority="0" />
+  <Pack Name="EVENTS/EVENTS_COMMON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/events_common_17-07-08_11_02_2026_3ee81f555e0fbd88a109780a9cdbb90e_724131757_ios" Version="2.46.0" Attach="1" Hash="339C6048772E9E5E9E2F34F4C09381D3" Priority="0" />
+  <Pack Name="EVENTS/RITUAL" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_17-22-49_01_04_2025_a85fec42771a138f8da0e7e5aabec5cb_3249029510_ios" Version="2.46.0" Attach="1" Hash="056E1E143473A62097D67D353C2248F4" Priority="0" />
+  <Pack Name="EVENTS/RITUAL_HUNGER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_hunger_19-04-25_03_08_2026_f14d38102ddcff67f3636cc0d117c77b_1968050048_ios" Version="2.46.0" Attach="1" Hash="1CE8E31D8FB8773D8B8CD1DC5D1E7410" Priority="0" />
+  <Pack Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_13-59-23_12_05_2026_cdc68910123339e86850979a65891931_3750909828_ios" Version="2.46.0" Attach="1" Hash="5CD575F55525ED73F3E6AB50B8BEFB98" Priority="0" />
+  <Pack Name="EVENTS/RITUAL_FUNGUS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_fungus_19-04-25_03_08_2026_7edbfc5102b616cb49eda49c566f74e6_1721757549_ios" Version="2.46.0" Attach="1" Hash="FD1746D88BFE4B5FB1641FE4B886D776" Priority="0" />
+  <Pack Name="EVENTS/AMERICAN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/american_25_18-05-03_25_06_2026_7630b4f08de363c57724146558cc1b5f_3953482659_ios" Version="2.46.0" Attach="1" Hash="0FA62E9A8D8B042BD6E74096F9E4EEF5" Priority="0" />
+  <Pack Name="EVENTS/AMERICAN_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/american_26_18-05-03_25_06_2026_2701585836b1d002ddd80579d2c3f3ae_2635491133_ios" Version="2.46.0" Attach="1" Hash="C49BC784297C8496699298DCCFE69929" Priority="0" />
+  <Pack Name="OFFERS/EVENT_FALL_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_24_13-55-04_31_08_2026_76ce4e768af6f53f61c958e844eb722a_1466992632_ios" Version="2.46.0" Attach="1" Hash="3A9E2020BBF09B01E329DBD0589AEBD4" Priority="0" />
+  <Pack Name="OFFERS/EVENT_FALL_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_26_14-17-24_03_09_2026_50735fc3a34fa5e3d20dfbf36684e4b7_635013867_ios" Version="2.46.0" Attach="1" Hash="CDFAD85C6E0F3C99679999939451F866" Priority="0" />
+  <Pack Name="OFFERS/MA_FEST_26_ITEMS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ma_fest_26_items_19-30-53_18_09_2026_983d59508ea14bb8ad5862593164f96e_1406738088_ios" Version="2.46.0" Attach="1" Hash="E11044D5559FF73BB79CC0F3A69D08F5" Priority="0" />
+</Packs>
+09:47:23.044 overlay shown
