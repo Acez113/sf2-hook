@@ -1,25 +1,11 @@
-=== SF2Mod v3.0 session 20261111-070958 ===
-09:09:59.017 dylib v3.0 loaded
-09:09:59.017 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:09:59.788 config: 1 redir
-09:09:59.790 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:10:02.058 overlay shown
-09:10:09.605 manual reload
-09:10:13.792 config: 1 redir
-09:10:13.792 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:10:14.137 manual reload
-09:10:15.696 config: 1 redir
-09:10:15.696 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:10:50.155 REDIRECT fd=49 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:10:50.191 REDIRECT fd=49 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:10:50.191 REDIRECT fd=49 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:12:51.607 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:12:51.627 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:12:51.627 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:12:52.366 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:12:52.367 REDIRECT fd=41 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:14:17.473 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:14:17.487 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:14:17.487 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:14:19.220 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
-09:14:19.220 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/03FC7823-D77E-4BE4-9B3C-F230C6F7BD08/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/E1D33A52-6100-41A1-8B62-0A0B5B8CD94C/ShadowFight2.app/configs_hacked.bin
+=== SF2Mod v3.0 session 20261111-071548 ===
+09:15:48.495 dylib v3.0 loaded
+09:15:48.496 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/8F2A4377-B93A-49FA-8EE7-4BB54884C24C/ShadowFight2.app/configs_hacked.bin
+09:15:49.501 config: 1 redir
+09:15:49.502 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:15:50.166 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/09210D3A-DB92-46E5-A579-CF5F900D565E/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/8F2A4377-B93A-49FA-8EE7-4BB54884C24C/ShadowFight2.app/configs_hacked.bin
+09:15:51.285 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/09210D3A-DB92-46E5-A579-CF5F900D565E/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/8F2A4377-B93A-49FA-8EE7-4BB54884C24C/ShadowFight2.app/configs_hacked.bin
+09:15:51.652 overlay shown
+09:15:59.643 manual reload
+09:15:59.731 config: 1 redir
+09:15:59.733 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
