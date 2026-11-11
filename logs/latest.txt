@@ -3229,3 +3229,4 @@ on="2.46.0" Attach="1" Hash="577D1420E4B4343EA09CC724D7CE1CD0" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_25_RITUAL_KATANA_WEAPON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_25_ritual_katana_weapon_11-12-22_24_04_2025_cd7df05632a78c917ee481ccbba6ae93_2984460987_ios" Version="2.46.0" Attach="1" Hash="70BC5374D376A2C4DEDC6F517A38ADD0" Priority="0" />
   <Pack Name="OFFERS/WEEKLY_OFFER_26_RANGED_ROGUESFORTUNE" Url=
 09:44:01.187 overlay shown
+09:44:04.725 manual flush
