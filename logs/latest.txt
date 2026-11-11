@@ -1,6 +1,3 @@
-=== SF2Mod ACE v5.0 session 20261111-080551 ===
-10:05:51.473 ACE v5.0 loaded. selected=all_moves
-10:05:54.635 ACE bubble shown
-10:06:20.536 selected: full
-10:06:48.629 REDIRECT fd=51 orig=/var/mobile/Containers/Data/Application/78C1440A-BF32-4CFE-9264-C9385CA2704A/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/F7D26105-8563-418A-8D6C-D1A2C8BD3F9D/ShadowFight2.app/VERSIONAL_CONFIGS_full.bin
-10:06:48.670 REDIRECT fd=51 orig=/var/mobile/Containers/Data/Application/78C1440A-BF32-4CFE-9264-C9385CA2704A/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/F7D26105-8563-418A-8D6C-D1A2C8BD3F9D/ShadowFight2.app/VERSIONAL_CONFIGS_full.bin
+=== SF2Mod ACE v6.0 session 20261111-081316 ===
+10:13:16.546 ACE v6.0 runtime-patch loaded
+10:13:19.639 ACE bubble shown
