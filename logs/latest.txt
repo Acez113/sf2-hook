@@ -2,3 +2,5 @@
 10:48:30.355 ACE v6.3 runtime-patch loaded
 10:48:30.361 prepopulate: copied 0, skipped 95 (already on disk)
 10:48:33.378 ACE bubble shown
+10:48:53.266 apply_patch 'Thruster MidFrames' starting (find len 58)
+10:49:06.238 apply_patch 'Skeleton Lock' starting (find len 43)
