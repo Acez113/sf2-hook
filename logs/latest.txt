@@ -5,3 +5,5 @@
 02:20:52.349 overlay shown
 02:20:55.826 manual reload
 02:20:56.653 config: 1 redir
+02:21:11.102 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
+02:21:11.136 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/6490FB1C-2992-4FB1-B5E4-80BF9CEEC0D7/ShadowFight2.app/configs_hacked.bin
