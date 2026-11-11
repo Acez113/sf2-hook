@@ -1,11 +1,7 @@
-=== SF2Mod v3.0 session 20261111-071548 ===
-09:15:48.495 dylib v3.0 loaded
-09:15:48.496 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/8F2A4377-B93A-49FA-8EE7-4BB54884C24C/ShadowFight2.app/configs_hacked.bin
-09:15:49.501 config: 1 redir
-09:15:49.502 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:15:50.166 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/09210D3A-DB92-46E5-A579-CF5F900D565E/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/8F2A4377-B93A-49FA-8EE7-4BB54884C24C/ShadowFight2.app/configs_hacked.bin
-09:15:51.285 REDIRECT fd=23 orig=/var/mobile/Containers/Data/Application/09210D3A-DB92-46E5-A579-CF5F900D565E/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/8F2A4377-B93A-49FA-8EE7-4BB54884C24C/ShadowFight2.app/configs_hacked.bin
-09:15:51.652 overlay shown
-09:15:59.643 manual reload
-09:15:59.731 config: 1 redir
-09:15:59.733 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+=== SF2Mod v3.0 session 20261111-072749 ===
+09:27:49.157 dylib v3.0 loaded
+09:27:49.157 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/82E097A7-2E2F-460C-90E7-788325E09CE4/ShadowFight2.app/configs_hacked.bin
+09:27:50.109 config: 1 redir
+09:27:50.111 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+09:27:50.449 PACKS-PATCH fd=38 url+hash swapped (MD5=C68ECA4BA894E5CFDD224A90E2D534B1)
+09:27:52.185 overlay shown
