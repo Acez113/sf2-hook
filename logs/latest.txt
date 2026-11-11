@@ -6,3 +6,4 @@
 22:26:10.055 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Documents/userdata (xml=YES, hash=YES)
 22:26:10.060 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Application Support/userdata (xml=YES, hash=YES)
 22:26:10.066 users.xml -> /var/mobile/Containers/Data/Application/167238AA-B14F-4884-8738-CDBDC83FC2C1/Library/Caches/userdata (xml=YES, hash=YES)
+22:26:14.270 ACE bubble shown
