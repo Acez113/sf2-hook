@@ -9,3 +9,5 @@
 08:19:50.103 config: 1 redir
 08:19:50.280 manual reload
 08:19:51.286 config: 1 redir
+08:20:42.199 manual reload
+08:20:43.222 config: 1 redir
