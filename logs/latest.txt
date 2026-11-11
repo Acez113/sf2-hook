@@ -4,3 +4,5 @@
 10:56:10.817 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/D38063F8-7204-4E96-A00C-82788E108E70/Library/Caches/gamedata/packs.xml (ok=NO)
 10:56:10.819 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/D38063F8-7204-4E96-A00C-82788E108E70/Library/Caches/gamedata/packs.xml.hash (ok=NO)
 10:56:16.174 ACE bubble shown
+10:56:33.284 apply_patch 'Thruster MidFrames' starting (find len 58)
+10:56:33.681 apply_patch 'Skeleton Lock' starting (find len 43)
