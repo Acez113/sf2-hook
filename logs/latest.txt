@@ -9,3 +9,5 @@
 08:46:48.369 config: 1 redir
 08:47:07.415 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
 08:47:13.229 redirect ready VERSIONAL_CONFIGS (6220394 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+08:47:14.467 manual reload
+08:47:15.374 config: 1 redir
