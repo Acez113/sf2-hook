@@ -31,3 +31,10 @@
 08:27:43.476 manual reload
 08:27:43.659 manual reload
 08:27:43.844 manual reload
+08:27:44.893 manual reload
+08:27:45.314 config: 1 redir
+08:27:45.995 config: 1 redir
+08:27:46.658 config: 1 redir
+08:27:46.660 config: 1 redir
+08:27:46.662 config: 1 redir
+08:27:47.000 config: 1 redir
