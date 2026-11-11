@@ -1,2 +1,4 @@
 === SF2Mod ACE v6.0 session 20261111-082131 ===
 10:21:31.207 ACE v6.0 runtime-patch loaded
+10:21:34.243 ACE bubble shown
+10:21:46.716 apply_patch 'Thruster MidFrames' starting (find len 58)
