@@ -6,3 +6,4 @@
 08:34:35.801 REDIRECT fd=37 orig=/var/mobile/Containers/Data/Application/63023BDC-BF28-4283-B6AD-F6C318B405EA/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/34620CC9-7DF7-43C5-956F-B468B456CE20/ShadowFight2.app/configs_hacked.bin
 08:34:36.202 overlay shown
 08:34:38.827 manual reload
+08:34:39.479 config: 1 redir
