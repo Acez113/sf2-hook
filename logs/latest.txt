@@ -1,12 +1,2174 @@
-=== SF2Mod v3.0 session 20261111-073159 ===
-09:31:59.171 dylib v3.0 loaded
-09:31:59.187 PREPOP VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/AFF7170D-1A68-41FC-9619-61E9029CB678/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS  ok=YES  err=-
-09:31:59.187 bundled redirect ready: VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/A4DDE560-0B5C-47C7-A5AD-DEB22BF46191/ShadowFight2.app/configs_hacked.bin
-09:31:59.879 config: 1 redir
-09:31:59.882 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:32:00.410 PACKS-PATCH fd=38 url+hash swapped (MD5=C68ECA4BA894E5CFDD224A90E2D534B1)
-09:32:02.217 overlay shown
-09:32:05.234 manual reload
-09:32:05.279 config: 1 redir
-09:32:05.280 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
-09:32:15.236 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/AFF7170D-1A68-41FC-9619-61E9029CB678/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /private/var/containers/Bundle/Application/A4DDE560-0B5C-47C7-A5AD-DEB22BF46191/ShadowFight2.app/configs_hacked.bin
+=== SF2Mod v4.0 OBSERVER session 20261111-073621 ===
+09:36:21.975 OBSERVER v4.0 loaded
+09:36:23.184 FILE Wtoù¿K¸Ë  (143360 B):
+0" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_XMAS14_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_XMAS14_SNOWBALLS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_XMAS15_CANES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_XMAS15_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REJUVENATION_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_XMAS15_HORNS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_DEFENSE_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_XMAS15_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_XMAS15_SNOWBALLS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_XMAS16_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_XMAS16_HORNS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_XMAS16_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_XMAS16_CANDY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_XMAS16_GLAIVE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_XMAS16_COOKIE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_XMAS16_ICEBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_NY18_MANTLE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_NY18_HAT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_CRITICAL_PROTECTION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_NY18_AXES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_NY18_MACE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_NY18_DONUT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_NY18_SNOWBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_ARMOR_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_HELM_HORNS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_HELM_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_WEAPON_CANDY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_WEAPON_GLAIVE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="1838" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_RANGED_COOKIE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_MAGIC_ICEBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_ARMOR_MANTLE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_HELM_HAT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_CRITICAL_PROTECTION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_WEAPON_AXES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_WEAPON_MACE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_RANGED_DONUT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY20_MAGIC_SNOWBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_STUN_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY21_ARMOR_CUIRASS" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="NY21_MAGIC_SNOW_CLOUD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_WEAKNESS_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY21_RANGED_SNOWRIKENS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY21_WEAPON_ICEKNUCKLES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="1837" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY21_HELM_BREAD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_CRITICAL_PROTECTION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="NY21_HELM_ICED" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_VAL20_MANTLE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="1896" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_VAL20_WINGS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_VAL20_SAI" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_MAGIC_DAMAGE_RECHARGE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_VAL20_TRIDENT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_VAL20_FANS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_VAL20_AXE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_CHNY20_HOODIE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_CHNY20_PANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_MAGIC_PAIN_RECHARGE_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_CHNY20_PANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_CHNY20_STAFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_CHNY20_TRADITIONAL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_CHNY20_TRADITIONAL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_CHNY20_TRADITIONAL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_CHNY21_BULL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_CHNY21_BULL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_CHNY21_FAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_CHNY21_JIAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_IND21_TWILIGHT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_IND21_HOODIE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_IND21_BLOOD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_IND21_TURBAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REJUVENATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_IND21_KERIS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_IND21_GLAIVEBOW" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_IND21_KUNAI" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_IND21_CHAKRAM" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_AE21_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_AE21_TOMAHAWK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_AE21_WARRIOR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_MAGIC_PAIN_RECHARGE_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_AE21_ROACH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_AE21_SPIRIT_PILLAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_SUMMER21_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_SUMMER21_LEGIONER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_MAGIC_PAIN_RECHARGE_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_SUMMER21_SANTA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_RETURN_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_SUMMER21_SWORD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_SUMMER21_TRIDENT" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_SUMMER21_ANCIENT_CHAKRAM" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_NUNCHAKU" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_NAGINATA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_KATANA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_WANDERER_STAFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_WEAKNESS_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_HEAVY_KUSARIGAMA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_DADAO_JANISSARY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_STRANGER_KNUCKLES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_LYNX_CLAWS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_HERMIT_SWORDS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BUTCHER_KNIVES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_WASP_NAGINATA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_WIDOW_FANS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_SHOGUN_KATANA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_C2_Z2_MONK_KATAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_MONK_SET_WHIRL" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_C2_Z2_MONK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="1876" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_C2_Z2_MONK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
+              <Set Aspect="1862" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_C2_Z2_MONK_SHURIKEN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_MONK_SET_WHIRL" />
+            <Perk Name="PERK_ITEM_SPECIAL_BLOODRAGE_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_C2_Z2_MONK_ROOT_STUN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_MONK_SET_WHIRL" />
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_C2_Z3_SENTINEL_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_C2_Z3_SENTINEL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_C2_Z3_SENTINEL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_C2_Z3_SENTINEL_SHURIKEN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_C2_Z3_SENTINEL_DRAGON" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_FINAL_CHAOS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SENTINEL_SET_SUPER_RETURN" />
+            <Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_HEAD_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_FINAL_HARMONY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_MONK_SET_WHIRL" />
+            <Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="Sphere1_Name" Equipped="0" Count="1" UpgradeLevel="1400" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="WEAPON_C4_Z1_WARLOCK_STAFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_WARLOCK_SET_CURSE" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_C4_Z1_WARLOCK" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_WARLOCK_SET_CURSE" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_C4_Z1_WARLOCK" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
+              <Set Aspect="1843" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_C4_Z1_WARLOCK_SHURIKEN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_WARLOCK_SET_CURSE" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_C4_Z1_WARLOCK_DARK_WAVE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_WARLOCK_SET_CURSE" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BP_S1_GUARDIAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_BP_S1_GUARDIAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="1850" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_BP_S1_GUARDIAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BP_S1_GUARDIAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_BP_S1_GUARDIAN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUARDIAN_SET_PROTECTION" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_CHNY22_SPEAR" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_CHNY22_WEIGHED_KUNAI" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_CHNY22_WATERBALL" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_WEAKNESS_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BP_S2_SKANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SKANDA_SET_KARMA" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_BP_S2_SKANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SKANDA_SET_KARMA" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_BP_S2_SKANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SKANDA_SET_KARMA" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BP_S2_SKANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SKANDA_SET_KARMA" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_BP_S2_SKANDA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_SKANDA_SET_KARMA" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_PERNACH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_MAGIC_DAMAGE_RECHARGE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_STUFF" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_MINI_EVENT_KNIFE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_INTOXICATION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BOAT_FESTIVAL_SUPER_SHURIKEN" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_BP_S3_WIND_MAKER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_GUST_SET_WIND_MAKER" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BP_S4_SCRIPTWRITER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_BP_S4_SCRIPTWRITER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_BP_S4_SCRIPTWRITER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BP_S4_SCRIPTWRITER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_BP_S4_SCRIPTWRITER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_DIRECTOR_SET_PLOT_TWIST" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_LYNX_CLAWS_PAID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_BP_S5_TIME_SHIFTER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_C1_Z4_NEO_WANDERER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ARCANE_MARTIAL_ART_SET_NEO_WANDERER" />
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_C1_Z4_NEO_WANDERER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
+              <Set Aspect="1842" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_C1_Z4_NEO_WANDERER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ARCANE_MARTIAL_ART_SET_NEO_WANDERER" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_C1_Z4_NEO_WANDERER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ARCANE_MARTIAL_ART_SET_NEO_WANDERER" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_C1_Z4_NEO_WANDERER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ARCANE_MARTIAL_ART_SET_NEO_WANDERER" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_SWORD_NY23_PAID_OFFER" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_ANNIVERSARY_10TH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_ANNIVERSARY_10TH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_ANNIVERSARY_10TH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_ANNIVERSARY_10TH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_ANNIVERSARY_10TH" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1856" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_SHADOW_DAISHO" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_LIFESTEAL_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_SUN_CHAKRAM" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_NY2024_MUSKET" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_NY2024_SHAKO" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_NY2024_VIKING_CLOTHES" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_NY2024_AXE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_NY2024_AMULET" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_MAGIC">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_CYBER_DRAGON_KUSARIGAMA" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_CYBER_DRAGON_HEAD" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_CYBER_DRAGON_RAY" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_HERMIT_SWORDS_PAID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_ENFEEBLE_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_BUTCHER_KNIVES_PAID" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_COMPOSITE_SPEAR" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_MONK_SET_WHIRL" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="2000" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_CIRCULAR_SAW" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_RANGED">
+              <Set Aspect="2000" />
+            </Perk>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="MAGIC_SAWMILL" Equipped="1" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="5240" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_MAGIC">
+              <Set Aspect="1862" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="ARMOR_INDIA_24" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_ITEM_SPECIAL_SHIELDING_ARMOR">
+              <Set Aspect="1892" />
+            </Perk>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+          </Enchantments>
+        </Item>
+        <Item Name="WEAPON_RAID_FUNGUS_SET" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_CORDYCEPS_FUNGUS_SET" />
+          </Enchantments>
+        </Item>
+        <Item Name="RaidBeginnerPack" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="drop_name_sphere" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="WEAPON_POWER_FISTS" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_FRENZY_WEAPON">
+              <Set Aspect="1876" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="PotionSpikes" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+        <Item Name="RANGED_KARCER_HUNGER_SET" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_KARCER_HUNGER_SET" />
+          </Enchantments>
+        </Item>
+        <Item Name="RANGED_SUPER_MINE" Equipped="0" Count="1" UpgradeLevel="5240" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_TIME_SHIFT_SET_TIME_SHIFTER" />
+            <Perk Name="PERK_ITEM_SPECIAL_TIME_BOMB_RANGED">
+              <Set Aspect="1863" />
+            </Perk>
+          </Enchantments>
+        </Item>
+        <Item Name="HELM_RAID_KARCER_SET" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="5200" AcquireType="Upgrade">
+          <Enchantments>
+            <Perk Name="PERK_KARCER_HUNGER_SET" />
+          </Enchantments>
+        </Item>
+      </Items>
+      <Battles>
+        <Battle Name="ZONE_1|BOSS_LYNX_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_1|Duel_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_1|Survival_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_1|Tournament_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_2|BOSS_HERMIT_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_2|Duel_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_2|Survival_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_2|Challenge_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_2|Tournament_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_3|BOSS_BUTCHER_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_3|Duel_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_3|Survival_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_3|Challenge_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_3|Tournament_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_4|BOSS_WASP_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_4|Duel_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_4|Survival_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_4|Challenge_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_4|Tournament_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_5|BOSS_HUNTRESS_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_5|Duel_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_5|Survival_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_5|Challenge_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_5|Tournament_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_6|BOSS_SAMURAI_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_6|Duel_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_6|Survival_INTERMISSION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_6|Challenge_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_6|Tournament_INTERMISSION|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_2|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1740330808" RandomGroupSeed="-1740330685" ReplayCount="0" />
+        <Battle Name="ZONE_3|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1740328972" RandomGroupSeed="-1740328849" ReplayCount="0" />
+        <Battle Name="ZONE_4|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1740327096" RandomGroupSeed="-1740326973" ReplayCount="0" />
+        <Battle Name="ZONE_5|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1740325846" RandomGroupSeed="-1740325723" ReplayCount="0" />
+        <Battle Name="ZONE_6|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1740323070" RandomGroupSeed="-1740322947" ReplayCount="0" />
+        <Battle Name="ZONE_1|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1740332538" RandomGroupSeed="-1740332415" ReplayCount="0" />
+        <Battle Name="ZONE_6|FINAL_BATTLE" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_6|FINAL_BATTLE_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="6" />
+        <Battle Name="ZONE_2|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1736947610" RandomGroupSeed="-1736947487" ReplayCount="0" />
+        <Battle Name="ZONE_3|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1736945914" RandomGroupSeed="-1736945791" ReplayCount="0" />
+        <Battle Name="ZONE_4|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1736944025" RandomGroupSeed="-1736943902" ReplayCount="0" />
+        <Battle Name="ZONE_5|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1736942705" RandomGroupSeed="-1736942582" ReplayCount="0" />
+        <Battle Name="ZONE_6|Challenge_ECLIPSEMODE|" Locked="0" Hidden="0" RandomRuleSeed="-1736939573" RandomGroupSeed="-1736939450" ReplayCount="0" />
+        <Battle Name="ZONE_1|BOSS_LYNX_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="5" />
+        <Battle Name="ZONE_2|BOSS_HERMIT_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_3|BOSS_BUTCHER_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_4|BOSS_WASP_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_5|BOSS_HUNTRESS_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="1" />
+        <Battle Name="ZONE_6|BOSS_SAMURAI_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_7|MINIBOSS_SHROUD|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_7|Tournament|" Locked="0" Hidden="1" />
+        <Battle Name="ZONE_7|Survival|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_7|MINIBOSS_HYPERION|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_7|CLIFFHANGER_STONE_FOREST|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_7|Challenge|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_7|Tournament_ECLIPSEMODE|" Locked="0" Hidden="1" RandomRuleSeed="-1691925571" RandomGroupSeed="-1691925448" />
+        <Battle Name="ZONE_7|MINIBOSS_ANCIENT|" Locked="0" Hidden="1" />
+        <Battle Name="Punchbag|Tournament_ECLIPSEMODE|" Locked="0" Hidden="0" />
+        <Battle Name="ZONE_7|C3_Survival|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_7|C3_Duel|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_7|C3_BOSS_TITAN|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_7|C3_Challenge|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_7|C3_Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID|RAIDS|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_3|BOSS_BUTCHER|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_3|Tournament|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_3|Duel|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_3|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_3|Challenge|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_2|BOSS_HERMIT|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Tournament|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_2|Duel|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_2|Challenge|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_5|BOSS_HUNTRESS|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_5|Tournament|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_5|Duel|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_5|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_5|Challenge|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_6|BOSS_SAMURAI|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_6|Tournament|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_6|Duel|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_6|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_6|Challenge|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_4|BOSS_WASP|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_4|Tournament|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_4|Duel|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_4|Survival|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_4|Challenge|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_7|C3_BOSS_TITAN_ECLIPSEMODE|" Locked="0" Hidden="0" ReplayCount="2" />
+        <Battle Name="ZONE_RAID3|BOSS_11|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID3|BOSS_12|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID3|BOSS_13|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID3|BOSS_14|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID2|BOSS_8|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID2|BOSS_9|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID2|BOSS_10|" Locked="0" Hidden="0" ReplayCount="0" />
+        <Battle Name="ZONE_RAID|Ascension_1|" Locked="0" Hidden="0" ReplayCount="0" EndTime="0" />
+        <Battle Name="ZONE_RAID|Ascension_2|" Locked="0" Hidden="1" ReplayCount="0" EndTime="0" />
+        <Battle Name="ZONE_RAID|Ascension_3|" Locked="0" Hidden="1" ReplayCount="0" EndTime="0" />
+        <Battle Name="ZONE_RAID|Ascension_4|" Locked="0" Hidden="1" ReplayCount="0" EndTime="0" />
+        <Battle Name="ZONE_RAID|Ascension_5|" Locked="0" Hidden="1" ReplayCount="0" EndTime="0" />
+        <Battle Name="ZONE_RAID|RAIDBOSS_LAMB|" Locked="0" Hidden="0" ReplayCount="0" EndTime="1786003200" />
+        <Battle Name="ZONE_RAID|BOSS_BISON_25|" Locked="0" Hidden="0" ReplayCount="0" EndTime="1783548000" />
+        <Battle Name="ZONE_RAID|BOSS_HW26_STORY_MORGANA|" Locked="0" Hidden="0" ReplayCount="0" EndTime="1794211200" />
+        <Battle Name="ZONE_RAID|BOSS_HW26_STORY_COUNTESS|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_RAID|BOSS_MORGANA|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_RAID|BOSS_COUNTESS|" Locked="0" Hidden="1" ReplayCount="0" />
+        <Battle Name="ZONE_RAID|BOSS_BANSHEE|" Locked="0" Hidden="1" ReplayCount="0" />
+      </Battles>
+      <Sounds>
+        <Sound Value="1" Mute="0" />
+        <Music Value="1" Mute="0" />
+      </Sounds>
+      <SessionSettings>
+        <VideoAdCounterCurrent Value="0" />
+        <VideoAdTimer Value="0" />
+        <VideoAdCounter Value="10" />
+        <ShowDojoDisciple Value="1" />
+        <QualityCondition Value="HIGH" />
+        <ControllerScale Value="False" />
+        <Disciple Value="1" />
+        <AdvertRate Value="100" />
+        <LocationResolution Value="HIGH" />
+        <ResetAscensionOnStart Value="" />
+        <AdvertRaidsRate Value="75" />
+        <AdvertBannersRaidsRate Value="0" />
+      </SessionSettings>
+      <Fights>
+        <Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1618388990" RandomizeTimeLeft="1794378003" RandomGroupSeed="1486997248" RandomRuleSeed="1193750400" Level="44" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1618388990" RandomizeTimeLeft="1794378003" RandomGroupSeed="1895714176" RandomRuleSeed="866776128" Level="44" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1618388990" RandomizeTimeLeft="1794378003" RandomGroupSeed="1705681664" RandomRuleSeed="449757376" Level="44" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1618388990" RandomizeTimeLeft="1794378003" RandomGroupSeed="559102336" RandomRuleSeed="362350976" Level="44" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1618388990" RandomizeTimeLeft="1794378003" RandomGroupSeed="305725600" RandomRuleSeed="522153856" Level="44" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1432919403" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398058498" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398058600" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398058761" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398058906" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398059005" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament|4" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1398059350" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398059569" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398059796" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398059901" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" eCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_4|BOSS_WASP|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398894243" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398120636" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398120812" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398120905" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398121088" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398208010" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Stranger|lvl26" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398121276" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398121478" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398208059" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398208141" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398208296" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|1" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398208392" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398294909" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|3" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1398295426" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398295536" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|5" CompletedCount="1" LossCount="1" StoryCount="0" CompletedTime="0" TimeLeft="1398383043" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|2" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398382266" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|3" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398382428" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398382643" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398382780" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398383293" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|7" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398383580" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|8" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398154331" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|9" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398154492" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398154577" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398154671" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398241203" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398241294" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398241392" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|10" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398241558" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|11" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398241847" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398242132" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|12" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398328674" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|4" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398328970" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398329120" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398329214" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|5" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398415942" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|13" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398416361" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|14" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398416434" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|15" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398416606" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|16" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398416806" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|17" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398503404" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|18" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398503549" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|19" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398503849" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398503928" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398504064" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398591246" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398591794" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|19" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398591984" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|20" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398592081" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|21" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398678643" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|22" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398678784" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|23" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398678913" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Tournament|24" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398679020" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|Challenge|24" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398679303" RandomizeTimeLeft="0" Level="0" EclipseCompletedCount="0" EclipseLossCount="0" />
+        <Fight ID="-1" IDS="ZONE_5|BOSS_HUNTRESS|6" CompletedCount="1" LossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1398679717" RandomizeTimeLeft="0" Level="0" Eclip="52" />
+        <Fight ID="-1" IDS="ZONE_1|BOSS_LYNX_ECLIPSEMODE|5" CompletedCount="6" LossCount="0" EclipseCompletedCount="6" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1610794911" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_1|BOSS_LYNX_ECLIPSEMODE|6" CompletedCount="5" LossCount="0" EclipseCompletedCount="5" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1794352273" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|Survival2|1" CompletedCount="11" LossCount="12" EclipseCompletedCount="5" EclipseLossCount="2" StoryCount="0" CompletedTime="0" TimeLeft="1432921101" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562621" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562621" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562621" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562622" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|7" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562622" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|8" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562622" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|9" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562623" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|10" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562623" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|11" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562623" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|12" CompletedCount="1" LossCount="1" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562624" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|13" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562624" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|14" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562624" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|15" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562625" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge|16" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425562625" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|MINIBOSS_ANCIENT|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1425561228" RandomizeTimeLeft="0" Level="50" />
+        <Fight ID="-1" IDS="ZONE_7|Challenge1_1|1" CompletedCount="1" LossCount="0" EclipseCompletedCount  <Fight ID="-1" IDS="ZONE_7|C3_Challenge|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1441448605" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Challenge|5" CompletedCount="1" LossCount="4" EclipseCompletedCount="1" EclipseLossCount="4" StoryCount="0" CompletedTime="0" TimeLeft="1441449088" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1441449275" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1441449656" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1441449836" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_RAID|BOSS_1|1" CompletedCount="100" LossCount="54" EclipseCompletedCount="57" EclipseLossCount="39" StoryCount="0" CompletedTime="0" TimeLeft="1794207484" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_RAID|BOSS_2|1" CompletedCount="71" LossCount="118" EclipseCompletedCount="45" EclipseLossCount="97" StoryCount="0" CompletedTime="0" TimeLeft="1770103129" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1466349796" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|5" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1466349889" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1466349977" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|7" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1466350068" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Tournament|8" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1466350167" RandomizeTimeLeft="0" Level="51" />
+        <Fight ID="-1" IDS="ZONE_6|BOSS_SAMURAI_ECLIPSEMODE|4" CompletedCount="1" LossCount="0" EclipseCompletedCount="2" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1598692473" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|Tournament_ECLIPSEMODE|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1578640505" RandomizeTimeLeft="0" Level="0" />
+        <Fight ID="-1" IDS="ZONE_7|C3_Challenge|6" CompletedCount="1" LossCount="0" EclipseCompletedCount="1" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1593169246" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN|1" CompletedCount="1" LossCount="1" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1584236418" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN|2" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1584240997" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN|3" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1584353730" RandomizeTimeLeft="0" Level="52" />
+        <Fight ID="-1" IDS="ZONE_7|C3_BOSS_TITAN|4" CompletedCount="1" Name="Zone6Stranger1Greetings" Value="1" />
+          <Variable Name="Zone6Stranger1OnShopLeave" Value="0" />
+          <Variable Name="Zone6Stranger1Challenge" Value="0" />
+          <Variable Name="Zone6Stranger1OnHold" Value="0" />
+          <Variable Name="Zone6Guard1Greetings" Value="1" />
+          <Variable Name="Zone6Guard2Greetings" Value="1" />
+          <Variable Name="Zone6Guard3Greetings" Value="1" />
+          <Variable Name="Zone6Guard4Greetings" Value="1" />
+          <Variable Name="ShogunGreetings" Value="1" />
+          <Variable Name="FinalBattleGreetings" Value="1" />
+          <Variable Name="lang_FirstLaunch_Shown" Value="1" />
+          <Variable Name="UpdateTo1'6'1'1Mark" Value="1" />
+          <Variable Name="Zone3ChallengeUnlock" Value="1" />
+          <Variable Name="Zone4ChallengeUnlock" Value="1" />
+          <Variable Name="Zone5ChallengeUnlock" Value="1" />
+          <Variable Name="Zone3DuelUnlock" Value="1" />
+          <Variable Name="Zone4DuelUnlock" Value="1" />
+          <Variable Name="Zone5DuelUnlock" Value="1" />
+          <Variable Name="UpdateTo1'6'1'2Mark" Value="1" />
+          <Variable Name="WorseArmorEquippedReminderFlag" Value="0" />
+          <Variable Name="WorseHelmEquippedReminderFlag" Value="0" />
+          <Variable Name="WorseWeaponEquippedReminderFlag" Value="1" />
+          <Variable Name="BestAcquiredArmorLevel" Value="5240" />
+          <Variable Name="BestAcquiredHelmLevel" Value="5240" />
+          <Variable Name="BestAcquiredWeaponLevel" Value="5240" />
+          <Variable Name="UpdateTo1'6'2'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'6'3'0Mark" Value="1" />
+          <Variable Name="WeaponRegister" Value="1" />
+          <Variable Name="Zone6ChallengeUnlock" Value="1" />
+          <Variable Name="Zone6DuelUnlock" Value="1" />
+          <Variable Name="UpdateTo1'6'4'0Mark" Value="1" />
+          <Variable Name="LowFPSWarningShown" Value="0" />
+          <Variable Name="UpgradeToLevelReminderShown" Value="0" />
+          <Variable Name="Avatar_Notification" Value="character_may_1_small" />
+          <Variable Name="Avatar_Assistant_1" Value="character_may_1" />
+          <Variable Name="Avatar_Assistant_2" Value="character_may_2" />
+          <Variable Name="Avatar_Assistant_3" Value="character_may_3" />
+          <Variable Name="Avatar_Assistant_4" Value="character_may_4" />
+          <Variable Name="Avatar_Assistant_5" Value="character_may_5" />
+          <Variable Name="Title_Assistant" Value="characterMay" />
+          <Variable Name="CurrentZone" Value="ZONE_6" />
+          <Variable Name="BestAcquiredRangedLevel" Value="5240" />
+          <Variable Name="BestAcquiredMagicLevel" Value="5240" />
+          <Variable Name="UpdateTo1'7'0'0Mark" Value="1" />
+          <Variable Name="FightAvgFPS" Value="2.62214e+20" />
+          <Variable Name="ImLynxGreetings" Value="1" />
+          <Variable Name="LevelUpProfileFlag" Value="0" />
+          <Variable Name="ImHermitGreetings" Value="1" />
+          <Variable Name="IMStranger1Greetings" Value="1" />
+          <Variable Name="IMStranger1OnShopLeave" Value="0" />
+          <Variable Name="IMStranger1Challenge" Value="0" />
+          <Variable Name="IMStranger1OnHold" Value="0" />
+          <Variable Name="ImButcherGreetings" Value="1" />
+          <Variable Name="ImWaspGreetings" Value="1" />
+          <Variable Name="ImWidowGreetings" Value="1" />
+          <Variable Name="ImShogunGreetings" Value="1" />
+          <Variable Name="UpdateTo1'7'0'1Mark1" Value="1" />
+          <Variable Name="UpdateTo1'7'1'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'7'1'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'7'2'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'7'3'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'3'0'0Wipe" Value="1" />
+          <Variable Name="UpdateTo1'6'0'0Wipe" Value="1" />
+          <Variable Name="UpdateTo1'7'0'1Wipe1" Value="1" />
+          <Variable Name="LowFpsWarningShown" Value="0" />
+          <Variable Name="promo_FirstPayment_Image" Value="pile_coins_platinum" />
+          <Variable Name="LastRealPurchaseTime" Value="1411199673" />
+          <Variable Name="promo_Multiplier" Value="1.3" />
+          <Variable Name="UpdateTo1'7'4'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'7'5'0Mark" Value="1" />
+          <Variable Name="OurAdRoll" Value="48" />
+          <Variable Name="PubAdRoll" Value="50" />
+          <Variable Name="LastBattleLost" Value="1" />
+          <Variable Name="ShopAdviceOnCurrentLevel" Value="1" />
+          <Variable Name="UpdateTo1'7'6'0Mark" Value="1" />
+          <Variable Name="AB_SuperItemsCost_RollResult" Value="72" />
+          <Variable Name="RestartNeeded" Value="0" />
+          <Variable Name="UpdateTo1'7'7'0Mark" Value="1" />
+          <Variable Name="AB_v2_RollResult" Value="8" />
+          <Variable Name="AB_InGroup_SuperItemsCost_v2" Value="1" />
+          <Variable Name="UpdateTo1'7'7'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'7'8'0Mark" Value="1" />
+          <Variable Name="EclipseModeEnabled" Value="2" />
+          <Variable Name="EclipseModeTutorialFight" Value="ZONE_-1|Survival_INTERMISSION|" />
+          <Variable Name="ForgeEnabled" Value="2" />
+          <Variable Name="BestArmor" Value="ARMOR_NAVIGATORS_COAT" />
+          <Variable Name="ABNewUserFlag" Value="1" />
+          <Variable Name="UpdateTo1'8'0'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'8'0'0Wipe" Value="1" />
+          <Variable Name="InEclipseMode" Value="1" />
+          <Variable Name="EclipseModeTutorialPart2" Value="1" />
+          <Variable Name="UpdateTo1'8'1'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'8'2'0Mark" Value="1" />
+          <Variable Name="promo_FirstPayment_Flag" Value="0" />
+          <Variable Name="TournamentsLeftReminderFlag" Value="1" />
+          <Variable Name="UpdateTo1'8'2'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'8'2'2Mark" Value="1" />
+          <Variable Name="UpdateTo1'8'2'3Mark" Value="1" />
+          <Variable Name="UpdateTo1'8'3'0Mark" Value="1" />
+          <Variable Name="Avatar_Assistant_6" Value="character_sensei" />
+          <Variable Name="Title_Assistant_2" Value="characterSensei" />
+          <Variable Name="UpdateTo1'9'0'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'1'0Mark" Value="1" />
+          <Variable Name="Shroud_Loss" Value="1" />
+          <Variable Name="Zone7_Denomination" Value="1" />
+          <Variable Name="PROMO_XMAS14_HELM_HORNS_FOCUS" Value="1" />
+          <Variable Name="PROMO_XMAS14_LOTTERY_FOCUS" Value="1" />
+          <Variable Name="PROMO_XMAS14_ARMOR_SANTA_FOCUS" Value="1" />
+          <Variable Name="PROMO_XMAS14_HELM_SANTA_FOCUS" Value="1" />
+          <Variable Name="PROMO_XMAS14_SNOWBALLS_FOCUS" Value="1" />
+          <Variable Name="XMAS14RND" Value="250" />
+          <Variable Name="XMAS14_LOTTERY_PURCHASED" Value="1" />
+          <Variable Name="promo_FirstPayment_Item" Value="Pile_Gems" />
+          <Variable Name="CountFreeSimpleRecipe" Value="0" />
+          <Variable Name="XMAS_GIFT" Value="1" />
+          <Variable Name="Zone7_Tournament_Enter" Value="1" />
+          <Variable Name="Zone7_Survival_Enter" Value="1" />
+          <Variable Name="Zone7_Cypher_Lecture1" Value="1" />
+          <Variable Name="XMAS14Stranger1Greetings" Value="1" />
+          <Variable Name="XMAS14Stranger1OnShopLeave" Value="0" />
+          <Variable Name="XMAS14Stranger1Challenge" Value="0" />
+          <Variable Name="XMAS14Stranger1OnHold" Value="0" />
+          <Variable Name="XMAS14StrangerResult" Value="1" />
+          <Variable Name="DifficultyAlert" Value="1" />
+          <Variable Name="Zone7CypherChallenges" Value="1" />
+          <Variable Name="Zone7CypherGreetings" Value="1" />
+          <Variable Name="Zone7HyperionGreetings" Value="1" />
+          <Variable Name="Zone7_Shroud_Ambush" Value="1" />
+          <Variable Name="EclipseModeReplayTutorialBattle" Value="ZONE_5|Challenge_ECLIPSEMODE" />
+          <Variable Name="EclipseModeReplayTutorial" Value="1" />
+          <Variable Name="ScriptsResumed" Value="0" />
+          <Variable Name="NoDiscountsControlGroupRoll" Value="6" />
+          <Variable Name="UpdateTo1'9'1'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'1'2Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'1'3Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'2'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'3'0Mark" Value="1" />
+          <Variable Name="SurvivalsInAZoneCount" Value="4" />
+          <Variable Name="ShowWeaponZone7" Value="1" />
+          <Variable Name="Zone7_Chapter2_Challenge_Enter" Value="1" />
+          <Variable Name="Title_Announcer" Value="characterCypher" />
+          <Variable Name="Avatar_Announcer" Value="character_cypher" />
+          <Variable Name="AnnouncerPrefix" Value="FULL_DESCRIPTION_" />
+          <Variable Name="ZONE_1_BOSS_weapon_drop" Value="1" />
+          <Variable Name="Zone7AncientChallenges" Value="1" />
+          <Variable Name="Zone7_Tournament3_beaten" Value="1" />
+          <Variable Name="Zone7_Tournament6_beaten" Value="1" />
+          <Variable Name="ForgeNotifiedSimple" Value="0" />
+          <Variable Name="WorseArmorEquippedCheckBox" Value="1" />
+          <Variable Name="WorseHelmEquippedCheckBox" Value="1" />
+          <Variable Name="Ambush1950Launch" Value="1" />
+          <Variable Name="UpdateTo1'9'5'0Mark" Value="1" />
+          <Variable Name="Ambush1950" Value="1" />
+          <Variable Name="UpdateTo1'9'6'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'7'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'8'0Mark" Value="1" />
+          <Variable Name="asc_tutorial_first_ticket" Value="1" />
+          <Variable Name="asc_new_zone_index" Value="2" />
+          <Variable Name="CurrentAscensionFight" Value="ZONE_2|Ascension|1" />
+          <Variable Name="CurrentAscensionZoneIntro" Value="ZONE_2" />
+          <Variable Name="Asc_free_pass_ZONE_2" Value="0" />
+          <Variable Name="AscensionRunning" Value="0" />
+          <Variable Name="AscDefeatPrase" Value="3" />
+          <Variable Name="asc_tutorial_second_ticket" Value="1" />
+          <Variable Name="PrizeSuperItem" Value="HELM_C2_Z2_MONK" />
+          <Variable Name="LotteryGivedItem" Value="0" />
+          <Variable Name="Asc_tutorial_set_item_shown" Value="1" />
+          <Variable Name="Asc_tutorial_duel_shown" Value="1" />
+          <Variable Name="ForgeNotifiedMedium" Value="0" />
+          <Variable Name="AscWinPrase" Value="2" />
+          <Variable Name="asc_test" Value="5" />
+          <Variable Name="SuperEnchantmentActive" Value="0" />
+          <Variable Name="UpdateTo1'9'8'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'9'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'10'0Mark" Value="1" />
+          <Variable Name="PacksSummarySize" Value="462.6" />
+          <Variable Name="RaidsEnabled" Value="1" />
+          <Variable Name="EasyFightCount" Value="0" />
+          <Variable Name="UpdateTo1'9'11'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'11'0Wipe" Value="1" />
+          <Variable Name="Zone7C3LastChallenge" Value="6" />
+          <Variable Name="ForgeNotifiedComplex" Value="0" />
+          <Variable Name="Zone7TournamentGreetings" Value="1" />
+          <Variable Name="UpdateTo1'9'11'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'12'0Mark" Value="1" />
+          <Variable Name="Ambush19130Launch" Value="0" />
+          <Variable Name="UpdateTo1'9'13'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'13'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'13'2Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'13'3Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'14'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'14'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'14'2Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'15'0Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'15'1Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'15'2Mark" Value="1" />
+          <Variable Name="UpdateTo1'9'16'0Mark" Value="1" />
+          <Variable Naalue="1" />
+          <Variable Name="AncientSaveFromLoss" Value="1" />
+          <Variable Name="DoNotShowDuelNotify" Value="1" />
+          <Variable Name="TitanLockedHidden" Value="1" />
+          <Variable Name="NY20StoryEnd" Value="1" />
+          <Variable Name="SuperEnchantmentActive_SENTINEL" Value="0" />
+          <Variable Name="RaidEnterWar" Value="1" />
+          <Variable Name="RaidWinAfterWar" Value="1" />
+          <Variable Name="RaidLossCounter" Value="0" />
+          <Variable Name="RaidEnterFatum" Value="1" />
+          <Variable Name="RaidWinAfterFatum" Value="1" />
+          <Variable Name="RaidWinAfterFatumStory" Value="1" />
+          <Variable Name="UpdateTo2'3'0'0Mark" Value="1" />
+          <Variable Name="RaidChatEULAAccepted" Value="1" />
+          <Variable Name="CNY20Announce" Value="1" />
+          <Variable Name="CNY20Story" Value="1" />
+          <Variable Name="ChangeToCNYDojo" Value="1" />
+          <Variable Name="CNY20ShopAdvNYChest" Value="1" />
+          <Variable Name="DailyTutorialComplete" Value="1" />
+          <Variable Name="RaidEnterHunger" Value="1" />
+          <Variable Name="RaidWinAfterHunger" Value="1" />
+          <Variable Name="RaidEnterHoaxen" Value="1" />
+          <Variable Name="RaidWinAfterHoaxen" Value="1" />
+          <Variable Name="FacebookReminded" Value="1" />
+          <Variable Name="RaidEnterArkhos" Value="1" />
+          <Variable Name="RaidWinAfterArkhos" Value="1" />
+          <Variable Name="CNY20StoryEnd" Value="1" />
+          <Variable Name="RaidWinAfterFear" Value="2" />
+          <Variable Name="RaidEnterFear" Value="1" />
+          <Variable Name="PortalRetreat_Passed" Value="1" />
+          <Variable Name="RaidEnterFungus" Value="1" />
+          <Variable Name="RaidLoseAfterFungus" Value="1" />
+          <Variable Name="RaidWinAfterFungus" Value="1" />
+          <Variable Name="RaidEnterVortex" Value="1" />
+          <Variable Name="RaidLoseAfterVortex" Value="1" />
+          <Variable Name="RaidWinAfterVortex" Value="1" />
+          <Variable Name="RaidLoseAfterFatum" Value="1" />
+          <Variable Name="RaidLoseAfterArkhos" Value="1" />
+          <Variable Name="RaidLoseAfterHoaxen" Value="1" />
+          <Variable Name="RaidLoseAfterHunger" Value="1" />
+          <Variable Name="RaidLoseAfterWar" Value="1" />
+          <Variable Name="PortalEnter_Passed" Value="1" />
+          <Variable Name="UpdateTo2'3'1'0Mark" Value="1" />
+          <Variable Name="UpdateTo2'4'0'0Mark" Value="1" />
+          <Variable Name="Val20Announce" Value="1" />
+          <Variable Name="RaidWinAfterVortexStory" Value="1" />
+          <Variable Name="RaidWinAfterFungusStory" Value="1" />
+          <Variable Name="UpdateTo2'4'1'0Mark" Value="1" />
+          <Variable Name="HumanAvatarSet" Value="1" />
+          <Variable Name="ShowVideoError" Value="0" />
+          <Variable Name="UpdateTo2'6'0'0Mark" Value="1" />
+          <Variable Name="UpdateTo2'6'1'0Mark" Value="1" />
+          <Variable Name="RaidLoseAfterFear" Value="1" />
+          <Variable Name="ZONE_5_BOSS_weapon_drop" Value="1" />
+          <Variable Name="UpdateTo2'7'0'0Mark" Value="1" />
+          <Variable Name="RaidHardBossTutorial" Value="1" />
+          <Variable Name="RaidHardMode" Value="0" />
+          <Variable Name="Raid_Shards_Tutorial_Started" Value="1" />
+          <Variable Name="Raid_Shards_Tutorial_Ended" Value="1" />
+          <Variable Name="CashbackNotification" Value="1" />
+          <Variable Name="UpdateTo2'7'1'0Mark" Value="1" />
+          <Variable Name="EventHW20Start" Value="1603713600" />
+          <Variable Name="EventHW20End" Value="1605085200" />
+          <Variable Name="UpdateTo2'8'0'0Mark" Value="1" />
+          <Variable Name="HW20_greetings" Value="1" />
+          <Variable Name="HW2020Gift" Value="1" />
+          <Variable Name="ChangeToHW20Dojo" Value="1" />
+          <Variable Name="RaidEnterWhisperHW20" Value="1" />
+          <Variable Name="HW20Announce" Value="1" />
+          <Variable Name="NY21EventEnd" Value="1610528400" />
+          <Variable Name="AutoShowRaidDailyWindow" Value="1" />
+          <Variable Name="UpdateTo2'9'0'0Mark" Value="1" />
+          <Variable Name="RaidTutorialCompleted" Value="1" />
+          <Variable Name="NY21Announce" Value="1" />
+          <Variable Name="NY21Story" Value="1" />
+          <Variable Name="ChangeToNY21Dojo" Value="1" />
+          <Variable Name="NY21ShopAdvNYChest" Value="1" />
+          <Variable Name="RaidEnterCandyNY21" Value="1" />
+          <Variable Name="RaidWinCandyNY21" Value="1" />
+          <Variable Name="FirstGemPurchaseBonus" Value="0" />
+          <Variable Name="NotEnoughCurrencyColor" Value="#9b1c07" />
+          <Variable Name="NY201fferOfferEnded" Value="1" />
+          <Variable Name="NY21Offer_CheckFight" Value="0" />
+          <Variable Name="NY21StoryEnd" Value="1" />
+          <Variable Name="EventCNY21End" Value="1614765600" />
+          <Variable Name="UpdateTo2'10'0'0Mark" Value="1" />
+          <Variable Name="CNY21Announce" Value="1" />
+          <Variable Name="CNY21Story" Value="1" />
+          <Variable Name="ChangeToCNYDojo21" Value="1" />
+          <Variable Name="CNY21ShopAdvNYChest" Value="1" />
+          <Variable Name="CNY21OfferOfferEnded" Value="1" />
+          <Variable Name="CNY21Offer_CheckFight" Value="0" />
+          <Variable Name="" Value="0" />
+          <Variable Name="UpdateTo2'10'1'0Mark" Value="1" />
+          <Variable Name="CNY21StoryEnd" Value="1" />
+          <Variable Name="BoosterPackDlgShown" Value="1" />
+          <Variable Name="BoosterPackError" Value="0" />
+          <Variable Name="UpdateTo2'11'0'0Mark" Value="1" />
+          <Variable Name="UpdateTo2'11'1'0Mark" Value="1" />
+          <Variable Name="EventIE21End" Value="1620734400" />
+          <Variable Name="UpdateTo2'12'0'0Mark" Value="1" />
+          <Variable Name="IE21Announce" Value="1" />
+          <Variable Name="IE21Story" Value="1" />
+          <Variable Name="ChangeToIE21Dojo" Value="1" />
+          <Variable Name="IE21ShopAdvNYChest" Value="1" />
+          <Variable Name="IE21OfferOfferEnded" Value="1" />
+          <Variable Name="IE21Offer_CheckFight" Value="0" />
+          <Variable Name="IE21StoryEnd" Value="1" />
+          <Variable Name="IE21Key_Announce" Value="1" />
+          <Variable Name="UpdateTo2'13'0'0Mark" Value="1" />
+          <Variable Name="EventAE21End" Value="1626091200" />
+          <Variable Name="UpdateTo2'14'0'0Mark" Value="1" />
+          <Variable Name="AE21Announce" Value="1" />
+          <Variable Name="NewRaidQuestsCount" Value="0" />
+          <Variable Name="AE21Story" Value="1" />
+          <Variable Name="ChangeToAE21Dojo" Value="1" />
+          <Variable Name="SurvivalRestartLimitPerFight" Value="1" />
+          <Variable Name="SurvivalRestartTimerValue" Value="5" />
+          <Variable Name="EventSummer21End" Value="1632387600" />
+          <Variable Name="JuniorLotteryTime" Value="86400" />
+          <Variable Name="Summer21Announce" Value="1" />
+          <Variable Name="RaidJuniorLottery" Value="1" />
+          <Variable Name="Summer21ShopAdvChest" Value="1" />
+          <Variable Name="Summer21Story" Value="1" />
+          <Variable Name="ChangeToSummer21Dojo" Value="1" />
+          <Variable Name="Summer21FightWin" Value="1" />
+          <Variable Name="OfferLossCounter" Value="0" />
+          <Variable Name="Summer21FightLose" Value="1" />
+          <Variable Name="Summer21Offer_CheckFight" Value="0" />
+          <Variable Name="Summer21Key_Announce" Value="1" />
+          <Variable Name="HW21EventEnd" Value="1636376400" />
+          <Variable Name="BP_HW21Announce" Value="1" />
+          <Variable Name="HW21Story" Value="1" />
+          <Variable Name="ChangeToHW21Dojo" Value="1" />
+          <Variable Name="BPName" Value="PuppeteerTheatre_260626" />
+          <Variable Name="BP_TutorialStart" Value="1" />
+          <Variable Name="BP_PremiumPack" Value="BPPremium" />
+          <Variable Name="BP_TutorialEnd" Value="1" />
+          <Variable Name="BP_HW21EnchantmentAnnounce" Value="1" />
+          <Variable Name="HW21FightWin" Value="1" />
+          <Variable Name="BP_PB_ViewedRewardsPos" Value="3" />
+          <Variable Name="SuperEnchantmentActive_WARLOCK_CURSE" Value="1" />
+          <Variable Name="BPStatSent" Value="1" />
+          <Variable Name="HW21StoryEnd" Value="1" />
+          <Variable Name="NY22EventEnd" Value="1641805200" />
+          <Variable Name="EventStart" Value="1793260800" />
+          <Variable Name="EventEnd" Value="1794211200" />
+          <Variable Name="СNY2024Offer_Start" Value="1706497200" />
+          <Variable Name="СNY2024Offer_End" Value="1708372800" />
+          <Variable Name="MidFebruaryOffer_Start_1" Value="1792645100" />
+          <Variable Name="MidFebruaryOffer_End_1" Value="1795921200" />
+          <Variable Name="MidFebruaryOffer_Start_2" Value="1902645100" />
+          <Variable Name="MidFebruaryOffer_End_2" Value="1792645100" />
+          <Variable Name="MidFebruary24Offer_Enabled" Value="0" />
+          <Variable Name="OfferDisenabled" Value="1" />
+          <Variable Name="EventIndex" Value="261029" />
+          <Variable Name="MiniEventStart" Value="1792386000" />
+          <Variable Name="MiniEventEnd" Value=" 1793253600" />
+          <Variable Name="MiniEventIndex" Value="261020" />
+          <Variable Name="DailyOffersEnabled" Value="1" />
+          <Variable Name="EventOfferCD" Value="86400" />
+          <Variable Name="EventOffer1_Start" Value="1737180000" />
+          <Variable Name="EventOffer1_End" Value="1748266400" />
+          <Variable Name="EventOffer2_Start" Value="1735376400" />
+          <Variable Name="EventOffer2_End" Value="1735498800" />
+          <Variable Name="EventOffer3_Start" Value="1737266400" />
+          <Variable Name="EventOffer3_End" Value="1737352800" />
+          <Variable Name="WeeklyOffer_8_Enabled" Value="0" />
+          <Variable Name="WeeklyOffer_9_Enabled" Value="0" />
+          <Variable Name="WeeklyOffer_10_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_10_Start" Value="1737126000" />
+          <Variable Name="WeeklyOffer_10_End" Value="1738584000" />
+          <Variable Name="WeeklyOffer_11_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_11_Start" Value="1738584000" />
+          <Variable Name="WeeklyOffer_11_End" Value="1739188800" />
+          <Variable Name="WeeklyOffer_12_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_12_Start" Value="1739192400" />
+          <Variable Name="WeeklyOffer_12_End" Value="1739793600" />
+          <Variable Name="WeeklyOffer_13_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_13_Start" Value="1739793600" />
+          <Variable Name="WeeklyOffer_13_End" Value="1740394800" />
+          <Variable Name="WeeklyOffer_14_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_14_Start" Value="1740139200" />
+          <Variable Name="WeeklyOffer_14_End" Value="1740959700" />
+          <Variable Name="WeeklyOffer_15_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_15_Start" Value="1740614400" />
+          <Variable Name="WeeklyOffer_15_End" Value="1741564500" />
+          <Variable Name="WeeklyOffer_16_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_16_Start" Value="1741132860" />
+          <Variable Name="WeeklyOffer_16_End" Value="1742169300" />
+          <Variable Name="Zone7TitanDefeated_assistant" Value="1" />
+          <Variable Name="RaidBeginnerPackEnded" Value="1" />
+          <Variable Name="Zone7TitanDefeated_NotInEclipseMode_StateReActivate" Value="1" />
+          <Variable Name="LastRaidFloor" Value="0" />
+          <Variable Name="Zone7TitanDefeated_NotInEclipseMode_State" Value="1" />
+          <Variable Name="GatekeeperGreetings" Value="1" />
+          <Variable Name="EventActive" Value="0" />
+          <Variable Name="EventFightWin" Value="0" />
+          <Variable Name="EventFightLose" Value="0" />
+          <Variable Name="EventBossIndex" Value="0" />
+          <Variable Name="EventDojoIndex" Value="0" />
+          <Variable Name="EventBoss" Value="0" />
+          <Variable Name="EventAnnounce" Value="1" />
+          <Variable Name="EventGift" Value="EventGift_261029" />
+          <Variable Name="EventStory" Value="1" />
+          <Variable Name="EventFightEnter" Value="0" />
+          <Variable Name="ChangeToEventDojo" Value="1" />
+          <Variable Name="ShopAdvChest" Value="0" />
+          <Variable Name="GiftAfterFirstPurchase" Value="0" />
+          <Variable Name="EventBossKeyInfo" Value="0" />
+          <Variable Name="CurrentMiniEventIndex" Value="261020" />
+          <Variable Name="CurrentEventIndex" Value="261029" />
+          <Variable Name="MiniEventActive" Value="0" />
+          <Variable Name="MiniEventFightWin" Value="0" />
+          <Variable Name="MiniEventFightLose" Value="0" />
+          <Variable Name="MiniEventAnnounce" Value="0" />
+          <Variable Name="MiniEventStory" Value="0" />
+          <Variable Name="MiniEventFightEnter" Value="0" />
+          <Variable Name="RaidZone4OfferPackError" Value="0" />
+          <Variable Name="ReturnAfterEnterPortal" Value="1" />
+          <Variable Name="RaidProfileTutorialEnd" Value="1" />
+          <Variable Name="RaidProfileTutorialStart" Value="1" />
+          <Variable Name="RaidWinAfterGatekeeper" Value="1" />
+          <Variable Name="RaidGreetingsSaturn" Value="1" />
+          <Variable Name="RaidEnterSaturn" Value="1" />
+          <Variable Name="RaidWinAfterSaturn" Value="1" />
+          <Variable Name="RaidGreetingsBlackness" Value="1" />
+          <Variable Name="RaidEnterBlackness" Value="1" />
+          <Variable Name="RaidWinAfterBlackness" Value="1" />
+          <Variable Name="RaidGreetingsHunter" Value="1" />
+          <Variable Name="RaidEnterHunter" Value="1" />
+          <Variable Name="RaidWinAfterHunter" Value="1" />
+          <Variable Name="PremiumPackZoneRaid4_CheckFight" Value="0" />
+          <Variable Name="RaidZone4OfferEnded" Value="1" />
+          <Variable Name="RaidZone4SmallOfferPackError" Value="0" />
+          <Variable Name="BPEventActive" Value="0" />
+          <Variable Name="BPEventAnnounce" Value="0" />
+          <Variable Name="BPEventStory" Value="1" />
+          <Variable Name="BPEventFightLose" Value="0" />
+          <Variable Name="BPEventFightWin" Value="0" />
+          <Variable Name="BP_EnchantmentEnabled" Value="0" />
+          <Variable Name="BP_AnnounceShown" Value="1" />
+          <Variable Name="BP_EnchantmentAnnounce" Value="0" />
+          <Variable Name="CurrentBPName" Value="PuppeteerTheatre_260626" />
+          <Variable Name="AscensionBossFight" Value="ZONE_RAID|Ascension_1|" />
+          <Variable Name="AscensionBossFight1" Value="ZONE_RAID|Ascension_2|" />
+          <Variable Name="AscensionBossFight2" Value="ZONE_RAID|Ascension_3|" />
+          <Variable Name="AscensionBossFight3" Value="ZONE_RAID|Ascension_4|" />
+          <Variable Name="AscensionBossFight4" Value="ZONE_RAID|Ascension_5|" />
+          <Variable Name="AscensionBossName" Value="Ascension_1" />
+          <Variable Name="AscensionBossName1" Value="Ascension_2" />
+          <Variable Name="AscensionBossName2" Value="Ascension_3" />
+          <Variable Name="AscensionBossName3" Value="Ascension_4" />
+          <Variable Name="AscensionBossName4" Value="Ascension_5" />
+          <Variable Name="AscensionKeyTitle" Value="KeyFall_24" />
+          <Variable Name="AscensionKeyIcon" Value="RaidCurrency_Event.Berstuuk24Key" />
+          <Variable Name="AscensionSphereHintOff" Value="0" />
+          <Variable Name="AscensionInto" Value="1" />
+          <Variable Name="AscensionBossEventIndex" Value="1" />
+          <Variable Name="RaidZone4SmallOfferEnded" Value="1" />
+          <Variable Name="MiniEventGift" Value="EventGift_261029" />
+          <Variable Name="MiniEventKeyIcon" Value="RitualHungerKey.big" />
+          <Variable Name="MiniEventBossBattleName" Value="ZONE_RAID|RAIDBOSS_LAMB|" />
+          <Variable Name="MiniEventBossName" Value="RAIDBOSS_LAMB" />
+          <Variable Name="WeeklyOffer_17_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_17_Start" Value="1742212800" />
+          <Variable Name="WeeklyOffer_17_End" Value="1742774100" />
+          <Variable Name="EventOfferKeysCriable Name="EventBossFight" Value="ZONE_RAID|BOSS_BISON_25|" />
+          <Variable Name="EventBossName" Value="BOSS_BISON_25" />
+          <Variable Name="EventKeyTitle" Value="KeyHW_26" />
+          <Variable Name="EventKeyIcon" Value="Halloween26Key.big" />
+          <Variable Name="EventPhase2" Value="1793606400" />
+          <Variable Name="EventPhase3" Value="1793952000" />
+          <Variable Name="LastChanceDuration" Value="18000" />
+          <Variable Name="Event_CoinsOffer_1_Start" Value="1793433600" />
+          <Variable Name="Event_CoinsOffer_1_End" Value="1793520000" />
+          <Variable Name="Event_CoinsOffer_2_Start" Value="1793865600" />
+          <Variable Name="Event_CoinsOffer_2_End" Value="1793952000" />
+          <Variable Name="Event_CoinsOffer_3_Start" Value="1794124800" />
+          <Variable Name="Event_CoinsOffer_3_End" Value="1794211200" />
+          <Variable Name="Event_KeysOffer_1_Start" Value="1793347200" />
+          <Variable Name="Event_KeysOffer_1_End" Value="1793433600" />
+          <Variable Name="Event_KeysOffer_2_Start" Value="1793692800" />
+          <Variable Name="Event_KeysOffer_2_End" Value="1793779200" />
+          <Variable Name="Event_KeysOffer_3_Start" Value="1793952000" />
+          <Variable Name="Event_KeysOffer_3_End" Value="1794038400" />
+          <Variable Name="SFest26_KeyOffer_1_Start" Value="1786140000" />
+          <Variable Name="SFest26_KeyOffer_1_End" Value="1786226399" />
+          <Variable Name="SFest26_KeyOffer_2_Start" Value="1786744800" />
+          <Variable Name="SFest26_KeyOffer_2_End" Value="1786831199" />
+          <Variable Name="SFest26_KeyOffer_3_Start" Value="1787349600" />
+          <Variable Name="SFest26_KeyOffer_3_End" Value="1787435999" />
+          <Variable Name="SFest26_KeyOffer_4_Start" Value="1787695200" />
+          <Variable Name="SFest26_KeyOffer_4_End" Value="1787781600" />
+          <Variable Name="SFest26_CoinsOffer_1_Start" Value="1786572000" />
+          <Variable Name="SFest26_CoinsOffer_1_End" Value="1786658399" />
+          <Variable Name="SFest26_CoinsOffer_2_Start" Value="1787176800" />
+          <Variable Name="SFest26_CoinsOffer_2_End" Value="1787263199" />
+          <Variable Name="SummerFest26Offer_Helm_Start" Value="1787263200" />
+          <Variable Name="SummerFest26Offer_Helm_End" Value="1787522400" />
+          <Variable Name="SummerFest26Offer_Helm_Enabled" Value="1" />
+          <Variable Name="SummerFest26Offer_Weapon_Start" Value="1787522400" />
+          <Variable Name="SummerFest26Offer_Weapon_End" Value="1787781600" />
+          <Variable Name="SummerFest26Offer_Weapon_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_54_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_54_Start" Value="1789336800" />
+          <Variable Name="WeeklyOffer_54_End" Value="1789941600" />
+          <Variable Name="WeeklyOffer_55_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_55_Start" Value="1790546400" />
+          <Variable Name="WeeklyOffer_55_End" Value="1791151200" />
+          <Variable Name="WeeklyOffer_56_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_56_Start" Value="1791756000" />
+          <Variable Name="WeeklyOffer_56_End" Value="1792360800" />
+          <Variable Name="WeeklyOffer_57_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_57_Start" Value="1792969200" />
+          <Variable Name="WeeklyOffer_57_End" Value="1793574000" />
+          <Variable Name="WeeklyOffer_58_Enabled" Value="1" />
+          <Variable Name="WeeklyOffer_58_Start" Value="1794178800" />
+          <Variable Name="WeeklyOffer_58_End" Value="1794783600" />
+          <Variable Name="MAFest26Offer_WeaponDynastySword_Enabled" Value="1" />
+          <Variable Name="MAFest26Offer_WeaponDynastySword_Start" Value="1790838000" />
+          <Variable Name="MAFest26Offer_WeaponDynastySword_End" Value="1791097200" />
+          <Variable Name="MAFest26Offer_WeaponBringerOfOpulence_Enabled" Value="1" />
+          <Variable Name="MAFest26Offer_WeaponBringerOfOpulence_Start" Value="1791097200" />
+          <Variable Name="MAFest26Offer_WeaponBringerOfOpulence_End" Value="1791270000" />
+          <Variable Name="MAFest26Offer_WeaponDeathGou_Enabled" Value="1" />
+          <Variable Name="MAFest26Offer_WeaponDeathGou_Start" Value="1791270000" />
+          <Variable Name="MAFest26Offer_WeaponDeathGou_End" Value="1791442800" />
+          <Variable Name="MAFest26Offer_HelmChengziguan_Enabled" Value="1" />
+          <Variable Name="MAFest26Offer_HelmChengziguan_Start" Value="1791442800" />
+          <Variable Name="MAFest26Offer_HelmChengziguan_End" Value="1791615600" />
+          <Variable Name="MAFest26Offer_MagicGreenDragonRay_Enabled" Value="1" />
+          <Variable Name="MAFest26Offer_MagicGreenDragonRay_Start" Value="1791615600" />
+          <Variable Name="MAFest26Offer_MagicGreenDragonRay_End" Value="1791788400" />
+          <Variable Name="MAFest26Offer_RangedLotusMine_Enabled" Value="1" />
+          <Variable Name="MAFest26Offer_RangedLotusMine_Start" Value="1791788400" />
+          <Variable Name="MAFest26Offer_RangedLotusMine_End" Value="1791961200" />
+          <Variable Name="HW26Offer_Weapon_Enabled" Value="1" />
+          <Variable Name="HW26Offer_Weapon_Start" Value="1793260800" />
+          <Variable Name="HW26Offer_Weapon_End" Value="1794211200" />
+          <Variable Name="HW26Offer_ArmorWickedVeil_Enabled" Value="1" />
+          <Variable Name="HW26Offer_ArmorWickedVeil_Start" Value="1793606400" />
+          <Variable Name="HW26Offer_ArmorWickedVeil_End" Value="1793952000" />
+          <Variable Name="HW26Offer_HelmWitch_Enabled" Value="1" />
+          <Variable Name="HW26Offer_HelmWitch_Start" Value="1793952000" />
+          <Variable Name="HW26Offer_HelmWitch_End" Value="1794297600" />
+          <Variable Name="HW26Offer_HelmVisageOfDesolation_Enabled" Value="1" />
+          <Variable Name="HW26Offer_HelmVisageOfDesolation_Start" Value="1793952000" />
+          <Variable Name="HW26Offer_HelmVisageOfDesolation_End" Value="1794297600" />
+          <Variable Name="HW26Offer_WeaponScytheGlaive_Enabled" Value="1" />
+          <Variable Name="HW26Offer_WeaponScytheGlaive_Start" Value="1794297600" />
+          <Variable Name="HW26Offer_WeaponScytheGlaive_End" Value="1794556800" />
+          <Variable Name="HW26Offer_MagicCrow_Enabled" Value="1" />
+          <Variable Name="HW26Offer_MagicCrow_Start" Value="1794297600" />
+          <Variable Name="HW26Offer_MagicCrow_End" Value="1794556800" />
+          <Variable Name="EventGiftStory_Morgana" Value="Gift_HW26_1" />
+          <Variable Name="EventGiftStory_Countess" Value="Gift_HW26_2" />
+          <Variable Name="EventStoryFight_Morgana" Value="ZONE_RAID|BOSS_HW26_STORY_MORGANA|" />
+          <Variable Name="EventStoryFight_Countess" Value="ZONE_RAID|BOSS_HW26_STORY_COUNTESS|" />
+          <Variable Name="EventStoryBossName_Morgana" Value="BOSS_HW26_STORY_MORGANA" />
+          <Variable Name="EventStoryBossName_Countess" Value="BOSS_HW26_STORY_COUNTESS" />
+          <Variable Name="EventStoryFightRound_Morgana" Value="ZONE_RAID|BOSS_HW26_STORY_MORGANA|1" />
+          <Variable Name="EventStoryFightRound_Countess" Value="ZONE_RAID|BOSS_HW26_STORY_COUNTESS|1" />
+          <Variable Name="EventBossFight_s1_Morgana" Value="ZONE_RAID|BOSS_MORGANA|" />
+          <Variable Name="EventBossFight_s2_Countess" Value="ZONE_RAID|BOSS_COUNTESS|" />
+          <Variable Name="EventBossFight_s3_Banshee" Value="ZONE_RAID|BOSS_BANSHEE|" />
+          <Variable Name="EventBossName_s1_Morgana" Value="BOSS_MORGANA" />
+          <Variable Name="EventBossName_s2_Countess" Value="BOSS_COUNTESS" />
+          <Variable Name="EventBossName_s3_Banshee" Value="BOSS_BANSHEE" />
+          <Variable Name="EventEndTitle" Value="Halloween26_title" />
+          <Variable Name="EventEndText" Value="halloween26_raid_end" />
+          <Variable Name="EventStage" Value="-2" />
+          <Variable Name="Event_CoinsOffer_Item" Value="EventCoinsOffer_3_1" />
+          <Variable Name="Event_CoinsOffer_EndTime" Value="1794211200" />
+          <Variable Name="Event_CoinsOffer_ShowLastChance" Value="0" />
+        </Variables>
+      </Quests>
+      <Counters>
+        <Counter Name="FirstHits" CurrentValue="1391" />
+        <Counter Name="HeadHitRound" CurrentValue="884" />
+        <Counter Name="Unarmed" CurrentValue="1333" />
+        <Counter Name="BodyguardsWin" CurrentValue="800" />
+        <Counter Name="BlockedRound" CurrentValue="777" />
+        <Counter Name="FastRounds" CurrentValue="1346" />
+        <Counter Name="PerfectRound" CurrentValue="1347" />
+        <Counter Name="PunchFights" CurrentValue="1332" />
+        <Counter Name="HardWin" CurrentValue="804" />
+        <Counter Name="InsaneWin" CurrentValue="801" />
+        <Counter Name="ImpossibleWin" CurrentValue="871" />
+        <Counter Name="Losses" CurrentValue="1033" />
+        <Counter Name="TournamentsBeaten" CurrentValue="791" />
+        <Counter Name="BodyGuardsWin1" CurrentValue="777" />
+        <Counter Name="BossWin" CurrentValue="787" />
+        <Counter Name="BossWin1" CurrentValue="777" />
+        <Counter Name="KickFights" CurrentValue="1067" />
+        <Counter Name="BodyGuardsWin2" CurrentValue="777" />
+        <Counter Name="ChallangesBeaten" CurrentValue="777" />
+        <Counter Name="BossWin2" CurrentValue="777" />
+        <Counter Name="BarelyAliveRounds" CurrentValue="10" />
+        <Counter Name="Disarm" CurrentValue="26" />
+        <Counter Name="DisarmEclipse" CurrentValue="1" />
+        <Counter Name="PerfectRoundEclipse" CurrentValue="17" />
+        <Counter Name="Combo3" CurrentValue="95" />
+        <Counter Name="BodyGuardsWin3" CurrentValue="1" />
+        <Counter Name="BossNoLose" CurrentValue="5" />
+        <Counter Name="BossWin3" CurrentValue="1" />
+        <Counter Name="BodyGuardsWin4" CurrentValue="1" />
+        <Counter Name="BossWin4" CurrentValue="1" />
+        <Counter Name="BodyGuardsWin5" CurrentValue="1" />
+        <Counter Name="BossWin5" CurrentValue="1" />
+        <Counter Name="BarelyAliveRoundsEclipse" CurrentValue="2" />
+        <Counter Name="LossesEclipse" CurrentValue="4" />
+        <Counter Name="BodyGuardsWin6" CurrentValue="1" />
+        <Counter Name="BossWin6" CurrentValue="1" />
+        <Counter Name="GatesOfShadowsClose" CurrentValue="1" />
+        <Counter Name="Combo6" CurrentValue="28" />
+        <Counter Name="StyleAggressive" CurrentValue="16" />
+        <Counter Name="StyleCrazy" CurrentValue="7" />
+        <Counter Name="StyleFantastic" CurrentValue="2" />
+        <Counter Name="LongRounds" CurrentValue="2" />
+        <Counter Name="TournamentIntermission" CurrentValue="1" />
+        <Counter Name="ChallengesIntermission" CurrentValue="1" />
+        <Counter Name="GatesOfShadows" CurrentValue="1" />
+        <Counter Name="CypherWin" CurrentValue="1" />
+        <Counter Name="HideoutWin" CurrentValue="1" />
+        <Counter Name="HyperionWin" CurrentValue="1" />
+        <Counter Name="AncientWin" CurrentValue="1" />
+        <Counter Name="IncubatorWin" CurrentValue="1" />
+        <Counter Name="ShroudWin" CurrentValue="1" />
+        <Counter Name="StoneGroveWin" CurrentValue="1" />
+        <Counter Name="MaximumLevel" CurrentValue="1" />
+        <Counter Name="StoneGroveTournamentWin" CurrentValue="1" />
+        <Counter Name="SpaceshipWin" CurrentValue="1" />
+        <Counter Name="Survived3" CurrentValue="2" />
+        <Counter Name="ShockWin" CurrentValue="1" />
+        <Counter Name="Enchantments" CurrentValue="227" />
+        <Counter Name="Combo10" CurrentValue="2" />
+        <Counter Name="MayRematch" CurrentValue="1" />
+        <Counter Name="TitanRematch" CurrentValue="1" />
+      </Counters>
+      <Achievements>
+        <Achievement Name="achievement_name_perfect_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_perfect_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_perfect_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_perfect_eclipse_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_firsthits_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_firsthits_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_firsthits_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_maxcombo_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_maxcombo_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_maxcombo_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_aggresive_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_crazy_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_fantastic_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_headhitrounds_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_headhitrounds_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_headhitrounds_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_disarm_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_disarm_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_disarm_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_disarm_eclipse_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_kickfights_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_kickfights_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_kickfights_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_unarmed_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_unarmed_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_unarmed_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_blockedrounds_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_blockedrounds_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_blockedrounds_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_losses_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_losses_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_losses_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_losses_eclipse_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_barelyalive_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_barelyalive_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_barelyalive_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_barelyalive_eclipse_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_punchfights_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_punchfights_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_punchfights_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_fastrounds_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_fastrounds_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_fastrounds_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_longrounds_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_longrounds_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_longrounds_3" ObtainedReward="true" />
+        <Achievement Name="achievement_name_longrounds_eclipse_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_BossNoLose_1" ObtainedReward="true" />
+        <Achievement Name="achievement_name_BossNoLose_2" ObtainedReward="true" />
+        <Achievement Name="achievement_name_BossNoLose_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Bodyguards_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Bodyguards_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Bodyguards_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Bodyguards_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Bodyguards_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Bodyguards_6" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_6" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_Rematch_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_Rematch_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_Rematch_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_Rematch_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_Rematch_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Boss_Rematch_6" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournaments_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournaments_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournaments_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournaments_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournaments_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournaments_6" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_6" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Zone_1_Rematch " ObtainedReward="false" />
+        <Achievement Name="Achievement_Name_Zone_2_Rematch" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Zone_3_Rematch" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Zone_4_Rematch" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Zone_5_Rematch" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Zone_6_Rematch" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_6" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_Eclipse_1" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_Eclipse_2" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_Eclipse_3" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_Eclipse_4" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_Eclipse_5" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Survivals_Eclipse_6" ObtainedReward="true" />
+        <Achievement Name="achievement_name_upgrades_1" ObtainedReward="false" />
+        <Achievement Name="achievement_name_upgrades_2" ObtainedReward="false" />
+        <Achievement Name="achievement_name_upgrades_3" ObtainedReward="false" />
+        <Achievement Name="Achievement_Name_CloseGatesOfShadows" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Tournament_IM" ObtainedReward="true" />
+        <Achievement Name="Achievement_Name_Challenges_IM" ObtainedReward="true" />
+ r_38" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_39" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_40" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_41" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_42" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_43" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_44" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_45" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_46" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_47" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_48" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_49" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_50" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_51" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_52" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_53" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.fall26_sickles_offer" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_54" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_55" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_56" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_57" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.weekly_offer_58" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_26_offer_helm" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.summer_fest_26_offer_weapon" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_weapon_dynasty_sword" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_weapon_bringer_of_opulence" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_weapon_death_gou" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_helm_chengziguan" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_magic_green_dragon_ray" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.mafest26_offer_ranged_lotus_mine" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_weapon_katars" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_armor_endlessnight" Price="2.99" PriceString="2,99 €" CurrencyCode="EUR" />
+          <Product Id="com.nekki.shadowfight.halloween26_offer_helmet_lastcoven" Price="2.99" Price
+09:36:23.320 FILE ázoù¿K¸Ë  (16384 B):
+GUS_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/fungus_set_15-03-19_07_02_2025_c864d5097afdf64a5539475a7d800ec0_1285846678_ios" Version="2.46.0" Attach="1" Hash="66FE7069C1D8B8FDCAF5FE30BD135C8B" Priority="0" />
+  <Pack Name="VOLCANO_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/volcano_set_15-03-19_07_02_2025_d95b9c7d45cf3a13b491dfb8c5f91575_487766641_ios" Version="2.46.0" Attach="1" Hash="16AFD2AE4FD339CDE7A8687DB30BFB3E" Priority="0" />
+  <Pack Name="SETS/KARCER_SET" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/karcer_set_19-45-29_30_05_2025_0c8f08feb4f8bf932f024f5973ee4756_641725159_ios" Version="2.46.0" Attach="1" Hash="DBF99DC932B7905F4D81C77F0F7A726B" Priority="0" />
+  <Pack Name="EVENT_FALL_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_24_15-03-19_07_02_2025_d03a9ecc1cec8a0e19fa9c3220bafac9_3187186571_ios" Version="2.46.0" Attach="1" Hash="5019B15055F7D7C3B6140FA100B3D2D9" Priority="0" />
+  <Pack Name="EVENT_HW_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_hw_24_15-03-19_07_02_2025_d09c61583f8174738fea53b9a8d5ac38_1819124510_ios" Version="2.46.0" Attach="1" Hash="D3C7A076ED3D096E08DB260F7C2173CE" Priority="0" />
+  <Pack Name="ASCENSION" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ascension_19-24-21_26_03_2025_0555410ca81502611ccf92f5f2e5068a_4176431871_ios" Version="2.46.0" Attach="1" Hash="94E3B8304F0269BE1856D0F83D2B68A9" Priority="0" />
+  <Pack Name="AZTEC_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/aztec_24_15-03-19_07_02_2025_1d0222deb887ca0d6a4c5c91302a5a34_3122605617_ios" Version="2.46.0" Attach="1" Hash="C6966BCF96FBA7ADB987BCF30195F697" Priority="0" />
+  <Pack Name="NEW_YEAR_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/new_year_25_20-40-25_21_02_2025_46f3aee5c39fc236da2579a13c15b9a1_3144082424_ios" Version="2.46.0" Attach="1" Hash="2BE748AA111C08DEE845DC1DB2DAA0B2" Priority="0" />
+  <Pack Name="FOREST_DEMON_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/forest_demon_25_15-03-19_07_02_2025_33447ff4c8a834e2fe2a3e81f9bb8004_3447091490_ios" Version="2.46.0" Attach="1" Hash="C623165914687A0605A0115060868EC2" Priority="0" />
+  <Pack Name="OFFERS/WEEKLYOFFER12" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weeklyoffer12_18-49-55_28_02_2025_11da9cb5c2fa566079920607662e41d9_3475651495_ios" Version="2.46.0" Attach="1" Hash="577D1420E4B4343EA09CC724D7CE1CD0" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_13" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_13_19-20-10_17_02_2025_8f3375f15e27137f46a5d7c3a8aad8f8_2554315469_ios" Version="2.46.0" Attach="1" Hash="928EDBB8F354C53AD43C951FFC9F1C2D" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_14" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_14_15-42-52_21_02_2025_5e4034b73d473f26742b67cbec19a2d9_1085145072_ios" Version="2.46.0" Attach="1" Hash="4863ED303B928DEECE16574EBABF6D70" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_15" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_15_15-26-08_28_02_2025_d55c0726a2bf920775693ae440451a6c_3974416032_ios" Version="2.46.0" Attach="1" Hash="23DD3914EA78AF786A5BBCCF857FE3EA" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_16" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_16_18-37-39_06_03_2025_ab1231f42767d77212ba404865f818d7_1088869498_ios" Version="2.46.0" Attach="1" Hash="34D60E16D9A36B9DBEC15774171A0654" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_17" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_17_14-25-30_14_03_2025_511877eb7f25b0527aea50603bd7282c_4121699966_ios" Version="2.46.0" Attach="1" Hash="7E6FA49E464A84E8605AAF1EA9744C7F" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_18" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_18_17-37-32_21_03_2025_1597a88b01631c454788f6d8379bce42_2053711095_ios" Version="2.46.0" Attach="1" Hash="2CB118DB71515B366DE173CE8F8A1D59" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_19" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_19_13-56-37_27_03_2025_9308c9ed225cca4e8f4515d1cf9adba9_1205268905_ios" Version="2.46.0" Attach="1" Hash="3A3CBD62589E1D28C520D018A2844361" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_20_FUTURIST_MAGIC" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_20_futurist_magic_19-00-16_27_03_2025_94922902018a8cfb56e6d100bd3b84c5_3289519940_ios" Version="2.46.0" Attach="1" Hash="B0FBF28521846253CD0A78ABE5308597" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_21" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_21_19-24-21_26_03_2025_98a34643f563d558c9813b73ac73871a_4207138744_ios" Version="2.46.0" Attach="1" Hash="4B05F8065D76FBC9F2E13167694DC5DE" Priority="0" />
+  <Pack Name="OFFERS/AGNISSEAL_OFFER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/agnisseal_offer_11-01-48_16_04_2025_2aade41303532e4687df6bf8cc50a06c_3391951479_ios" Version="2.46.0" Attach="1" Hash="FBED077F8FF4FE8655D5EC08E9812E3F" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_22_GLAIVE_GOD_EATER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_22_glaive_god_eater_15-47-51_21_04_2025_81b561a87245fa59c25c14d0f4ffc4b7_4041273983_ios" Version="2.46.0" Attach="1" Hash="B310F0F62A100CA399CB2A8BF96F0A8D" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_23_PINK_ENERGYBALL_MAGIC" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_23_pink_energyball_magic_11-12-22_24_04_2025_feabfd80a8abbf21bb4f32b501b616d6_2886826930_ios" Version="2.46.0" Attach="1" Hash="E54E10C9E05237EDA10E31194D2AD31F" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_24_EGYPT_ARMOR" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_24_egypt_armor_11-12-22_24_04_2025_6b57b09d9261fa364239c8960f3c7a54_2766311957_ios" Version="2.46.0" Attach="1" Hash="417FC0FF443518C7021454EFB6D0AB11" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_25_RITUAL_KATANA_WEAPON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_25_ritual_katana_weapon_11-12-22_24_04_2025_cd7df05632a78c917ee481ccbba6ae93_2984460987_ios" Version="2.46.0" Attach="1" Hash="70BC5374D376A2C4DEDC6F517A38ADD0" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_26_RANGED_ROGUESFORTUNE" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_26_ranged_roguesfortune_13-57-58_15_05_2025_7ae9284db37ff6f3d29a2a2bbf624faa_2118213640_ios" Version="2.46.0" Attach="1" Hash="F0458A6B6131702B8C1DDEAABDE9EBF9" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_27_NUNCHAKU_DANCEOFSTATIC" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_27_nunchaku_danceofstatic_13-57-58_15_05_2025_4be7059065afda6e9f78af3e1906a2dc_2978566300_ios" Version="2.46.0" Attach="1" Hash="B57E0021E45CCF5690CF44973825E070" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_28_MAGIC_GAZEOFTHEVOID" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_28_magic_gazeofthevoid_13-57-58_15_05_2025_a9f94d35535dd44a7c5b8037e276cdef_2148122153_ios" Version="2.46.0" Attach="1" Hash="ED2C3102F5823014A73F105D1FF5CE7D" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_29_ranged_needles_nemesis_stinger_14-39-36_06_06_2025_86033455b613ac532787a4d90aef617c_2789138324_ios" Version="2.46.0" Attach="1" Hash="7306F7BE7E1F6978E856772B2FCFFBAE" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_30_weapon_kusarigama_silent_moon_14-39-36_06_06_2025_f30a3c82bfa6b4146ab8407239931e81_1765508130_ios" Version="2.46.0" Attach="1" Hash="C97E8F392EED426C193E9704AA3B7574" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_31_magic_bomb_seed_of_creation_14-39-36_06_06_2025_9b92e6136403a39b759054c468d7ffe5_2484611210_ios" Version="2.46.0" Attach="1" Hash="9494D809D1D6BE66B5DB3A92863AE6BC" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_32_weapon_orders_oath_25_12-19-23_27_06_2025_72d54da7e0ec14a97cea1b112cf3559f_256565862_ios" Version="2.46.0" Attach="1" Hash="F5F1C36E32B2C0180E9FDDC6269812CD" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_33_helm_veil_of_dawn_25_12-19-23_27_06_2025_b6188abd50947bc091b105049b26fbd4_2806616372_ios" Version="2.46.0" Attach="1" Hash="E193011662CC5FE5BCEC3ED0DF8C5403" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_34_ranged_winds_harmony_25_12-19-23_27_06_2025_4b540e86b62fd684e020d467074e877f_1169839354_ios" Version="2.46.0" Attach="1" Hash="D69AFFC17C64AEFE386EE5426452F24F" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_35_weapon_seers_staff_25_17-22-43_16_07_2025_072e5b67ed3790f760bb65c6fa0154e3_3302925066_ios" Version="2.46.0" Attach="1" Hash="29FBC9C19AAE90D74D09033F5BE3749E" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_36_magic_song_of_the_tide_25_17-22-43_16_07_2025_dca4f77fc2872f777e3b5b720be6967f_3818117703_ios" Version="2.46.0" Attach="1" Hash="FBD120BDAF813C7EAF93ED99AEF3EAFD" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_37_ranged_path_of_heresy_25_17-22-43_16_07_2025_044b4a371a7ed8dd7a914b6735b9f950_3868088473_ios" Version="2.46.0" Attach="1" Hash="8D673DDF6F81296EDD3A5B6537A98DCE" Priority="0" />
+  <Pack Name="OFFERS/SUMMER_FEST_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/summer_fest_25_01-19-27_31_07_2025_84e0d79d9224c572084e8d16e7b20a81_397481497_ios" Version="2.46.0" Attach="1" Hash="7E9AAE79A4994C95F54934F767CE66E1" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_38_sparks_of_prometheus_25_16-47-10_11_09_2025_6d059c424494f0d1cf4b51af2e7059af_3183945105_ios" Version="2.46.0" Attach="1" Hash="3F7DF20B4F5BAA63B5754ED87CD78162" Priority="0" />
+  <Pack Name="OFFERS/GIFT_12_YEARS_SF2_NAGINATA" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/gift_12_years_sf2_naginata_19-22-55_19_09_2025_1c54334eacb9aff40f42ee56240e37d4_1312441951_ios" Version="2.46.0" Attach="1" Hash="311017BDBBAA26EB97CF5F91F7C1B8C2" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_39_shadow_lord_25_18-20-51_14_10_2025_c097ecc658f6a6d105f80a5b1582edcf_2021939842_ios" Version="2.46.0" Attach="1" Hash="3DB5D5664A4C4972B06819721EFBEA78" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_40_OLD_KING_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_40_old_king_25_14-30-59_28_10_2025_5ec7474816ac912b801c2b2d0db87dd2_1850418541_ios" Version="2.46.0" Attach="1" Hash="F153B8E5AF315253B5641342E2639BBE" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_41_flavor_of_demise_25_15-18-10_19_12_2025_c2d4333d79852b8d95a93fb477874e83_364129234_ios" Version="2.46.0" Attach="1" Hash="DF0E0E94604089B81DE93E171E5E5FEC" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_42_claw_of_wisdom_26_16-40-40_19_02_2026_91709d18172b9b23670c9ecf68715d89_2460780582_ios" Version="2.46.0" Attach="1" Hash="7D1A31DB438D550F545D21121B683165" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_43_gentle_storm_26_11-49-07_07_04_2026_5112630a6b88f5403e4cf88598e2e963_310862231_ios" Version="2.46.0" Attach="1" Hash="EF81DFFF97D2FBD18133346804E694DA" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_44_blades_of_faith_26_11-49-07_07_04_2026_b66bf44b27de7130d927168c251513d1_1751681387_ios" Version="2.46.0" Attach="1" Hash="A6063B3148235C4F52FCFD9A8BE3D2E5" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_45_crown_of_despair_26_11-49-07_07_04_2026_cd7559492a47553b0eacf3bd273b1b44_901154371_ios" Version="2.46.0" Attach="1" Hash="037810C1B5ECF3CCDDB8FA2EFAD2E66E" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_46_depth_of_holiness_26_11-49-07_07_04_2026_79a34dcf3c963a043d33ea07ab79a573_175870888_ios" Version="2.46.0" Attach="1" Hash="7D9F93F24BAFC2F8D90E8A66097C51A3" Priority="0" />
+  <Pack Name="OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/weekly_offer_47_heart_of_lily_26_11-49-07_07_04_2026_f7c93baca940bfc7d7d3ce212b0b334f_953738218_ios" Version="2.46.0" Attach="1" Hash="DCA904765EAAF0F15495BB375754E4BA" Priority="0" />
+  <Pack Name="EVENTS/EVENTS_COMMON" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/events_common_17-07-08_11_02_2026_3ee81f555e0fbd88a109780a9cdbb90e_724131757_ios" Version="2.46.0" Attach="1" Hash="339C6048772E9E5E9E2F34F4C09381D3" Priority="0" />
+  <Pack Name="EVENTS/RITUAL" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_17-22-49_01_04_2025_a85fec42771a138f8da0e7e5aabec5cb_3249029510_ios" Version="2.46.0" Attach="1" Hash="056E1E143473A62097D67D353C2248F4" Priority="0" />
+  <Pack Name="EVENTS/RITUAL_HUNGER" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_hunger_19-04-25_03_08_2026_f14d38102ddcff67f3636cc0d117c77b_1968050048_ios" Version="2.46.0" Attach="1" Hash="1CE8E31D8FB8773D8B8CD1DC5D1E7410" Priority="0" />
+  <Pack Name="EVENTS/RITUAL_VULCAN" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_vulcan_13-59-23_12_05_2026_cdc68910123339e86850979a65891931_3750909828_ios" Version="2.46.0" Attach="1" Hash="5CD575F55525ED73F3E6AB50B8BEFB98" Priority="0" />
+  <Pack Name="EVENTS/RITUAL_FUNGUS" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/ritual_fungus_19-04-25_03_08_2026_7edbfc5102b616cb49eda49c566f74e6_1721757549_ios" Version="2.46.0" Attach="1" Hash="FD1746D88BFE4B5FB1641FE4B886D776" Priority="0" />
+  <Pack Name="EVENTS/AMERICAN_25" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/american_25_18-05-03_25_06_2026_7630b4f08de363c57724146558cc1b5f_3953482659_ios" Version="2.46.0" Attach="1" Hash="0FA62E9A8D8B042BD6E74096F9E4EEF5" Priority="0" />
+  <Pack Name="EVENTS/AMERICAN_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/american_26_18-05-03_25_06_2026_2701585836b1d002ddd80579d2c3f3ae_2635491133_ios" Version="2.46.0" Attach="1" Hash="C49BC784297C8496699298DCCFE69929" Priority="0" />
+  <Pack Name="OFFERS/EVENT_FALL_24" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_24_13-55-04_31_08_2026_76ce4e768af6f53f61c958e844eb722a_1466992632_ios" Version="2.46.0" Attach="1" Hash="3A9E2020BBF09B01E329DBD0589AEBD4" Priority="0" />
+  <Pack Name="OFFERS/EVENT_FALL_26" Url="https://assets.nekki.com/shadowfight/unity_packs/SF2_free/event_fall_26_14-17-24_03_09_2026_50735fc3a34fa5e3d20dfbf36684e4b7_635013867_ios" Version="2.46.0" Attach="1" Hash="CDFAD85C6E0F3C99679999939451F866" Priority="0" />
+  <Pack Name="OFFERS/MA_FEST_26_ITEMS" Url="https://assets.nekki.com/sha
