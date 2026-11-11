@@ -1,8 +1,12 @@
-=== SF2Mod ACE v6.0 session 20261111-213426 ===
-23:34:26.703 ACE v6.5 toggles+perks loaded (patches=4 hacks=3)
-23:34:26.703 no preload_bundles dir
-23:34:26.703 no users.xml in bundle
-23:34:28.061 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Library/Caches/gamedata/statistics/crashLog.json
-23:34:28.088 OPEN[W] fd=16 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Documents/userdata/bcgen.bin
-23:34:28.088 OPEN[R] fd=16 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Documents/userdata/bcgen.bin
-23:34:28.089 OPEN[W] fd=16 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Documents/userdata/bcgen.bin.hash
+=== SF2Mod ACE v6.0 session 20261111-213623 ===
+23:36:23.849 ACE v6.5 toggles+perks loaded (patches=4 hacks=3)
+23:36:23.849 no preload_bundles dir
+23:36:23.850 no users.xml in bundle
+23:36:24.785 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Documents/userdata/initSettings.bin
+23:36:24.810 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Library/Caches/gamedata/statistics/crashLog.json
+23:36:24.811 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Library/Caches/gamedata/statistics/crashLog.json
+23:36:24.835 OPEN[R] fd=16 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Documents/userdata/bcgen.bin.hash
+23:36:24.835 OPEN[R] fd=16 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Documents/userdata/bcgen.bin
+23:36:24.981 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Library/Caches/gamedata/config_cdn.xml
+23:36:26.116 OPEN[W] fd=39 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Library/Caches/gamedata/config_cdn.xml
+23:36:26.123 OPEN[W] fd=39 /var/mobile/Containers/Data/Application/8C3FC921-8282-46BB-98BE-255D16339DCA/Library/Caches/gamedata/config_cdn.xml.hash
