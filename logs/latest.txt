@@ -14,3 +14,13 @@
 08:53:58.083 redirect FAIL packs.xml.hash status=0 err=unsupported URL
 08:53:58.083 redirect FAIL packs.xml status=0 err=unsupported URL
 08:53:58.083 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+08:54:07.423 manual reload
+08:54:07.467 config: 3 redir
+08:54:07.469 redirect FAIL packs.xml.hash status=0 err=unsupported URL
+08:54:07.469 redirect FAIL packs.xml status=0 err=unsupported URL
+08:54:07.470 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
+08:54:09.090 manual reload
+08:54:09.136 config: 3 redir
+08:54:09.137 redirect FAIL packs.xml.hash status=0 err=unsupported URL
+08:54:09.139 redirect FAIL packs.xml status=0 err=unsupported URL
+08:54:09.141 redirect FAIL VERSIONAL_CONFIGS status=0 err=unsupported URL
