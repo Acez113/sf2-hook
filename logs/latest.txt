@@ -1,6 +1,6 @@
-=== SF2Mod ACE v6.0 session 20261111-194815 ===
-21:48:15.038 ACE v6.4 runtime-patch loaded
-21:48:16.484 prepopulate: copied 102, replaced 0, failed 0
-21:48:16.486 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/FB2DC4DF-8DCB-4FDF-A5DE-EB17B3DB778F/Library/Caches/gamedata/packs.xml (ok=YES)
-21:48:16.489 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/FB2DC4DF-8DCB-4FDF-A5DE-EB17B3DB778F/Library/Caches/gamedata/packs.xml.hash (ok=YES)
-21:48:20.291 ACE bubble shown
+=== SF2Mod ACE v6.0 session 20261111-194857 ===
+21:48:57.884 ACE v6.4 runtime-patch loaded
+21:48:59.314 prepopulate: copied 0, replaced 102, failed 0
+21:48:59.317 prepopulate packs.xml -> /var/mobile/Containers/Data/Application/FB2DC4DF-8DCB-4FDF-A5DE-EB17B3DB778F/Library/Caches/gamedata/packs.xml (ok=YES)
+21:48:59.321 prepopulate packs.xml.hash -> /var/mobile/Containers/Data/Application/FB2DC4DF-8DCB-4FDF-A5DE-EB17B3DB778F/Library/Caches/gamedata/packs.xml.hash (ok=YES)
+21:49:02.629 ACE bubble shown
