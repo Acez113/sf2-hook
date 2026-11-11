@@ -3,3 +3,5 @@
 10:17:44.263 ACE bubble shown
 10:17:58.563 manual flush
 10:17:59.281 apply_patch 'Skeleton Lock' starting (find len 43)
+10:18:06.315 apply_patch 'Skeleton Lock' done: 376 hits  (scanned 610 / skipped 306 regions)
+10:18:06.315 applied 'Skeleton Lock': 376 hits
