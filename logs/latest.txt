@@ -212,3 +212,4 @@
 00:59:53.832 OPEN[R] fd=22 /var/mobile/Containers/Data/Application/2DDFE78F-987A-40E1-A646-2F75DB5CE3F9/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_26
 00:59:53.833 OPEN[R] fd=22 /var/mobile/Containers/Data/Application/2DDFE78F-987A-40E1-A646-2F75DB5CE3F9/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_25
 00:59:53.834 OPEN[R] fd=22 /var/mobile/Containers/Data/Application/2DDFE78F-987A-40E1-A646-2F75DB5CE3F9/Library/Caches/gamedata/bundles/EVENTS/SUMMER_FEST_CHEST
+00:59:54.071 ACE bubble shown
