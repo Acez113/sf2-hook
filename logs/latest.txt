@@ -1,11 +1,3 @@
-=== SF2Mod ACE v6.0 session 20261111-082131 ===
-10:21:31.207 ACE v6.0 runtime-patch loaded
-10:21:34.243 ACE bubble shown
-10:21:46.716 apply_patch 'Thruster MidFrames' starting (find len 58)
-10:22:15.098 apply_patch 'Skeleton Lock' starting (find len 43)
-10:22:20.900 apply_patch 'Thruster MidFrames' done: 1 hits  (scanned 616 / skipped 389 regions)
-10:22:20.900 applied 'Thruster MidFrames': 1 hits
-10:22:20.901 apply_patch 'Thruster FirstFrame' starting (find len 43)
-10:22:48.293 apply_patch 'Skeleton Lock' done: 254 hits  (scanned 620 / skipped 389 regions)
-10:22:48.295 applied 'Skeleton Lock': 254 hits
-10:22:49.202 manual flush
+=== SF2Mod ACE v6.0 session 20261111-084830 ===
+10:48:30.355 ACE v6.3 runtime-patch loaded
+10:48:30.361 prepopulate: copied 0, skipped 95 (already on disk)
