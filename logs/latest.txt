@@ -7,3 +7,13 @@
 08:22:23.375 overlay shown
 08:22:24.642 manual reload
 08:22:25.461 config: 1 redir
+08:23:03.545 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+08:23:15.124 redirect ready VERSIONAL_CONFIGS (6956341 B) <- https://raw.githubusercontent.com/Acez113/sf2-hook/main/configs_hacked_ios.bin
+08:23:19.311 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:19.351 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:19.352 REDIRECT fd=52 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:21.243 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:21.257 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:21.257 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:21.677 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
+08:23:21.678 REDIRECT fd=40 orig=/var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> /var/mobile/Containers/Data/Application/43D2AA1F-9479-4A72-A277-0F6FC669F183/Documents/sf2redir/724116f98d298e01d09a6156
