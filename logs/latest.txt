@@ -184,3 +184,11 @@
 16:47:53.647   [FAIL] collision geometry   found=481  (need 2000+)
 16:47:59.595   [FAIL] stance skip          found=29  (need 100+)
 16:48:07.804   [FAIL] antiban perk         found=0  (need 1+)
+16:48:08.454 manual flush
+16:48:08.939 manual flush
+16:48:09.121 manual flush
+16:48:09.589 manual flush
+16:48:09.772 manual flush
+16:48:09.972 VERIFY HACKS tapped
+16:48:09.972 ---- hack self-check ----
+16:48:14.590 manual flush
