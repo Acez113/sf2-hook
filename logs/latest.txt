@@ -186,3 +186,9 @@
 16:46:32.900 ---- hack self-check ----
 16:46:33.248 VERIFY HACKS tapped
 16:46:33.248 ---- hack self-check ----
+16:46:33.765 manual flush
+16:46:34.248 VERIFY HACKS tapped
+16:46:34.248 ---- hack self-check ----
+16:46:34.665 manual flush
+16:46:35.399 manual flush
+16:46:38.592   [FAIL] antiban perk         found=0  (need 1+)
