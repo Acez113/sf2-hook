@@ -504,3 +504,6 @@ statusunity/BattlePass.xmlunity/ClanSettings.xmlunity/DailyQuests.xmlunity/Leagu
 22:00:42.790 ---- boss perk hunt done ----
 22:05:30.365 DNS ledger.nekki.com
 22:05:30.586 DNS ledger.nekki.com
+22:08:01.468 DNS api.github.com
+22:08:01.729 DNS api.github.com
+22:08:01.752 DNS api.github.com
