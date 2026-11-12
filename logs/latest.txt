@@ -65,3 +65,15 @@
 20:07:32.566 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 20:07:32.568 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 20:07:32.568 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+20:07:34.069 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+20:07:34.085 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=26)
+20:07:34.085 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=26)
+20:07:34.103 ACE bubble shown
+20:07:34.367 dump upload dumps/Info.plist -> HTTP 200
+20:07:38.340 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=26)
+20:07:38.341 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=26)
+20:07:41.576 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/raid_configs
+20:07:41.577 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/raid_configs
+20:07:41.577 RAIDCONFIG MISS raid_configs (exists=YES errno=35)
+20:07:41.979 CONFIGSPROBE[R] fd=56 /private/var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/raid_configs
+20:07:41.979 RAIDCONFIG MISS(retry) raid_configs
