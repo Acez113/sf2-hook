@@ -70,3 +70,7 @@
 13:40:48.960 ACE bubble shown
 13:40:52.159 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=23)
 13:40:52.159 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=23)
+13:40:55.961 manual flush
+13:40:56.228 manual flush
+13:40:56.411 manual flush
+13:40:56.611 manual flush
