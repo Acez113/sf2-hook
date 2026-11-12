@@ -432,3 +432,9 @@
 21:30:50.600 ADBLOCK gateway.unityads.unity3d.com
 21:30:50.705 ADBLOCK unityads.unity3d.com
 21:30:50.708 ADBLOCK gateway.unityads.unity3d.com
+21:31:25.152 ADBLOCK rt.applovin.com
+21:31:25.154 ADBLOCK rt.applovin.com
+21:31:25.221 ADBLOCK applovin.com
+21:31:25.225 ADBLOCK rt.applovin.com
+21:31:25.323 ADBLOCK applovin.com
+21:31:25.326 ADBLOCK rt.applovin.com
