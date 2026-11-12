@@ -167,3 +167,6 @@
 17:12:14.580 GAMEDATA      720  sessions.json
 17:12:14.581 GAMEDATA      516  events_data.xml
 17:12:49.553 ---- hack self-check ----
+17:12:57.155   [PASS] moves: thruster      found=2  (need 1+)
+17:13:04.926   [PASS] moves: no-block      found=113  (need 1+)
+17:13:12.768   [PASS] moves: ignores evade found=113  (need 1+)
