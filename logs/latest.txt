@@ -176,3 +176,6 @@
 16:45:36.628 GAMEDATA      518  events_data.xml
 16:45:38.869 GAMEDATA    37229  dump.bin
 16:45:41.864 GAMEDATA   228473  econfig.zip
+16:46:03.781 ---- hack self-check ----
+16:46:09.386   [PASS] thruster priority    found=11  (need 11+)
+16:46:14.225   [PASS] no-block             found=645  (need 400+)
