@@ -63,3 +63,4 @@
 11:41:34.699 OPEN[W] fd=53 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Documents/userdata/users.xml
 11:41:34.722 OPEN[W] fd=53 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Documents/userdata/users.xml.hash
 11:41:34.724 OPEN[W] fd=53 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Documents/userdata/users_backup.xml
+11:48:11.725 VERSIONAL_CONFIGS download detected - redirect stands down this session
