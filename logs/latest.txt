@@ -386,3 +386,4 @@
 21:25:50.293 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 21:25:50.294 GAMEDATA      720  sessions.json
 21:25:50.295 GAMEDATA      516  events_data.xml
+21:25:54.983 dump upload dumps/econfig.zip -> HTTP 200
