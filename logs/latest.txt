@@ -560,3 +560,8 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  ..+....................C......
 00:44:30.438 ADBLOCK rt.applovin.com
 00:44:31.983 ADBLOCK applovin.com
 00:44:31.991 ADBLOCK rt.applovin.com
+00:44:34.831 ADBLOCK config.monetization-sdk.chartboost.com
+00:44:34.833 ADBLOCK install.monetization-sdk.chartboost.com
+00:44:34.850 ADBLOCK config.monetization-sdk.chartboost.com
+00:44:34.855 ADBLOCK install.monetization-sdk.chartboost.com
+00:44:34.872 ADBLOCK monetization-sdk.chartboost.com
