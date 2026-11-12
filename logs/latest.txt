@@ -1,101 +1,13 @@
-=== SF2Mod ACE v6.0 session 20261112-091749 ===
-11:17:49.654 ACE v6.7 redirect loaded (patches=4 hacks=3)
-11:17:49.655 redirect armed -> /private/var/containers/Bundle/Application/1580EB57-C4BF-4611-9276-94DA11610FE4/ShadowFight2.app/preload_bundles/VERSIONAL_CONFIGS.bundle
-11:17:51.866 [/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata] bundles: copied=99 kept=2 failed=0
-11:17:51.866 [/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata] packs.xml (kept game's)
-11:17:51.866 [/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata] packs.xml.hash (kept game's)
-11:17:51.867 users.xml already present - keeping player's save
-11:17:52.877 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/initSettings.bin
-11:17:52.906 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/crashLog.json
-11:17:52.907 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/crashLog.json
-11:17:52.907 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/crashLog.json
-11:17:52.981 OPEN[R] fd=23 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:17:53.004 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:17:53.081 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:17:53.098 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/packs.xml
-11:17:55.045 ACE bubble shown
-11:18:07.270 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:07.857 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:07.960 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:10.148 OPEN[W] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:10.158 OPEN[W] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:10.158 OPEN[W] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:10.167 OPEN[W] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:10.167 OPEN[W] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:10.168 OPEN[R] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:10.168 OPEN[W] fd=10 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin.hash
-11:18:10.214 OPEN[R] fd=41 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics
-11:18:10.214 OPEN[R] fd=41 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/dojo_buttons
-11:18:10.215 OPEN[R] fd=41 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/news
-11:18:10.215 OPEN[R] fd=41 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles
-11:18:10.216 OPEN[R] fd=43 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/SETS
-11:18:10.216 OPEN[R] fd=43 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/OFFERS
-11:18:10.217 OPEN[R] fd=42 /private/var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/EVENTS
-11:18:11.120 OPEN[W] fd=47 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:11.155 OPEN[W] fd=47 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:11.156 OPEN[W] fd=47 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:11.170 OPEN[W] fd=47 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:24.221 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:24.237 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:24.237 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:24.245 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:24.245 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:24.246 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:24.246 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin.hash
-11:18:24.390 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/sessions.json
-11:18:24.392 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events_data.xml
-11:18:24.394 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events_data.xml
-11:18:24.395 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events_data.xml
-11:18:24.396 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events.json
-11:18:24.396 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/sessions.json
-11:18:24.397 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/sessions.json
-11:18:24.398 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events_data.xml
-11:18:24.398 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events_data.xml
-11:18:24.399 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events_data.xml
-11:18:24.400 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/statistics/events.json
-11:18:29.242 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:29.263 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:29.264 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:29.280 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:29.281 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:29.282 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:29.283 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin.hash
-11:18:32.334 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:32.360 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:32.361 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:32.373 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:32.374 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:32.375 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:32.375 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin.hash
-11:18:32.376 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:32.382 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/dump.bin
-11:18:32.383 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/dump.bin
-11:18:32.383 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/dump.bin
-11:18:32.386 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/dump.bin
-11:18:33.246 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:33.273 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:33.274 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:33.286 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:33.287 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:33.288 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:33.289 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin.hash
-11:18:34.055 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/initSettings.bin
-11:18:34.305 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1
-11:18:34.309 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
-11:18:34.315 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
-11:18:39.905 OPEN[R] fd=50 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/dump.bin
-11:18:46.576 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
-11:18:46.584 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/packs.xml
-11:18:46.593 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/packs.xml.hash
-11:18:46.595 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1
-11:18:46.700 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/packs.xml
-11:18:46.705 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/packs.xml.hash
-11:18:46.706 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1
-11:18:49.365 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml
-11:18:49.389 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users.xml.hash
-11:18:49.390 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml
-11:18:49.404 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/users_backup.xml.hash
-11:18:49.404 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:49.405 OPEN[R] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin
-11:18:49.406 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Documents/userdata/localSettings.bin.hash
-11:18:49.580 OPEN[W] fd=49 /var/mobile/Containers/Data/Application/61CAF787-ADB3-4CBE-AED5-544E5A7FA76F/Library/Caches/gamedata/bundles/ZONE_1_download.nekki
+=== SF2Mod ACE v6.0 session 20261112-092253 ===
+11:22:53.808 ACE v6.8 redirect-only loaded (patches=4 hacks=3)
+11:22:53.808 redirect armed -> /private/var/containers/Bundle/Application/04FED7AE-7036-4013-8B72-A5E806629C9B/ShadowFight2.app/preload_bundles/VERSIONAL_CONFIGS.bundle
+11:22:53.809 users.xml already present - keeping player's save
+11:22:55.039 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Documents/userdata/initSettings.bin
+11:22:55.069 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/statistics/crashLog.json
+11:22:55.070 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/statistics/crashLog.json
+11:22:55.153 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Documents/userdata/users.xml
+11:22:55.302 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Documents/userdata/users.xml
+11:22:55.316 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/packs.xml
+11:22:56.416 OPEN[W] fd=39 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/config_cdn.xml
+11:22:56.422 OPEN[W] fd=39 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/config_cdn.xml.hash
+11:22:56.904 ACE bubble shown
