@@ -65,3 +65,4 @@
 11:54:50.871 REDIRECT fd=23 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
 11:54:52.149 REDIRECT fd=23 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
 11:54:52.203 ACE bubble shown
+11:55:24.195 VERSIONAL_CONFIGS download detected - redirect stands down this session
