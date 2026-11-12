@@ -179,3 +179,4 @@
 17:56:34.108 GAMEDATA      720  sessions.json
 17:56:34.110 GAMEDATA      516  events_data.xml
 17:56:40.292 dump upload dumps/econfig.zip -> HTTP 200
+17:57:08.970 ---- hack self-check (single pass) ----
