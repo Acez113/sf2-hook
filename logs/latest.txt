@@ -236,3 +236,4 @@
 21:07:22.110   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 21:07:22.111   redirect CONFIGS.bundle: reads=0 ready=YES
 21:07:22.111 ---- self-check: 10 pass / 2 fail ----
+21:08:14.947 manual flush
