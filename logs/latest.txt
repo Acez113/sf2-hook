@@ -191,3 +191,4 @@
 17:19:18.786   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 17:19:18.786   redirect CONFIGS.bundle: reads=0 ready=YES
 17:19:18.786 ---- self-check: 9 pass / 3 fail ----
+17:19:31.631 ---- hack self-check (single pass) ----
