@@ -179,3 +179,5 @@
 17:14:12.100   [PASS] perks: frenzy name   found=140  (need 1+)
 17:14:21.695   [PASS] moves: no-block      found=113  (need 1+)
 17:14:27.521   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+17:14:40.023   [PASS] moves: ignores evade found=113  (need 1+)
+17:14:44.740   [FAIL] perks: boss gutted   found=0  (need 1+)
