@@ -1,225 +1,138 @@
-OUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....L:MoveNext().UnityEngine.SetupCoroutine:InvokeM
-22:29:34.615 FOUND[TENEBRIS] #2 @0x14524059e
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer>
-22:29:34.615 FOUND[TENEBRIS] #3 @0x145243d67
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n 
-22:29:34.675 FOUND[STALKER] #1 @0x105998bb4
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n .L:MoveNext().UnityEngine.SetupCoroutine:InvokeM
-22:29:35.436 FOUND[STALKER] #2 @0x1452405ce
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Eve
-22:29:35.436 FOUND[STALKER] #3 @0x145243d97
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n Player="Me" Object="Floor" Follow="1" ShiftX= .l
-22:29:35.499 FOUND[<Perk Name="BOSS] #1 @0x105998bb2
-r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n Player="Me" Object="Floor" Follow="1" ShiftX= .l..L:MoveNext().UnityEngine.SetupCoroutine:Invok
-22:29:36.205 FOUND[<Perk Name="BOSS] #2 @0x14300b908
-;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Events><ModExpires Player="Me" Name="RakshasCurseZonePreBlastOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or">
-22:29:36.206 FOUND[<Perk Name="BOSS] #3 @0x14300ba66
-<Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .l)....................C.......'I..?.\...;C.f...b2.apCC....@.,..yJC....cE/...@C.........cVC....&;..G:7C....0...P$CCJ.......=\-C..........<C.....*....1C. ........MC.....N..e.HC.+.......WFC....9k....#C......n.z.PCj...Z.]..1DC.....J...7GC~........i3C.y...n...+KC......d...-C....a&...X-C.h...2..}<-C....kS..r..B......s...4C....
-22:29:37.162 FOUND[PERK_BOSS_] #1 @0x145240ed3
-K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .l)....................C.......}{.CfG$..O$C1q|C7......CR\jCT...<..C...CL....K.B.WAC.....{.Cd.xC.8.....B.kJC......!C...C.....F.BH.LC.....b.C...C.......B..[C....b..B..jCg......B..]C..p...)Cv..C.iu....C.8NC....`P.C..jC....7..B.YSC..J..<.C.mnC\\...t.B.4cC.....P.BS..C.....E5C...C......22:27:15.917 FOUND[PERK_BOSS_] #1 @0x14b1e61a5..n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%.....
-22:29:37.162 FOUND[PERK_BOSS_] #2 @0x14524104d
-.n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%................................"PERK_BOSS_B .6.................F.u.n.c.t.i.o.n.0...odifier=XD}*....................................V...d.Pe .6.................R.o.o.t...    </RulesWithCon .|%............................1...x.......).   .6.................?.R.o.o.t.[.5.0.]...Value1=" .|%............................7.....`.......onXD}*................................n.    <Perk ..P
-22:29:37.163 FOUND[PERK_BOSS_] #3 @0x1452411bf
-...........F.u.n.c.t.i.o.n.0...odifier=XD}*....................................V...d.Pe .6.................R.o.o.t...    </RulesWithCon .|%............................1...x.......).   .6.................?.R.o.o.t.[.5.0.]...Value1=" .|%............................7.....`.......onXD}*................................n.    <Perk ..P.22:27:16.001 FOUND[PERK_BOSS_] #2 @0x151242487..n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%.....
-22:29:37.163 ---- boss perk hunt done ----
-22:29:53.790 DNS sfxlbalt.nekki.com
-22:29:54.084 DNS sfxlbalt.nekki.com
-22:29:54.280 DNS sfxlbalt.nekki.com
-22:29:54.397 DNS sfxlbalt.nekki.com
-22:32:58.305 VERIFY HACKS tapped
-22:32:58.306 ---- hack self-check (single pass) ----
-22:33:01.718 VERIFY HACKS tapped
-22:33:01.718 ---- hack self-check (single pass) ----
-22:33:17.677   [PASS] moves: thruster      found=6  (need 1+)
-22:33:17.677   [PASS] moves: no-block      found=98  (need 1+)
-22:33:17.677   [PASS] moves: ignores evade found=89  (need 1+)
-22:33:17.677   [PASS] moves: long range    found=304  (need 1+)
-22:33:17.677   [PASS] moves: geometry      found=1298  (need 1+)
-22:33:17.677   [PASS] moves: stance skip   found=37  (need 1+)
-22:33:17.677   [FAIL] perks: antiban       found=0  (need 1+)
-22:33:17.677   [PASS] perks: frenzy name   found=26  (need 1+)
-22:33:17.678   [FAIL] perks: frenzy HACKED found=0  (need 1+)
-22:33:17.678   [FAIL] perks: boss gutted   found=0  (need 1+)
-22:33:17.678   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
-22:33:17.678   [PASS] BAD empty parts      found=0  (need 0 exactly)
-22:33:17.678   scanned 2048 MB in 19.4s
-22:33:17.678   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
-22:33:17.678   redirect CONFIGS.bundle: reads=0 ready=YES
-22:33:17.678 ---- self-check: 9 pass / 3 fail ----
-22:33:17.679 ---- boss perk hunt (read-only) ----
-22:33:18.727 FOUND[Karcer] #1 @0x1368ea254
-............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
-22:33:19.022 FOUND[Karcer] #2 @0x14523eae1
-18.9s.22:25:53.964   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES.22:25:53.964   redirect CONFIGS.bundle: reads=0 ready=YES.22:25:53.964 ---- self-check: 9 pass / 3 fail ----.22:26:27.942 ADBLOCK o-adq.mediation.unity3d.com.22:26:28.164 ADBLOCK o-adq.mediation.unity3d.com.22:26:50.214 ---- boss perk hunt (read-only) ----.22:26:51.772 FOUND[Karcer] #1 @0x150d85a8a.\..T.....$..$..8....."... ".....`.... ......,.........P...,"..!.....P""$.D." .T.....2......@(.S.@....."......."".................8.........p...p0......."".A`"..4.....t...!..#.l...<.!.(....".AD.".@..".A.."PAL.".A,.....#.A...A.....".A........<.......D...h...0...#..T..`.....#.A`".A...p.."pA .#.A(.#A........\....#......"........
-22:33:19.022 FOUND[Karcer] #3 @0x14523ec57
-\..T.....$..$..8....."... ".....`.... ......,.........P...,"..!.....P""$.D." .T.....2......@(.S.@....."......."".................8.........p...p0......."".A`"..4.....t...!..#.l...<.!.(....".AD.".@..".A.."PAL.".A,.....#.A...A.....".A........<.......D...h...0...#..T..`.....#.A`".A...p.."pA .#.A(.#A........\....#......"........8...X`..$..@ills1.(028..KarcerHung..o.C..6DL !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD
-22:33:19.870 FOUND[Drakaina] #1 @0x14523f399
- !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:26:55.624 FOUND[Drakaina] nothing in 2049 MB.22:26:56.867 FOUND[Tenebris] #1 @0x142fad935...(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-22:33:19.870 FOUND[Drakaina] #2 @0x14524218c
- !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:29:21.675 FOUND[Drakaina] #1 @0x14501b399. !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./
-22:33:19.871 FOUND[Drakaina] #3 @0x145242304
- !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:26:55.624 FOUND[Drakaina] nothing in 2049 MB.22:26:56.867 FOUND[Tenebris] #1 @0x142fad935...(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-22:33:19.936 FOUND[Tenebris] #1 @0x105998bb4
-.."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:26:55.624 FOUND[Drakaina] nothing in 2049 MB.22:26:56.867 FOUND[Tenebris] #1 @0x142fad935...(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><.s().UnityEngine.EventSystems.StandaloneInputMod
-22:33:21.195 FOUND[Tenebris] #2 @0x142fad935
-..(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .l)...............
-22:33:21.195 FOUND[Tenebris] #3 @0x142fad9e6
-ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .l)....................C........A..@...s.......9N.....@...........A.L..Q...5 ..#? .l.j..eVB.*......G_V.jiE.T`.....B.4B.......e..KG.5B...s.B.[D.8...V.b...,.,+.....A$1*......3R..(c...\....B..d.E...
-22:33:21.250   [PASS] moves: thruster      found=6  (need 1+)
-22:33:21.250   [PASS] moves: no-block      found=107  (need 1+)
-22:33:21.250   [PASS] moves: ignores evade found=100  (need 1+)
-22:33:21.250   [PASS] moves: long range    found=331  (need 1+)
-22:33:21.250   [PASS] moves: geometry      found=1451  (need 1+)
-22:33:21.250   [PASS] moves: stance skip   found=42  (need 1+)
-22:33:21.250   [FAIL] perks: antiban       found=0  (need 1+)
-22:33:21.250   [PASS] perks: frenzy name   found=27  (need 1+)
-22:33:21.251   [FAIL] perks: frenzy HACKED found=0  (need 1+)
-22:33:21.251   [FAIL] perks: boss gutted   found=0  (need 1+)
-22:33:21.251   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
-22:33:21.251   [PASS] BAD empty parts      found=0  (need 0 exactly)
-22:33:21.251   scanned 2049 MB in 19.5s
-22:33:21.251   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
-22:33:21.251   redirect CONFIGS.bundle: reads=0 ready=YES
-22:33:21.251 ---- self-check: 9 pass / 3 fail ----
-22:33:21.252 ---- boss perk hunt (read-only) ----
-22:33:21.882 FOUND[Karcer] #1 @0x1368ea254
-............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
-22:33:22.098 FOUND[Stalker] #1 @0x14519bb39
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.22:27:00.484 FOUND[Stalker] nothing in 2048 MB.22:27:01.359 FOUND[KARCER] #1 @0x12b77c3a3./Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04E
-22:33:22.098 FOUND[Stalker] #2 @0x14519eed0
-rNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .l)....................C........A..@...s.......9N.....@...........A.L..Q...5 ..#? .l.j..eVB.*......G_V.jiE.T`.....B.4B.......e..KG.5B...s.B.[D.8...V.b...,.,+.....A$1*......3R..(c...\....B..d.E....22:29:26.083 FOUND[Stalker] #1 @0x14501bc87.="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound 
-22:33:22.099 FOUND[Stalker] #3 @0x14519f047
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.22:27:00.484 FOUND[Stalker] nothing in 2048 MB.22:27:01.359 FOUND[KARCER] #1 @0x12b77c3a3./Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04E
-22:33:22.119 FOUND[Karcer] #2 @0x14519a993
-18.9s.22:25:53.964   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES.22:25:53.964   redirect CONFIGS.bundle: reads=0 ready=YES.22:25:53.964 ---- self-check: 9 pass / 3 fail ----.22:26:27.942 ADBLOCK o-adq.mediation.unity3d.com.22:26:28.164 ADBLOCK o-adq.mediation.unity3d.com.22:26:50.214 ---- boss perk hunt (read-only) ----.22:26:51.772 FOUND[Karcer] #1 @0x150d85a8a.\..T.....$..$..8....."... ".....`.... ......,.........P...,"..!.....P""$.D." .T.....2......@(.S.@....."......."".................8.........p...p0......."".A`"..4.....t...!..#.l...<.!.(....".AD.".@..".A.."PAL.".A,.....#.A...A.....".A........<.......D...h...0...#..T..`.....#.A`".A...p.."pA .#.A(.#A........\....#......"........
-22:33:22.119 FOUND[Karcer] #3 @0x14519ab09
-\..T.....$..$..8....."... ".....`.... ......,.........P...,"..!.....P""$.D." .T.....2......@(.S.@....."......."".................8.........p...p0......."".A`"..4.....t...!..#.l...<.!.(....".AD.".@..".A.."PAL.".A,.....#.A...A.....".A........<.......D...h...0...#..T..`.....#.A`".A...p.."pA .#.A(.#A........\....#......"........8...X`..$..@ills1.(028..KarcerHung..o.C..6DL !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD
-22:33:22.624 FOUND[KARCER] #1 @0x12b77c3a3
-/Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/SETS/KARCER_SET....................Z.............../var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENTS/NEKKI_FEST_26...............Z.............../var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_26...............
-22:33:22.952 FOUND[KARCER] #2 @0x14300bebe
-..;CD....G....;C.<.......`<C?C...O.....C........^.+CQ....%..J.*CbZ..D......C.....I....1C.^.......,0Cow="1" ShiftX="OrbCoordX" ShiftY="250" /></Effect><Sound Name="snd_shadow_grasp" PackName="ZONE_RAID" /></Actions></Trigger><Trigger Name="RemoveOrbOfHunger"><Events><ModExpires Player="Me" Name="RemoveOrbOfHunger" /></Events><Locks><Perk Name="PERK_KARCER_HUNGER_SET" /></Locks><Actions><StopEffect Name="OrbOfHungerStart" /><StopEffect Name="OrbOfHungerLoop" /><Effect Name="OrbOfHunger" Sequence="karcer_hunger/mgc_karcer_hunger_black_end_vfx" Scale="1.0" TimeScale="2" OnBackground="0" PackName="SETS/KARCER_SET"><Position Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...
-22:33:22.952 FOUND[KARCER] #3 @0x14300bfbd
-r"><Events><ModExpires Player="Me" Name="RemoveOrbOfHunger" /></Events><Locks><Perk Name="PERK_KARCER_HUNGER_SET" /></Locks><Actions><StopEffect Name="OrbOfHungerStart" /><StopEffect Name="OrbOfHungerLoop" /><Effect Name="OrbOfHunger" Sequence="karcer_hunger/mgc_karcer_hunger_black_end_vfx" Scale="1.0" TimeScale="2" OnBackground="0" PackName="SETS/KARCER_SET"><Position Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c.
-22:33:23.000 FOUND[Drakaina] #1 @0x14519b24b
- !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:26:55.624 FOUND[Drakaina] nothing in 2049 MB.22:26:56.867 FOUND[Tenebris] #1 @0x142fad935...(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-22:33:23.000 FOUND[Drakaina] #2 @0x14519e03e
- !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:29:21.675 FOUND[Drakaina] #1 @0x14501b399. !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./
-22:33:23.000 FOUND[Drakaina] #3 @0x14519e1b6
- !..0h..(OWO......=...X.....>...k.......L ..\....."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:26:55.624 FOUND[Drakaina] nothing in 2049 MB.22:26:56.867 FOUND[Tenebris] #1 @0x142fad935...(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-22:33:23.069 FOUND[Tenebris] #1 @0x105998bb4
-.."....).B...( ...0{.....>..., .....Psound...`...C...C............s...%N.....(1.`.......>..F.....S.......'.>..............\.....#@.........4$`.>{.....0R....@>=....@>p=.......0\.....>....fff....-.=..p=...ff..........G...........\..,.....d.qG....(.T.0G..(..... ........aascens./...PZD.22:26:55.624 FOUND[Drakaina] nothing in 2049 MB.22:26:56.867 FOUND[Tenebris] #1 @0x142fad935...(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><.s().UnityEngine.EventSystems.StandaloneInputMod
-22:33:23.865 FOUND[Tenebris] #2 @0x142fad935
-..(:.....{.Y...U.vrE.G.4.V..@..Z.2e....nB.sX..=..`..B.h\..^..t..BV.Z.x...$R.B..[.(......B.yY........Br.F...d..+Q...G.d....Tw..AH......6~...L...j...t...H...D..j\...J.*...R?o.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .l)...............
-22:33:23.865 FOUND[Tenebris] #3 @0x142fad9e6
-ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .l)....................C........A..@...s.......9N.....@...........A.L..Q...5 ..#? .l.j..eVB.*......G_V.jiE.T`.....B.4B.......e..KG.5B...s.B.[D.8...V.b...,.,+.....A$1*......3R..(c...\....B..d.E...
-22:33:23.875 FOUND[DRAKAINA] #1 @0x14519c420
-n Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...
-22:33:23.875 FOUND[DRAKAINA] #2 @0x14519fa71
-></Locks><Actions><StopEffect Name="OrbOfHungerStart" /><StopEffect Name="OrbOfHungerLoop" /><Effect Name="OrbOfHunger" Sequence="karcer_hunger/mgc_karcer_hunger_black_end_vfx" Scale="1.0" TimeScale="2" OnBackground="0" PackName="SETS/KARCER_SET"><Position Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C....22:29:30.758 FOUND[DRAKAINA] #1 @0x14501c56e.n Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B.....
-22:33:23.876 FOUND[DRAKAINA] #3 @0x14519fbe9
-n Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...
-22:33:23.945 FOUND[TENEBRIS] #1 @0x105998bb4
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....s().UnityEngine.EventSystems.StandaloneInputMod
-22:33:24.828 FOUND[TENEBRIS] #2 @0x14519c450
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer>
-22:33:24.828 FOUND[TENEBRIS] #3 @0x14519fc19
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n 
-22:33:24.831 FOUND[Stalker] #1 @0x14519bb39
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.22:27:00.484 FOUND[Stalker] nothing in 2048 MB.22:27:01.359 FOUND[KARCER] #1 @0x12b77c3a3./Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04E
-22:33:24.831 FOUND[Stalker] #2 @0x14519eed0
-rNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .l)....................C........A..@...s.......9N.....@...........A.L..Q...5 ..#? .l.j..eVB.*......G_V.jiE.T`.....B.4B.......e..KG.5B...s.B.[D.8...V.b...,.,+.....A$1*......3R..(c...\....B..d.E....22:29:26.083 FOUND[Stalker] #1 @0x14501bc87.="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound 
-22:33:24.831 FOUND[Stalker] #3 @0x14519f047
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.22:27:00.484 FOUND[Stalker] nothing in 2048 MB.22:27:01.359 FOUND[KARCER] #1 @0x12b77c3a3./Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04E
-22:33:24.904 FOUND[KARCER] #1 @0x105998bb2
- /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.22:27:00.484 FOUND[Stalker] nothing in 2048 MB.22:27:01.359 FOUND[KARCER] #1 @0x12b77c3a3./Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04E..s().UnityEngine.EventSystems.StandaloneInputM
-22:33:25.420 FOUND[KARCER] #2 @0x12b77c3a3
-/Caches/gamedata/bundles/VOLCANO_SET........................Z..............z/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z..............|/var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/SETS/KARCER_SET....................Z.............../var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/EVENTS/NEKKI_FEST_26...............Z.............../var/mobile/Containers/Data/Application/04EE6432-D57F-42E2-BB07-3ABB0EAAFEC6/Library/Caches/gamedata/bundles/OFFERS/EVENT_FALL_26...............
-22:33:25.771 FOUND[KARCER] #3 @0x14300bebe
-..;CD....G....;C.<.......`<C?C...O.....C........^.+CQ....%..J.*CbZ..D......C.....I....1C.^.......,0Cow="1" ShiftX="OrbCoordX" ShiftY="250" /></Effect><Sound Name="snd_shadow_grasp" PackName="ZONE_RAID" /></Actions></Trigger><Trigger Name="RemoveOrbOfHunger"><Events><ModExpires Player="Me" Name="RemoveOrbOfHunger" /></Events><Locks><Perk Name="PERK_KARCER_HUNGER_SET" /></Locks><Actions><StopEffect Name="OrbOfHungerStart" /><StopEffect Name="OrbOfHungerLoop" /><Effect Name="OrbOfHunger" Sequence="karcer_hunger/mgc_karcer_hunger_black_end_vfx" Scale="1.0" TimeScale="2" OnBackground="0" PackName="SETS/KARCER_SET"><Position Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...
-22:33:25.797 FOUND[STALKER] #1 @0x14519c480
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Eve
-22:33:25.798 FOUND[STALKER] #2 @0x14519fc49
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n Player="Me" Object="Floor" Follow="1" ShiftX= .l
-22:33:25.798 FOUND[STALKER] #3 @0x14519ff33
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:33.414 FOUND[TENEBRIS] #1 @0x105998bb4..l)....................C...........@....&<C....^.^
-22:33:25.849 FOUND[DRAKAINA] #1 @0x105998b23
-.............................................................."|3d.........KER] #3 @0x14519ff33..^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...
-22:33:25.876 FOUND[<Perk Name="BOSS] #1 @0x105998c13
-r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....s().UnityEngine.EventSystems.StandaloneInputModule:Process()...tor, IntPtr).....)...le:Process()........D.6.!...o..3.{...A.~.L$..xTL\.........
-22:33:26.780 FOUND[<Perk Name="BOSS] #2 @0x14300b908
-;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Events><ModExpires Player="Me" Name="RakshasCurseZonePreBlastOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or">
-22:33:26.781 FOUND[<Perk Name="BOSS] #3 @0x14300ba66
-<Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .l)....................C.......'I..?.\...;C.f...b2.apCC....@.,..yJC....cE/...@C.........cVC....&;..G:7C....0...P$CCJ.......=\-C..........<C.....*....1C. ........MC.....N..e.HC.+.......WFC....9k....#C......n.z.PCj...Z.]..1DC.....J...7GC~........i3C.y...n...+KC......d...-C....a&...X-C.h...2..}<-C....kS..r..B......s...4C....
-22:33:26.816 FOUND[DRAKAINA] #2 @0x14519c420
-n Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...
-22:33:26.817 FOUND[DRAKAINA] #3 @0x14519fa71
-></Locks><Actions><StopEffect Name="OrbOfHungerStart" /><StopEffect Name="OrbOfHungerLoop" /><Effect Name="OrbOfHunger" Sequence="karcer_hunger/mgc_karcer_hunger_black_end_vfx" Scale="1.0" TimeScale="2" OnBackground="0" PackName="SETS/KARCER_SET"><Position Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C....22:29:30.758 FOUND[DRAKAINA] #1 @0x14501c56e.n Player="Me" Object="Floor" Follow="1" ShiftX= .l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B.....
-22:33:27.819 FOUND[PERK_BOSS_] #1 @0x14519cd85
-K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .l)....................C.......}{.CfG$..O$C1q|C7......CR\jCT...<..C...CL....K.B.WAC.....{.Cd.xC.8.....B.kJC......!C...C.....F.BH.LC.....b.C...C.......B..[C....b..B..jCg......B..]C..p...)Cv..C.iu....C.8NC....`P.C..jC....7..B.YSC..J..<.C.mnC\\...t.B.4cC.....P.BS..C.....E5C...C......22:27:15.917 FOUND[PERK_BOSS_] #1 @0x14b1e61a5..n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%.....
-22:33:27.820 FOUND[PERK_BOSS_] #2 @0x14519ceff
-.n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%................................"PERK_BOSS_B .6.................F.u.n.c.t.i.o.n.0...odifier=XD}*....................................V...d.Pe .6.................R.o.o.t...    </RulesWithCon .|%............................1...x.......).   .6.................?.R.o.o.t.[.5.0.]...Value1=" .|%............................7.....`.......onXD}*................................n.    <Perk ..P
-22:33:27.820 FOUND[PERK_BOSS_] #3 @0x14519d071
-...........F.u.n.c.t.i.o.n.0...odifier=XD}*....................................V...d.Pe .6.................R.o.o.t...    </RulesWithCon .|%............................1...x.......).   .6.................?.R.o.o.t.[.5.0.]...Value1=" .|%............................7.....`.......onXD}*................................n.    <Perk ..P.22:27:16.001 FOUND[PERK_BOSS_] #2 @0x151242487..n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%.....
-22:33:27.820 ---- boss perk hunt done ----
-22:33:27.846 FOUND[TENEBRIS] #1 @0x14519c450
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer>
-22:33:27.846 FOUND[TENEBRIS] #2 @0x14519fc19
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n 
-22:33:27.846 FOUND[TENEBRIS] #3 @0x14519ff03
-.l)....................C...........@....&<C....^.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:33.414 FOUND[TENEBRIS] #1 @0x105998bb4..l
-22:33:27.923 FOUND[STALKER] #1 @0x105998bb4
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:33.414 FOUND[TENEBRIS] #1 @0x105998bb4..l...C.....yEngine.EventSystems.StandaloneInputMod
-22:33:28.830 FOUND[STALKER] #2 @0x14519c480
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Eve
-22:33:28.831 FOUND[STALKER] #3 @0x14519fc49
-.^...BCH....[Y...PC......V.../C.....L7..|UC....r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n Player="Me" Object="Floor" Follow="1" ShiftX= .l
-22:33:28.891 FOUND[<Perk Name="BOSS] #1 @0x105998bb2
-r.=....C.W....S...QC.]..I.3....Bt...C.S..UICv...W.). ..B..........JC.S...7..A.4C}2..mJ..dILC..........2C....ND8.z6JCJ........S,C....k.....@Cd.........+C.....d....?C......D....B......0.#c..22:27:05.342 FOUND[DRAKAINA] nothing in 2048 MB.22:27:09.429 FOUND[TENEBRIS] nothing in 2049 MB.22:27:13.798 FOUND[STALKER] nothing in 2049 MB.22:27:15.036 FOUND[<Perk Name="BOSS] #1 @0x14300b908.;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C....22:29:30.975 FOUND[DRAKAINA] #2 @0x155580b85.n Player="Me" Object="Floor" Follow="1" ShiftX= .l....C.....yEngine.EventSystems.StandaloneInputM
-22:33:29.607 FOUND[<Perk Name="BOSS] #2 @0x14300b908
-;C....E.....>CD...9....;<C8....$W.<3GCs.....[.:W2C......Q./K9CU...T;...F?Ce...Lq(...>C......$.D.FC....4."...FC./..Y.....DC.Y...v".G.>C.C..Ur...~CC@.........%CyI........#C...........C.t......yG.C#:...(..6c#C|.... ..*.!Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Events><ModExpires Player="Me" Name="RakshasCurseZonePreBlastOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or">
-22:33:29.607 FOUND[<Perk Name="BOSS] #3 @0x14300ba66
-<Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .l)....................C.......'I..?.\...;C.f...b2.apCC....@.,..yJC....cE/...@C.........cVC....&;..G:7C....0...P$CCJ.......=\-C..........<C.....*....1C. ........MC.....N..e.HC.+.......WFC....9k....#C......n.z.PCj...Z.]..1DC.....J...7GC~........i3C.y...n...+KC......d...-C....a&...X-C.h...2..}<-C....kS..r..B......s...4C....
-22:33:30.442 FOUND[PERK_BOSS_] #1 @0x14519cd85
-K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .l)....................C.......}{.CfG$..O$C1q|C7......CR\jCT...<..C...CL....K.B.WAC.....{.Cd.xC.8.....B.kJC......!C...C.....F.BH.LC.....b.C...C.......B..[C....b..B..jCg......B..]C..p...)Cv..C.iu....C.8NC....`P.C..jC....7..B.YSC..J..<.C.mnC\\...t.B.4cC.....P.BS..C.....E5C...C......22:27:15.917 FOUND[PERK_BOSS_] #1 @0x14b1e61a5..n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%.....
-22:33:30.442 FOUND[PERK_BOSS_] #2 @0x14519ceff
-.n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%................................"PERK_BOSS_B .6.................F.u.n.c.t.i.o.n.0...odifier=XD}*....................................V...d.Pe .6.................R.o.o.t...    </RulesWithCon .|%............................1...x.......).   .6.................?.R.o.o.t.[.5.0.]...Value1=" .|%............................7.....`.......onXD}*................................n.    <Perk ..P
-22:33:30.443 FOUND[PERK_BOSS_] #3 @0x14519d071
-...........F.u.n.c.t.i.o.n.0...odifier=XD}*....................................V...d.Pe .6.................R.o.o.t...    </RulesWithCon .|%............................1...x.......).   .6.................?.R.o.o.t.[.5.0.]...Value1=" .|%............................7.....`.......onXD}*................................n.    <Perk ..P.22:27:16.001 FOUND[PERK_BOSS_] #2 @0x151242487..n.c.t.i.o.n.0...g...... XD}*..........................................ct .6.................0...2.5.......&.X.....@...  XD}*................................onditions>.  .6.................R.o.o.t.....5.0.   <ConditioXD}*.............................."...n...B...an .|%............................:...........-.   .|%.....
-22:33:30.443 ---- boss perk hunt done ----
-22:34:22.472 ADBLOCK cdp.cloud.unity3d.com
-22:34:22.475 ADBLOCK cdp.cloud.unity3d.com
-22:34:22.544 ADBLOCK cloud.unity3d.com
-22:34:22.548 ADBLOCK cdp.cloud.unity3d.com
-22:40:00.464 DNS api.github.com
-22:40:00.866 DNS api.github.com
-22:41:47.234 DNS sfxlbalt.nekki.com
-22:41:47.924 DNS sfxlbalt.nekki.com
-22:41:48.261 DNS sfxlbalt.nekki.com
-22:41:48.413 DNS sfxlbalt.nekki.com
-22:41:49.147 ADBLOCK o-sdk.mediation.unity3d.com
-22:41:49.310 ADBLOCK w.isx.unity3d.com
-22:41:49.311 ADBLOCK o-iab-notifications.mediation.unity3d.com
-22:41:49.316 ADBLOCK o-iab-imp-counters.mediation.unity3d.com
-22:41:49.550 ADBLOCK o-sdk.mediation.unity3d.com
-22:41:49.782 DNS a58pbd.inapps.appsflyersdk.com
-22:41:49.784 ADBLOCK o-iab-notifications.mediation.unity3d.com
-22:41:49.785 DNS a58pbd.inapps.appsflyersdk.com
-22:41:49.804 ADBLOCK w.isx.unity3d.com
-22:41:49.805 ADBLOCK o-iab-imp-counters.mediation.unity3d.com
-22:41:49.905 DNS a58pbd.dynamic-report-api.appsflyersdk.com
-22:41:50.437 DNS a58pbd.inapps.appsflyersdk.com
-22:41:50.571 DNS a58pbd.dynamic-report-api.appsflyersdk.com
-22:41:51.155 DNS ep2.facebook.com
-22:41:51.156 DNS ep2.facebook.com
-22:41:51.160 DNS ep2.facebook.com
-22:41:51.160 DNS star.fallback.c10r.facebook.com.
-22:41:51.169 DNS facebook.com
-22:41:51.171 DNS ep2.facebook.com
-22:41:51.609 DNS facebook.com
-22:41:51.611 DNS ep2.facebook.com
-22:42:08.618 ADBLOCK o-adq.mediation.unity3d.com
-22:42:08.698 ADBLOCK gw1.mediation.unity3d.com
-22:42:08.699 ADBLOCK gw1.mediation.unity3d.com
-22:42:08.724 ADBLOCK gw1.mediation.unity3d.com
-22:42:09.065 ADBLOCK o-adq.mediation.unity3d.com
-22:42:09.148 ADBLOCK gw1.mediation.unity3d.com
+=== SF2Mod ACE v8.7 session 20261112-204641 ===
+22:46:41.471 ACE v8.7 bosspatch loaded (patches=4 hacks=3)
+22:46:41.471 redirect armed: VERSIONAL_CONFIGS.bundle
+22:46:41.471 redirect armed: CONFIGS.bundle
+22:46:41.471 2/2 redirects armed
+22:46:41.471 users.xml already present - keeping player's save
+22:46:42.691 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Documents/userdata/initSettings.bin
+22:46:42.725 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/statistics/crashLog.json
+22:46:42.726 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/statistics/crashLog.json
+22:46:42.791 ADBLOCK config.uca.cloud.unity3d.com
+22:46:42.792 ADBLOCK config.uca.cloud.unity3d.com
+22:46:42.795 DNS app-analytics-services.com
+22:46:42.796 DNS app-analytics-services.com
+22:46:42.805 DNS www.google.com
+22:46:42.811 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Documents/userdata/users.xml
+22:46:42.824 DNS app-measurement.com
+22:46:42.853 ADBLOCK uca.cloud.unity3d.com
+22:46:42.866 ADBLOCK config.uca.cloud.unity3d.com
+22:46:42.871 DNS ep2.facebook.com
+22:46:42.872 DNS ep2.facebook.com
+22:46:42.888 ADBLOCK fundingchoicesmessages.google.com
+22:46:42.888 DNS ep2.facebook.com
+22:46:42.898 DNS star.fallback.c10r.facebook.com.
+22:46:42.911 DNS www.google.com
+22:46:42.917 ADBLOCK fundingchoicesmessages.google.com
+22:46:42.949 DNS facebook.com
+22:46:42.950 DNS ep2.facebook.com
+22:46:42.958 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Documents/userdata/users.xml
+22:46:42.971 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/packs.xml
+22:46:42.975 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/ZONE_1
+22:46:42.986 DNS star.fallback.c10r.facebook.com.
+22:46:42.986 DNS ep2.facebook.com
+22:46:43.006 DNS google.com
+22:46:43.007 ADBLOCK fundingchoicesmessages.google.com
+22:46:43.060 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/ZONE_1
+22:46:43.061 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/ZONE_1
+22:46:43.063 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+22:46:43.066 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+22:46:43.066 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+22:46:43.067 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+22:46:43.067 RAIDCONFIG PREAD Info.plist bytes=827
+22:46:43.069 DNS api.github.com
+22:46:43.071 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+22:46:43.071 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+22:46:43.071 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+22:46:43.075 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+22:46:43.075 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+22:46:43.076 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+22:46:43.077 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+22:46:43.077 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+22:46:43.078 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+22:46:43.080 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+22:46:43.080 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+22:46:43.080 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+22:46:43.084 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+22:46:43.084 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+22:46:43.084 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+22:46:43.088 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+22:46:43.088 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+22:46:43.089 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+22:46:43.091 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+22:46:43.091 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+22:46:43.091 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+22:46:43.101 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+22:46:43.101 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+22:46:43.102 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+22:46:43.105 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+22:46:43.105 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+22:46:43.106 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+22:46:43.108 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+22:46:43.108 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+22:46:43.108 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+22:46:43.110 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+22:46:43.110 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+22:46:43.111 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+22:46:43.114 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+22:46:43.114 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+22:46:43.115 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+22:46:43.116 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+22:46:43.116 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+22:46:43.116 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+22:46:43.122 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+22:46:43.122 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+22:46:43.123 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+22:46:43.129 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+22:46:43.129 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+22:46:43.130 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+22:46:43.132 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+22:46:43.132 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+22:46:43.363 DNS api.github.com
+22:46:44.600 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+22:46:44.616 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=21)
+22:46:44.617 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=21)
+22:46:44.630 DNS assets.nekki.com
+22:46:44.634 DNS ep2.facebook.com
+22:46:44.634 DNS ep2.facebook.com
+22:46:44.635 DNS ep2.facebook.com
+22:46:44.636 DNS ep2.facebook.com
+22:46:44.636 DNS ep2.facebook.com
+22:46:44.637 DNS ep2.facebook.com
+22:46:44.638 DNS ep2.facebook.com
+22:46:44.638 DNS star.fallback.c10r.facebook.com.
+22:46:44.638 DNS ep2.facebook.com
+22:46:44.639 DNS star.fallback.c10r.facebook.com.
+22:46:44.640 DNS ep2.facebook.com
+22:46:44.641 DNS star.fallback.c10r.facebook.com.
+22:46:44.642 DNS facebook.com
+22:46:44.643 DNS ep2.facebook.com
+22:46:44.644 DNS facebook.com
+22:46:44.646 DNS ep2.facebook.com
+22:46:44.648 DNS facebook.com
+22:46:44.649 DNS ep2.facebook.com
+22:46:44.659 ACE bubble shown
+22:46:44.678 ADBLOCK cdp.cloud.unity3d.com
+22:46:44.678 ADBLOCK cdp.cloud.unity3d.com
+22:46:44.690 DNS crashlyticsreports-pa.googleapis.com
+22:46:44.691 DNS crashlyticsreports-pa.googleapis.com
+22:46:44.702 DNS fcmtoken.googleapis.com
+22:46:44.713 DNS googleapis.com
+22:46:44.715 DNS crashlyticsreports-pa.googleapis.com
+22:46:44.716 DNS a58pbd.launches.appsflyersdk.com
+22:46:44.720 DNS a58pbd.launches.appsflyersdk.com
+22:46:44.738 ADBLOCK cloud.unity3d.com
+22:46:44.738 ADBLOCK cdp.cloud.unity3d.com
+22:46:44.740 DNS star.fallback.c10r.facebook.com.
+22:46:44.740 DNS ep2.facebook.com
+22:46:44.740 DNS star.fallback.c10r.facebook.com.
+22:46:44.741 DNS ep2.facebook.com
+22:46:44.741 DNS star.fallback.c10r.facebook.com.
+22:46:44.741 DNS ep2.facebook.com
+22:46:44.784 DNS a58pbd.launches.appsflyersdk.com
+22:46:44.794 DNS facebook.com
+22:46:44.795 DNS ep2.facebook.com
+22:46:44.795 DNS facebook.com
+22:46:44.796 DNS ep2.facebook.com
+22:46:44.796 DNS facebook.com
+22:46:44.797 DNS ep2.facebook.com
+22:46:44.906 DNS assets.nekki.com
