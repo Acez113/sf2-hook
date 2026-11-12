@@ -178,3 +178,20 @@
 18:21:51.231 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 18:21:51.232 GAMEDATA      720  sessions.json
 18:21:51.233 GAMEDATA      516  events_data.xml
+18:22:46.159 ---- hack self-check (single pass) ----
+18:23:04.648   [PASS] moves: thruster      found=3  (need 1+)
+18:23:04.649   [PASS] moves: no-block      found=265  (need 1+)
+18:23:04.649   [PASS] moves: ignores evade found=266  (need 1+)
+18:23:04.649   [PASS] moves: long range    found=255  (need 1+)
+18:23:04.649   [PASS] moves: geometry      found=1088  (need 1+)
+18:23:04.649   [PASS] moves: stance skip   found=42  (need 1+)
+18:23:04.649   [FAIL] perks: antiban       found=0  (need 1+)
+18:23:04.649   [PASS] perks: frenzy name   found=190  (need 1+)
+18:23:04.649   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+18:23:04.649   [FAIL] perks: boss gutted   found=0  (need 1+)
+18:23:04.649   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+18:23:04.649   [PASS] BAD empty parts      found=0  (need 0 exactly)
+18:23:04.649   scanned 2049 MB in 18.5s
+18:23:04.649   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+18:23:04.650   redirect CONFIGS.bundle: reads=0 ready=YES
+18:23:04.650 ---- self-check: 9 pass / 3 fail ----
