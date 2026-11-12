@@ -217,3 +217,9 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .l)....................C......
 22:41:51.171 DNS ep2.facebook.com
 22:41:51.609 DNS facebook.com
 22:41:51.611 DNS ep2.facebook.com
+22:42:08.618 ADBLOCK o-adq.mediation.unity3d.com
+22:42:08.698 ADBLOCK gw1.mediation.unity3d.com
+22:42:08.699 ADBLOCK gw1.mediation.unity3d.com
+22:42:08.724 ADBLOCK gw1.mediation.unity3d.com
+22:42:09.065 ADBLOCK o-adq.mediation.unity3d.com
+22:42:09.148 ADBLOCK gw1.mediation.unity3d.com
