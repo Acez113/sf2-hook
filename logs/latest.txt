@@ -175,3 +175,9 @@
 16:46:59.500 manual flush
 16:47:00.353 GAMEDATA      720  sessions.json
 16:47:00.359 GAMEDATA      517  events_data.xml
+16:47:19.769 manual flush
+16:47:28.955 GAMEDATA   228473  econfig.zip
+16:47:34.645 ---- hack self-check ----
+16:47:39.376   [FAIL] thruster priority    found=0  (need 11+)
+16:47:43.500   [FAIL] no-block             found=104  (need 400+)
+16:47:48.218   [FAIL] ignores evade        found=92  (need 400+)
