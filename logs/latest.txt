@@ -497,3 +497,17 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect Name="RakshasCurseZoneLeft" Seq
 00:00:57.868 DNS a58pbd.launches.appsflyersdk.com
 00:01:00.794 DNS ledger.nekki.com
 00:01:00.908 DNS ledger.nekki.com
+00:01:02.845 DNS a58pbd.inapps.appsflyersdk.com
+00:01:02.855 DNS a58pbd.inapps.appsflyersdk.com
+00:01:02.858 DNS a58pbd.dynamic-report-api.appsflyersdk.com
+00:01:02.999 DNS a58pbd.inapps.appsflyersdk.com
+00:01:03.053 DNS a58pbd.inapps.appsflyersdk.com
+00:01:03.057 DNS a58pbd.dynamic-report-api.appsflyersdk.com
+00:01:03.320 DNS a58pbd.inapps.appsflyersdk.com
+00:01:13.272 DNS ep2.facebook.com
+00:01:13.273 DNS ep2.facebook.com
+00:01:13.276 DNS ep2.facebook.com
+00:01:13.277 DNS star.fallback.c10r.facebook.com.
+00:01:13.334 DNS facebook.com
+00:01:13.336 DNS ep2.facebook.com
+00:01:22.209 DNS report.appmetrica.yandex.net
