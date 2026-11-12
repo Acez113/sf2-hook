@@ -180,3 +180,19 @@
 18:13:14.611 GAMEDATA      516  events_data.xml
 18:13:16.731 dump upload dumps/econfig.zip -> HTTP 200
 18:14:09.549 ---- hack self-check (single pass) ----
+18:14:28.159   [PASS] moves: thruster      found=4  (need 1+)
+18:14:28.160   [PASS] moves: no-block      found=326  (need 1+)
+18:14:28.160   [PASS] moves: ignores evade found=321  (need 1+)
+18:14:28.160   [PASS] moves: long range    found=323  (need 1+)
+18:14:28.160   [PASS] moves: geometry      found=1291  (need 1+)
+18:14:28.160   [PASS] moves: stance skip   found=54  (need 1+)
+18:14:28.160   [FAIL] perks: antiban       found=0  (need 1+)
+18:14:28.160   [PASS] perks: frenzy name   found=206  (need 1+)
+18:14:28.160   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+18:14:28.160   [FAIL] perks: boss gutted   found=0  (need 1+)
+18:14:28.160   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+18:14:28.160   [PASS] BAD empty parts      found=0  (need 0 exactly)
+18:14:28.161   scanned 2048 MB in 18.6s
+18:14:28.161   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+18:14:28.161   redirect CONFIGS.bundle: reads=0 ready=YES
+18:14:28.161 ---- self-check: 9 pass / 3 fail ----
