@@ -181,3 +181,15 @@
 17:33:55.330   redirect VERSIONAL_CONFIGS.bundle: reads=3 ready=YES
 17:33:55.330   redirect CONFIGS.bundle: reads=0 ready=YES
 17:33:55.330 ---- self-check: 3 pass / 9 fail ----
+17:34:08.999 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=38)
+17:34:08.999 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=38)
+17:34:11.520 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/raid_configs
+17:34:11.520 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/raid_configs
+17:34:11.521 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+17:34:11.930 CONFIGSPROBE[R] fd=48 /private/var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/raid_configs
+17:34:11.931 RAIDCONFIG MISS(retry) raid_configs
+17:34:14.895 CONFIGSPROBE[W] fd=8 /var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/raid_configs/econfig.zip
+17:34:14.963 CONFIGSPROBE[R] fd=6 /var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/raid_configs/econfig.zip
+17:34:14.963 CONFIGSPROBE[R] fd=41 /var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/raid_configs/econfig.zip
+17:34:14.963 RAIDCONFIG GOT econfig.zip bytes=228473
+17:34:17.357 dump upload dumps/econfig.zip -> HTTP 201
