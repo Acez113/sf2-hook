@@ -449,3 +449,4 @@
 21:45:10.304   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 21:45:10.304   redirect CONFIGS.bundle: reads=0 ready=YES
 21:45:10.304 ---- self-check: 9 pass / 3 fail ----
+21:45:46.792 ADBLOCK o-adq.mediation.unity3d.com
