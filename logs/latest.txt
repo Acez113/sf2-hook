@@ -193,3 +193,19 @@
 17:25:13.136 manual flush
 17:25:13.954 manual flush
 17:25:29.892 ---- hack self-check (single pass) ----
+17:25:48.055   [PASS] moves: thruster      found=11  (need 1+)
+17:25:48.055   [PASS] moves: no-block      found=640  (need 1+)
+17:25:48.055   [PASS] moves: ignores evade found=634  (need 1+)
+17:25:48.055   [PASS] moves: long range    found=623  (need 1+)
+17:25:48.056   [PASS] moves: geometry      found=2504  (need 1+)
+17:25:48.056   [PASS] moves: stance skip   found=116  (need 1+)
+17:25:48.056   [FAIL] perks: antiban       found=0  (need 1+)
+17:25:48.056   [PASS] perks: frenzy name   found=85  (need 1+)
+17:25:48.056   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+17:25:48.056   [FAIL] perks: boss gutted   found=0  (need 1+)
+17:25:48.056   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+17:25:48.056   [PASS] BAD empty parts      found=0  (need 0 exactly)
+17:25:48.056   scanned 2048 MB in 18.2s
+17:25:48.056   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+17:25:48.056   redirect CONFIGS.bundle: reads=0 ready=YES
+17:25:48.056 ---- self-check: 9 pass / 3 fail ----
