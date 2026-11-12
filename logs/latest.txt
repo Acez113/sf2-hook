@@ -475,3 +475,8 @@ B...C....\..B.!.CP....?.C...C-i...4.C"..C....0..B...C.......B,.mCf....i.B..LCH..
 EVENT_FALL_26.23:57:02.291 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.23:57:02.292 GAMEDATA   733768  NEKKI_FEST_26.23:57:02.293 GAMEDATA  1379404  WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25.23:57:02.294 GAMEDATA   418519  WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON.23:57:02.295 GAMEDATA  1979866  EVENT_FALL_24.23:57:02.296 GAMEDATA  6467165  KARCER_SET.23:57:02.297 GAMEDATA  8202511  VOLCANO_SET.23:57:02.298 GAMEDATA  7418077  FUNGUS_SET.23:57:02.299 GAMEDATA 15508617  ZONE_7_3.23:57:02.300 GAMEDATA  3460593  ZONE_7_2.23:57:02.301 GAMEDATA 13258953  ZONE_7.23:57:02.301 GAMEDATA  2537402  EVENT_HW_24.23:57:02.302 GAMEDATA  4476476  ZONE_IM.23:57:02.303 GAMEDATA 15368234  ZONE_5.23:57:02
 23:59:40.291 FOUND[KARCER] #3 @0x14bcb5bbe
 ="Or"><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Operator></Locks><Actions><CreatePlayer Name="RakshasBlast"><Item Type="Skeleton" Name="SkeletonMagic" /><Item Type="Weapon" Name="BOMB" /></CreatePlayer></Actions></Trigger><Trigger Name="SpawnOrbOfHunger"><Events><ModExpires Player="Me" Name="SpawnOrbOfHunger" /></Events><Locks><Perk Name="PERK_KARCER_HUNGER_XXX" /></Locks><Actions><Effect Name="OrbOfHungerStart" Sequence="karcer_hunger/mgc_karcer_hunger_black_start_vfx" Scale="0.6" TimeScale="2" Looped="0" OnBackground="0" PackName="SETS/KARCER_SET"><Position Player="Me" Object="Floor" Follow="1" ShiftX="OrbCoordX" ShiftY="250" /></Effect><Effect Name="OrbOfHungerLoop" Sequence="karcer_h
+23:59:42.244 DNS api.github.com
+23:59:42.412 DNS api.github.com
+23:59:48.016 FOUND[DRAKAINA] nothing in 2048 MB
+23:59:55.295 FOUND[TENEBRIS] nothing in 2049 MB
+00:00:01.599 FOUND[STALKER] nothing in 2048 MB
