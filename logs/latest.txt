@@ -64,3 +64,9 @@
 14:00:15.026 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 14:00:15.028 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 14:00:15.028 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+14:00:16.463 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+14:00:16.481 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=24)
+14:00:16.482 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=24)
+14:00:16.525 ACE bubble shown
+14:00:19.366 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=24)
+14:00:19.367 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=24)
