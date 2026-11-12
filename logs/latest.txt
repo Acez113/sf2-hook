@@ -419,3 +419,4 @@
 23:57:13.273 DNS firebaselogging-pa.googleapis.com
 23:57:22.241 DNS api.github.com
 23:57:22.314 DNS api.github.com
+23:57:56.453 ---- hack self-check (single pass) ----
