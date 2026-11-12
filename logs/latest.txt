@@ -443,3 +443,12 @@
 01:10:34.392 ADBLOCK w.isx.unity3d.com
 01:10:41.809 DNS api.github.com
 01:10:41.979 DNS api.github.com
+01:11:05.006 DNS region1.app-analytics-services.com
+01:11:05.008 DNS region1.app-analytics-services.com
+01:11:05.021 DNS app-analytics-services.com
+01:11:05.023 DNS region1.app-analytics-services.com
+01:11:05.118 DNS app-analytics-services.com
+01:11:05.121 DNS region1.app-analytics-services.com
+01:11:05.132 DNS itunes.apple.com
+01:11:05.188 DNS report.appmetrica.yandex.net
+01:11:16.892 ---- hack self-check (single pass) ----
