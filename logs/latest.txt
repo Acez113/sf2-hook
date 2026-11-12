@@ -195,3 +195,8 @@
 17:34:17.357 dump upload dumps/econfig.zip -> HTTP 201
 17:34:22.002 GAMEDATA      720  sessions.json
 17:34:22.004 GAMEDATA      516  events_data.xml
+17:34:55.920 manual flush
+17:34:57.031 VERIFY HACKS tapped
+17:34:57.031 ---- hack self-check (single pass) ----
+17:34:57.564 VERIFY HACKS tapped
+17:34:57.564 ---- hack self-check (single pass) ----
