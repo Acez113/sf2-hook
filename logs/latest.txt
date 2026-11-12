@@ -430,3 +430,5 @@
 21:44:28.481 ADBLOCK w.isx.unity3d.com
 21:44:28.595 DNS vg-new-hb-bid-feedback.mtgglobals.com
 21:44:28.606 DNS vg-new-hb-bid-feedback.mtgglobals.com
+21:44:29.452 manual flush
+21:44:30.121 dump upload dumps/econfig.zip -> HTTP 200
