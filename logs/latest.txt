@@ -65,3 +65,8 @@
 17:32:22.855 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
 17:32:22.855 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
 17:32:22.856 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/AA96E651-C592-4C81-A538-2F01B350A426/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+17:32:24.370 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+17:32:24.387 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=20)
+17:32:24.387 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=20)
+17:32:24.444 ACE bubble shown
+17:32:24.450 dump upload dumps/Info.plist -> HTTP 201
