@@ -181,3 +181,6 @@
 16:47:39.376   [FAIL] thruster priority    found=0  (need 11+)
 16:47:43.500   [FAIL] no-block             found=104  (need 400+)
 16:47:48.218   [FAIL] ignores evade        found=92  (need 400+)
+16:47:53.647   [FAIL] collision geometry   found=481  (need 2000+)
+16:47:59.595   [FAIL] stance skip          found=29  (need 100+)
+16:48:07.804   [FAIL] antiban perk         found=0  (need 1+)
