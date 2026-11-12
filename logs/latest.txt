@@ -448,3 +448,6 @@
 01:27:16.214 CONFIGSPROBE[R] fd=6 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
 01:27:16.214 CONFIGSPROBE[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
 01:27:16.215 RAIDCONFIG GOT econfig.zip bytes=228473
+01:27:16.888 GAMEDATA      720  sessions.json
+01:27:16.890 GAMEDATA      516  events_data.xml
+01:27:22.367 dump upload dumps/econfig.zip -> HTTP 200
