@@ -65,3 +65,19 @@
 18:30:32.399 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 18:30:32.401 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 18:30:32.402 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+18:30:33.957 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+18:30:33.975 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=23)
+18:30:33.975 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=23)
+18:30:34.024 dump upload dumps/Info.plist -> HTTP 200
+18:30:34.050 ACE bubble shown
+18:30:38.459 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=23)
+18:30:38.459 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=23)
+18:30:41.032 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs
+18:30:41.038 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs
+18:30:41.039 RAIDCONFIG MISS raid_configs (exists=YES errno=2)
+18:30:41.448 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs
+18:30:41.449 RAIDCONFIG MISS(retry) raid_configs
+18:30:47.918 CONFIGSPROBE[W] fd=42 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs/econfig.zip
+18:30:47.965 CONFIGSPROBE[R] fd=6 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs/econfig.zip
+18:30:47.965 CONFIGSPROBE[R] fd=41 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs/econfig.zip
+18:30:47.965 RAIDCONFIG GOT econfig.zip bytes=228473
