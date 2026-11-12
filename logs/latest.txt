@@ -177,3 +177,5 @@
 17:13:58.198   [FAIL] perks: antiban       found=0  (need 1+)
 17:14:07.585   [PASS] moves: thruster      found=2  (need 1+)
 17:14:12.100   [PASS] perks: frenzy name   found=140  (need 1+)
+17:14:21.695   [PASS] moves: no-block      found=113  (need 1+)
+17:14:27.521   [FAIL] perks: frenzy HACKED found=0  (need 1+)
