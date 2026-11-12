@@ -179,3 +179,19 @@
 18:32:41.734 RAIDCONFIG GOT econfig.zip bytes=228473
 18:32:51.494 dump upload dumps/econfig.zip -> HTTP 200
 18:33:09.896 ---- hack self-check (single pass) ----
+18:33:28.806   [PASS] moves: thruster      found=16  (need 1+)
+18:33:28.806   [PASS] moves: no-block      found=870  (need 1+)
+18:33:28.806   [PASS] moves: ignores evade found=870  (need 1+)
+18:33:28.806   [PASS] moves: long range    found=858  (need 1+)
+18:33:28.807   [PASS] moves: geometry      found=3469  (need 1+)
+18:33:28.807   [PASS] moves: stance skip   found=154  (need 1+)
+18:33:28.807   [FAIL] perks: antiban       found=0  (need 1+)
+18:33:28.807   [FAIL] perks: frenzy name   found=0  (need 1+)
+18:33:28.807   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+18:33:28.807   [FAIL] perks: boss gutted   found=0  (need 1+)
+18:33:28.807   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+18:33:28.807   [PASS] BAD empty parts      found=0  (need 0 exactly)
+18:33:28.807   scanned 2048 MB in 18.9s
+18:33:28.807   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+18:33:28.807   redirect CONFIGS.bundle: reads=0 ready=YES
+18:33:28.807 ---- self-check: 8 pass / 4 fail ----
