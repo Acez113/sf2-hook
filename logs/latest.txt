@@ -451,3 +451,5 @@
 21:45:10.304 ---- self-check: 9 pass / 3 fail ----
 21:45:46.792 ADBLOCK o-adq.mediation.unity3d.com
 21:47:05.614 DNS a58pbd.launches.appsflyersdk.com
+21:51:35.689 DNS ledger.nekki.com
+21:51:35.846 DNS ledger.nekki.com
