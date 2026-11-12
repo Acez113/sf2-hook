@@ -480,3 +480,25 @@ statusunity/BattlePass.xmlunity/ClanSettings.xmlunity/DailyQuests.xmlunity/Leagu
 22:00:24.143 DNS ledger.nekki.com
 22:00:24.328 DNS ledger.nekki.com
 22:00:24.481 DNS ledger.nekki.com
+22:00:41.458 ---- boss perk hunt (read-only) ----
+22:00:41.908 FOUND[BOSS_PERK_] #1 @0x11c49f091
+rect CONFIGS.bundle: reads=0 ready=YES.21:57:16.072 ---- self-check: 10 pass / 2 fail ----.21:58:11.015 ---- boss perk hunt (read-only) ----.21:58:12.131 FOUND[BOSS_PERK_] #1 @0x1498d7fce.ctions></Trigger><Trigger Name="RakshasCurseZoneBeginningOff"><Events><ModExpires Player="Me" Name="RakshasCurseZoneBeginningOff" />
+22:00:41.908 FOUND[BOSS_PERK_] #2 @0x11c49f14d
+ctions></Trigger><Trigger Name="RakshasCurseZoneBeginningOff"><Events><ModExpires Player="Me" Name="RakshasCurseZoneBeginningOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions>< .l.....................C..........D*...J..B...D.$..<xeB\..D......mB.2.D.....>EB;1.D.W..n..A...C......MB...DL.
+22:00:42.149 FOUND[PERK_BOSS_] #1 @0x11c49f371
+RSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZoneLeft" /><StopEffect Name="RakshasCurseZoneRight" /></Actions></Trigger><Trigg.21:58:12.810 FOUND[PERK_BOSS_] #1 @0x143570fe5............{.....t...x...LIXD},............................/...........$.e"XD},................................erk><Perk NaXD},.....
+22:00:42.149 FOUND[PERK_BOSS_] #2 @0x11c49f42d
+...........{.....t...x...LIXD},............................/...........$.e"XD},................................erk><Perk NaXD},............................M.e."PERK_BOSS_ABILITY"><Set Fra ...................F.u.n.c.t.i.o.n.2...ationNamXD},............................1...4...@. .V.e= ...................-.5.0.0.....h...T
+22:00:42.309 FOUND[ServerPerks] #1 @0x10f7f9d49
+terminated. you should call Init<T>() from your Init() method! (where T is your inherited class)ServerCertificateServerCurrencyMessageServerGemsServerNoResponseServerPerksServerRebootingServerReboot{ServerSettingsServerStreamingServerTimestampServerUserIDServerUserID="ServiceService UnavailableServiceZoneIdServices req
+22:00:42.310 FOUND[ServerPerks] #2 @0x10f833bb9
+statusunity/BattlePass.xmlunity/ClanSettings.xmlunity/DailyQuests.xmlunity/Leagues.xmlunity/LootContainers.xmlunity/RaidItems.xmlunity/RestrictedItems.xmlunity/ServerPerks.xmlunity/VerifyAchievements.xmlunity/config.xmlunity/localizations/unity/tacticSettings.xmlunity_GUIZTestModeunityads-idfiunitytlsunityxunkunknownun
+22:00:42.474 FOUND[RaidWarriorData] #1 @0x10fe5d190
+....3Nekki.SF2.Core.MultiplayerSF.RaidConfig|SFSSettings....6Nekki.SF2.Core.MultiplayerSF.RaidConfig|ServerSettings....7Nekki.SF2.Core.MultiplayerSF.RaidConfig|RaidWarriorData....1Nekki.SF2.Core.MultiplayerSF.RaidConfig|RewardPos....7Nekki.SF2.Core.MultiplayerSF.RaidConfig|DanUpConditions....9Nekki.SF2.Core.Multiplayer
+22:00:42.549 FOUND[RaidWarriorData] #2 @0x11c3032cd
+....3Nekki.SF2.Core.MultiplayerSF.RaidConfig|SFSSettings....6Nekki.SF2.Core.MultiplayerSF.RaidConfig|ServerSettings....7Nekki.SF2.Core.MultiplayerSF.RaidConfig|RaidWarriorData....1Nekki.SF2.Core.MultiplayerSF.RaidConfig|RewardPos....7Nekki.SF2.Core.MultiplayerSF.RaidConfig|DanUpConditions....9Nekki.SF2.Core.Multiplayer
+22:00:42.790 FOUND[<Perk Name="BOSS] #1 @0x11c49f141
+0x1498d7fce.ctions></Trigger><Trigger Name="RakshasCurseZoneBeginningOff"><Events><ModExpires Player="Me" Name="RakshasCurseZoneBeginningOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions>< .l.....................C..........D*...J..B...D.$..<xeB\..D......mB.2.D.....>EB;1.D.W..n..A...C..
+22:00:42.790 FOUND[<Perk Name="BOSS] #2 @0x11c49f2b1
+0x1498d83cc....D.Q...!.AY..D.?..._.B></Trigger><Trigger Name="RakshasCurseZoneOff"><Events><ModExpires Player="Me" Name="RakshasCurseZoneOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZoneLeft" /><StopEffect Name="RakshasCurseZoneRight" /></Actions></Tr
+22:00:42.790 ---- boss perk hunt done ----
