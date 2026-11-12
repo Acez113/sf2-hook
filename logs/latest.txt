@@ -467,3 +467,17 @@
 22:48:58.004 DNS ep2.facebook.com
 22:48:58.167 DNS ep2.facebook.com
 22:48:58.168 DNS star.fallback.c10r.facebook.com.
+22:49:02.184 DNS api.github.com
+22:49:02.432 DNS api.github.com
+22:49:02.518 DNS api.github.com
+22:49:11.522 ---- boss perk hunt (read-only) ----
+22:49:13.692 FOUND[Karcer] #1 @0x12fcb374c
+book.com.22:46:45.386 DNS star.fallback.c10r.facebook.com..22:46:45.387 DNS ep2.facebook.com.22:46:45.437 DNS facebook.com.22:46:45.438 DNS ep2.facebook.com.22:46:45.440 DNS facebook.com.22:46:45.441 DNS ep2.facebook.com.22:46:46.607 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path.22:46:48.782 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.22:46:50.231 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=21).22:46:50.232 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=21).22:46:51.198 DNS sfxlbalt.nekki.com.22:46:51.203 ADBLOCK i-adq.mediation.unity3d.com.22:46:51.221 ADBLOCK init.supersonicads.com.22:46:51.255 ADBLOCK gateway-a.offerwall.unity3d.com.22:46
+22:49:13.693 FOUND[Karcer] #2 @0x12fcb3d5a
+.22:46:52.058 ADBLOCK monetization-sdk.chartboost.com.22:46:52.058 ADBLOCK config.monetization-sdk.chartboost.com.22:46:52.059 ADBLOCK monetization-sdk.chartboost.com.22:46:52.059 ADBLOCK install.monetization-sdk.chartboost.com.22:46:52.081 ADBLOCK o-sdk.mediation.unity3d.com.22:46:52.196 ADBLOCK telemetry.tk0x1.com.22:46:53.043 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4.22:46:53.089 ADBLOCK gateway.unityads.unity3d.com.22:46:53.096 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs.22:46:53.096 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-9
+22:49:13.899 FOUND[Karcer] #3 @0x1380d5254
+............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
+22:49:18.237 DNS report.appmetrica.yandex.net
+22:49:18.770 DNS report.appmetrica.yandex.net
+22:49:19.034 DNS report.appmetrica.yandex.net
+22:49:21.869 FOUND[Drakaina] nothing in 2048 MB
