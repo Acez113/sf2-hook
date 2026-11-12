@@ -460,3 +460,10 @@
 21:51:41.026 ADBLOCK o-iab-notifications.mediation.unity3d.com
 21:51:41.211 ADBLOCK o-iab-imp-counters.mediation.unity3d.com
 21:51:41.214 ADBLOCK o-iab-notifications.mediation.unity3d.com
+21:52:02.289 ADBLOCK gw1.mediation.unity3d.com
+21:52:02.291 ADBLOCK gw1.mediation.unity3d.com
+21:52:02.719 ADBLOCK gw1.mediation.unity3d.com
+21:52:02.773 ADBLOCK gw1.mediation.unity3d.com
+21:52:03.892 ADBLOCK gw1.mediation.unity3d.com
+21:52:04.303 ADBLOCK gateway.unityads.unity3d.com
+21:52:04.318 ADBLOCK a4.applovin.com
