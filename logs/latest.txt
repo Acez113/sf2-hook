@@ -436,3 +436,19 @@
 21:56:12.199 DNS googleapis.com
 21:56:12.203 DNS firebaselogging-pa.googleapis.com
 21:56:56.215 ---- hack self-check (single pass) ----
+21:57:16.070   [PASS] moves: thruster      found=2  (need 1+)
+21:57:16.070   [PASS] moves: no-block      found=344  (need 1+)
+21:57:16.071   [PASS] moves: ignores evade found=349  (need 1+)
+21:57:16.071   [PASS] moves: long range    found=343  (need 1+)
+21:57:16.071   [PASS] moves: geometry      found=1354  (need 1+)
+21:57:16.071   [PASS] moves: stance skip   found=62  (need 1+)
+21:57:16.071   [FAIL] perks: antiban       found=0  (need 1+)
+21:57:16.071   [PASS] perks: frenzy name   found=175  (need 1+)
+21:57:16.071   [PASS] perks: frenzy HACKED found=1  (need 1+)
+21:57:16.071   [FAIL] perks: boss gutted   found=0  (need 1+)
+21:57:16.071   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+21:57:16.071   [PASS] BAD empty parts      found=0  (need 0 exactly)
+21:57:16.071   scanned 2048 MB in 19.9s
+21:57:16.071   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+21:57:16.071   redirect CONFIGS.bundle: reads=0 ready=YES
+21:57:16.072 ---- self-check: 10 pass / 2 fail ----
