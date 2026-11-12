@@ -68,3 +68,17 @@
 17:51:41.617 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
 17:51:41.633 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=24)
 17:51:41.633 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=24)
+17:51:41.849 dump upload dumps/Info.plist -> HTTP 200
+17:51:42.420 ACE bubble shown
+17:51:43.413 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=24)
+17:51:43.414 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=24)
+17:51:46.066 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs
+17:51:46.066 CONFIGSPROBE[R] fd=52 /private/var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs
+17:51:46.067 RAIDCONFIG MISS raid_configs (exists=YES errno=35)
+17:51:46.479 CONFIGSPROBE[R] fd=29 /private/var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs
+17:51:46.480 RAIDCONFIG MISS(retry) raid_configs
+17:51:49.008 CONFIGSPROBE[W] fd=39 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:51:49.054 CONFIGSPROBE[R] fd=6 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:51:49.054 CONFIGSPROBE[R] fd=8 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:51:49.054 RAIDCONFIG GOT econfig.zip bytes=228473
+17:51:52.600 dump upload dumps/econfig.zip -> HTTP 200
