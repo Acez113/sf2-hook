@@ -190,3 +190,5 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .l)....................C......
 22:34:22.475 ADBLOCK cdp.cloud.unity3d.com
 22:34:22.544 ADBLOCK cloud.unity3d.com
 22:34:22.548 ADBLOCK cdp.cloud.unity3d.com
+22:40:00.464 DNS api.github.com
+22:40:00.866 DNS api.github.com
