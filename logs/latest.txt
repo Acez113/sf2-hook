@@ -173,3 +173,7 @@
 17:13:20.616   [PASS] moves: long range    found=116  (need 1+)
 17:13:30.246   [PASS] moves: geometry      found=550  (need 1+)
 17:13:44.302   [PASS] moves: stance skip   found=22  (need 1+)
+17:13:54.566 ---- hack self-check ----
+17:13:58.198   [FAIL] perks: antiban       found=0  (need 1+)
+17:14:07.585   [PASS] moves: thruster      found=2  (need 1+)
+17:14:12.100   [PASS] perks: frenzy name   found=140  (need 1+)
