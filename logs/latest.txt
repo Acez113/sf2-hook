@@ -511,3 +511,4 @@ textBuffer_8K...............................................Z.........."...x/var
 01:13:46.763 FOUND[PERK_BOSS_] #3 @0x14d1018d7
 K_RAKS .,@....................C........z.DS_Z....B.r.D..6.# .B.M.D.J9....C...D.1/....B...D.A/.V8.C.;.D..&....B:.(D..#....B.n.D.....?.Bcd)D....h..B...D.......BL..D.9.....B.W.D.Y.....B...D._.....C.j.D.....F.B.0.C2{..A9.B...D.D~....Bx..C~q..J..B...D.......B...D....4..B.ROD6/...A.Bg&8D....[..B..4D.e..|..BY.5D.W....uB.ROD6/...A.Bg&8D.01:13:46.057 FOUND[PERK_BOSS_] #1 @0x13530142f..r. .). .+. .?.P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...D.e.f.a.u.l.t.P.e.r.k.s.A.s.p.e.c.t. .*. .?.C.u.r.r.e.n.t.F.i.g.h.t.[.]...i.s.R.a.i.d. .*. .?.P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...i.s.P.l.a.y.e.r. .-. .?.P.l.a.y.e.r.A.t.t.r.i.b.u.t.e.[.E.n.e.m.y.]...E.n.c.h.a.n.t.m.e.n.t.R.e.s.i.s.t.a.n.c.e..."0.35" NegateFrames
 01:13:46.763 ---- boss perk hunt done ----
+01:15:01.798 ---- boss perk hunt (read-only) ----
