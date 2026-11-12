@@ -171,3 +171,10 @@
 18:32:25.313 GAMEDATA   278494  WEEKLYOFFER12
 18:32:25.313 GAMEDATA  4448696  FOREST_DEMON_25
 18:32:25.314 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
+18:32:34.873 GAMEDATA      720  sessions.json
+18:32:34.876 GAMEDATA      516  events_data.xml
+18:32:41.685 CONFIGSPROBE[W] fd=53 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs/econfig.zip
+18:32:41.733 CONFIGSPROBE[R] fd=53 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs/econfig.zip
+18:32:41.733 CONFIGSPROBE[R] fd=54 /var/mobile/Containers/Data/Application/8C975272-9158-4DB9-854E-00ABDAB01AFA/Library/Caches/gamedata/raid_configs/econfig.zip
+18:32:41.734 RAIDCONFIG GOT econfig.zip bytes=228473
+18:32:51.494 dump upload dumps/econfig.zip -> HTTP 200
