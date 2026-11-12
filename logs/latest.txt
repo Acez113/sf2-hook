@@ -170,3 +170,5 @@
 17:12:57.155   [PASS] moves: thruster      found=2  (need 1+)
 17:13:04.926   [PASS] moves: no-block      found=113  (need 1+)
 17:13:12.768   [PASS] moves: ignores evade found=113  (need 1+)
+17:13:20.616   [PASS] moves: long range    found=116  (need 1+)
+17:13:30.246   [PASS] moves: geometry      found=550  (need 1+)
