@@ -64,3 +64,7 @@
 13:26:06.227 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/49C33B05-E461-4B8F-B41F-39C147109B52/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
 13:26:06.228 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/49C33B05-E461-4B8F-B41F-39C147109B52/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
 13:26:06.228 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/49C33B05-E461-4B8F-B41F-39C147109B52/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+13:26:08.051 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+13:26:08.067 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=24)
+13:26:08.067 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=24)
+13:26:08.111 ACE bubble shown
