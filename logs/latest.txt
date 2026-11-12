@@ -169,3 +169,7 @@
 17:24:35.523 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 17:24:35.525 GAMEDATA      720  sessions.json
 17:24:35.525 GAMEDATA      516  events_data.xml
+17:24:39.419 manual flush
+17:24:40.150 manual flush
+17:24:53.034 VERIFY HACKS tapped
+17:24:53.037 ---- hack self-check (single pass) ----
