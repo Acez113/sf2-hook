@@ -493,3 +493,4 @@ EVENT_FALL_26.00:38:30.165 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.00
 00:42:11.105 ---- boss perk hunt done ----
 00:43:02.073 ADBLOCK o-adq.mediation.unity3d.com
 00:43:02.128 ADBLOCK o-adq.mediation.unity3d.com
+00:43:52.607 ---- boss perk hunt (read-only) ----
