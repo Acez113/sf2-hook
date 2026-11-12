@@ -401,3 +401,43 @@
 01:10:22.384 DNS api.github.com
 01:10:22.454 DNS api.github.com
 01:10:22.747 DNS assets.nekki.com
+01:10:23.139 DNS api.github.com
+01:10:23.288 DNS assets.nekki.com
+01:10:23.391 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:23.437 DNS assets.nekki.com
+01:10:23.715 DNS ledger.nekki.com
+01:10:23.786 DNS api.github.com
+01:10:23.959 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:23.964 DNS api.github.com
+01:10:23.974 CONFIGSPROBE[W] fd=56 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
+01:10:24.058 DNS sf2lb.nekki.com
+01:10:24.058 CONFIGSPROBE[R] fd=56 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
+01:10:24.059 CONFIGSPROBE[R] fd=57 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
+01:10:24.059 RAIDCONFIG GOT econfig.zip bytes=228473
+01:10:24.573 DNS ledger.nekki.com
+01:10:24.768 DNS ledger.nekki.com
+01:10:24.784 DNS ledger.nekki.com
+01:10:24.910 DNS api.github.com
+01:10:24.926 DNS sf2lb.nekki.com
+01:10:25.157 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:25.417 DNS sf2lb.nekki.com
+01:10:25.494 DNS api.github.com
+01:10:25.506 DNS api.github.com
+01:10:25.686 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:25.736 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:25.865 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
+01:10:25.866 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
+01:10:30.232 DNS ledger.nekki.com
+01:10:30.814 DNS ledger.nekki.com
+01:10:32.207 dump upload dumps/econfig.zip -> HTTP 200
+01:10:32.218 DNS firebaselogging-pa.googleapis.com
+01:10:32.218 DNS firebaselogging-pa.googleapis.com
+01:10:32.259 DNS googleapis.com
+01:10:32.260 DNS firebaselogging-pa.googleapis.com
+01:10:32.778 DNS googleapis.com
+01:10:32.779 DNS firebaselogging-pa.googleapis.com
+01:10:34.217 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:34.380 ADBLOCK o-iab-notifications.mediation.unity3d.com
+01:10:34.381 ADBLOCK o-sdk.mediation.unity3d.com
+01:10:34.387 ADBLOCK hbevents-public.mz.unity3d.com
+01:10:34.392 ADBLOCK w.isx.unity3d.com
