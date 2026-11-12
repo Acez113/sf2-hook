@@ -171,3 +171,12 @@
 17:48:51.151 RAIDCONFIG MISS raid_configs (exists=YES errno=2)
 17:48:51.577 CONFIGSPROBE[R] fd=48 /private/var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs
 17:48:51.578 RAIDCONFIG MISS(retry) raid_configs
+17:49:06.106 GAMEDATA      720  sessions.json
+17:49:06.108 GAMEDATA      516  events_data.xml
+17:49:06.108 GAMEDATA    37419  dump.bin
+17:49:16.756 CONFIGSPROBE[W] fd=49 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:49:16.825 CONFIGSPROBE[R] fd=49 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:49:16.825 CONFIGSPROBE[R] fd=50 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:49:16.825 RAIDCONFIG GOT econfig.zip bytes=228473
+17:49:26.906 dump upload dumps/econfig.zip -> HTTP 200
+17:49:41.074 ---- hack self-check (single pass) ----
