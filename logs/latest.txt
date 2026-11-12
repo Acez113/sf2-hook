@@ -169,3 +169,6 @@
 17:09:58.711 manual flush
 17:10:14.643 manual flush
 17:10:32.107 ---- hack self-check ----
+17:10:39.612   [PASS] moves: thruster      found=3  (need 1+)
+17:10:46.622   [PASS] moves: no-block      found=115  (need 1+)
+17:10:54.981   [PASS] moves: ignores evade found=113  (need 1+)
