@@ -171,3 +171,7 @@
 17:18:45.537 CONFIGSPROBE[R] fd=58 /var/mobile/Containers/Data/Application/66A29994-4E1A-4789-8E5D-F83A7AC63EF0/Library/Caches/gamedata/raid_configs/econfig.zip
 17:18:59.266 manual flush
 17:18:59.863 manual flush
+17:19:00.379 manual flush
+17:19:00.778 VERIFY HACKS tapped
+17:19:00.778 ---- hack self-check (single pass) ----
+17:19:00.978 manual flush
