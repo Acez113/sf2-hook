@@ -71,3 +71,4 @@
 19:16:59.344 ACE bubble shown
 19:17:07.812 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=38)
 19:17:07.812 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=38)
+19:17:10.971 dump upload dumps/Info.plist -> HTTP 200
