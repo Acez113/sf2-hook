@@ -178,3 +178,4 @@
 18:13:14.608 GAMEDATA   562945  config_cdn.xml
 18:13:14.610 GAMEDATA      720  sessions.json
 18:13:14.611 GAMEDATA      516  events_data.xml
+18:13:16.731 dump upload dumps/econfig.zip -> HTTP 200
