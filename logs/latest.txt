@@ -178,3 +178,4 @@
 20:08:00.358 CONFIGSPROBE[R] fd=43 /var/mobile/Containers/Data/Application/188C2BCA-96BF-4103-94A7-7D61AD434E08/Library/Caches/gamedata/raid_configs/econfig.zip
 20:08:00.358 RAIDCONFIG GOT econfig.zip bytes=228473
 20:08:08.765 dump upload dumps/econfig.zip -> HTTP 200
+20:08:45.465 ---- hack self-check (single pass) ----
