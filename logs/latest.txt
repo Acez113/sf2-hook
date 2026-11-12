@@ -352,3 +352,33 @@
 21:24:58.190 GAMEDATA      720  sessions.json
 21:24:58.191 GAMEDATA      516  events_data.xml
 21:24:58.264 DNS sfxlbalt.nekki.com
+21:24:59.282 DNS cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+21:24:59.282 DNS cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+21:24:59.285 DNS cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+21:24:59.337 DNS acquire.unity3dusercontent.com
+21:24:59.337 DNS cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+21:24:59.861 DNS cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+21:25:02.846 ADBLOCK cdn-f.adsmoloco.com
+21:25:03.788 ADBLOCK cdn-f.adsmoloco.com
+21:25:03.884 DNS ledger.nekki.com
+21:25:04.803 DNS ledger.nekki.com
+21:25:04.877 DNS sf2ios-dumps.nekki.com
+21:25:04.914 DNS o-iab-notifications.mediation.unity3d.com
+21:25:04.914 DNS hbevents-public.mz.unity3d.com
+21:25:04.918 DNS hbevents-public.mz.unity3d.com
+21:25:04.920 DNS vg-new-hb-bid-feedback.mtgglobals.com
+21:25:04.967 DNS mz.unity3d.com
+21:25:04.967 DNS hbevents-public.mz.unity3d.com
+21:25:05.931 DNS vg-new-hb-bid-feedback.mtgglobals.com
+21:25:06.802 DNS o-iab-notifications.mediation.unity3d.com
+21:25:06.823 DNS sf2ios-dumps.nekki.com
+21:25:07.146 DNS hbevents-public.mz.unity3d.com
+21:25:07.156 DNS o-iab-notifications.mediation.unity3d.com
+21:25:08.626 DNS firebaselogging-pa.googleapis.com
+21:25:08.627 DNS firebaselogging-pa.googleapis.com
+21:25:08.684 DNS googleapis.com
+21:25:08.685 DNS firebaselogging-pa.googleapis.com
+21:25:08.851 DNS vg-new-hb-bid-feedback.mtgglobals.com
+21:25:11.227 DNS assets.nekki.com
+21:25:12.886 DNS assets.nekki.com
+21:25:17.879 DNS assets.nekki.com
