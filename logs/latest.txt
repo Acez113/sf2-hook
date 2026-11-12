@@ -441,3 +441,5 @@
 01:10:34.381 ADBLOCK o-sdk.mediation.unity3d.com
 01:10:34.387 ADBLOCK hbevents-public.mz.unity3d.com
 01:10:34.392 ADBLOCK w.isx.unity3d.com
+01:10:41.809 DNS api.github.com
+01:10:41.979 DNS api.github.com
