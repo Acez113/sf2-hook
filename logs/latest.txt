@@ -1,72 +1,70 @@
-=== SF2Mod ACE v6.0 session 20261112-131903 ===
-15:19:03.038 ACE v7.2 load-reads loaded (patches=4 hacks=3)
-15:19:03.038 redirect armed: VERSIONAL_CONFIGS.bundle
-15:19:03.038 redirect armed: CONFIGS.bundle
-15:19:03.038 2/2 redirects armed
-15:19:03.039 users.xml already present - keeping player's save
-15:19:03.570 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Documents/userdata/initSettings.bin
-15:19:03.588 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/statistics/crashLog.json
-15:19:03.588 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/statistics/crashLog.json
-15:19:03.642 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Documents/userdata/users.xml
-15:19:03.737 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Documents/userdata/users.xml
-15:19:03.747 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/packs.xml
-15:19:03.751 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/ZONE_1
-15:19:03.841 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/ZONE_1
-15:19:03.841 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/ZONE_1
-15:19:03.844 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:19:03.847 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:19:03.847 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:19:03.847 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:19:03.851 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:19:03.851 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:19:03.852 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:19:03.855 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:19:03.855 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:19:03.856 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:19:03.857 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:19:03.857 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:19:03.858 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:19:03.860 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:19:03.860 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:19:03.860 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:19:03.863 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:19:03.864 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:19:03.864 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:19:03.868 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:19:03.868 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:19:03.868 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:19:03.871 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:19:03.871 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:19:03.871 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:19:03.881 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:19:03.881 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:19:03.882 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:19:03.885 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:19:03.885 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:19:03.886 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:19:03.888 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:19:03.888 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:19:03.888 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:19:03.890 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:19:03.890 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:19:03.890 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:19:03.894 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:19:03.894 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:19:03.894 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:19:03.895 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:19:03.895 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:19:03.896 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:19:03.902 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:19:03.902 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:19:03.903 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:19:03.909 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:19:03.909 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:19:03.910 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:19:03.912 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:19:03.912 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:19:05.241 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
-15:19:05.257 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=24)
-15:19:05.258 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=24)
-15:19:06.090 ACE bubble shown
-15:19:08.320 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=24)
-15:19:08.320 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=24)
+=== SF2Mod ACE v6.0 session 20261112-132649 ===
+15:26:49.686 ACE v7.2 load-reads loaded (patches=4 hacks=3)
+15:26:49.686 redirect armed: VERSIONAL_CONFIGS.bundle
+15:26:49.686 redirect armed: CONFIGS.bundle
+15:26:49.687 2/2 redirects armed
+15:26:49.688 users.xml already present - keeping player's save
+15:26:50.510 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Documents/userdata/initSettings.bin
+15:26:50.534 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/statistics/crashLog.json
+15:26:50.535 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/statistics/crashLog.json
+15:26:50.590 OPEN[R] fd=26 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Documents/userdata/users.xml
+15:26:50.678 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Documents/userdata/users.xml
+15:26:50.697 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/packs.xml
+15:26:50.704 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/ZONE_1
+15:26:50.795 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/ZONE_1
+15:26:50.795 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/ZONE_1
+15:26:50.798 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:26:50.801 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:26:50.801 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:26:50.801 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:26:50.805 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:26:50.805 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:26:50.806 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:26:50.809 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:26:50.810 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:26:50.810 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:26:50.811 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:26:50.811 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:26:50.812 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:26:50.814 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:26:50.814 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:26:50.815 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:26:50.818 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:26:50.818 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:26:50.819 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:26:50.822 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:26:50.823 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:26:50.823 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:26:50.825 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:26:50.826 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:26:50.826 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:26:50.836 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:26:50.836 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:26:50.837 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:26:50.840 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:26:50.840 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:26:50.841 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:26:50.843 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:26:50.843 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:26:50.843 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:26:50.845 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:26:50.845 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:26:50.846 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:26:50.849 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:26:50.849 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:26:50.849 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:26:50.850 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:26:50.851 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:26:50.851 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:26:50.857 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:26:50.857 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:26:50.858 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:26:50.864 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:26:50.864 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:26:50.865 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+15:26:50.867 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+15:26:50.867 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/3E9034CD-AEA7-4D20-B352-28B47DD22CD7/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+15:26:52.324 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+15:26:52.340 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=36)
+15:26:52.341 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=36)
+15:26:52.756 ACE bubble shown
