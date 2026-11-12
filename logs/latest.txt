@@ -179,3 +179,10 @@
 16:46:03.781 ---- hack self-check ----
 16:46:09.386   [PASS] thruster priority    found=11  (need 11+)
 16:46:14.225   [PASS] no-block             found=645  (need 400+)
+16:46:19.380   [PASS] ignores evade        found=634  (need 400+)
+16:46:24.243   [PASS] collision geometry   found=2564  (need 2000+)
+16:46:30.627   [PASS] stance skip          found=117  (need 100+)
+16:46:32.900 VERIFY HACKS tapped
+16:46:32.900 ---- hack self-check ----
+16:46:33.248 VERIFY HACKS tapped
+16:46:33.248 ---- hack self-check ----
