@@ -64,3 +64,12 @@
 17:24:16.279 OPEN[R] fd=35 /var/mobile/Containers/Data/Application/11BE8B7A-ADE7-47E1-B6BA-24FD1A60312C/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 17:24:16.282 OPEN[R] fd=23 /var/mobile/Containers/Data/Application/11BE8B7A-ADE7-47E1-B6BA-24FD1A60312C/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 17:24:16.282 OPEN[R] fd=23 /var/mobile/Containers/Data/Application/11BE8B7A-ADE7-47E1-B6BA-24FD1A60312C/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+17:24:17.707 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+17:24:17.724 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=23)
+17:24:17.724 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=23)
+17:24:17.888 ACE bubble shown
+17:24:19.515 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=23)
+17:24:19.516 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=23)
+17:24:21.969 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/11BE8B7A-ADE7-47E1-B6BA-24FD1A60312C/Library/Caches/gamedata/raid_configs
+17:24:30.202 CONFIGSPROBE[W] fd=58 /var/mobile/Containers/Data/Application/11BE8B7A-ADE7-47E1-B6BA-24FD1A60312C/Library/Caches/gamedata/raid_configs/econfig.zip
+17:24:30.270 CONFIGSPROBE[R] fd=58 /var/mobile/Containers/Data/Application/11BE8B7A-ADE7-47E1-B6BA-24FD1A60312C/Library/Caches/gamedata/raid_configs/econfig.zip
