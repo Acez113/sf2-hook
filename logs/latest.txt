@@ -459,3 +459,26 @@ EVENT_FALL_26.00:38:30.165 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.00
 00:41:40.491 FOUND[KARCER] #3 @0x13981c10d
 ..1.9...............-............@..9.....{k9.......9............................ .v.................3.0.4...ree/weekly_offer_21_ .v.................U.S.D...f563d558c9813b73ac73 .v.................2.5.1...Version="2.41.5" Pla .v.................2...9.9...ve="0" Reload="1"  .v.................3.0.3...F10039FA05BCC87C59C3 .v.................U.S.D.../KARCER_SET" Url="ht .v.................2.5.0...wfight/unity_packs/S .v.................2...9.9..._03_2025_e3ed98ed3 .v.................3.0.2...519592_android" MinV .v.................R.U.B...2,11" Attach="1" Act .v.................2.4.9...089" Hash="0CE61BD42 .v.................U.S.D...   <item Name="VERSI .v.................2.4.5...ssets.nekki.com
 00:41:46.710 FOUND[DRAKAINA] nothing in 2049 MB
+00:41:54.030 FOUND[TENEBRIS] nothing in 2048 MB
+00:41:57.333   [PASS] moves: thruster      found=6  (need 1+)
+00:41:57.334   [PASS] moves: no-block      found=125  (need 1+)
+00:41:57.335   [PASS] moves: ignores evade found=111  (need 1+)
+00:41:57.336   [PASS] moves: long range    found=356  (need 1+)
+00:41:57.336   [PASS] moves: geometry      found=1528  (need 1+)
+00:41:57.336   [PASS] moves: stance skip   found=70  (need 1+)
+00:41:57.337   [FAIL] perks: antiban       found=0  (need 1+)
+00:41:57.337   [PASS] perks: frenzy name   found=65  (need 1+)
+00:41:57.337   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+00:41:57.337   [FAIL] perks: boss gutted   found=0  (need 1+)
+00:41:57.337   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+00:41:57.338   [PASS] BAD empty parts      found=0  (need 0 exactly)
+00:41:57.338   [FAIL] rc: my zeroed perk   found=0  (need 1+)
+00:41:57.338   [PASS] rc: ORIGINAL 480     found=0  (need 0 exactly)
+00:41:57.338   [FAIL] rc: my zeroed inmove found=0  (need 1+)
+00:41:57.339   [PASS] rc: ORIGINAL 60      found=0  (need 0 exactly)
+00:41:57.339   [PASS] rc: my ammo gate 0   found=1  (need 1+)
+00:41:57.339   [PASS] rc: ORIGINAL ammo 1  found=0  (need 0 exactly)
+00:41:57.339   scanned 2048 MB in 56.4s
+00:41:57.340   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+00:41:57.340   redirect CONFIGS.bundle: reads=0 ready=YES
+00:41:57.340 ---- self-check: 13 pass / 5 fail ----
