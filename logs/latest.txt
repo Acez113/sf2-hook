@@ -67,3 +67,5 @@
 11:28:25.510 REDIRECT fd=20 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
 11:28:28.348 REDIRECT fd=23 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
 11:28:28.373 REDIRECT fd=20 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
+11:28:42.299 REDIRECT fd=20 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
+11:28:42.333 REDIRECT fd=20 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/VERSIONAL_CONFIGS -> hacked
