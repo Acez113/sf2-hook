@@ -172,3 +172,4 @@
 17:13:12.768   [PASS] moves: ignores evade found=113  (need 1+)
 17:13:20.616   [PASS] moves: long range    found=116  (need 1+)
 17:13:30.246   [PASS] moves: geometry      found=550  (need 1+)
+17:13:44.302   [PASS] moves: stance skip   found=22  (need 1+)
