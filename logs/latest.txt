@@ -72,3 +72,8 @@
 18:57:03.215 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=38)
 18:57:03.216 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=23)
 18:57:06.985 dump upload dumps/Info.plist -> HTTP 422
+18:57:09.539 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/31A0A7CC-1B5C-4B31-A0D6-2B30FCDF6AFE/Library/Caches/gamedata/raid_configs
+18:57:09.540 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/31A0A7CC-1B5C-4B31-A0D6-2B30FCDF6AFE/Library/Caches/gamedata/raid_configs
+18:57:09.540 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+18:57:09.966 CONFIGSPROBE[R] fd=48 /private/var/mobile/Containers/Data/Application/31A0A7CC-1B5C-4B31-A0D6-2B30FCDF6AFE/Library/Caches/gamedata/raid_configs
+18:57:09.966 RAIDCONFIG MISS(retry) raid_configs
