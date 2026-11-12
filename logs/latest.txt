@@ -166,3 +166,4 @@
 17:12:14.579 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 17:12:14.580 GAMEDATA      720  sessions.json
 17:12:14.581 GAMEDATA      516  events_data.xml
+17:12:49.553 ---- hack self-check ----
