@@ -167,3 +167,4 @@
 17:09:57.248 GAMEDATA      720  sessions.json
 17:09:57.249 GAMEDATA      516  events_data.xml
 17:09:58.711 manual flush
+17:10:14.643 manual flush
