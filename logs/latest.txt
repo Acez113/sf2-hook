@@ -511,3 +511,4 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect Name="RakshasCurseZoneLeft" Seq
 00:01:13.334 DNS facebook.com
 00:01:13.336 DNS ep2.facebook.com
 00:01:22.209 DNS report.appmetrica.yandex.net
+00:01:41.735 ---- boss perk hunt (read-only) ----
