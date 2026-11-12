@@ -452,3 +452,25 @@
 01:11:05.132 DNS itunes.apple.com
 01:11:05.188 DNS report.appmetrica.yandex.net
 01:11:16.892 ---- hack self-check (single pass) ----
+01:12:11.067   [PASS] moves: thruster      found=6  (need 1+)
+01:12:11.068   [PASS] moves: no-block      found=110  (need 1+)
+01:12:11.068   [PASS] moves: ignores evade found=100  (need 1+)
+01:12:11.068   [PASS] moves: long range    found=398  (need 1+)
+01:12:11.068   [PASS] moves: geometry      found=1703  (need 1+)
+01:12:11.068   [PASS] moves: stance skip   found=63  (need 1+)
+01:12:11.068   [FAIL] perks: antiban       found=0  (need 1+)
+01:12:11.069   [PASS] perks: frenzy name   found=41  (need 1+)
+01:12:11.069   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+01:12:11.069   [FAIL] perks: boss gutted   found=0  (need 1+)
+01:12:11.069   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+01:12:11.069   [PASS] BAD empty parts      found=0  (need 0 exactly)
+01:12:11.069   [FAIL] rc: my zeroed perk   found=0  (need 1+)
+01:12:11.069   [PASS] rc: ORIGINAL 480     found=0  (need 0 exactly)
+01:12:11.070   [FAIL] rc: my zeroed inmove found=0  (need 1+)
+01:12:11.070   [PASS] rc: ORIGINAL 60      found=0  (need 0 exactly)
+01:12:11.070   [FAIL] rc: my ammo gate 0   found=0  (need 1+)
+01:12:11.070   [PASS] rc: ORIGINAL ammo 1  found=0  (need 0 exactly)
+01:12:11.070   scanned 2048 MB in 54.2s
+01:12:11.070   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+01:12:11.070   redirect CONFIGS.bundle: reads=0 ready=YES
+01:12:11.071 ---- self-check: 12 pass / 6 fail ----
