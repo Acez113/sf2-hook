@@ -461,3 +461,8 @@
 21:37:33.763 ADBLOCK config.monetization-sdk.chartboost.com
 21:37:33.766 ADBLOCK monetization-sdk.chartboost.com
 21:37:33.766 ADBLOCK install.monetization-sdk.chartboost.com
+21:38:53.731 ADBLOCK rt.applvn.com
+21:38:53.733 ADBLOCK rt.applvn.com
+21:38:53.797 ADBLOCK applvn.com
+21:38:53.799 ADBLOCK rt.applvn.com
+21:38:53.849 ADBLOCK applvn.com
