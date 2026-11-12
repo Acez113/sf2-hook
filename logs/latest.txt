@@ -69,3 +69,52 @@
 21:05:50.067 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=23)
 21:05:50.068 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=23)
 21:05:50.089 ACE bubble shown
+21:05:51.922 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+21:05:52.147 dump upload dumps/Info.plist -> HTTP 200
+21:05:54.538 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=39)
+21:05:54.538 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=39)
+21:05:55.412 ADBLOCK init.supersonicads.com
+21:05:57.152 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:05:57.153 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:05:57.155 ADBLOCK config.monetization-sdk.chartboost.com
+21:05:57.157 ADBLOCK monetization-sdk.chartboost.com
+21:05:57.158 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:05:57.158 ADBLOCK config.monetization-sdk.chartboost.com
+21:05:57.160 ADBLOCK install.monetization-sdk.chartboost.com
+21:05:57.160 ADBLOCK install.monetization-sdk.chartboost.com
+21:05:57.213 ADBLOCK monetization-sdk.chartboost.com
+21:05:57.214 ADBLOCK config.monetization-sdk.chartboost.com
+21:05:57.214 ADBLOCK monetization-sdk.chartboost.com
+21:05:57.215 ADBLOCK install.monetization-sdk.chartboost.com
+21:05:58.293 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/864AAD69-D127-4306-8031-7B3D7A91D6B2/Library/Caches/gamedata/raid_configs
+21:05:58.293 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/864AAD69-D127-4306-8031-7B3D7A91D6B2/Library/Caches/gamedata/raid_configs
+21:05:58.294 RAIDCONFIG MISS raid_configs (exists=YES errno=2)
+21:05:58.301 ADBLOCK gateway.unityads.unity3d.com
+21:05:58.327 ADBLOCK googleads.g.doubleclick.net
+21:05:58.328 ADBLOCK pubads.g.doubleclick.net
+21:05:58.339 ADBLOCK googleads.g.doubleclick.net
+21:05:58.341 ADBLOCK pubads.g.doubleclick.net
+21:05:58.350 ADBLOCK g.doubleclick.net
+21:05:58.352 ADBLOCK pubads.g.doubleclick.net
+21:05:58.387 ADBLOCK unityads.unity3d.com
+21:05:58.388 ADBLOCK gateway.unityads.unity3d.com
+21:05:58.396 ADBLOCK g.doubleclick.net
+21:05:58.396 ADBLOCK googleads.g.doubleclick.net
+21:05:58.519 ADBLOCK googleads.g.doubleclick.net
+21:05:58.661 ADBLOCK unityads.unity3d.com
+21:05:58.661 ADBLOCK gateway.unityads.unity3d.com
+21:05:58.690 ADBLOCK pubads.g.doubleclick.net
+21:05:58.700 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/864AAD69-D127-4306-8031-7B3D7A91D6B2/Library/Caches/gamedata/raid_configs
+21:05:58.700 RAIDCONFIG MISS(retry) raid_configs
+21:05:59.671 ADBLOCK gateway.unityads.unity3d.com
+21:05:59.676 ADBLOCK unityads.unity3d.com
+21:05:59.677 ADBLOCK gateway.unityads.unity3d.com
+21:06:00.072 ADBLOCK unityads.unity3d.com
+21:06:00.072 ADBLOCK gateway.unityads.unity3d.com
+21:06:00.328 ADBLOCK unityads.unity3d.com
+21:06:00.328 ADBLOCK gateway.unityads.unity3d.com
+21:06:04.226 ADBLOCK ms.applovin.com
+21:06:04.227 ADBLOCK ms.applovin.com
+21:06:04.286 ADBLOCK applovin.com
+21:06:04.287 ADBLOCK ms.applovin.com
+21:06:05.907 ADBLOCK d.applovin.com
