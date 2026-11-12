@@ -551,3 +551,12 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  ..+....................C......
 00:44:23.104 FOUND[PERK_BOSS_] #3 @0x157bdc186
 K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  ..+....................C............aE.o...p....b..D9........"..... ................2*.|,..%...f...e.......JoD.2L+.y...........A6....R.^.?.....9...........{Z...g...k..v.....3.r(....x.B%.@L^...I......$s..H.;...... ...}c.k.*.B.....+..N......................U...L`J......i.A..=.......00:42:11.104 FOUND[PERK_BOSS_] nothing in 2049 MB.00:42:11.105 ---- boss perk hunt done ----.00:43:02.073 ADBLOCK o-adq.mediation.unity3d.com.00:43:02.128 ADBLOCK o-adq.mediation.unity3d.com.00:43:52.607 ---- boss perk hunt (read-only) ----.00:43:54.630 FOUND[Karcer] #1 @0x1388a4254.............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=..
 00:44:23.104 ---- boss perk hunt done ----
+00:44:30.242 ADBLOCK rt.applovin.com
+00:44:30.243 ADBLOCK rt.applovin.com
+00:44:30.256 ADBLOCK gateway.unityads.unity3d.com
+00:44:30.293 ADBLOCK unityads.unity3d.com
+00:44:30.295 ADBLOCK gateway.unityads.unity3d.com
+00:44:30.437 ADBLOCK applovin.com
+00:44:30.438 ADBLOCK rt.applovin.com
+00:44:31.983 ADBLOCK applovin.com
+00:44:31.991 ADBLOCK rt.applovin.com
