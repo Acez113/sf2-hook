@@ -400,3 +400,19 @@
 22:24:51.644 DNS firebaselogging-pa.googleapis.com
 22:24:51.646 ADBLOCK o-sdk.mediation.unity3d.com
 22:25:35.059 ---- hack self-check (single pass) ----
+22:25:53.963   [PASS] moves: thruster      found=6  (need 1+)
+22:25:53.963   [PASS] moves: no-block      found=98  (need 1+)
+22:25:53.963   [PASS] moves: ignores evade found=89  (need 1+)
+22:25:53.963   [PASS] moves: long range    found=304  (need 1+)
+22:25:53.963   [PASS] moves: geometry      found=1298  (need 1+)
+22:25:53.963   [PASS] moves: stance skip   found=37  (need 1+)
+22:25:53.964   [FAIL] perks: antiban       found=0  (need 1+)
+22:25:53.964   [PASS] perks: frenzy name   found=105  (need 1+)
+22:25:53.964   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+22:25:53.964   [FAIL] perks: boss gutted   found=0  (need 1+)
+22:25:53.964   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+22:25:53.964   [PASS] BAD empty parts      found=0  (need 0 exactly)
+22:25:53.964   scanned 2048 MB in 18.9s
+22:25:53.964   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+22:25:53.964   redirect CONFIGS.bundle: reads=0 ready=YES
+22:25:53.964 ---- self-check: 9 pass / 3 fail ----
