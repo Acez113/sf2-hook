@@ -454,3 +454,12 @@
 22:13:13.495   redirect CONFIGS.bundle: reads=0 ready=YES
 22:13:13.495 ---- self-check: 8 pass / 4 fail ----
 22:13:49.088 ADBLOCK o-adq.mediation.unity3d.com
+22:14:08.487 ---- boss perk hunt (read-only) ----
+22:14:12.505 FOUND[Karcer] nothing in 2048 MB
+22:14:17.024 FOUND[Drakaina] nothing in 2049 MB
+22:14:18.297 FOUND[Tenebris] #1 @0x14a5c9dce
+agicMiddle" /><Distance Max="-250" Axis="X"><From Object="Nodes" Part="Magic-Node2_1" /><To Object="Wall" Part="Front" /></Distance><Name Value="PrinceMagic" /></Conditions><Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player="Enemy" Object="Nod
+22:14:18.297 FOUND[Tenebris] #2 @0x14a5c9e7f
+ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player="Enemy" Object="Nodes" Part="NPivot" /></Distance></Conditions></Tactics><Align Axis="X|Z"><Pivot Object="Nodes" Part="NHeel_2" /><Position Player="Me" Object="Pivot" /></Align><Conditions><Keys><
+22:14:18.297 FOUND[Tenebris] #3 @0x14a5ca19e
+me="SemiUninterrupt" Not="1" /><ModExists Name="Concussion" Not="1" /><CurrentInterval Name="Uninterrupt" Not="1" /><RoundStage Name="Fight" /><Operator Type="And" Not="1"><CurrentAnimation Name="$Move" /><CurrentInterval Name="SemiUninterrupt" /></Operator><CurrentAnimation Name="Physical" Not="1" /></Conditions><Locks><Item Type="Magic" SubType="TenebrisMagic" /><Item Type="Skeleton" SubType="Skeleton" /></Locks><Intervals><Interval Type="Invulnerable" Name="Evade" End="14" /><Interval Name="Uninterrupt" End="31" /></Intervals><Actions><CreatePlayer Name="TenebrisMagic" Frame="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBu
