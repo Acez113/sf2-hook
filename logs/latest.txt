@@ -459,3 +459,11 @@
 22:48:48.214   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 22:48:48.214   redirect CONFIGS.bundle: reads=0 ready=YES
 22:48:48.214 ---- self-check: 14 pass / 4 fail ----
+22:48:57.860 DNS ep2.facebook.com
+22:48:57.885 DNS ep2.facebook.com
+22:48:57.906 DNS ep2.facebook.com
+22:48:57.907 DNS star.fallback.c10r.facebook.com.
+22:48:57.992 DNS facebook.com
+22:48:58.004 DNS ep2.facebook.com
+22:48:58.167 DNS ep2.facebook.com
+22:48:58.168 DNS star.fallback.c10r.facebook.com.
