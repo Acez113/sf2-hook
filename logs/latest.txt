@@ -502,3 +502,5 @@ statusunity/BattlePass.xmlunity/ClanSettings.xmlunity/DailyQuests.xmlunity/Leagu
 22:00:42.790 FOUND[<Perk Name="BOSS] #2 @0x11c49f2b1
 0x1498d83cc....D.Q...!.AY..D.?..._.B></Trigger><Trigger Name="RakshasCurseZoneOff"><Events><ModExpires Player="Me" Name="RakshasCurseZoneOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZoneLeft" /><StopEffect Name="RakshasCurseZoneRight" /></Actions></Tr
 22:00:42.790 ---- boss perk hunt done ----
+22:05:30.365 DNS ledger.nekki.com
+22:05:30.586 DNS ledger.nekki.com
