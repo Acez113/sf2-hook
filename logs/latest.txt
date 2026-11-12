@@ -520,3 +520,5 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .l)....................C......
 22:29:54.084 DNS sfxlbalt.nekki.com
 22:29:54.280 DNS sfxlbalt.nekki.com
 22:29:54.397 DNS sfxlbalt.nekki.com
+22:32:58.305 VERIFY HACKS tapped
+22:32:58.306 ---- hack self-check (single pass) ----
