@@ -404,3 +404,8 @@
 21:27:03.265   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 21:27:03.265   redirect CONFIGS.bundle: reads=0 ready=YES
 21:27:03.265 ---- self-check: 9 pass / 3 fail ----
+21:28:40.992 ADBLOCK gateway.unityads.unity3d.com
+21:28:41.051 ADBLOCK unityads.unity3d.com
+21:28:41.059 ADBLOCK gateway.unityads.unity3d.com
+21:28:41.496 ADBLOCK unityads.unity3d.com
+21:28:41.498 ADBLOCK gateway.unityads.unity3d.com
