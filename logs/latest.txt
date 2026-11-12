@@ -437,3 +437,19 @@
 22:12:12.737 ADBLOCK w.isx.unity3d.com
 22:12:12.876 ADBLOCK w.isx.unity3d.com
 22:12:53.570 ---- hack self-check (single pass) ----
+22:13:13.494   [PASS] moves: thruster      found=8  (need 1+)
+22:13:13.494   [PASS] moves: no-block      found=832  (need 1+)
+22:13:13.494   [PASS] moves: ignores evade found=831  (need 1+)
+22:13:13.495   [FAIL] moves: long range    found=0  (need 1+)
+22:13:13.495   [PASS] moves: geometry      found=3323  (need 1+)
+22:13:13.495   [PASS] moves: stance skip   found=153  (need 1+)
+22:13:13.495   [FAIL] perks: antiban       found=0  (need 1+)
+22:13:13.495   [PASS] perks: frenzy name   found=110  (need 1+)
+22:13:13.495   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+22:13:13.495   [FAIL] perks: boss gutted   found=0  (need 1+)
+22:13:13.495   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+22:13:13.495   [PASS] BAD empty parts      found=0  (need 0 exactly)
+22:13:13.495   scanned 2049 MB in 19.9s
+22:13:13.495   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+22:13:13.495   redirect CONFIGS.bundle: reads=0 ready=YES
+22:13:13.495 ---- self-check: 8 pass / 4 fail ----
