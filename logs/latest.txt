@@ -195,3 +195,5 @@
 17:53:12.637   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 17:53:12.637   redirect CONFIGS.bundle: reads=0 ready=YES
 17:53:12.637 ---- self-check: 9 pass / 3 fail ----
+17:53:43.385 CONFIGSPROBE[W] fd=38 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
+17:53:43.468 CONFIGSPROBE[R] fd=38 /var/mobile/Containers/Data/Application/9C0F7450-2C0A-40AF-823F-D06587CD18DC/Library/Caches/gamedata/raid_configs/econfig.zip
