@@ -65,3 +65,4 @@
 12:17:31.896 VC read #1 -> real (verify)
 12:17:31.912 VC read #2 -> real (verify)
 12:17:31.912 VC read #3 -> HACKED (fd=21)
+12:17:32.571 ACE bubble shown
