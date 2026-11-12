@@ -1,56 +1,7 @@
-=== SF2Mod ACE v6.0 session 20261112-094008 ===
-11:40:08.093 ACE v6.8 redirect-only loaded (patches=4 hacks=3)
-11:40:08.093 redirect armed -> /private/var/containers/Bundle/Application/04FED7AE-7036-4013-8B72-A5E806629C9B/ShadowFight2.app/preload_bundles/VERSIONAL_CONFIGS.bundle
-11:40:08.095 users.xml already present - keeping player's save
-11:40:09.206 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Documents/userdata/initSettings.bin
-11:40:09.230 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/statistics/crashLog.json
-11:40:09.231 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/statistics/crashLog.json
-11:40:09.295 OPEN[R] fd=23 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Documents/userdata/users.xml
-11:40:09.430 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Documents/userdata/users.xml
-11:40:09.442 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/packs.xml
-11:40:09.445 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_1
-11:40:09.539 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_1
-11:40:09.540 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_1
-11:40:09.542 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7_3
-11:40:09.580 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7_3
-11:40:09.580 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7_3
-11:40:09.582 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7_2
-11:40:09.592 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7_2
-11:40:09.592 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7_2
-11:40:09.593 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7
-11:40:09.626 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7
-11:40:09.626 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_7
-11:40:09.628 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_IM
-11:40:09.640 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_IM
-11:40:09.640 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_IM
-11:40:09.641 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_6
-11:40:09.709 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_6
-11:40:09.709 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_6
-11:40:09.711 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_5
-11:40:09.746 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_5
-11:40:09.746 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_5
-11:40:09.747 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_4
-11:40:09.779 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_4
-11:40:09.779 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_4
-11:40:09.780 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_2
-11:40:09.814 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_2
-11:40:09.814 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_2
-11:40:09.815 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/TACTICS
-11:40:09.976 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/TACTICS
-11:40:09.976 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/TACTICS
-11:40:09.980 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/MODELS
-11:40:10.160 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/MODELS
-11:40:10.160 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/MODELS
-11:40:10.162 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/CLANS
-11:40:10.322 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/CLANS
-11:40:10.322 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/CLANS
-11:40:10.327 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_RAID
-11:40:10.559 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_RAID
-11:40:10.559 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_RAID
-11:40:10.566 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ANIMATIONS
-11:40:10.582 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ANIMATIONS
-11:40:10.582 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ANIMATIONS
-11:40:10.583 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_3
-11:40:10.622 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_3
-11:40:10.622 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/bundles/ZONE_3
-11:40:10.746 OPEN[W] fd=41 /var/mobile/Containers/Data/Application/230F6702-8142-4060-9E0A-6B033FA9AC71/Library/Caches/gamedata/statistics/crashLog.json
+=== SF2Mod ACE v6.0 session 20261112-094108 ===
+11:41:08.575 ACE v6.9 live-hack loaded (patches=4 hacks=3)
+11:41:08.575 redirect armed -> /private/var/containers/Bundle/Application/46AC2123-6751-443E-A4C8-34A9342AF73E/ShadowFight2.app/preload_bundles/VERSIONAL_CONFIGS.bundle
+11:41:08.579 users.xml seeded -> /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Documents/userdata (xml=YES, hash=YES)
+11:41:09.956 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Library/Caches/gamedata/statistics/crashLog.json
+11:41:10.069 OPEN[R] fd=23 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Documents/userdata/users.xml
+11:41:10.786 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/913D1772-5C2F-44F5-90D3-BF811324E72F/Documents/userdata/users.xml
