@@ -188,3 +188,4 @@
 17:15:18.190   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 17:15:18.191   redirect CONFIGS.bundle: reads=0 ready=YES
 17:15:18.191 ---- self-check: 9 pass / 3 fail ----
+17:15:29.711   [PASS] moves: stance skip   found=22  (need 1+)
