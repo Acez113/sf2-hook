@@ -462,3 +462,4 @@ r"><Events><ModExpires Player="Me" Name="RemoveOrbOfHunger" /></Events><Locks><P
 22:28:20.465 DNS api.github.com
 22:28:20.736 DNS api.github.com
 22:28:20.807 DNS api.github.com
+22:29:20.007 ---- boss perk hunt (read-only) ----
