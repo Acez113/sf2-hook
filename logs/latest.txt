@@ -192,3 +192,4 @@
 17:25:11.860 ---- self-check: 8 pass / 4 fail ----
 17:25:13.136 manual flush
 17:25:13.954 manual flush
+17:25:29.892 ---- hack self-check (single pass) ----
