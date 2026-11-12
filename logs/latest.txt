@@ -169,3 +169,5 @@
 17:18:36.821 GAMEDATA      516  events_data.xml
 17:18:45.480 CONFIGSPROBE[W] fd=58 /var/mobile/Containers/Data/Application/66A29994-4E1A-4789-8E5D-F83A7AC63EF0/Library/Caches/gamedata/raid_configs/econfig.zip
 17:18:45.537 CONFIGSPROBE[R] fd=58 /var/mobile/Containers/Data/Application/66A29994-4E1A-4789-8E5D-F83A7AC63EF0/Library/Caches/gamedata/raid_configs/econfig.zip
+17:18:59.266 manual flush
+17:18:59.863 manual flush
