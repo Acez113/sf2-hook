@@ -65,3 +65,21 @@
 20:52:31.772 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 20:52:31.774 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 20:52:31.774 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+20:52:33.022 dump upload dumps/Info.plist -> HTTP 200
+20:52:33.274 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+20:52:33.290 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=19)
+20:52:33.290 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=19)
+20:52:33.369 ACE bubble shown
+20:52:35.348 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=19)
+20:52:35.348 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=19)
+20:52:36.530 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+20:52:38.012 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/raid_configs
+20:52:38.014 CONFIGSPROBE[R] fd=52 /private/var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/raid_configs
+20:52:38.014 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+20:52:38.440 CONFIGSPROBE[R] fd=28 /private/var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/raid_configs
+20:52:38.440 RAIDCONFIG MISS(retry) raid_configs
+20:52:46.440 CONFIGSPROBE[W] fd=54 /var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/raid_configs/econfig.zip
+20:52:46.490 CONFIGSPROBE[R] fd=54 /var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/raid_configs/econfig.zip
+20:52:46.490 CONFIGSPROBE[R] fd=55 /var/mobile/Containers/Data/Application/1D8CB059-5923-421A-A344-E0FEF3D00F35/Library/Caches/gamedata/raid_configs/econfig.zip
+20:52:46.491 RAIDCONFIG GOT econfig.zip bytes=228473
+20:52:50.518 dump upload dumps/econfig.zip -> HTTP 200
