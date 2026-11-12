@@ -507,3 +507,6 @@ statusunity/BattlePass.xmlunity/ClanSettings.xmlunity/DailyQuests.xmlunity/Leagu
 22:08:01.468 DNS api.github.com
 22:08:01.729 DNS api.github.com
 22:08:01.752 DNS api.github.com
+22:09:18.957 DNS itunes.apple.com
+22:09:18.992 DNS report.appmetrica.yandex.net
+22:09:19.299 DNS report.appmetrica.yandex.net
