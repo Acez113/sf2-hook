@@ -183,3 +183,8 @@
 17:14:44.740   [FAIL] perks: boss gutted   found=0  (need 1+)
 17:14:58.272   [PASS] moves: long range    found=116  (need 1+)
 17:15:02.646   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+17:15:14.823   [PASS] moves: geometry      found=550  (need 1+)
+17:15:18.190   [PASS] BAD empty parts      found=0  (need 0 exactly)
+17:15:18.190   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+17:15:18.191   redirect CONFIGS.bundle: reads=0 ready=YES
+17:15:18.191 ---- self-check: 9 pass / 3 fail ----
