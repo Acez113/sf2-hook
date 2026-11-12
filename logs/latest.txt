@@ -427,3 +427,8 @@
 21:30:25.255 ADBLOCK config.monetization-sdk.chartboost.com
 21:30:25.259 ADBLOCK monetization-sdk.chartboost.com
 21:30:25.260 ADBLOCK install.monetization-sdk.chartboost.com
+21:30:50.589 ADBLOCK gateway.unityads.unity3d.com
+21:30:50.598 ADBLOCK unityads.unity3d.com
+21:30:50.600 ADBLOCK gateway.unityads.unity3d.com
+21:30:50.705 ADBLOCK unityads.unity3d.com
+21:30:50.708 ADBLOCK gateway.unityads.unity3d.com
