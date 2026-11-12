@@ -67,3 +67,6 @@
 15:19:05.241 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
 15:19:05.257 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=24)
 15:19:05.258 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=24)
+15:19:06.090 ACE bubble shown
+15:19:08.320 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=24)
+15:19:08.320 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=24)
