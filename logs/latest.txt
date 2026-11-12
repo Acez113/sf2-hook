@@ -181,3 +181,5 @@
 17:14:27.521   [FAIL] perks: frenzy HACKED found=0  (need 1+)
 17:14:40.023   [PASS] moves: ignores evade found=113  (need 1+)
 17:14:44.740   [FAIL] perks: boss gutted   found=0  (need 1+)
+17:14:58.272   [PASS] moves: long range    found=116  (need 1+)
+17:15:02.646   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
