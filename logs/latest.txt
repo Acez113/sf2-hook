@@ -505,3 +505,4 @@ EVENT_FALL_26.09:51:56.747 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.09
 09:55:21.582 DNS report.appmetrica.yandex.net
 09:55:21.585 DNS a58pbd.launches.appsflyersdk.com
 09:55:21.638 DNS a58pbd.launches.appsflyersdk.com
+09:56:35.482 ---- boss perk hunt (read-only) ----
