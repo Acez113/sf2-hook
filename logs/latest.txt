@@ -307,3 +307,10 @@
 18:45:53.776 ADBLOCK gw1.mediation.unity3d.com
 18:45:53.831 ---- hack self-check (single pass) ----
 18:45:53.943 ADBLOCK cdn.iads.unity3d.com
+18:45:59.278 DNS api.github.com
+18:45:59.604 DNS api.github.com
+18:46:06.444 DNS yastatic.net
+18:46:07.960 DNS yastatic.net
+18:46:09.233 ADBLOCK gw1.mediation.unity3d.com
+18:46:09.348 ADBLOCK gw1.mediation.unity3d.com
+18:46:18.357 ADBLOCK gateway.unityads.unity3d.com
