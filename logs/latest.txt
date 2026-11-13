@@ -493,3 +493,6 @@ EVENT_FALL_26.12:05:44.992 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.12
 12:09:27.483   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 12:09:27.483   redirect CONFIGS.bundle: reads=0 ready=YES
 12:09:27.484 ---- self-check: 12 pass / 6 fail ----
+12:09:31.806 FOUND[<Perk Name="BOSS] nothing in 2049 MB
+12:09:39.861 FOUND[PERK_BOSS_] nothing in 2048 MB
+12:09:39.862 ---- boss perk hunt done ----
