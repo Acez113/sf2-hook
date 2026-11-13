@@ -429,3 +429,12 @@
 09:51:56.799 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 09:51:56.802 GAMEDATA      720  sessions.json
 09:51:56.804 GAMEDATA      516  events_data.xml
+09:51:57.655 dump upload dumps/econfig.zip -> HTTP 200
+09:52:06.771 DNS firebaselogging-pa.googleapis.com
+09:52:06.772 DNS firebaselogging-pa.googleapis.com
+09:52:06.830 DNS googleapis.com
+09:52:06.831 DNS firebaselogging-pa.googleapis.com
+09:52:06.947 DNS googleapis.com
+09:52:06.948 DNS firebaselogging-pa.googleapis.com
+09:52:06.949 DNS googleapis.com
+09:52:06.950 DNS firebaselogging-pa.googleapis.com
