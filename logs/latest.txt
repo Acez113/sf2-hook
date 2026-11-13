@@ -452,3 +452,32 @@
 15:05:47.185 RAIDCONFIG GOT econfig.zip bytes=220089
 15:06:00.994 dump upload dumps/econfig.zip -> HTTP 200
 15:06:31.765 ---- hack self-check (single pass) ----
+15:07:47.169 ---- boss perk hunt (read-only) ----
+15:07:52.405 FOUND[Karcer] #1 @0x158b7f85d
+kki.com.15:05:22.280 DNS assets.nekki.com.15:05:22.332 DNS star.fallback.c10r.facebook.com..15:05:22.333 DNS ep2.facebook.com.15:05:22.334 DNS facebook.com.15:05:22.334 DNS ep2.facebook.com.15:05:24.716 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=22).15:05:24.716 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=22).15:05:25.428 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.15:05:26.156 DNS time-server.nekki.com.15:05:26.161 ADBLOCK i-adq.mediation.unity3d.com.15:05:26.184 ADBLOCK init.supersonicads.com.15:05:26.235 ADBLOCK gateway-a.offerwall.unity3d.com.15:05:26.245 ADBLOCK i-sdk.mediation.unity3d.com.15:05:26.309 DNS time-server.nekki.com.15:05:26.323 DNS time-server.nekki.com.15:
+15:07:52.407 FOUND[Karcer] #2 @0x158b80ab4
+d.com.15:05:31.138 DNS yastatic.net.15:05:31.306 ADBLOCK gw1.mediation.unity3d.com.15:05:31.310 ADBLOCK gw1.mediation.unity3d.com.15:05:31.487 ADBLOCK gw1.mediation.unity3d.com.15:05:31.646 ADBLOCK gw1.mediation.unity3d.com.15:05:31.844 ADBLOCK gw1.mediation.unity3d.com.15:05:31.846 ADBLOCK gw1.mediation.unity3d.com.15:05:32.990 BOSSPATCH pass 3: 'Karcer orb of hunger' total hits=2.15:05:33.701 ADBLOCK ms.applovin.com.15:05:33.745 ADBLOCK ms.applovin.com.15:05:33.820 DNS ep2.facebook.com.15:05:33.836 DNS ep2.facebook.com.15:05:33.861 DNS ep2.facebook.com.15:05:33.895 DNS star.fallback.c10r.facebook.com..15:05:34.032 ADBLOCK applovin.com.15:05:34.071 ADBLOCK ms.applovin.com.15:05:34.084 DNS s
+15:07:52.793 FOUND[Karcer] #3 @0x160341a83
+d.com.15:05:31.138 DNS yastatic.net.15:05:31.306 ADBLOCK gw1.mediation.unity3d.com.15:05:31.310 ADBLOCK gw1.mediation.unity3d.com.15:05:31.487 ADBLOCK gw1.mediation.unity3d.com.15:05:31.646 ADBLOCK gw1.mediation.unity3d.com.15:05:31.844 ADBLOCK gw1.mediation.unity3d.com.15:05:31.846 ADBLOCK gw1.mediation.unity3d.com.15:05:32.990 BOSSPATCH pass 3: 'Karcer orb of hunger' total hits=2.15:05:33.701 ADBLOCK ms.applovin.com.15:05:33.745 ADBLOCK ms.applovin.com.15:05:33.820 DNS ep2.facebook.com.15:05:33.836 DNS ep2.facebook.com.15:05:33.861 DNS ep2.facebook.com.15:05:33.895 DNS star.fallback.c10r.facebook.com..15:05:34.032 ADBLOCK applovin.com.15:05:34.071 ADBLOCK ms.applovin.com.15:05:34.084 DNS s
+15:07:55.574   [PASS] moves: thruster      found=4  (need 1+)
+15:07:55.575   [PASS] moves: no-block      found=132  (need 1+)
+15:07:55.575   [PASS] moves: ignores evade found=122  (need 1+)
+15:07:55.575   [PASS] moves: long range    found=396  (need 1+)
+15:07:55.576   [PASS] moves: geometry      found=1608  (need 1+)
+15:07:55.576   [PASS] moves: stance skip   found=74  (need 1+)
+15:07:55.579   [FAIL] perks: antiban       found=0  (need 1+)
+15:07:55.579   [PASS] perks: frenzy name   found=107  (need 1+)
+15:07:55.580   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+15:07:55.580   [FAIL] perks: boss gutted   found=0  (need 1+)
+15:07:55.581   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+15:07:55.581   [PASS] BAD empty parts      found=0  (need 0 exactly)
+15:07:55.582   [FAIL] rc: clean perk       found=0  (need 1+)
+15:07:55.583   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+15:07:55.587   [PASS] rc: clean cd         found=3  (need 1+)
+15:07:55.588   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+15:07:55.588   [PASS] rc: clean ammo       found=3  (need 1+)
+15:07:55.589   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+15:07:55.589   scanned 2048 MB in 83.8s
+15:07:55.589   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+15:07:55.590   redirect CONFIGS.bundle: reads=0 ready=YES
+15:07:55.591 ---- self-check: 14 pass / 4 fail ----
