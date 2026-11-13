@@ -553,3 +553,7 @@ K_RAKS .,+....................C........n..."A.6K...B..`...XH=.P\.......l...O..0.
 14:03:22.936 ---- boss perk hunt done ----
 14:03:42.865 ADBLOCK o-adq.mediation.unity3d.com
 14:03:42.922 ADBLOCK o-adq.mediation.unity3d.com
+14:04:17.548 DNS region1.app-analytics-services.com
+14:04:19.738 ADBLOCK gateway.unityads.unity3d.com
+14:04:19.772 ADBLOCK unityads.unity3d.com
+14:04:19.774 ADBLOCK gateway.unityads.unity3d.com
