@@ -475,3 +475,7 @@ EVENT_FALL_26.15:39:43.555 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.15
 <Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,-....................K.......cs2CE.]..B.C.F,C..3....B...C....C..B..?C.o/....B?'.B.*.....C..VCh...|..B.}&C.)...h.C-.^C....(..B..*CPk.....C..[C....l].Cl".C+....(.B..4C....=..B.%.CH5.....C~.fC.......B.g.C..]....B.WaC(.n....B...C....)..CK!oC.J..P..B..)C.......B&4!C/E..{v.C._%CE...dk.C..WC5. ..t.C.(*C..".V..B&4!C/E..{v.C._%C
 15:42:58.487 FOUND[PERK_BOSS_] nothing in 2049 MB
 15:42:58.488 ---- boss perk hunt done ----
+15:42:58.549 DNS api.github.com
+15:42:59.140 DNS api.github.com
+15:42:59.505 DNS api.github.com
+15:43:00.009 DNS api.github.com
