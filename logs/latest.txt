@@ -456,3 +456,30 @@ EVENT_FALL_26.13:58:31.321 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.13
 <Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,+....................C........n..."A.6K...B..`...XH=.P\.......l...O..0...l...QD...........$.......ehA"y..!....4.@-n...,.....B.....V..7F.A.u..y#..4..A ...^......."....]......0;..A.W.+*.A.i...J..^........v..a.........f.........<H...+..c7...r.......X......`T........8.}bVB.<..2....i.B`t..b......B)o...m-....BGW....%..k.B.v..
 14:01:07.633 FOUND[PERK_BOSS_] nothing in 2049 MB
 14:01:07.633 ---- boss perk hunt done ----
+14:01:34.305 DNS app-analytics-services.com
+14:01:34.306 DNS app-analytics-services.com
+14:01:34.312 DNS com
+14:01:34.314 DNS app-analytics-services.com
+14:01:34.382 DNS itunes.apple.com
+14:01:34.408 DNS report.appmetrica.yandex.net
+14:01:34.558 DNS report.appmetrica.yandex.net
+14:01:34.781 DNS region1.app-analytics-services.com
+14:01:34.782 DNS region1.app-analytics-services.com
+14:01:34.817 DNS app-analytics-services.com
+14:01:34.817 DNS region1.app-analytics-services.com
+14:01:42.782 DNS itunes.apple.com
+14:01:42.804 DNS report.appmetrica.yandex.net
+14:01:42.818 DNS google.com
+14:01:42.819 DNS google.com
+14:01:42.825 DNS google.com
+14:01:42.833 DNS a58pbd.launches.appsflyersdk.com
+14:01:42.848 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
+14:01:42.860 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
+14:01:42.861 DNS com
+14:01:42.862 DNS google.com
+14:01:42.868 DNS a58pbd.launches.appsflyersdk.com
+14:01:42.908 DNS a58pbd.launches.appsflyersdk.com
+14:01:42.917 DNS report.appmetrica.yandex.net
+14:01:42.935 DNS a58pbd.launches.appsflyersdk.com
+14:01:43.430 DNS ledger.nekki.com
+14:01:43.534 DNS ledger.nekki.com
