@@ -405,3 +405,16 @@
 11:51:13.671 DNS a58pbd.inapps.appsflyersdk.com
 11:51:13.806 DNS a58pbd.inapps.appsflyersdk.com
 11:51:15.415 DNS a58pbd.inapps.appsflyersdk.com
+11:51:24.888 DNS api.github.com
+11:51:24.976 DNS api.github.com
+11:51:25.451 DNS firebaselogging-pa.googleapis.com
+11:51:25.452 DNS firebaselogging-pa.googleapis.com
+11:51:25.463 DNS googleapis.com
+11:51:25.464 DNS firebaselogging-pa.googleapis.com
+11:51:25.466 DNS ep2.facebook.com
+11:51:25.467 DNS ep2.facebook.com
+11:51:25.472 DNS star.fallback.c10r.facebook.com.
+11:51:25.473 DNS ep2.facebook.com
+11:51:25.530 DNS facebook.com
+11:51:25.532 DNS ep2.facebook.com
+11:51:39.541 ---- hack self-check (single pass) ----
