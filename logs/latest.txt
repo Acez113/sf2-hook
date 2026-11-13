@@ -408,3 +408,13 @@ e.s._.H.e.l.m...o.w.n.N.a.m.e. Name= .6.................E.n.c.h.a.n.t.m.e.n.t...
 01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com
 01:48:22.842 FOUND[STALKER] nothing in 2049 MB
 01:48:23.110 ADBLOCK o-sdk.mediation.unity3d.com
+01:48:30.807 FOUND[<Perk Name="BOSS] nothing in 2048 MB
+01:48:33.140 ADBLOCK o-sdk.mediation.unity3d.com
+01:48:33.864 ADBLOCK gateway.unityads.unity3d.com
+01:48:34.495 FOUND[PERK_BOSS_] #1 @0x15e80dfe3
+.e.s.t.2.5._.3.y.e.r.s="REJXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.y.e.r.EJECT"XD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.REJECT" GrouXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.2.....\.Name="General" />.  <Perk ID="108" Name="PERK_BOSS_WIDOW_SHIELDING" St..~)............................x.UWi......^....u'..~.....YY.{f.U.....Lu....A$AI.HA...I..........9.C.s...1`.I....ld."...2.......UO.n..Z........-....^).,K...w2......t..X.R5.6=.&V.5.E........,z..M...&u-.)...]7...3K"......^\.I..e.C.Z..[x$A....0:..`f.z...k.)...o.i:.k..Q_....S..3+....sR.i......N...`..j.....HY..ALI..2......7.
+01:48:34.861 FOUND[PERK_BOSS_] #2 @0x1667002cf
+K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.01:48:22.842 FOUND[STALKER] nothing in 2049 MB.01:48:23.110 ADBLOCK o-sdk.mediation.unity3d.com.01:48:30.807 FOUND[<Perk Name="BOSS] nothing in 2048 MB.01:48:33.140 ADBLOCK o-sdk.mediation.unity3d.com.01:48:33.864 ADBLOCK gateway.unityads.unity3d.com.01:48:34.495 FOUND[PERK_BOSS_] #1 @0x15e80dfe3..e.s.t.2.5._.3.y.e.r.s="REJXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.y.e.r.EJECT"XD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.REJECT" GrouXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.2.....\.Name="General
+01:48:34.861 FOUND[PERK_BOSS_] #3 @0x166700449
+.e.s.t.2.5._.3.y.e.r.s="REJXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.y.e.r.EJECT"XD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.REJECT" GrouXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.2.....\.Name="General" />.  <Perk ID="108" Name="PERK_BOSS_WIDOW_SHIELDING" St..~)............................x.UWi......^....u'..~.....YY.{f.U.....Lu....A$AI.HA...I..........9.C.s...1`.I....ld."...2.......UO.n..Z........-....^).,K...w2......t..X.R5.6=.&V.5.E........,z..M...&u-.)...]7...3K"......^\.I..e.C.Z..[x$A....0:..`f.z...k.)...o.i:.k..Q_....S..3+....sR.i......N...`..j.....HY..ALI..2......7.
+01:48:34.862 ---- boss perk hunt done ----
