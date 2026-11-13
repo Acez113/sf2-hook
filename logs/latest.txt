@@ -438,3 +438,10 @@ K_RAKS ..*....................C.......qM9DeQ@....C..4D.d..X..B.t/D.1..l\.B..9D<^
 18:49:05.729 ADBLOCK config.monetization-sdk.chartboost.com
 18:49:05.734 ADBLOCK install.monetization-sdk.chartboost.com
 18:49:05.735 ADBLOCK install.monetization-sdk.chartboost.com
+18:49:19.266 DNS api.github.com
+18:49:20.057 DNS api.github.com
+18:49:21.256 DNS report.appmetrica.yandex.net
+18:49:22.779 DNS api.github.com
+18:49:38.560 DNS ledger.nekki.com
+18:49:38.717 ---- boss perk hunt (read-only) ----
+18:49:39.309 DNS ledger.nekki.com
