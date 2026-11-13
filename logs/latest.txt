@@ -415,3 +415,47 @@
 10:38:48.101 DNS firebaselogging-pa.googleapis.com
 10:39:32.552 ---- hack self-check (single pass) ----
 10:39:57.453 ADBLOCK o-adq.mediation.unity3d.com
+10:39:57.493 DNS region1.app-analytics-services.com
+10:39:57.494 DNS region1.app-analytics-services.com
+10:39:57.576 DNS app-analytics-services.com
+10:39:57.578 DNS region1.app-analytics-services.com
+10:39:57.641 DNS app-analytics-services.com
+10:39:57.643 DNS region1.app-analytics-services.com
+10:39:57.912 DNS app-analytics-services.com
+10:39:57.913 DNS app-analytics-services.com
+10:39:57.920 DNS com
+10:39:57.922 DNS app-analytics-services.com
+10:39:58.055 DNS com
+10:39:58.056 DNS app-analytics-services.com
+10:39:58.324 DNS region1.app-analytics-services.com
+10:39:58.325 DNS region1.app-analytics-services.com
+10:39:58.330 DNS app-analytics-services.com
+10:39:58.331 DNS region1.app-analytics-services.com
+10:39:58.432 DNS app-analytics-services.com
+10:39:58.434 DNS region1.app-analytics-services.com
+10:40:05.882 DNS itunes.apple.com
+10:40:05.953 DNS report.appmetrica.yandex.net
+10:40:06.122 DNS report.appmetrica.yandex.net
+10:40:06.171 DNS report.appmetrica.yandex.net
+10:40:06.361   [PASS] moves: thruster      found=7  (need 1+)
+10:40:06.361   [PASS] moves: no-block      found=121  (need 1+)
+10:40:06.362   [PASS] moves: ignores evade found=110  (need 1+)
+10:40:06.362   [PASS] moves: long range    found=376  (need 1+)
+10:40:06.362   [PASS] moves: geometry      found=1680  (need 1+)
+10:40:06.362   [PASS] moves: stance skip   found=63  (need 1+)
+10:40:06.362   [FAIL] perks: antiban       found=0  (need 1+)
+10:40:06.363   [PASS] perks: frenzy name   found=1  (need 1+)
+10:40:06.363   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+10:40:06.363   [FAIL] perks: boss gutted   found=0  (need 1+)
+10:40:06.363   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+10:40:06.364   [PASS] BAD empty parts      found=0  (need 0 exactly)
+10:40:06.364   [FAIL] rc: my zeroed perk   found=0  (need 1+)
+10:40:06.364   [PASS] rc: ORIGINAL 480     found=0  (need 0 exactly)
+10:40:06.365   [FAIL] rc: my zeroed inmove found=0  (need 1+)
+10:40:06.365   [PASS] rc: ORIGINAL 60      found=0  (need 0 exactly)
+10:40:06.365   [PASS] rc: my ammo gate 0   found=1  (need 1+)
+10:40:06.365   [PASS] rc: ORIGINAL ammo 1  found=0  (need 0 exactly)
+10:40:06.365   scanned 2049 MB in 33.8s
+10:40:06.366   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+10:40:06.366   redirect CONFIGS.bundle: reads=0 ready=YES
+10:40:06.366 ---- self-check: 13 pass / 5 fail ----
