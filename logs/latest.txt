@@ -485,3 +485,4 @@ EVENT_FALL_26.12:57:38.238 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.12
 13:00:35.275 FOUND[<Perk Name="BOSS] nothing in 2048 MB
 13:00:42.425 FOUND[PERK_BOSS_] nothing in 2048 MB
 13:00:42.425 ---- boss perk hunt done ----
+13:02:17.819 ---- boss perk hunt (read-only) ----
