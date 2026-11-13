@@ -344,3 +344,22 @@
 21:04:58.152 DNS region1.app-analytics-services.com
 21:04:58.153 DNS region1.app-analytics-services.com
 21:05:06.539 ADBLOCK gateway.unityads.unity3d.com
+21:05:14.925 DNS itunes.apple.com
+21:05:14.957 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:05:14.958 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:05:14.960 DNS a58pbd.launches.appsflyersdk.com
+21:05:14.964 ADBLOCK config.monetization-sdk.chartboost.com
+21:05:14.965 ADBLOCK config.monetization-sdk.chartboost.com
+21:05:14.969 ADBLOCK install.monetization-sdk.chartboost.com
+21:05:14.971 ADBLOCK install.monetization-sdk.chartboost.com
+21:05:17.849 ---- boss perk hunt (read-only) ----
+21:05:19.027 ADBLOCK gateway.unityads.unity3d.com
+21:05:19.065 ADBLOCK gateway.unityads.unity3d.com
+21:05:20.038 FOUND[Karcer] #1 @0x138bd8ba5
+ebook.com..21:02:50.845 DNS ep2.facebook.com.21:02:51.070 DNS ep2.facebook.com.21:02:51.771 dump upload dumps/Info.plist -> HTTP 200.21:02:52.344 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path.21:02:58.357 DNS app-analytics-services.com.21:02:58.358 DNS app-analytics-services.com.21:02:59.301 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.21:03:03.445 DNS ep2.facebook.com.21:03:03.447 DNS ep2.facebook.com.21:03:03.467 DNS ep2.facebook.com.21:03:03.468 DNS star.fallback.c10r.facebook.com..21:03:03.478 DNS facebook.com.21:03:03.480 DNS ep2.facebook.com.21:03:05.202 DNS ep2.facebook.com.21:03:05.204 DNS ep2.facebook.com.21:03:05.229 DNS ep2.facebook.c
+21:05:20.039 FOUND[Karcer] #2 @0x138bdccbd
+266 DNS sfxlbalt.nekki.com.21:03:35.300 ADBLOCK i-adq.mediation.unity3d.com.21:03:37.919 DNS sfxlbalt.nekki.com.21:03:38.061 DNS sfxlbalt.nekki.com.21:03:38.473 DNS google.com.21:03:38.474 DNS google.com.21:03:38.532 DNS google.com.21:03:38.534 DNS com.21:03:38.535 DNS google.com.21:03:38.711 DNS sfxlbalt.nekki.com.21:03:38.841 BOSSPATCH pass 12: 'Karcer orb of hunger' total hits=5.21:03:39.061 DNS sfxlbalt.nekki.com.21:03:39.487 DNS www.google.com.21:03:39.488 DNS www.google.com.21:03:39.493 DNS www.google.com.21:03:39.497 DNS google.com.21:03:39.498 DNS www.google.com.21:03:40.538 DNS consent.google.com.21:03:40.539 DNS consent.google.com.21:03:40.541 DNS google.com.21:03:40.541 DNS consen
+21:05:20.046 FOUND[Karcer] #3 @0x138e64651
+?...............................................B..$D...B...B.......................B..9C...B..3D...?...........>....=.W>.Q....#>..L....>..#=..#=...<...<)\.>....{..>..L....>..u..z.>....33.>..#.=..>..L....>..u....>..k....>p=...G.>.....(.>=....z.>=....Ga>.z....u=...<..L...L=.......>.p.....>.p.....>.......>.....G.>.G...G.>................Enchantments.KarcerHunger....@TD.@.D...B...B...........................B...?...?........P...u3.J....<v....~,.........................e..4o.p....................................................................................................................................................P..........?.......?...?...................?...............................
+21:05:21.890 ADBLOCK gw1.mediation.unity3d.com
+21:05:27.389 ADBLOCK gw1.mediation.unity3d.com
