@@ -527,3 +527,22 @@ K_RAKS .,*....................C.......n..C.......B...Ch...q..B...C.g.....B...C.B
 13:18:03.626 FOUND[PERK_BOSS_] #3 @0x16dbf94c9
 K_RAKS .,*....................C.......n..C.......B...Ch...q..B...C.g.....B...C.B...5.BO..C.......C...C...../.B)..C ....:.C.".C=X.....Bx..C.....^.C...C_I.. $.B...C.....=.BR..C9m{..{.BpLOC6i..Q..C./.CW[..aB.B...Cnr.....B...C.$i.(..B...C....?..C.B.C.3...K.B.H.C.......B.t.D....I..C.j.Cz...[..C.~.C.m..fN.B.H.C\O.....B.t.D....I..C.j.C.13:15:40.448 FOUND[PERK_BOSS_] nothing in 2049 MB.13:15:40.449 ---- boss perk hunt done ----.13:17:25.264 ---- boss perk hunt (read-only) ----.13:17:25.430 DNS api.github.com.13:17:25.519 DNS api.github.com.13:17:26.506 FOUND[Karcer] #1 @0x12a836418.dle read #4 -> HACKED (fd=19).13:12:31.028 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=19).13:12:32.269 DNS time-ser
 13:18:03.627 ---- boss perk hunt done ----
+13:19:03.816 DNS region1.app-analytics-services.com
+13:19:03.818 DNS region1.app-analytics-services.com
+13:19:03.876 DNS app-analytics-services.com
+13:19:03.878 DNS region1.app-analytics-services.com
+13:19:03.895 DNS itunes.apple.com
+13:19:03.995 DNS report.appmetrica.yandex.net
+13:19:04.162 DNS app-analytics-services.com
+13:19:04.165 DNS region1.app-analytics-services.com
+13:19:04.181 DNS app-analytics-services.com
+13:19:04.184 DNS region1.app-analytics-services.com
+13:19:04.381 DNS report.appmetrica.yandex.net
+13:19:04.479 DNS report.appmetrica.yandex.net
+13:19:04.645 DNS region1.app-analytics-services.com
+13:19:04.753 DNS app-analytics-services.com
+13:19:04.755 DNS region1.app-analytics-services.com
+13:19:05.030 DNS region1.app-analytics-services.com
+13:19:05.031 DNS region1.app-analytics-services.com
+13:19:05.041 DNS app-analytics-services.com
+13:19:05.044 DNS region1.app-analytics-services.com
