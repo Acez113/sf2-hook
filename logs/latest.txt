@@ -422,3 +422,5 @@
 13:59:53.193   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 13:59:53.193   redirect CONFIGS.bundle: reads=0 ready=YES
 13:59:53.193 ---- self-check: 14 pass / 4 fail ----
+14:00:18.441 ADBLOCK o-adq.mediation.unity3d.com
+14:00:18.503 ADBLOCK o-adq.mediation.unity3d.com
