@@ -526,3 +526,4 @@ FOUND[TENEBRIS] nothing in 2048 MB.23:21:25.296 ADBLOCK gateway.unityads.unity3d
 23:24:30.481 ADBLOCK o-sdk.mediation.unity3d.com
 23:24:33.198 ADBLOCK gw1.mediation.unity3d.com
 23:24:38.364 ADBLOCK gw1.mediation.unity3d.com
+23:24:58.008 DNS report.appmetrica.yandex.net
