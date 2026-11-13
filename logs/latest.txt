@@ -423,3 +423,15 @@ y.O.f.f.e.r._.9._.6...   <item Name= ...................D.a.i.l.y.O.f.f.e.r._.9.
 23:21:53.595 FOUND[PERK_BOSS_] #1 @0x1663f9fe3
 ...........G.K...v.B.....EJXD......................................(.....amXD..................................V.7.......T" ................... .+. ...erk ID="106" Name="P`..I............................l.e...JECT" Grou ...................F.u.n.c.t.i.o.n.2...="PERK_BXD......................................E.i.(.=" ...................D.a.m.a.g.e..."PERK_BOSS_WIDOW_SHIELDING" StX...............................................X...............................................X...............................................x\.................n............................................................................X...............................................X................................
 23:21:57.869 ---- boss perk hunt done ----
+23:22:24.281 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:24.998 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:25.960 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:26.439 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:30.454 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:31.237 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:31.335 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:39.260 ---- boss perk hunt (read-only) ----
+23:22:39.350 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:39.442 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:39.550 ADBLOCK o-sdk.mediation.unity3d.com
+23:22:39.697 ADBLOCK o-sdk.mediation.unity3d.com
