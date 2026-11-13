@@ -557,3 +557,11 @@ K_RAKS .,+....................C........n..."A.6K...B..`...XH=.P\.......l...O..0.
 14:04:19.738 ADBLOCK gateway.unityads.unity3d.com
 14:04:19.772 ADBLOCK unityads.unity3d.com
 14:04:19.774 ADBLOCK gateway.unityads.unity3d.com
+14:04:51.316 ADBLOCK config.monetization-sdk.chartboost.com
+14:04:51.319 ADBLOCK config.monetization-sdk.chartboost.com
+14:04:51.329 ADBLOCK install.monetization-sdk.chartboost.com
+14:04:51.333 ADBLOCK install.monetization-sdk.chartboost.com
+14:04:51.341 ADBLOCK monetization-sdk.chartboost.com
+14:04:51.344 ADBLOCK config.monetization-sdk.chartboost.com
+14:04:51.393 ADBLOCK monetization-sdk.chartboost.com
+14:04:51.396 ADBLOCK install.monetization-sdk.chartboost.com
