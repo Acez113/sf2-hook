@@ -437,3 +437,4 @@ K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.
 01:49:33.050 DNS report.appmetrica.yandex.net
 01:49:34.576 ADBLOCK o-sdk.mediation.unity3d.com
 01:49:36.882 ADBLOCK o-sdk.mediation.unity3d.com
+01:50:09.038 ---- boss perk hunt (read-only) ----
