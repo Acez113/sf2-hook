@@ -475,3 +475,4 @@ TIGO PUBLIC SERVER AUTHENTICATION CA DV E36.................Q.............._....
 <Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,*....................C.......n..C.......B...Ch...q..B...C.g.....B...C.B...5.BO..C.......C...C...../.B)..C ....:.C.".C=X.....Bx..C.....^.C...C_I.. $.B...C.....=.BR..C9m{..{.BpLOC6i..Q..C./.CW[..aB.B...Cnr.....B...C.$i.(..B...C....?..C.B.C.3...K.B.H.C.......B.t.D....I..C.j.Cz...[..C.~.C.m..fN.B.H.C\O.....B.t.D....I..C.j.C
 13:15:40.448 FOUND[PERK_BOSS_] nothing in 2049 MB
 13:15:40.449 ---- boss perk hunt done ----
+13:17:25.264 ---- boss perk hunt (read-only) ----
