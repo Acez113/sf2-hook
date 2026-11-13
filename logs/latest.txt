@@ -465,3 +465,27 @@
 08:21:59.754   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 08:21:59.755   redirect CONFIGS.bundle: reads=0 ready=YES
 08:21:59.755 ---- self-check: 13 pass / 5 fail ----
+08:22:26.230 DNS region1.app-analytics-services.com
+08:22:26.230 DNS region1.app-analytics-services.com
+08:22:26.234 DNS app-analytics-services.com
+08:22:26.235 DNS region1.app-analytics-services.com
+08:22:39.718 DNS itunes.apple.com
+08:22:39.836 DNS report.appmetrica.yandex.net
+08:22:39.843 DNS a58pbd.launches.appsflyersdk.com
+08:22:39.861 DNS a58pbd.launches.appsflyersdk.com
+08:22:39.980 DNS a58pbd.launches.appsflyersdk.com
+08:22:40.023 DNS report.appmetrica.yandex.net
+08:22:43.930 ---- boss perk hunt (read-only) ----
+08:22:45.014 FOUND[Karcer] #1 @0x1323df62d
+08:20:19.412 DNS ep2.facebook.com.08:20:19.417 DNS ep2.facebook.com.08:20:19.418 DNS star.fallback.c10r.facebook.com..08:20:19.523 DNS region1.app-analytics-services.com.08:20:19.531 DNS region1.app-analytics-services.com.08:20:19.539 DNS app-analytics-services.com.08:20:19.541 DNS region1.app-analytics-services.com.08:20:23.610 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.08:20:25.941 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.08:20:30.037 ADBLOCK cdp.cloud.unity3d.com.08:20:30.037 ADBLOCK cdp.cloud.unity3d.com.08:20:30.063 DNS a58pbd.launches.appsflyersdk.com.08:20:30.066 DNS a58pbd.launches.appsflyersdk.com.08:20:30.073 ADBLOCK cloud.unity3d.com.08:20:30.073 ADBLOCK cd
+08:22:45.014 FOUND[Karcer] #2 @0x1323df670
+.08:20:19.418 DNS star.fallback.c10r.facebook.com..08:20:19.523 DNS region1.app-analytics-services.com.08:20:19.531 DNS region1.app-analytics-services.com.08:20:19.539 DNS app-analytics-services.com.08:20:19.541 DNS region1.app-analytics-services.com.08:20:23.610 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.08:20:25.941 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.08:20:30.037 ADBLOCK cdp.cloud.unity3d.com.08:20:30.037 ADBLOCK cdp.cloud.unity3d.com.08:20:30.063 DNS a58pbd.launches.appsflyersdk.com.08:20:30.066 DNS a58pbd.launches.appsflyersdk.com.08:20:30.073 ADBLOCK cloud.unity3d.com.08:20:30.073 ADBLOCK cdp.cloud.unity3d.com.08:20:30.125 DNS a58pbd.launches.appsflyersdk.c
+08:22:45.014 FOUND[Karcer] #3 @0x1323e229e
+77 DNS assets.nekki.com.08:20:38.967 DNS consent.google.com.08:20:38.971 DNS consent.google.com.08:20:38.978 DNS google.com.08:20:38.979 DNS consent.google.com.08:20:39.187 DNS google.com.08:20:39.188 DNS consent.google.com.08:20:39.358 ADBLOCK gw1.mediation.unity3d.com.08:20:39.359 ADBLOCK gw1.mediation.unity3d.com.08:20:39.920 BOSSPATCH pass 6: 'Karcer orb of hunger' total hits=4.08:20:40.584 ADBLOCK ms.applovin.com.08:20:40.585 ADBLOCK ms.applovin.com.08:20:40.629 ADBLOCK applovin.com.08:20:40.636 ADBLOCK ms.applovin.com.08:20:41.091 CONFIGSPROBE[W] fd=6 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip.08:20:41.1
+08:22:49.516 FOUND[Drakaina] nothing in 2049 MB
+08:22:51.253 FOUND[Tenebris] #1 @0x152e19ddb
+s.C.)..Hq.@...C:...@..@.B.C_.}..(.@...C.......@r..D(.l.K..A...DN.n.u..A...D..p....A.5.D..l....A.^.D..p....AG. D..T..G.B.6 Dv.V..l.B{f DP0W.^..B.S!DE@R..<.Bl. D?.W.4..B...D*.-....C.$/D.....M.C6[/D7./....C..0D..*.:..C../Dq@0.M..Cpe="Invulnerable" Name="Evade" End="14" /><Interval Name="Uninterrupt" End="31" /></Intervals><Actions><CreatePlayer Name="TenebrisMagic" Frame="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=
+08:22:51.253 FOUND[Tenebris] #2 @0x152e1aef1
+Event="Strike" PackName="ZONE_RAID" /><Delete Player="Me" Event="Strike" /><Effect Name="FireballEnd" Sequence="mgc_magic_mid_sphere1_end" Scale="1.5" Looped="0" Event="Strike" PackName="ZONE_RAID"><Position Player="Me" Object="Nodes" Part="Magic-Node2_1" Follow="0" ShiftX="5.0" ShiftY="0.0" /></Effect></Actions><Locks><Item Type="Weapon" SubType="TenebrisMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicWall" Template="TenebrisMagic|MagicMissileFly|MagicMissile" FileName="fireball_middle.bytes" MidFrames="2" FirstFrame="1" Priority="500" NoMagicRecharge="1" PackName= .,.....................p.......u..CM.8.gv.B-..CP...Y..B...C.......B,..C....;%.
+08:22:51.253 FOUND[Tenebris] #3 @0x152e1af4d
+eballEnd" Sequence="mgc_magic_mid_sphere1_end" Scale="1.5" Looped="0" Event="Strike" PackName="ZONE_RAID"><Position Player="Me" Object="Nodes" Part="Magic-Node2_1" Follow="0" ShiftX="5.0" ShiftY="0.0" /></Effect></Actions><Locks><Item Type="Weapon" SubType="TenebrisMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicWall" Template="TenebrisMagic|MagicMissileFly|MagicMissile" FileName="fireball_middle.bytes" MidFrames="2" FirstFrame="1" Priority="500" NoMagicRecharge="1" PackName= .,.....................p.......u..CM.8.gv.B-..CP...Y..B...C.......B,..C....;%.B...C`7..,N.BL..C....-..B*..C.....K.B.!.CX....#.Bc..Cx$.....B...C2......B.o.C....8'.C$..C.!.
