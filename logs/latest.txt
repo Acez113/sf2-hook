@@ -409,3 +409,9 @@ a.3.R.......A...3.F.......R.V...N...[...S.].>.J......... .r.........Y.h. .j.....
 21:06:14.352 FOUND[PERK_BOSS_] #3 @0x1429b4f58
 ......J...~.........j...o.........%...y.........n...e.........G...e.........~...&.........{...i.........{...i.........W...Q.........v...u.........:...\.........h...x.........o...i.........w...Q.........r...b.........n...i.........{...o......."300" FlagName="WaspFlyRecharge" AnimationName="WaspFly" /></Perk><Perk Name="PERK_TELEPORTATION" Template="PERK_BOSS_ABILITY"><Set Frames="300" FlagName="TeleportationRecharge" AnimationName="WidowTeleportationStart" /></Perk><Perk Name="PERK_ASSISTANTS" Template="PERK_BOSS_...8............@_..............................p..8....................p..B.....P.B...............8............@_..............................p.2/.............D^C..................
 21:06:14.352 ---- boss perk hunt done ----
+21:06:19.175 ADBLOCK o-sdk.mediation.unity3d.com
+21:06:19.852 ADBLOCK o-sdk.mediation.unity3d.com
+21:06:21.923 ADBLOCK o-sdk.mediation.unity3d.com
+21:06:22.171 ADBLOCK o-sdk.mediation.unity3d.com
+21:06:24.955 ADBLOCK o-sdk.mediation.unity3d.com
+21:06:27.576 ADBLOCK o-sdk.mediation.unity3d.com
