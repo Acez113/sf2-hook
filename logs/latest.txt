@@ -507,3 +507,4 @@ sile" FileName="fireball_middle.bytes" MidFrames="2" FirstFrame="1" Priority="50
 <Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,.....................K........T.C..Z.?j.B._.C.K/....BN`.C].$....B...C.d,....B$..C.A.....B.g.C.....^.B.1.C....V..B{..C,...[f.BZ..C.-..[..B._.C....~..B...C.J.....B.5.CO......BX^.C..l..8.BW..C.......B.d.CZUR....B...C.lc....B...CZ....K.B...C.......BB..C.......B...C.2Y.?..Bd..C....?..B~7.C.BC..).C(..Cx^...T.C...C.2Y.?..Bd..C
 08:23:20.534 FOUND[PERK_BOSS_] nothing in 2048 MB
 08:23:20.535 ---- boss perk hunt done ----
+08:25:14.001 ---- boss perk hunt (read-only) ----
