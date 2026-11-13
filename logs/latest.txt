@@ -396,3 +396,13 @@ y.O.f.f.e.r._.9._.6...   <item Name= ...................D.a.i.l.y.O.f.f.e.r._.9.
 23:20:45.229 DNS region1.app-analytics-services.com
 23:20:45.230 DNS region1.app-analytics-services.com
 23:20:57.879 ADBLOCK o-sdk.mediation.unity3d.com
+23:20:59.953 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:01.932 FOUND[DRAKAINA] nothing in 2049 MB
+23:21:10.950 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:11.288 DNS itunes.apple.com
+23:21:11.348 DNS a58pbd.launches.appsflyersdk.com
+23:21:12.150 ADBLOCK prefetch.monetization-sdk.chartboost.com
+23:21:12.151 ADBLOCK prefetch.monetization-sdk.chartboost.com
+23:21:13.509 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:17.693 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:17.933 ADBLOCK o-sdk.mediation.unity3d.com
