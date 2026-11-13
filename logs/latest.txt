@@ -413,3 +413,13 @@
 12:58:03.556 DNS facebook.com
 12:58:03.557 DNS ep2.facebook.com
 12:58:11.726 DNS a58pbd.inapps.appsflyersdk.com
+12:58:17.956 DNS api.github.com
+12:58:18.112 DNS api.github.com
+12:58:29.779 ADBLOCK o-sdk.mediation.unity3d.com
+12:58:30.231 ADBLOCK o-adq.mediation.unity3d.com
+12:58:30.261 ADBLOCK gw1.mediation.unity3d.com
+12:58:30.612 DNS report.appmetrica.yandex.net
+12:58:30.710 ADBLOCK gw1.mediation.unity3d.com
+12:58:30.978 DNS report.appmetrica.yandex.net
+12:58:31.319 DNS report.appmetrica.yandex.net
+12:58:32.586 ---- hack self-check (single pass) ----
