@@ -555,3 +555,5 @@ STEAL" Image="SkillsEnch02.EnchantmentLifeDrain" ...................?.H.i.t.[.].
 21:24:00.261 DNS ledger.nekki.com
 21:25:30.906 DNS region1.app-analytics-services.com
 21:25:30.917 DNS region1.app-analytics-services.com
+21:25:50.860 DNS itunes.apple.com
+21:25:51.492 DNS a58pbd.launches.appsflyersdk.com
