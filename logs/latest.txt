@@ -507,3 +507,4 @@ S.D...A2936"/>.    <item N ..Z................8...9.9...="https://assets.n ..Z..
 <Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,^....................C........d......V...N1.AQ.....&....A![../"..4..A....P*...uZBTI#...H.$.wA..u..N..,..B../.W...lE ?B.......e..B..*.("..AM...&.........B3..........BV...=.`..t.C.......A...B......%..^0C?......B.l.B........Q.CC..../..Bi..B......].<r.BPU....=..O..p.......r..?$Y.."......A.8.....A.DR..........s.B..b.....R..B
 15:12:29.644 FOUND[PERK_BOSS_] nothing in 2048 MB
 15:12:29.649 ---- boss perk hunt done ----
+15:13:42.962 ---- boss perk hunt (read-only) ----
