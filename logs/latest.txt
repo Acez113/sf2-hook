@@ -471,3 +471,25 @@ EVENT_FALL_26.12:05:44.992 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.12
 12:09:09.127 FOUND[DRAKAINA] nothing in 2049 MB
 12:09:16.204 FOUND[TENEBRIS] nothing in 2048 MB
 12:09:23.635 FOUND[STALKER] nothing in 2049 MB
+12:09:27.478   [PASS] moves: thruster      found=1  (need 1+)
+12:09:27.479   [PASS] moves: no-block      found=15  (need 1+)
+12:09:27.479   [PASS] moves: ignores evade found=13  (need 1+)
+12:09:27.479   [PASS] moves: long range    found=30  (need 1+)
+12:09:27.480   [PASS] moves: geometry      found=180  (need 1+)
+12:09:27.480   [PASS] moves: stance skip   found=6  (need 1+)
+12:09:27.480   [FAIL] perks: antiban       found=0  (need 1+)
+12:09:27.480   [PASS] perks: frenzy name   found=27  (need 1+)
+12:09:27.480   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+12:09:27.480   [FAIL] perks: boss gutted   found=0  (need 1+)
+12:09:27.481   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+12:09:27.481   [PASS] BAD empty parts      found=0  (need 0 exactly)
+12:09:27.481   [FAIL] rc: my zeroed perk   found=0  (need 1+)
+12:09:27.482   [PASS] rc: ORIGINAL 480     found=0  (need 0 exactly)
+12:09:27.482   [FAIL] rc: my zeroed inmove found=0  (need 1+)
+12:09:27.482   [PASS] rc: ORIGINAL 60      found=0  (need 0 exactly)
+12:09:27.482   [FAIL] rc: my ammo gate 0   found=0  (need 1+)
+12:09:27.482   [PASS] rc: ORIGINAL ammo 1  found=0  (need 0 exactly)
+12:09:27.483   scanned 2048 MB in 166.5s
+12:09:27.483   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+12:09:27.483   redirect CONFIGS.bundle: reads=0 ready=YES
+12:09:27.484 ---- self-check: 12 pass / 6 fail ----
