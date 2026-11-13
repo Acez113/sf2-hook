@@ -427,3 +427,13 @@ K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.
 01:49:04.270 ADBLOCK gateway.unityads.unity3d.com
 01:49:29.359 DNS region1.app-analytics-services.com
 01:49:29.361 DNS region1.app-analytics-services.com
+01:49:32.480 DNS itunes.apple.com
+01:49:32.636 ADBLOCK prefetch.monetization-sdk.chartboost.com
+01:49:32.638 ADBLOCK prefetch.monetization-sdk.chartboost.com
+01:49:32.781 ADBLOCK config.monetization-sdk.chartboost.com
+01:49:32.814 ADBLOCK config.monetization-sdk.chartboost.com
+01:49:32.928 ADBLOCK install.monetization-sdk.chartboost.com
+01:49:32.941 ADBLOCK install.monetization-sdk.chartboost.com
+01:49:33.050 DNS report.appmetrica.yandex.net
+01:49:34.576 ADBLOCK o-sdk.mediation.unity3d.com
+01:49:36.882 ADBLOCK o-sdk.mediation.unity3d.com
