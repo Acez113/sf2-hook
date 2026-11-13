@@ -321,3 +321,7 @@
 01:46:28.382 ADBLOCK gw1.mediation.unity3d.com
 01:46:28.429 ADBLOCK gw1.mediation.unity3d.com
 01:46:28.432 ADBLOCK cdn.iads.unity3d.com
+01:46:40.509 DNS yastatic.net
+01:46:40.873 DNS yastatic.net
+01:46:43.380 ADBLOCK gw1.mediation.unity3d.com
+01:46:43.399 ADBLOCK gw1.mediation.unity3d.com
