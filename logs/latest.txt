@@ -495,3 +495,13 @@ EVENT_FALL_26.09:51:56.747 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.09
 09:54:56.202 FOUND[PERK_BOSS_] #3 @0x15bb99f86
 .............+...............U.......U.......Z...............+..............Ng.......g.......U...............................(...............................A...C....,.D=...(.............................. A...Ctus="REJ ..$................................0...110" Nam ..$....................................m...n.e= ..$................................PERK_BOSS_AB ..$................................4.........  ...(...............................B...C....5."R...(.............................. B...C....[. N...(...............................A..>Cs...'.e=...(...................................C[...6.LY ..$............................ .....2.......rk ..$............................ ...}.H.&.....JE .
 09:54:56.202 ---- boss perk hunt done ----
+09:55:18.266 DNS region1.app-analytics-services.com
+09:55:18.267 DNS region1.app-analytics-services.com
+09:55:18.298 DNS app-analytics-services.com
+09:55:18.301 DNS region1.app-analytics-services.com
+09:55:18.380 DNS app-analytics-services.com
+09:55:18.381 DNS region1.app-analytics-services.com
+09:55:21.021 DNS itunes.apple.com
+09:55:21.582 DNS report.appmetrica.yandex.net
+09:55:21.585 DNS a58pbd.launches.appsflyersdk.com
+09:55:21.638 DNS a58pbd.launches.appsflyersdk.com
