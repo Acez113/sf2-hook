@@ -288,3 +288,55 @@
 21:03:47.846 GAMEDATA      720  sessions.json
 21:03:47.847 GAMEDATA      516  events_data.xml
 21:04:02.355 ---- hack self-check (single pass) ----
+21:04:35.181 ADBLOCK o-sdk.mediation.unity3d.com
+21:04:35.296 ADBLOCK telemetry.tk0x1.com
+21:04:35.320 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:04:35.321 ADBLOCK prefetch.monetization-sdk.chartboost.com
+21:04:35.326 ADBLOCK config.monetization-sdk.chartboost.com
+21:04:35.326 ADBLOCK config.monetization-sdk.chartboost.com
+21:04:35.330 ADBLOCK install.monetization-sdk.chartboost.com
+21:04:35.332 ADBLOCK install.monetization-sdk.chartboost.com
+21:04:36.465 ADBLOCK gateway.unityads.unity3d.com
+21:04:36.502 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+21:04:36.505 CONFIGSPROBE[R] fd=53 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+21:04:36.507 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+21:04:36.532 ADBLOCK googleads.g.doubleclick.net
+21:04:36.534 ADBLOCK pubads.g.doubleclick.net
+21:04:36.549 DNS itunes.apple.com
+21:04:36.598 DNS yandex.com
+21:04:36.602 DNS yandex.com
+21:04:36.603 DNS yandex.com.tr
+21:04:36.604 DNS yandex.com.tr
+21:04:36.654 ADBLOCK cdn.iads.unity3d.com
+21:04:36.655 DNS report.appmetrica.yandex.net
+21:04:36.903 DNS yandex.com
+21:04:36.934 CONFIGSPROBE[R] fd=16 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+21:04:36.935 RAIDCONFIG MISS(retry) raid_configs
+21:04:37.110 DNS yandex.com
+21:04:38.690 DNS yastatic.net
+21:04:38.866 DNS yastatic.net
+21:04:41.634 ADBLOCK cdn.iads.unity3d.com
+21:04:41.646 ADBLOCK gw1.mediation.unity3d.com
+21:04:41.651 ADBLOCK gw1.mediation.unity3d.com
+21:04:45.792   [PASS] moves: thruster      found=6  (need 1+)
+21:04:45.792   [PASS] moves: no-block      found=120  (need 1+)
+21:04:45.792   [PASS] moves: ignores evade found=101  (need 1+)
+21:04:45.792   [PASS] moves: long range    found=397  (need 1+)
+21:04:45.793   [PASS] moves: geometry      found=1772  (need 1+)
+21:04:45.793   [PASS] moves: stance skip   found=63  (need 1+)
+21:04:45.793   [FAIL] perks: antiban       found=0  (need 1+)
+21:04:45.793   [PASS] perks: frenzy name   found=163  (need 1+)
+21:04:45.793   [PASS] perks: frenzy HACKED found=1  (need 1+)
+21:04:45.793   [PASS] perks: boss gutted   found=2  (need 1+)
+21:04:45.793   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+21:04:45.794   [PASS] BAD empty parts      found=0  (need 0 exactly)
+21:04:45.794   [FAIL] rc: clean perk       found=0  (need 1+)
+21:04:45.794   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+21:04:45.794   [PASS] rc: clean cd         found=1  (need 1+)
+21:04:45.794   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+21:04:45.794   [PASS] rc: clean ammo       found=1  (need 1+)
+21:04:45.794   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+21:04:45.795   scanned 2048 MB in 43.4s
+21:04:45.795   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+21:04:45.795   redirect CONFIGS.bundle: reads=0 ready=YES
+21:04:45.795 ---- self-check: 16 pass / 2 fail ----
