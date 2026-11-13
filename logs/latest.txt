@@ -421,3 +421,25 @@
 15:39:54.068 DNS googleapis.com
 15:39:54.068 DNS firebaselogging-pa.googleapis.com
 15:40:38.074 ---- hack self-check (single pass) ----
+15:41:31.934   [PASS] moves: thruster      found=5  (need 1+)
+15:41:31.935   [PASS] moves: no-block      found=131  (need 1+)
+15:41:31.935   [PASS] moves: ignores evade found=113  (need 1+)
+15:41:31.936   [PASS] moves: long range    found=401  (need 1+)
+15:41:31.936   [PASS] moves: geometry      found=1663  (need 1+)
+15:41:31.936   [PASS] moves: stance skip   found=65  (need 1+)
+15:41:31.936   [FAIL] perks: antiban       found=0  (need 1+)
+15:41:31.937   [PASS] perks: frenzy name   found=62  (need 1+)
+15:41:31.937   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+15:41:31.937   [FAIL] perks: boss gutted   found=0  (need 1+)
+15:41:31.937   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+15:41:31.937   [PASS] BAD empty parts      found=0  (need 0 exactly)
+15:41:31.938   [FAIL] rc: clean perk       found=0  (need 1+)
+15:41:31.938   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+15:41:31.938   [PASS] rc: clean cd         found=2  (need 1+)
+15:41:31.939   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+15:41:31.939   [PASS] rc: clean ammo       found=2  (need 1+)
+15:41:31.939   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+15:41:31.939   scanned 2048 MB in 53.9s
+15:41:31.940   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+15:41:31.940   redirect CONFIGS.bundle: reads=0 ready=YES
+15:41:31.940 ---- self-check: 14 pass / 4 fail ----
