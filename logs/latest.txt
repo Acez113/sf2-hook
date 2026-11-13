@@ -418,3 +418,6 @@ K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.
 01:48:34.861 FOUND[PERK_BOSS_] #3 @0x166700449
 .e.s.t.2.5._.3.y.e.r.s="REJXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.y.e.r.EJECT"XD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.3.REJECT" GrouXD}.............................W.e.e.k.l.y.O.f.f.e.r._.s.u.m.m.e.r.f.e.s.t.2.5._.2.....\.Name="General" />.  <Perk ID="108" Name="PERK_BOSS_WIDOW_SHIELDING" St..~)............................x.UWi......^....u'..~.....YY.{f.U.....Lu....A$AI.HA...I..........9.C.s...1`.I....ld."...2.......UO.n..Z........-....^).,K...w2......t..X.R5.6=.&V.5.E........,z..M...&u-.)...]7...3K"......^\.I..e.C.Z..[x$A....0:..`f.z...k.)...o.i:.k..Q_....S..3+....sR.i......N...`..j.....HY..ALI..2......7.
 01:48:34.862 ---- boss perk hunt done ----
+01:48:36.705 ADBLOCK gw1.mediation.unity3d.com
+01:48:36.718 ADBLOCK gw1.mediation.unity3d.com
+01:48:49.260 ADBLOCK o-sdk.mediation.unity3d.com
