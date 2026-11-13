@@ -538,3 +538,12 @@ FOUND[TENEBRIS] nothing in 2048 MB.23:21:25.296 ADBLOCK gateway.unityads.unity3d
 23:25:33.744 ADBLOCK o-sdk.mediation.unity3d.com
 23:25:39.218 ADBLOCK o-sdk.mediation.unity3d.com
 23:25:44.262 ADBLOCK o-sdk.mediation.unity3d.com
+23:26:01.323 ADBLOCK config.monetization-sdk.chartboost.com
+23:26:01.326 ADBLOCK install.monetization-sdk.chartboost.com
+23:26:01.327 ADBLOCK config.monetization-sdk.chartboost.com
+23:26:01.328 ADBLOCK install.monetization-sdk.chartboost.com
+23:26:03.246 ADBLOCK gateway.unityads.unity3d.com
+23:26:03.293 ADBLOCK gateway.unityads.unity3d.com
+23:26:03.396 ADBLOCK o-sdk.mediation.unity3d.com
+23:26:06.062 ADBLOCK gw1.mediation.unity3d.com
+23:26:11.285 ADBLOCK gw1.mediation.unity3d.com
