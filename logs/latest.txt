@@ -486,3 +486,43 @@ EVENT_FALL_26.15:39:43.555 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.15
 15:44:19.232 DNS a58pbd.inapps.appsflyersdk.com
 15:44:19.295 DNS a58pbd.inapps.appsflyersdk.com
 15:44:23.279 ---- boss perk hunt (read-only) ----
+15:44:23.520 FOUND[Karcer] #1 @0x1098fd7e2
+oogle.com.15:39:34.402 ADBLOCK ms.applovin.com.15:39:34.403 ADBLOCK ms.applovin.com.15:39:34.408 DNS assets.nekki.com.15:39:34.447 ADBLOCK cdn-f.adsmoloco.com.15:39:34.459 ADBLOCK applovin.com.15:39:34.460 ADBLOCK ms.applovin.com.15:39:34.725 ADBLOCK cdn-f.adsmoloco.com.15:39:34.864 ADBLOCK gw1.mediation.unity3d.com.15:39:35.151 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4.15:39:35.184 ADBLOCK d.applovin.com.15:39:35.184 ADBLOCK d.applovin.com.15:39:35.188 ADBLOCK rt.applovin.com.15:39:35.188 ADBLOCK rt.applovin.com.15:39:35.191 ADBLOCK a4.applovin.com.15:39:35.191 ADBLOCK a4.applovin.com.15:39:35.246 ADBLOCK applovin.com.15:39:35.246 ADBLOCK d.applovin.com.15:39:35.247 ADBLOCK appl
+15:44:24.112 DNS ep2.facebook.com
+15:44:24.118 DNS ep2.facebook.com
+15:44:24.152 DNS star.fallback.c10r.facebook.com.
+15:44:24.154 DNS ep2.facebook.com
+15:44:24.282 DNS facebook.com
+15:44:24.286 DNS ep2.facebook.com
+15:44:24.645 DNS facebook.com
+15:44:24.648 DNS ep2.facebook.com
+15:44:25.067 DNS star.fallback.c10r.facebook.com.
+15:44:25.068 DNS ep2.facebook.com
+15:44:25.349 DNS facebook.com
+15:44:25.354 DNS ep2.facebook.com
+15:44:26.360 FOUND[Karcer] #2 @0x13b49b654
+............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
+15:44:27.387 DNS facebook.com
+15:44:27.394 DNS ep2.facebook.com
+15:44:27.406 FOUND[Karcer] #3 @0x14cff8016
+IG MISS(retry) raid_configs.15:39:30.475 DNS report.appmetrica.yandex.net.15:39:30.476 DNS yandex.com.15:39:30.634 DNS report.appmetrica.yandex.net.15:39:30.661 DNS yandex.com.15:39:30.688 ADBLOCK gateway.unityads.unity3d.com.15:39:30.693 ADBLOCK unityads.unity3d.com.15:39:30.694 ADBLOCK gateway.unityads.unity3d.com.15:39:31.908 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4.15:39:32.164 DNS a58pbd.launches.appsflyersdk.com.15:39:32.193 DNS yastatic.net.15:39:32.248 ADBLOCK o-sdk.mediation.unity3d.com.15:39:32.324 ADBLOCK gw1.mediation.unity3d.com.15:39:32.341 ADBLOCK gw1.mediation.unity3d.com.15:39:32.344 ADBLOCK o-sdk.mediation.unity3d.com.15:39:32.375 DNS yastatic.net.15:39:32.378 
+15:44:27.702 FOUND[Drakaina] #1 @0x109b8f84d
+>...<..`........A...A.......A0..........?.>......5.....f?...>...<..`........A...A.......A0..........?.>......6.....P?...>...<..`........A...A.......A0..........?.>......8.....Z?...>...<..`........A...A.......A0..........?.>......9.....w?.@.>...<..`........A...A.......A0..........?.>......:39:32.375 DNS yastatic.net.15:39:32.378 .15:42:00.539 FOUND[Drakaina] nothing in 2049 MB.15:42:03.468 FOUND[Tenebris] #1 @0x14b388935...].B..:Cg.E....Cw40CJ....o.B..'C.E.....C..$C....yy.C.=*Cu#.....C.,+C"'...f.C..*C[M...j.C,7)C.......C...C.I.....B.3.C.[...^.BN..C0......B.#.C.....;.C...C.D...4.C...C.......B<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
+15:44:28.101 DNS star.fallback.c10r.facebook.com.
+15:44:28.128 DNS ep2.facebook.com
+15:44:28.569 DNS star.fallback.c10r.facebook.com.
+15:44:28.586 DNS ep2.facebook.com
+15:44:29.662 DNS facebook.com
+15:44:29.678 DNS ep2.facebook.com
+15:44:32.954 FOUND[Drakaina] #2 @0x14cffb84c
+' total hits=4.15:39:32.164 DNS a58pbd.launches.appsflyersdk.com.15:39:32.193 DNS yastatic.net.15:39:32.248 ADBLOCK o-sdk.mediation.unity3d.com.15:39:32.324 ADBLOCK gw1.mediation.unity3d.com.15:39:32.341 ADBLOCK gw1.mediation.unity3d.com.15:39:32.344 ADBLOCK o-sdk.mediation.unity3d.com.15:39:32.375 DNS yastatic.net.15:39:32.378 .15:42:00.539 FOUND[Drakaina] nothing in 2049 MB.15:42:03.468 FOUND[Tenebris] #1 @0x14b388935...].B..:Cg.E....Cw40CJ....o.B..'C.E.....C..$C....yy.C.=*Cu#.....C.,+C"'...f.C..*C[M...j.C,7)C.......C...C.I.....B.3.C.[...^.BN..C0......B.#.C.....;.C...C.D...4.C...C.......B<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
+15:44:35.429 FOUND[Drakaina] #3 @0x15df6e984
+' total hits=4.15:39:32.164 DNS a58pbd.launches.appsflyersdk.com.15:39:32.193 DNS yastatic.net.15:39:32.248 ADBLOCK o-sdk.mediation.unity3d.com.15:39:32.324 ADBLOCK gw1.mediation.unity3d.com.15:39:32.341 ADBLOCK gw1.mediation.unity3d.com.15:39:32.344 ADBLOCK o-sdk.mediation.unity3d.com.15:39:32.375 DNS yastatic.net.15:39:32.378 .15:42:00.539 FOUND[Drakaina] nothing in 2049 MB.15:42:03.468 FOUND[Tenebris] #1 @0x14b388935...].B..:Cg.E....Cw40CJ....o.B..'C.E.....C..$C....yy.C.=*Cu#.....C.,+C"'...f.C..*C[M...j.C,7)C.......C...C.I.....B.3.C.[...^.BN..C0......B.#.C.....;.C...C.D...4.C...C.......B<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
+15:44:40.119 FOUND[Tenebris] #1 @0x14b388935
+..].B..:Cg.E....Cw40CJ....o.B..'C.E.....C..$C....yy.C.=*Cu#.....C.,+C"'...f.C..*C[M...j.C,7)C.......C...C.I.....B.3.C.[...^.BN..C0......B.#.C.....;.C...C.D...4.C...C.......B<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .,-...............
+15:44:40.121 FOUND[Tenebris] #2 @0x14b3889e6
+ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .,-....................C........SzC.*\....Cb.tC..1....B2._C-....+.B...C.P,.Cq.B.Z?C.......C ..C.0.. ..B^.jCf......C...C.......B$.nC.......C...C.....l.Bo?eC.R.....B..zCI...p..Bf.OC..~....C.G.C....
+15:44:40.122 FOUND[Tenebris] #3 @0x14b388ddb
+..C[..C....8..C..rC....w..CB..C.......CP.yC{DF....B..fC.n.....B..{CT...|..BSwdC.s..R!.B.)zC1......B..qC.......B..pC....3..B.~rC.....Z.B..qCK.F.8..C.'.C.xF..].B...C;9E....CW.vCJ...^o.BMinC ......C\.kC`....g.C..pC.......CZmqC....:Y.C..pC.....k.C..oC.o..n..Cd..C.......B.k.Cw...p..B...C.D...4.B...C.E..pJ.C...C.....0.C.O.C.!..K..Bns><CreatePlayer Name="TenebrisMagic" Frame="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=
+15:44:43.433 FOUND[Stalker] #1 @0x14cffc13a
+="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.15:42:11.744 FOUND[Stalker] nothing in 2049 MB.15:42:11.950 FOUND[KARCER] #1 @0x109b8e06d.EVENT_FALL_26.15:39:43.555 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.15:39:43.556 GAMEDATA   733768  NEKKI_FEST_26.15:39:43.557 GAMEDATA  1379404  WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25.15:39:43.557 GAMEDATA   418519  WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON.15:39:4
