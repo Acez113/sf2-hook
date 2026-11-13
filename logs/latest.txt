@@ -522,3 +522,5 @@ K_RAKS ..*....................C.......qM9DeQ@....C..4D.d..X..B.t/D.1..l\.B..9D<^
 18:50:45.349 ADBLOCK gateway.unityads.unity3d.com
 18:50:48.297 ADBLOCK gw1.mediation.unity3d.com
 18:50:54.743 ADBLOCK o-sdk.mediation.unity3d.com
+18:50:59.243 DNS api.github.com
+18:51:00.045 DNS api.github.com
