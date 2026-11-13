@@ -496,3 +496,5 @@ s.p.e.c.t. .*. .?.C.u.r.r.e.n.t.F.i.g.h.t.[.]...i.s.R.a.i.d. .*. .?.P.l.a.y.e.r.
 21:08:11.433 FOUND[PERK_BOSS_] #3 @0x12f34cb80
 STEAL" Image="SkillsEnch02.EnchantmentLifeDrain" ...................?.H.i.t.[.]...D.a.m.a.g.e. ./. .?.P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.E.n.e.m.y.]...D.a.m.a.g.e.C.o.n.v.e.r.t.e.r. .*. .2...2. .*. .?.A.s.p.e.c.t.[.0. .*. .(. .1. .-. .?.C.u.r.r.e.n.t.F.i.g.h.t.[.]...i.s.R.a.i.d. .*. .?.P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...i.s.P..21:06:14.351 FOUND[PERK_BOSS_] #2 @0x1429b4c76.a.3.R.......A...3.F.......R.V...N...[...S.].>.J......... .r.........Y.h. .j.......I.o.'._.......N.h.?.R...[...N.n.:.J.......E.c.&.y.......S.y.3.E.......}.a.n.t.m.e.n.t.R.e.s.i.s.t.a.n.c.e.].]...nceClear"><Set Frames="300" InitialFrames="300" FlagName="BossAbilityRecharge" AnimationName="BossAbility" /></Perk><Perk Name="
 21:08:11.434 ---- boss perk hunt done ----
+21:08:13.884 ADBLOCK gw1.mediation.unity3d.com
+21:08:26.516 ADBLOCK o-sdk.mediation.unity3d.com
