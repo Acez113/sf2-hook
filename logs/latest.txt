@@ -90,3 +90,235 @@
 10:22:34.970 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 10:22:34.971 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 10:22:35.062 DNS api.github.com
+10:22:36.347 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+10:22:36.363 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=20)
+10:22:36.363 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=20)
+10:22:36.377 DNS assets.nekki.com
+10:22:36.383 DNS ep2.facebook.com
+10:22:36.384 DNS ep2.facebook.com
+10:22:36.385 DNS ep2.facebook.com
+10:22:36.385 DNS ep2.facebook.com
+10:22:36.385 DNS star.fallback.c10r.facebook.com.
+10:22:36.385 DNS ep2.facebook.com
+10:22:36.385 DNS ep2.facebook.com
+10:22:36.386 DNS ep2.facebook.com
+10:22:36.388 DNS star.fallback.c10r.facebook.com.
+10:22:36.388 DNS ep2.facebook.com
+10:22:36.389 DNS star.fallback.c10r.facebook.com.
+10:22:36.390 DNS ep2.facebook.com
+10:22:36.391 DNS facebook.com
+10:22:36.392 DNS ep2.facebook.com
+10:22:36.395 DNS facebook.com
+10:22:36.395 DNS ep2.facebook.com
+10:22:36.397 DNS facebook.com
+10:22:36.398 DNS ep2.facebook.com
+10:22:36.420 ADBLOCK cdp.cloud.unity3d.com
+10:22:36.420 ADBLOCK cdp.cloud.unity3d.com
+10:22:36.434 DNS assets.nekki.com
+10:22:36.450 DNS a58pbd.launches.appsflyersdk.com
+10:22:36.453 DNS a58pbd.launches.appsflyersdk.com
+10:22:36.460 ADBLOCK cloud.unity3d.com
+10:22:36.461 ADBLOCK cdp.cloud.unity3d.com
+10:22:36.483 DNS crashlyticsreports-pa.googleapis.com
+10:22:36.484 DNS crashlyticsreports-pa.googleapis.com
+10:22:36.488 DNS ep2.facebook.com
+10:22:36.489 DNS star.fallback.c10r.facebook.com.
+10:22:36.489 DNS ep2.facebook.com
+10:22:36.489 DNS star.fallback.c10r.facebook.com.
+10:22:36.490 DNS facebook.com
+10:22:36.491 DNS ep2.facebook.com
+10:22:36.494 DNS facebook.com
+10:22:36.495 DNS ep2.facebook.com
+10:22:36.522 DNS googleapis.com
+10:22:36.523 DNS crashlyticsreports-pa.googleapis.com
+10:22:36.547 DNS a58pbd.launches.appsflyersdk.com
+10:22:36.555 DNS a58pbd.launches.appsflyersdk.com
+10:22:36.631 dump upload dumps/Info.plist -> HTTP 200
+10:22:36.676 ACE bubble shown
+10:22:36.750 DNS ep2.facebook.com
+10:22:36.750 DNS ep2.facebook.com
+10:22:36.752 DNS star.fallback.c10r.facebook.com.
+10:22:36.752 DNS ep2.facebook.com
+10:22:36.754 DNS facebook.com
+10:22:36.754 DNS ep2.facebook.com
+10:22:36.858 DNS ep2.facebook.com
+10:22:36.858 DNS star.fallback.c10r.facebook.com.
+10:22:36.859 DNS facebook.com
+10:22:36.860 DNS ep2.facebook.com
+10:22:37.772 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=20)
+10:22:37.773 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=20)
+10:22:38.595 DNS time-server.nekki.com
+10:22:38.597 ADBLOCK i-adq.mediation.unity3d.com
+10:22:38.609 ADBLOCK init.supersonicads.com
+10:22:38.638 ADBLOCK gateway-a.offerwall.unity3d.com
+10:22:38.644 ADBLOCK i-sdk.mediation.unity3d.com
+10:22:38.724 DNS time-server.nekki.com
+10:22:38.746 ADBLOCK i-sdk.mediation.unity3d.com
+10:22:38.754 ADBLOCK gateway-a.offerwall.unity3d.com
+10:22:38.926 ADBLOCK i-adq.mediation.unity3d.com
+10:22:38.928 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+10:22:38.991 ADBLOCK i-adq.mediation.unity3d.com
+10:22:39.090 ADBLOCK o-sdk.mediation.unity3d.com
+10:22:39.211 ADBLOCK o-sdk.mediation.unity3d.com
+10:22:39.238 ADBLOCK telemetry.tk0x1.com
+10:22:39.311 ADBLOCK prefetch.monetization-sdk.chartboost.com
+10:22:39.311 ADBLOCK prefetch.monetization-sdk.chartboost.com
+10:22:39.315 ADBLOCK config.monetization-sdk.chartboost.com
+10:22:39.315 ADBLOCK config.monetization-sdk.chartboost.com
+10:22:39.319 ADBLOCK install.monetization-sdk.chartboost.com
+10:22:39.320 ADBLOCK monetization-sdk.chartboost.com
+10:22:39.321 ADBLOCK config.monetization-sdk.chartboost.com
+10:22:39.321 ADBLOCK install.monetization-sdk.chartboost.com
+10:22:39.326 ADBLOCK monetization-sdk.chartboost.com
+10:22:39.327 ADBLOCK install.monetization-sdk.chartboost.com
+10:22:39.349 ADBLOCK monetization-sdk.chartboost.com
+10:22:39.350 ADBLOCK prefetch.monetization-sdk.chartboost.com
+10:22:39.405 ADBLOCK telemetry.tk0x1.com
+10:22:39.419 ADBLOCK monetization-sdk.chartboost.com
+10:22:39.419 ADBLOCK config.monetization-sdk.chartboost.com
+10:22:39.424 ADBLOCK monetization-sdk.chartboost.com
+10:22:39.424 ADBLOCK install.monetization-sdk.chartboost.com
+10:22:40.338 ADBLOCK gateway.unityads.unity3d.com
+10:22:40.377 ADBLOCK unityads.unity3d.com
+10:22:40.381 ADBLOCK gateway.unityads.unity3d.com
+10:22:40.383 CONFIGSPROBE[R] fd=52 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs
+10:22:40.385 ADBLOCK googleads.g.doubleclick.net
+10:22:40.385 ADBLOCK pubads.g.doubleclick.net
+10:22:40.397 DNS itunes.apple.com
+10:22:40.400 ADBLOCK googleads.g.doubleclick.net
+10:22:40.403 CONFIGSPROBE[R] fd=56 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs
+10:22:40.403 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+10:22:40.406 ADBLOCK pubads.g.doubleclick.net
+10:22:40.433 ADBLOCK g.doubleclick.net
+10:22:40.434 ADBLOCK googleads.g.doubleclick.net
+10:22:40.444 ADBLOCK cdn.iads.unity3d.com
+10:22:40.473 ADBLOCK unityads.unity3d.com
+10:22:40.474 ADBLOCK gateway.unityads.unity3d.com
+10:22:40.508 DNS report.appmetrica.yandex.net
+10:22:40.522 DNS yandex.com
+10:22:40.652 ADBLOCK g.doubleclick.net
+10:22:40.653 ADBLOCK pubads.g.doubleclick.net
+10:22:40.667 ADBLOCK googleads.g.doubleclick.net
+10:22:40.668 ADBLOCK pubads.g.doubleclick.net
+10:22:40.733 ADBLOCK unityads.unity3d.com
+10:22:40.735 ADBLOCK gateway.unityads.unity3d.com
+10:22:40.799 ADBLOCK cdn.iads.unity3d.com
+10:22:40.829 CONFIGSPROBE[R] fd=26 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs
+10:22:40.830 RAIDCONFIG MISS(retry) raid_configs
+10:22:40.910 DNS report.appmetrica.yandex.net
+10:22:40.964 DNS yandex.com
+10:22:41.018 ADBLOCK pubads.g.doubleclick.net
+10:22:41.019 ADBLOCK googleads.g.doubleclick.net
+10:22:41.281 DNS yandex.com
+10:22:41.395 ADBLOCK gateway.unityads.unity3d.com
+10:22:41.403 ADBLOCK unityads.unity3d.com
+10:22:41.404 ADBLOCK gateway.unityads.unity3d.com
+10:22:41.507 ADBLOCK unityads.unity3d.com
+10:22:41.507 ADBLOCK gateway.unityads.unity3d.com
+10:22:41.601 DNS time-server.nekki.com
+10:22:41.616 DNS sf2ios.nekki.com
+10:22:41.882 DNS time-server.nekki.com
+10:22:41.905 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=4
+10:22:42.118 DNS sf2ios.nekki.com
+10:22:42.490 DNS yastatic.net
+10:22:42.651 DNS yastatic.net
+10:22:42.704 ADBLOCK gw1.mediation.unity3d.com
+10:22:42.708 ADBLOCK gw1.mediation.unity3d.com
+10:22:42.755 ADBLOCK gw1.mediation.unity3d.com
+10:22:42.757 ADBLOCK gw1.mediation.unity3d.com
+10:22:42.776 DNS google.com
+10:22:42.777 DNS google.com
+10:22:42.803 DNS google.com
+10:22:42.842 DNS sf2ios-dumps.nekki.com
+10:22:42.852 DNS com
+10:22:42.853 DNS google.com
+10:22:42.854 ADBLOCK gw1.mediation.unity3d.com
+10:22:42.855 ADBLOCK gw1.mediation.unity3d.com
+10:22:42.895 DNS google.com
+10:22:42.901 DNS com
+10:22:42.903 DNS google.com
+10:22:43.034 DNS sf2ios-dumps.nekki.com
+10:22:43.346 DNS assets.nekki.com
+10:22:43.407 DNS www.google.com
+10:22:43.408 DNS www.google.com
+10:22:43.409 DNS www.google.com
+10:22:43.410 DNS google.com
+10:22:43.411 DNS www.google.com
+10:22:43.417 DNS assets.nekki.com
+10:22:43.518 DNS www.google.com
+10:22:43.522 DNS google.com
+10:22:43.523 DNS www.google.com
+10:22:44.279 DNS consent.google.com
+10:22:44.280 DNS consent.google.com
+10:22:44.283 DNS google.com
+10:22:44.284 DNS consent.google.com
+10:22:44.384 DNS google.com
+10:22:44.385 DNS consent.google.com
+10:22:44.638 DNS google.com
+10:22:44.638 DNS consent.google.com
+10:22:45.589 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4
+10:22:45.691 ADBLOCK ms.applovin.com
+10:22:45.691 ADBLOCK ms.applovin.com
+10:22:45.759 ADBLOCK applovin.com
+10:22:45.760 ADBLOCK ms.applovin.com
+10:22:46.237 ADBLOCK d.applovin.com
+10:22:46.237 ADBLOCK d.applovin.com
+10:22:46.242 ADBLOCK rt.applovin.com
+10:22:46.243 ADBLOCK rt.applovin.com
+10:22:46.246 ADBLOCK a4.applovin.com
+10:22:46.248 ADBLOCK a4.applovin.com
+10:22:46.284 ADBLOCK applovin.com
+10:22:46.284 ADBLOCK d.applovin.com
+10:22:46.292 ADBLOCK applovin.com
+10:22:46.293 ADBLOCK rt.applovin.com
+10:22:46.295 ADBLOCK applovin.com
+10:22:46.296 ADBLOCK a4.applovin.com
+10:22:46.955 DNS ledger.nekki.com
+10:22:46.984 ADBLOCK sts.applovin.com
+10:22:46.985 ADBLOCK sts.applovin.com
+10:22:47.090 ADBLOCK applovin.com
+10:22:47.091 ADBLOCK sts.applovin.com
+10:22:47.137 DNS ledger.nekki.com
+10:22:47.414 CONFIGSPROBE[W] fd=42 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
+10:22:47.457 DNS sf2lb.nekki.com
+10:22:47.458 CONFIGSPROBE[R] fd=42 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
+10:22:47.458 CONFIGSPROBE[R] fd=43 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs/econfig.zip
+10:22:47.458 RAIDCONFIG GOT econfig.zip bytes=228473
+10:22:47.533 DNS sf2lb.nekki.com
+10:22:47.770 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
+10:22:47.770 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
+10:22:48.701 ADBLOCK o-iab-notifications.mediation.unity3d.com
+10:22:48.703 ADBLOCK hbevents-public.mz.unity3d.com
+10:22:48.703 ADBLOCK w.isx.unity3d.com
+10:22:48.703 ADBLOCK vg-new-hb-bid-feedback.mtgglobals.com
+10:22:48.703 ADBLOCK live.chartboost.com
+10:22:48.703 ADBLOCK hbevents-public.mz.unity3d.com
+10:22:48.706 ADBLOCK live.chartboost.com
+10:22:48.755 ADBLOCK chartboost.com
+10:22:48.755 ADBLOCK live.chartboost.com
+10:22:48.801 ADBLOCK o-iab-notifications.mediation.unity3d.com
+10:22:48.802 ADBLOCK mz.unity3d.com
+10:22:48.803 ADBLOCK hbevents-public.mz.unity3d.com
+10:22:48.807 ADBLOCK w.isx.unity3d.com
+10:22:48.943 ADBLOCK vg-new-hb-bid-feedback.mtgglobals.com
+10:22:49.720 DNS ep2.facebook.com
+10:22:49.721 DNS ep2.facebook.com
+10:22:49.724 DNS star.fallback.c10r.facebook.com.
+10:22:49.725 DNS ep2.facebook.com
+10:22:49.726 DNS facebook.com
+10:22:49.727 DNS ep2.facebook.com
+10:22:49.922 ADBLOCK o-iab-notifications.mediation.unity3d.com
+10:22:49.926 ADBLOCK hbevents-public.mz.unity3d.com
+10:22:49.927 ADBLOCK w.isx.unity3d.com
+10:22:49.927 ADBLOCK vg-new-hb-bid-feedback.mtgglobals.com
+10:22:49.927 ADBLOCK live.chartboost.com
+10:22:49.928 ADBLOCK hbevents-public.mz.unity3d.com
+10:22:49.937 ADBLOCK live.chartboost.com
+10:22:49.942 ADBLOCK mz.unity3d.com
+10:22:49.943 ADBLOCK hbevents-public.mz.unity3d.com
+10:22:49.948 ADBLOCK chartboost.com
+10:22:49.949 ADBLOCK live.chartboost.com
+10:22:49.986 ADBLOCK o-iab-notifications.mediation.unity3d.com
+10:22:49.992 ADBLOCK w.isx.unity3d.com
+10:22:50.181 ADBLOCK vg-new-hb-bid-feedback.mtgglobals.com
+10:22:50.595 dump upload dumps/econfig.zip -> HTTP 200
