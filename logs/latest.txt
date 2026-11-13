@@ -112,3 +112,57 @@
 18:44:41.857 DNS a58pbd.launches.appsflyersdk.com
 18:44:42.092 DNS googleapis.com
 18:44:42.092 DNS crashlyticsreports-pa.googleapis.com
+18:44:42.481 DNS assets.nekki.com
+18:44:42.644 DNS ep2.facebook.com
+18:44:42.645 DNS ep2.facebook.com
+18:44:42.648 DNS ep2.facebook.com
+18:44:42.648 DNS star.fallback.c10r.facebook.com.
+18:44:42.649 DNS ep2.facebook.com
+18:44:42.651 DNS ep2.facebook.com
+18:44:42.653 DNS facebook.com
+18:44:42.654 DNS ep2.facebook.com
+18:44:42.655 DNS ep2.facebook.com
+18:44:42.655 DNS star.fallback.c10r.facebook.com.
+18:44:42.656 DNS facebook.com
+18:44:42.657 DNS ep2.facebook.com
+18:44:42.715 DNS googleapis.com
+18:44:42.716 DNS crashlyticsreports-pa.googleapis.com
+18:44:42.867 DNS crashlyticsreports-pa.googleapis.com
+18:44:43.064 dump upload dumps/Info.plist -> HTTP 200
+18:44:43.786 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+18:44:45.253 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=40)
+18:44:45.254 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=40)
+18:44:45.649 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0
+18:44:46.211 DNS time-server.nekki.com
+18:44:46.216 ADBLOCK i-adq.mediation.unity3d.com
+18:44:46.232 ADBLOCK init.supersonicads.com
+18:44:46.264 ADBLOCK gateway-a.offerwall.unity3d.com
+18:44:46.270 ADBLOCK i-sdk.mediation.unity3d.com
+18:44:46.588 ADBLOCK i-adq.mediation.unity3d.com
+18:44:46.822 DNS time-server.nekki.com
+18:44:47.065 ADBLOCK gateway-a.offerwall.unity3d.com
+18:44:50.222 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4
+18:44:50.448 DNS time-server.nekki.com
+18:44:50.462 DNS sf2ios.nekki.com
+18:44:50.879 DNS time-server.nekki.com
+18:44:51.360 DNS sf2ios.nekki.com
+18:44:51.792 DNS google.com
+18:44:51.792 DNS google.com
+18:44:52.078 DNS google.com
+18:44:52.079 DNS com
+18:44:52.079 DNS google.com
+18:44:52.174 DNS sf2ios-dumps.nekki.com
+18:44:53.082 DNS sf2ios-dumps.nekki.com
+18:44:53.402 DNS www.google.com
+18:44:53.402 DNS www.google.com
+18:44:53.405 DNS google.com
+18:44:53.405 DNS www.google.com
+18:44:54.281 DNS assets.nekki.com
+18:44:54.360 DNS google.com
+18:44:54.360 DNS www.google.com
+18:44:54.666 DNS assets.nekki.com
+18:44:55.091 DNS consent.google.com
+18:44:55.092 DNS consent.google.com
+18:44:55.501 DNS google.com
+18:44:55.501 DNS consent.google.com
+18:44:58.240 DNS ledger.nekki.com
