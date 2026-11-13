@@ -453,3 +453,26 @@
 15:09:16.149 CONFIGSPROBE[R] fd=-1 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
 15:09:16.150 RAIDCONFIG MISS(retry) econfig.zip
 15:09:57.387 ---- hack self-check (single pass) ----
+15:11:12.558 ---- boss perk hunt (read-only) ----
+15:11:16.526   [PASS] moves: thruster      found=12  (need 1+)
+15:11:16.527   [PASS] moves: no-block      found=259  (need 1+)
+15:11:16.527   [PASS] moves: ignores evade found=241  (need 1+)
+15:11:16.527   [PASS] moves: long range    found=862  (need 1+)
+15:11:16.528   [PASS] moves: geometry      found=3485  (need 1+)
+15:11:16.528   [PASS] moves: stance skip   found=151  (need 1+)
+15:11:16.529   [FAIL] perks: antiban       found=0  (need 1+)
+15:11:16.529   [PASS] perks: frenzy name   found=191  (need 1+)
+15:11:16.529   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+15:11:16.530   [FAIL] perks: boss gutted   found=0  (need 1+)
+15:11:16.530   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+15:11:16.530   [PASS] BAD empty parts      found=0  (need 0 exactly)
+15:11:16.531   [FAIL] rc: clean perk       found=0  (need 1+)
+15:11:16.531   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+15:11:16.531   [PASS] rc: clean cd         found=3  (need 1+)
+15:11:16.531   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+15:11:16.532   [PASS] rc: clean ammo       found=4  (need 1+)
+15:11:16.532   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+15:11:16.532   scanned 2049 MB in 79.1s
+15:11:16.533   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+15:11:16.533   redirect CONFIGS.bundle: reads=0 ready=YES
+15:11:16.533 ---- self-check: 14 pass / 4 fail ----
