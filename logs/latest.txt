@@ -362,3 +362,25 @@
 18:47:25.825   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 18:47:25.826   redirect CONFIGS.bundle: reads=0 ready=YES
 18:47:25.826 ---- self-check: 14 pass / 4 fail ----
+18:47:25.828 FOUND[Karcer] #1 @0x1528f6333
+S crashlyticsreports-pa.googleapis.com.18:44:43.064 dump upload dumps/Info.plist -> HTTP 200.18:44:43.786 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path.18:44:45.253 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=40).18:44:45.254 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=40).18:44:45.649 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.18:44:46.211 DNS time-server.nekki.com.18:44:46.216 ADBLOCK i-adq.mediation.unity3d.com.18:44:46.232 ADBLOCK init.supersonicads.com.18:44:46.264 ADBLOCK gateway-a.offerwall.unity3d.com.18:44:46.270 ADBLOCK i-sdk.mediation.unity3d.com.18:44:46.588 ADBLOCK i-adq.mediation.unity3d.com.18:44:46.822 DNS time-server.nek
+18:47:25.829 FOUND[Karcer] #2 @0x1528f64ed
+CK i-adq.mediation.unity3d.com.18:44:46.232 ADBLOCK init.supersonicads.com.18:44:46.264 ADBLOCK gateway-a.offerwall.unity3d.com.18:44:46.270 ADBLOCK i-sdk.mediation.unity3d.com.18:44:46.588 ADBLOCK i-adq.mediation.unity3d.com.18:44:46.822 DNS time-server.nekki.com.18:44:47.065 ADBLOCK gateway-a.offerwall.unity3d.com.18:44:50.222 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4.18:44:50.448 DNS time-server.nekki.com.18:44:50.462 DNS sf2ios.nekki.com.18:44:50.879 DNS time-server.nekki.com.18:44:51.360 DNS sf2ios.nekki.com.18:44:51.792 DNS google.com.18:44:51.792 DNS google.com.18:44:52.078 DNS google.com.18:44:52.079 DNS com.18:44:52.079 DNS google.com.18:44:52.174 DNS sf2ios-dumps.nekki.
+18:47:25.840 DNS api.github.com
+18:47:25.868 FOUND[Karcer] #3 @0x152e15eb9
+="KAR ...................1.....e="Arm ...................M.e...ame="W ...................0...mage="Ka ...................M.e...arcer2 ...................1...ws_karce ...................1.....Claws" ...................1..."300" Sh ...................0.....ER_SET ...................1.....on_Bon ...................1.....AGIC_K ...................1..."KarcerS ...................1.....karcer ...................1....._ray"  ...................1.....cHunge ...................3.8...="1" U ...................3.....l="KAR ...................2...ate="Mag ...................1.....ame="H ...................1... Image=" ...................1.8...lm_Str ...................1.....lm_sum!..b..............#O...
+18:47:26.409 DNS api.github.com
+18:47:27.117 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:27.350 ADBLOCK config.monetization-sdk.chartboost.com
+18:47:27.369 ADBLOCK config.monetization-sdk.chartboost.com
+18:47:27.396 ADBLOCK install.monetization-sdk.chartboost.com
+18:47:27.546 ADBLOCK install.monetization-sdk.chartboost.com
+18:47:35.204 FOUND[Drakaina] nothing in 2048 MB
+18:47:37.104 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:37.192 ADBLOCK gateway.unityads.unity3d.com
+18:47:38.282 FOUND[Tenebris] #1 @0x14bcc7935
+...z....C...........C.......@...C........#..C........'..C.... ....I.CT...t....(.C.R......'..CR....y.....C.....%..fX.Clh..i.z.}..C*...R......C......{....C.v......}..C.....^w.<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= ..*...............
+18:47:38.283 FOUND[Tenebris] #2 @0x14bcc79e6
+ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= ..*....................C..........C.hI.{)'....C.c$........Cx.#..^.A...Cc6$..p.....C......fB...C.~".....l2.C....tF.A.p.C.&.........CH?.....A...CJ...H....1.CN...3\.A...C....=?.....C^......Aq!.C.S].
+18:47:38.284 FOUND[Tenebris] #3 @0x14bcc7ddb
+..B.o.C.....n.....C....A..AO$.C....R......C..3...2....C3...L<nA?..C....X......C.J..9..A6:.CU......?]..C.c..4.d@G..C..../..A.1.CY).....@.F.C..3.V..A...C|k4...Z....C..1..L..w:.C....L`j@ ..C.d.....A...C.\...b.BL..C.2..l..BD..CF...p&.B$1.C.....*.A|..C.@..tu.A.2.CA....-...X.Cv...<v...T.C....*d..jO.C.....L.....C`...A......C.&......ns><CreatePlayer Name="TenebrisMagic" Frame="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=
