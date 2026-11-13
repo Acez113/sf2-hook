@@ -412,3 +412,4 @@
 13:12:56.034 DNS googleapis.com
 13:12:56.036 DNS firebaselogging-pa.googleapis.com
 13:13:14.066 DNS a58pbd.inapps.appsflyersdk.com
+13:13:40.363 ---- hack self-check (single pass) ----
