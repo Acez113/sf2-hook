@@ -406,3 +406,16 @@ y.O.f.f.e.r._.9._.6...   <item Name= ...................D.a.i.l.y.O.f.f.e.r._.9.
 23:21:13.509 ADBLOCK o-sdk.mediation.unity3d.com
 23:21:17.693 ADBLOCK o-sdk.mediation.unity3d.com
 23:21:17.933 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:19.800 ADBLOCK config.monetization-sdk.chartboost.com
+23:21:20.082 ADBLOCK config.monetization-sdk.chartboost.com
+23:21:20.184 ADBLOCK install.monetization-sdk.chartboost.com
+23:21:20.240 ADBLOCK install.monetization-sdk.chartboost.com
+23:21:21.137 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:24.420 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:25.082 ADBLOCK gateway.unityads.unity3d.com
+23:21:25.276 FOUND[TENEBRIS] nothing in 2048 MB
+23:21:25.296 ADBLOCK gateway.unityads.unity3d.com
+23:21:28.731 ADBLOCK gw1.mediation.unity3d.com
+23:21:30.404 ADBLOCK o-sdk.mediation.unity3d.com
+23:21:36.891 FOUND[STALKER] nothing in 2049 MB
+23:21:37.221 ADBLOCK gw1.mediation.unity3d.com
