@@ -542,3 +542,4 @@ STEAL" Image="SkillsEnch02.EnchantmentLifeDrain" ...................?.H.i.t.[.].
 21:14:29.741 DNS api.github.com
 21:15:47.251 DNS ledger.nekki.com
 21:15:48.290 DNS ledger.nekki.com
+21:17:05.246 DNS report.appmetrica.yandex.net
