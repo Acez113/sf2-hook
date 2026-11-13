@@ -527,3 +527,15 @@ Set Frames="300" FlagX..0.................... .............Q.......t.'...e.(....
 22:11:03.309 ADBLOCK gw1.mediation.unity3d.com
 22:11:23.818 ADBLOCK gw1.mediation.unity3d.com
 22:11:29.696 ADBLOCK gateway.unityads.unity3d.com
+22:11:52.702 ADBLOCK prefetch.monetization-sdk.chartboost.com
+22:11:52.706 ADBLOCK prefetch.monetization-sdk.chartboost.com
+22:11:52.999 ADBLOCK config.monetization-sdk.chartboost.com
+22:11:53.001 ADBLOCK install.monetization-sdk.chartboost.com
+22:11:53.217 ADBLOCK config.monetization-sdk.chartboost.com
+22:11:53.235 ADBLOCK install.monetization-sdk.chartboost.com
+22:11:59.732 ADBLOCK o-sdk.mediation.unity3d.com
+22:12:00.514 ADBLOCK o-sdk.mediation.unity3d.com
+22:12:00.689 ADBLOCK o-sdk.mediation.unity3d.com
+22:12:02.235 ADBLOCK o-sdk.mediation.unity3d.com
+22:12:02.399 ADBLOCK o-sdk.mediation.unity3d.com
+22:12:03.621 ADBLOCK o-sdk.mediation.unity3d.com
