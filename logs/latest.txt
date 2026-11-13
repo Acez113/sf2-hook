@@ -487,3 +487,6 @@ EVENT_FALL_26.13:58:31.321 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.13
 14:01:51.166 DNS api.github.com
 14:02:45.299 DNS ledger.nekki.com
 14:02:45.401 DNS ledger.nekki.com
+14:03:10.255 DNS a58pbd.launches.appsflyersdk.com
+14:03:10.283 DNS a58pbd.launches.appsflyersdk.com
+14:03:10.797 ---- boss perk hunt (read-only) ----
