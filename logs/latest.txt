@@ -423,3 +423,5 @@
 12:58:30.978 DNS report.appmetrica.yandex.net
 12:58:31.319 DNS report.appmetrica.yandex.net
 12:58:32.586 ---- hack self-check (single pass) ----
+12:58:37.954 DNS api.github.com
+12:58:38.024 DNS api.github.com
