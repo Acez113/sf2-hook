@@ -452,3 +452,25 @@
 09:20:09.027 DNS ledger.nekki.com
 09:20:11.141 dump upload dumps/econfig.zip -> HTTP 200
 09:20:51.376 ---- hack self-check (single pass) ----
+09:22:00.149   [PASS] moves: thruster      found=5  (need 1+)
+09:22:00.151   [PASS] moves: no-block      found=61  (need 1+)
+09:22:00.152   [PASS] moves: ignores evade found=54  (need 1+)
+09:22:00.153   [PASS] moves: long range    found=219  (need 1+)
+09:22:00.153   [PASS] moves: geometry      found=953  (need 1+)
+09:22:00.154   [PASS] moves: stance skip   found=69  (need 1+)
+09:22:00.154   [FAIL] perks: antiban       found=0  (need 1+)
+09:22:00.155   [PASS] perks: frenzy name   found=152  (need 1+)
+09:22:00.155   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+09:22:00.156   [FAIL] perks: boss gutted   found=0  (need 1+)
+09:22:00.156   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+09:22:00.157   [PASS] BAD empty parts      found=0  (need 0 exactly)
+09:22:00.157   [FAIL] rc: my zeroed perk   found=0  (need 1+)
+09:22:00.158   [PASS] rc: ORIGINAL 480     found=0  (need 0 exactly)
+09:22:00.158   [FAIL] rc: my zeroed inmove found=0  (need 1+)
+09:22:00.158   [PASS] rc: ORIGINAL 60      found=0  (need 0 exactly)
+09:22:00.158   [PASS] rc: my ammo gate 0   found=1  (need 1+)
+09:22:00.159   [PASS] rc: ORIGINAL ammo 1  found=0  (need 0 exactly)
+09:22:00.159   scanned 2049 MB in 68.8s
+09:22:00.159   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+09:22:00.159   redirect CONFIGS.bundle: reads=0 ready=YES
+09:22:00.160 ---- self-check: 13 pass / 5 fail ----
