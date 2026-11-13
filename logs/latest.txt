@@ -425,3 +425,5 @@ K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.
 01:48:51.977 ADBLOCK o-sdk.mediation.unity3d.com
 01:49:01.801 ADBLOCK o-sdk.mediation.unity3d.com
 01:49:04.270 ADBLOCK gateway.unityads.unity3d.com
+01:49:29.359 DNS region1.app-analytics-services.com
+01:49:29.361 DNS region1.app-analytics-services.com
