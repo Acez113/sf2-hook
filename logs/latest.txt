@@ -389,3 +389,25 @@
 13:12:45.516 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 13:12:45.519 GAMEDATA      720  sessions.json
 13:12:45.520 GAMEDATA      516  events_data.xml
+13:12:46.351 dump upload dumps/econfig.zip -> HTTP 200
+13:12:48.179 ADBLOCK w.isx.unity3d.com
+13:12:48.189 ADBLOCK o-iab-notifications.mediation.unity3d.com
+13:12:48.192 ADBLOCK o-iab-imp-counters.mediation.unity3d.com
+13:12:48.230 ADBLOCK o-iab-notifications.mediation.unity3d.com
+13:12:48.244 ADBLOCK w.isx.unity3d.com
+13:12:48.283 ADBLOCK o-iab-imp-counters.mediation.unity3d.com
+13:12:48.619 DNS a58pbd.inapps.appsflyersdk.com
+13:12:48.623 DNS a58pbd.inapps.appsflyersdk.com
+13:12:48.871 DNS a58pbd.inapps.appsflyersdk.com
+13:12:49.006 DNS a58pbd.inapps.appsflyersdk.com
+13:12:49.082 DNS a58pbd.inapps.appsflyersdk.com
+13:12:55.988 DNS ep2.facebook.com
+13:12:55.989 DNS ep2.facebook.com
+13:12:56.003 DNS ep2.facebook.com
+13:12:56.003 DNS star.fallback.c10r.facebook.com.
+13:12:56.004 DNS firebaselogging-pa.googleapis.com
+13:12:56.007 DNS firebaselogging-pa.googleapis.com
+13:12:56.023 DNS facebook.com
+13:12:56.029 DNS ep2.facebook.com
+13:12:56.034 DNS googleapis.com
+13:12:56.036 DNS firebaselogging-pa.googleapis.com
