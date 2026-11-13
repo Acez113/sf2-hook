@@ -325,3 +325,40 @@
 18:46:51.648 ADBLOCK o-sdk.mediation.unity3d.com
 18:46:54.265 ADBLOCK o-sdk.mediation.unity3d.com
 18:46:59.048 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:04.073 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:04.357 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:09.035 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:10.155 ---- boss perk hunt (read-only) ----
+18:47:10.843 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:20.674 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:20.678 DNS region1.app-analytics-services.com
+18:47:20.727 DNS region1.app-analytics-services.com
+18:47:20.795 DNS itunes.apple.com
+18:47:20.878 DNS a58pbd.launches.appsflyersdk.com
+18:47:21.018 DNS report.appmetrica.yandex.net
+18:47:23.770 ADBLOCK prefetch.monetization-sdk.chartboost.com
+18:47:23.773 ADBLOCK prefetch.monetization-sdk.chartboost.com
+18:47:23.842 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:25.311 ADBLOCK o-sdk.mediation.unity3d.com
+18:47:25.816   [PASS] moves: thruster      found=5  (need 1+)
+18:47:25.817   [PASS] moves: no-block      found=105  (need 1+)
+18:47:25.818   [PASS] moves: ignores evade found=95  (need 1+)
+18:47:25.818   [PASS] moves: long range    found=286  (need 1+)
+18:47:25.819   [PASS] moves: geometry      found=1271  (need 1+)
+18:47:25.819   [PASS] moves: stance skip   found=42  (need 1+)
+18:47:25.819   [FAIL] perks: antiban       found=0  (need 1+)
+18:47:25.819   [PASS] perks: frenzy name   found=123  (need 1+)
+18:47:25.819   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+18:47:25.820   [FAIL] perks: boss gutted   found=0  (need 1+)
+18:47:25.820   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+18:47:25.821   [PASS] BAD empty parts      found=0  (need 0 exactly)
+18:47:25.821   [FAIL] rc: clean perk       found=0  (need 1+)
+18:47:25.822   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+18:47:25.822   [PASS] rc: clean cd         found=2  (need 1+)
+18:47:25.822   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+18:47:25.823   [PASS] rc: clean ammo       found=3  (need 1+)
+18:47:25.823   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+18:47:25.825   scanned 2049 MB in 92.0s
+18:47:25.825   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+18:47:25.826   redirect CONFIGS.bundle: reads=0 ready=YES
+18:47:25.826 ---- self-check: 14 pass / 4 fail ----
