@@ -150,3 +150,27 @@
 01:45:22.191 ADBLOCK gateway-a.offerwall.unity3d.com
 01:45:22.358 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=12
 01:45:22.503 ADBLOCK i-adq.mediation.unity3d.com
+01:45:23.538 dump upload dumps/Info.plist -> HTTP 200
+01:45:26.096 DNS ep2.facebook.com
+01:45:26.097 DNS ep2.facebook.com
+01:45:26.102 DNS star.fallback.c10r.facebook.com.
+01:45:26.103 DNS ep2.facebook.com
+01:45:26.105 DNS facebook.com
+01:45:26.106 DNS ep2.facebook.com
+01:45:27.119 DNS sf2ios.nekki.com
+01:45:27.424 DNS sf2ios.nekki.com
+01:45:28.754 DNS google.com
+01:45:28.755 DNS google.com
+01:45:28.760 DNS google.com
+01:45:28.763 DNS com
+01:45:28.767 DNS google.com
+01:45:28.858 DNS sf2ios-dumps.nekki.com
+01:45:29.013 DNS sf2ios-dumps.nekki.com
+01:45:29.149 DNS www.google.com
+01:45:29.151 DNS www.google.com
+01:45:29.158 DNS www.google.com
+01:45:29.162 DNS google.com
+01:45:29.164 DNS www.google.com
+01:45:29.385 DNS www.google.com
+01:45:29.392 DNS google.com
+01:45:29.394 DNS www.google.com
