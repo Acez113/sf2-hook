@@ -452,3 +452,25 @@
 14:57:23.666 DNS a58pbd.inapps.appsflyersdk.com
 14:57:52.559 DNS region1.app-analytics-services.com
 14:58:02.271 ---- hack self-check (single pass) ----
+14:58:56.635   [PASS] moves: thruster      found=6  (need 1+)
+14:58:56.636   [PASS] moves: no-block      found=182  (need 1+)
+14:58:56.636   [PASS] moves: ignores evade found=175  (need 1+)
+14:58:56.636   [PASS] moves: long range    found=623  (need 1+)
+14:58:56.636   [PASS] moves: geometry      found=2523  (need 1+)
+14:58:56.636   [PASS] moves: stance skip   found=112  (need 1+)
+14:58:56.636   [FAIL] perks: antiban       found=0  (need 1+)
+14:58:56.636   [PASS] perks: frenzy name   found=117  (need 1+)
+14:58:56.637   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+14:58:56.637   [FAIL] perks: boss gutted   found=0  (need 1+)
+14:58:56.637   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+14:58:56.637   [PASS] BAD empty parts      found=0  (need 0 exactly)
+14:58:56.637   [PASS] rc: clean perk       found=1  (need 1+)
+14:58:56.637   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+14:58:56.637   [PASS] rc: clean cd         found=3  (need 1+)
+14:58:56.637   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+14:58:56.638   [PASS] rc: clean ammo       found=3  (need 1+)
+14:58:56.638   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+14:58:56.638   scanned 2048 MB in 54.4s
+14:58:56.638   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+14:58:56.638   redirect CONFIGS.bundle: reads=0 ready=YES
+14:58:56.638 ---- self-check: 15 pass / 3 fail ----
