@@ -419,3 +419,34 @@
 15:05:38.222 DNS sf2ios.nekki.com
 15:05:38.224 DNS time-server.nekki.com
 15:05:38.373 DNS google.com
+15:05:38.829 ADBLOCK sts.applovin.com
+15:05:38.830 ADBLOCK sts.applovin.com
+15:05:39.074 DNS www.google.com
+15:05:39.075 DNS www.google.com
+15:05:39.082 DNS www.google.com
+15:05:39.086 DNS google.com
+15:05:39.087 DNS www.google.com
+15:05:39.110 ADBLOCK applovin.com
+15:05:39.198 DNS www.google.com
+15:05:39.207 DNS google.com
+15:05:39.211 DNS www.google.com
+15:05:39.448 DNS sf2ios-dumps.nekki.com
+15:05:39.621 DNS sf2ios-dumps.nekki.com
+15:05:39.707 DNS www.google.com
+15:05:39.715 DNS google.com
+15:05:39.716 DNS www.google.com
+15:05:39.717 DNS www.google.com
+15:05:39.733 DNS google.com
+15:05:39.734 DNS www.google.com
+15:05:39.794 DNS www.google.com
+15:05:39.884 DNS sf2ios-dumps.nekki.com
+15:05:40.363 DNS consent.google.com
+15:05:40.364 DNS consent.google.com
+15:05:40.412 DNS google.com
+15:05:40.414 DNS consent.google.com
+15:05:40.473 DNS google.com
+15:05:40.475 DNS consent.google.com
+15:05:47.031 CONFIGSPROBE[W] fd=59 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+15:05:47.183 CONFIGSPROBE[R] fd=59 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+15:05:47.184 CONFIGSPROBE[R] fd=60 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+15:05:47.185 RAIDCONFIG GOT econfig.zip bytes=220089
