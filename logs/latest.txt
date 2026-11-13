@@ -369,3 +369,17 @@
 01:47:31.436   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 01:47:31.437   redirect CONFIGS.bundle: reads=0 ready=YES
 01:47:31.437 ---- self-check: 12 pass / 6 fail ----
+01:47:33.662 ADBLOCK o-sdk.mediation.unity3d.com
+01:47:39.280 ---- boss perk hunt (read-only) ----
+01:47:39.283 ADBLOCK o-sdk.mediation.unity3d.com
+01:47:40.968 FOUND[Karcer] #1 @0x13b8d6651
+?...............................................B..$D...B...B.......................B..9C...B..3D...?...........>....=.W>.Q....#>..L....>..#=..#=...<...<)\.>....{..>..L....>..u..z.>....33.>..#.=..>..L....>..u....>..k....>p=...G.>.....(.>=....z.>=....Ga>.z....u=...<..L...L=.......>.p.....>.p.....>.......>.....G.>.G...G.>................Enchantments.KarcerHunger....@TD.@.D...B...B...........................B...?...?........P...u3.J....<v....~,.........................e..4o.p....................................................................................................................................................P..........?.......?...?...................?...............................
+01:47:40.983 FOUND[Karcer] #2 @0x13bf6f447
+87 DNS region1.app-analytics-services.com.01:45:16.067 DNS facebook.com.01:45:16.069 DNS ep2.facebook.com.01:45:16.083 DNS star.fallback.c10r.facebook.com..01:45:16.084 DNS ep2.facebook.com.01:45:18.830 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=28).01:45:18.831 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=28).01:45:19.892 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=12.01:45:20.976 DNS app-analytics-services.com.01:45:20.977 DNS app-analytics-services.com.01:45:21.519 DNS time-server.nekki.com.01:45:21.530 ADBLOCK i-adq.mediation.unity3d.com.01:45:21.567 ADBLOCK init.supersonicads.com.01:45:21.643 ADBLOCK gateway-a.offerwall.unity3d.com.01:45:21.671 ADBLOCK i-sdk.mediation.unit
+01:47:40.983 FOUND[Karcer] #3 @0x13bf6f629
+.519 DNS time-server.nekki.com.01:45:21.530 ADBLOCK i-adq.mediation.unity3d.com.01:45:21.567 ADBLOCK init.supersonicads.com.01:45:21.643 ADBLOCK gateway-a.offerwall.unity3d.com.01:45:21.671 ADBLOCK i-sdk.mediation.unity3d.com.01:45:21.891 DNS time-server.nekki.com.01:45:22.191 ADBLOCK gateway-a.offerwall.unity3d.com.01:45:22.358 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=12.01:45:22.503 ADBLOCK i-adq.mediation.unity3d.com.01:45:23.538 dump upload dumps/Info.plist -> HTTP 200.01:45:26.096 DNS ep2.facebook.com.01:45:26.097 DNS ep2.facebook.com.01:45:26.102 DNS star.fallback.c10r.facebook.com..01:45:26.103 DNS ep2.facebook.com.01:45:26.105 DNS facebook.com.01:45:26.106 DNS ep2.facebook
+01:47:41.082 ADBLOCK o-sdk.mediation.unity3d.com
+01:47:43.597 ADBLOCK o-sdk.mediation.unity3d.com
+01:47:44.564 ADBLOCK o-sdk.mediation.unity3d.com
+01:47:47.919 FOUND[Drakaina] nothing in 2048 MB
+01:47:48.792 ADBLOCK gateway.unityads.unity3d.com
