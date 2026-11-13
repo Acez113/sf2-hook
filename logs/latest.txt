@@ -539,3 +539,20 @@ K_RAKS ..-....................C...........;.\.`..A.2..*b2..PA?8|..cE/..qe@....@.
 11:56:00.875 FOUND[PERK_BOSS_] #3 @0x16f9414e9
 K_RAKS ..-....................C...........;.\.`..A.2..*b2..PA?8|..cE/..qe@....@.,.....X....;..`vOA,M.....................A.W..0......?....*...P..Ao........<.@.....N......P............z..Bk..(c.B.........w........]...N.|T....n.xLH.........@A.AZo...J.. VA.pF...n..`,..=.....s.PbsAHO..f...@..?.ph.I....P.A}........E?.p.....d.H..A\....11:53:44.312 FOUND[PERK_BOSS_] nothing in 2048 MB.11:53:44.316 ---- boss perk hunt done ----.11:55:24.901 ---- boss perk hunt (read-only) ----.11:55:27.557 FOUND[Karcer] #1 @0x14d390027.1E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs.11:50:31.342 RAIDCONFIG MISS(retry) raid_configs.11:50:31.421 ADBLOCK gateway.unityads.unity3d.com.11:50:31.463 ADBLOCK unit
 11:56:00.876 ---- boss perk hunt done ----
+11:57:50.965 DNS region1.app-analytics-services.com
+11:57:50.967 DNS region1.app-analytics-services.com
+11:57:51.087 DNS app-analytics-services.com
+11:57:51.106 DNS region1.app-analytics-services.com
+11:57:51.380 DNS region1.app-analytics-services.com
+11:57:51.473 DNS app-analytics-services.com
+11:57:51.477 DNS region1.app-analytics-services.com
+11:57:52.678 DNS app-analytics-services.com
+11:57:52.693 DNS region1.app-analytics-services.com
+11:57:53.598 DNS region1.app-analytics-services.com
+11:57:53.824 DNS app-analytics-services.com
+11:57:53.850 DNS region1.app-analytics-services.com
+11:57:53.868 DNS region1.app-analytics-services.com
+11:57:54.033 DNS region1.app-analytics-services.com
+11:57:54.221 DNS app-analytics-services.com
+11:57:54.224 DNS region1.app-analytics-services.com
+11:57:54.226 DNS region1.app-analytics-services.com
