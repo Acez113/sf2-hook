@@ -286,3 +286,14 @@
 01:45:40.777 DNS firebaselogging-pa.googleapis.com
 01:45:41.151 DNS googleapis.com
 01:45:41.153 DNS firebaselogging-pa.googleapis.com
+01:45:52.666 DNS ledger.nekki.com
+01:45:52.795 DNS ledger.nekki.com
+01:46:02.622 CONFIGSPROBE[W] fd=45 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+01:46:02.772 DNS sf2lb.nekki.com
+01:46:02.774 CONFIGSPROBE[R] fd=45 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+01:46:02.774 CONFIGSPROBE[R] fd=46 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+01:46:02.775 RAIDCONFIG GOT econfig.zip bytes=220089
+01:46:03.071 DNS sf2lb.nekki.com
+01:46:03.890 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
+01:46:03.891 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
+01:46:04.705 dump upload dumps/econfig.zip -> HTTP 200
