@@ -299,3 +299,19 @@
 23:18:15.309 DNS ledger.nekki.com
 23:18:15.401 DNS ledger.nekki.com
 23:18:17.491 DNS ledger.nekki.com
+23:18:21.540 DNS assets.nekki.com
+23:18:21.579 DNS assets.nekki.com
+23:18:25.146 CONFIGSPROBE[W] fd=44 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+23:18:25.256 DNS sf2lb.nekki.com
+23:18:25.256 CONFIGSPROBE[R] fd=44 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+23:18:25.257 CONFIGSPROBE[R] fd=45 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+23:18:25.257 RAIDCONFIG GOT econfig.zip bytes=220089
+23:18:25.441 DNS sf2lb.nekki.com
+23:18:26.034 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
+23:18:26.035 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
+23:18:27.212 dump upload dumps/econfig.zip -> HTTP 200
+23:18:38.347 DNS consent.google.com
+23:18:38.348 DNS consent.google.com
+23:18:38.352 DNS google.com
+23:18:38.354 DNS consent.google.com
+23:18:38.590 DNS consent.google.com
