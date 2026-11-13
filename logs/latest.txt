@@ -526,3 +526,13 @@ K_RAKS ..*....................C.......qM9DeQ@....C..4D.d..X..B.t/D.1..l\.B..9D<^
 18:51:00.045 DNS api.github.com
 18:51:22.660 DNS region1.app-analytics-services.com
 18:51:22.660 DNS region1.app-analytics-services.com
+18:51:44.062 DNS itunes.apple.com
+18:51:44.090 ADBLOCK prefetch.monetization-sdk.chartboost.com
+18:51:44.092 ADBLOCK prefetch.monetization-sdk.chartboost.com
+18:51:44.103 ADBLOCK config.monetization-sdk.chartboost.com
+18:51:44.104 ADBLOCK config.monetization-sdk.chartboost.com
+18:51:44.115 DNS report.appmetrica.yandex.net
+18:51:44.116 ADBLOCK install.monetization-sdk.chartboost.com
+18:51:44.125 ADBLOCK install.monetization-sdk.chartboost.com
+18:51:45.592 ADBLOCK o-sdk.mediation.unity3d.com
+18:51:49.247 ADBLOCK o-sdk.mediation.unity3d.com
