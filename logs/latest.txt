@@ -485,3 +485,5 @@ EVENT_FALL_26.13:58:31.321 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.13
 14:01:43.534 DNS ledger.nekki.com
 14:01:51.078 DNS api.github.com
 14:01:51.166 DNS api.github.com
+14:02:45.299 DNS ledger.nekki.com
+14:02:45.401 DNS ledger.nekki.com
