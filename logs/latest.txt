@@ -438,3 +438,7 @@
 08:20:47.822 ADBLOCK hbevents-public.mz.unity3d.com
 08:20:47.839 ADBLOCK o-iab-notifications.mediation.unity3d.com
 08:20:47.861 ADBLOCK w.isx.unity3d.com
+08:20:54.898 DNS api.github.com
+08:20:54.902 GAMEDATA      516  events_data.xml
+08:20:55.007 DNS api.github.com
+08:20:55.065 DNS api.github.com
