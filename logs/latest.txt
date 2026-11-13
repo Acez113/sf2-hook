@@ -423,3 +423,4 @@ EVENT_FALL_26.18:44:59.288 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.18
 18:48:27.252 FOUND[PERK_BOSS_] #3 @0x142c44b9b
 K_RAKS ..*....................C.......qM9DeQ@....C..4D.d..X..B.t/D.1..l\.B..9D<^...&.Bhy&D"......BlUCDW......Bf.'D....>..C. NDpp...o.C?.'D.D...&.CRuODm....l.C.C.DKt..0..B..3D\...N*.B..%D}Ma....C4.@D_...:z.C.?.D.I..F..Bj]@D.ty....B...D.Bj....ChZCD.......B..0D.......B..ND..a.=..C.3NDI....c.CJhZD|...[3.BY.KDyX..z..B..9D<?..a.MC.9'D.18:48:27.152 FOUND[PERK_BOSS_] #1 @0x13fd7cf4f..e.]...D.e.f.a.u.l.t.P.e.r.k.s.A.s.p.e.c.t. .*. .?.C.u.r.r.e.n.t.F.i.g.h.t.[.]...i.s.R.a.i.d. .*. .?.P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...i.s.P.l.a.y.e.r. .-. .?.P.l.a.y.e.r.A.t.t.r.i.b.u.t.e.[.E.n.e.m.y.]...E.n.c.h.a.n.t.m.e.n.t.R.e.s.i.s.t.a.n.c.e.]...tmentMonk" PerkType="Combo" ItemSet="HEAVEN_SET"></Perk><Perk Nam
 18:48:27.252 ---- boss perk hunt done ----
+18:48:38.118 ADBLOCK o-sdk.mediation.unity3d.com
