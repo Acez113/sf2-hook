@@ -343,3 +343,7 @@
 23:18:56.487 ADBLOCK gw1.mediation.unity3d.com
 23:19:11.496 ADBLOCK gw1.mediation.unity3d.com
 23:19:11.506 ADBLOCK gw1.mediation.unity3d.com
+23:19:21.316 ADBLOCK gateway.unityads.unity3d.com
+23:19:25.644 ADBLOCK gateway.unityads.unity3d.com
+23:19:28.566 ADBLOCK gw1.mediation.unity3d.com
+23:19:28.657 ADBLOCK gw1.mediation.unity3d.com
