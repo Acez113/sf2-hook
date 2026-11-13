@@ -418,3 +418,6 @@
 11:51:25.530 DNS facebook.com
 11:51:25.532 DNS ep2.facebook.com
 11:51:39.541 ---- hack self-check (single pass) ----
+11:51:54.208 DNS report.appmetrica.yandex.net
+11:51:54.550 DNS report.appmetrica.yandex.net
+11:51:54.858 DNS report.appmetrica.yandex.net
