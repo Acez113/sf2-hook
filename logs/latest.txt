@@ -31,3 +31,213 @@
 09:19:39.323 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/ZONE_1
 09:19:39.353 DNS ep2.facebook.com
 09:19:39.387 ADBLOCK fundingchoicesmessages.google.com
+09:19:39.402 DNS star.fallback.c10r.facebook.com.
+09:19:39.403 DNS ep2.facebook.com
+09:19:39.432 DNS google.com
+09:19:39.435 ADBLOCK fundingchoicesmessages.google.com
+09:19:39.439 DNS facebook.com
+09:19:39.442 DNS ep2.facebook.com
+09:19:39.467 DNS star.fallback.c10r.facebook.com.
+09:19:39.468 DNS ep2.facebook.com
+09:19:39.470 DNS facebook.com
+09:19:39.471 DNS ep2.facebook.com
+09:19:39.517 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/ZONE_1
+09:19:39.519 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/ZONE_1
+09:19:39.532 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+09:19:39.538 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+09:19:39.539 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+09:19:39.541 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+09:19:39.549 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+09:19:39.549 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+09:19:39.551 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+09:19:39.558 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+09:19:39.558 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+09:19:39.560 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+09:19:39.563 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+09:19:39.564 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+09:19:39.567 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+09:19:39.571 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+09:19:39.572 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+09:19:39.574 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+09:19:39.581 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+09:19:39.581 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+09:19:39.584 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+09:19:39.594 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+09:19:39.595 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+09:19:39.598 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+09:19:39.602 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+09:19:39.603 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+09:19:39.605 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+09:19:39.627 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+09:19:39.628 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+09:19:39.631 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+09:19:39.637 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+09:19:39.637 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+09:19:39.640 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+09:19:39.644 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+09:19:39.645 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+09:19:39.647 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+09:19:39.651 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+09:19:39.652 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+09:19:39.654 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+09:19:39.661 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+09:19:39.662 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+09:19:39.664 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+09:19:39.666 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+09:19:39.667 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+09:19:39.670 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+09:19:39.682 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+09:19:39.683 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+09:19:39.687 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+09:19:39.699 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+09:19:39.700 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+09:19:39.702 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+09:19:39.706 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+09:19:39.707 OPEN[R] fd=41 /var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+09:19:39.727 RAIDCONFIG PREAD Info.plist bytes=827
+09:19:39.732 DNS app-measurement.com
+09:19:40.859 dump upload dumps/Info.plist -> HTTP 200
+09:19:42.848 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+09:19:42.882 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=25)
+09:19:42.883 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=25)
+09:19:42.936 DNS ep2.facebook.com
+09:19:42.937 DNS ep2.facebook.com
+09:19:42.939 DNS ep2.facebook.com
+09:19:42.947 DNS ep2.facebook.com
+09:19:42.957 DNS ep2.facebook.com
+09:19:42.978 DNS ep2.facebook.com
+09:19:42.989 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+09:19:43.018 DNS star.fallback.c10r.facebook.com.
+09:19:43.019 DNS ep2.facebook.com
+09:19:43.020 DNS star.fallback.c10r.facebook.com.
+09:19:43.021 DNS ep2.facebook.com
+09:19:43.053 DNS star.fallback.c10r.facebook.com.
+09:19:43.054 DNS ep2.facebook.com
+09:19:43.095 DNS crashlyticsreports-pa.googleapis.com
+09:19:43.105 DNS star.fallback.c10r.facebook.com.
+09:19:43.106 DNS ep2.facebook.com
+09:19:43.113 DNS facebook.com
+09:19:43.116 DNS ep2.facebook.com
+09:19:43.138 DNS facebook.com
+09:19:43.141 DNS ep2.facebook.com
+09:19:43.145 DNS star.fallback.c10r.facebook.com.
+09:19:43.147 DNS ep2.facebook.com
+09:19:43.158 DNS crashlyticsreports-pa.googleapis.com
+09:19:43.166 DNS facebook.com
+09:19:43.173 DNS ep2.facebook.com
+09:19:43.208 DNS star.fallback.c10r.facebook.com.
+09:19:43.215 DNS ep2.facebook.com
+09:19:43.240 DNS facebook.com
+09:19:43.245 DNS ep2.facebook.com
+09:19:43.263 DNS facebook.com
+09:19:43.265 DNS ep2.facebook.com
+09:19:43.269 DNS fcmtoken.googleapis.com
+09:19:43.299 DNS googleapis.com
+09:19:43.308 DNS crashlyticsreports-pa.googleapis.com
+09:19:43.363 DNS facebook.com
+09:19:43.365 DNS ep2.facebook.com
+09:19:43.373 DNS facebook.com
+09:19:43.375 DNS ep2.facebook.com
+09:19:43.431 DNS facebook.com
+09:19:43.437 DNS ep2.facebook.com
+09:19:43.448 DNS facebook.com
+09:19:43.454 DNS ep2.facebook.com
+09:19:43.465 DNS googleapis.com
+09:19:43.466 DNS crashlyticsreports-pa.googleapis.com
+09:19:43.557 DNS fcmtoken.googleapis.com
+09:19:43.766 DNS ep2.facebook.com
+09:19:43.768 DNS ep2.facebook.com
+09:19:43.774 DNS star.fallback.c10r.facebook.com.
+09:19:43.774 DNS ep2.facebook.com
+09:19:43.778 DNS facebook.com
+09:19:43.779 DNS ep2.facebook.com
+09:19:46.360 DNS assets.nekki.com
+09:19:46.370 ADBLOCK cdp.cloud.unity3d.com
+09:19:46.372 ADBLOCK cdp.cloud.unity3d.com
+09:19:46.411 ADBLOCK cloud.unity3d.com
+09:19:46.413 ADBLOCK cdp.cloud.unity3d.com
+09:19:46.427 DNS assets.nekki.com
+09:19:46.480 ADBLOCK cloud.unity3d.com
+09:19:46.482 ADBLOCK cdp.cloud.unity3d.com
+09:19:48.054 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0
+09:19:48.692 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=37)
+09:19:48.693 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=37)
+09:19:50.065 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0
+09:19:51.754 DNS time-server.nekki.com
+09:19:51.763 ADBLOCK i-adq.mediation.unity3d.com
+09:19:51.801 ADBLOCK init.supersonicads.com
+09:19:51.851 DNS time-server.nekki.com
+09:19:51.894 ADBLOCK gateway-a.offerwall.unity3d.com
+09:19:51.914 ADBLOCK i-sdk.mediation.unity3d.com
+09:19:51.949 ADBLOCK gateway-a.offerwall.unity3d.com
+09:19:51.978 ADBLOCK i-sdk.mediation.unity3d.com
+09:19:52.316 ADBLOCK o-sdk.mediation.unity3d.com
+09:19:52.375 ADBLOCK o-sdk.mediation.unity3d.com
+09:19:52.935 ADBLOCK i-adq.mediation.unity3d.com
+09:19:52.968 ADBLOCK i-adq.mediation.unity3d.com
+09:19:53.054 ADBLOCK telemetry.tk0x1.com
+09:19:53.289 ADBLOCK telemetry.tk0x1.com
+09:19:53.360 ADBLOCK telemetry.tk0x1.com
+09:19:53.447 ADBLOCK prefetch.monetization-sdk.chartboost.com
+09:19:53.448 ADBLOCK prefetch.monetization-sdk.chartboost.com
+09:19:53.454 ADBLOCK config.monetization-sdk.chartboost.com
+09:19:53.454 ADBLOCK config.monetization-sdk.chartboost.com
+09:19:53.460 ADBLOCK monetization-sdk.chartboost.com
+09:19:53.462 ADBLOCK config.monetization-sdk.chartboost.com
+09:19:53.463 ADBLOCK install.monetization-sdk.chartboost.com
+09:19:53.463 ADBLOCK install.monetization-sdk.chartboost.com
+09:19:53.469 ADBLOCK monetization-sdk.chartboost.com
+09:19:53.470 ADBLOCK install.monetization-sdk.chartboost.com
+09:19:53.513 ADBLOCK monetization-sdk.chartboost.com
+09:19:53.515 ADBLOCK prefetch.monetization-sdk.chartboost.com
+09:19:53.559 ADBLOCK monetization-sdk.chartboost.com
+09:19:53.561 ADBLOCK config.monetization-sdk.chartboost.com
+09:19:53.569 ADBLOCK monetization-sdk.chartboost.com
+09:19:53.570 ADBLOCK install.monetization-sdk.chartboost.com
+09:19:53.643 ADBLOCK monetization-sdk.chartboost.com
+09:19:53.644 ADBLOCK prefetch.monetization-sdk.chartboost.com
+09:19:53.877 DNS a58pbd.launches.appsflyersdk.com
+09:19:53.955 DNS a58pbd.launches.appsflyersdk.com
+09:19:54.113 DNS ep2.facebook.com
+09:19:54.123 DNS ep2.facebook.com
+09:19:54.128 DNS star.fallback.c10r.facebook.com.
+09:19:54.129 DNS ep2.facebook.com
+09:19:54.132 DNS facebook.com
+09:19:54.134 DNS ep2.facebook.com
+09:19:54.670 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs
+09:19:54.684 CONFIGSPROBE[R] fd=55 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs
+09:19:54.684 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+09:19:54.698 DNS itunes.apple.com
+09:19:54.750 ADBLOCK cdn.iads.unity3d.com
+09:19:54.786 DNS report.appmetrica.yandex.net
+09:19:54.786 ADBLOCK gateway.unityads.unity3d.com
+09:19:54.884 ADBLOCK googleads.g.doubleclick.net
+09:19:54.885 ADBLOCK pubads.g.doubleclick.net
+09:19:55.104 CONFIGSPROBE[R] fd=58 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/raid_configs
+09:19:55.105 RAIDCONFIG MISS(retry) raid_configs
+09:19:55.199 DNS yandex.com
+09:19:55.273 ADBLOCK unityads.unity3d.com
+09:19:55.275 ADBLOCK gateway.unityads.unity3d.com
+09:19:55.297 ADBLOCK googleads.g.doubleclick.net
+09:19:55.298 ADBLOCK pubads.g.doubleclick.net
+09:19:55.302 ADBLOCK cdn.iads.unity3d.com
+09:19:55.331 ADBLOCK unityads.unity3d.com
+09:19:55.333 ADBLOCK gateway.unityads.unity3d.com
+09:19:55.339 ADBLOCK g.doubleclick.net
+09:19:55.341 ADBLOCK googleads.g.doubleclick.net
+09:19:55.343 DNS report.appmetrica.yandex.net
+09:19:55.346 ADBLOCK googleads.g.doubleclick.net
+09:19:55.349 ADBLOCK g.doubleclick.net
+09:19:55.353 ADBLOCK pubads.g.doubleclick.net
+09:19:55.355 ADBLOCK pubads.g.doubleclick.net
+09:19:55.361 ADBLOCK g.doubleclick.net
+09:19:55.362 ADBLOCK googleads.g.doubleclick.net
+09:19:55.366 ADBLOCK g.doubleclick.net
+09:19:55.369 ADBLOCK pubads.g.doubleclick.net
+09:19:55.370 ADBLOCK cdn.iads.unity3d.com
+09:19:55.455 DNS report.appmetrica.yandex.net
+09:19:55.622 DNS yandex.com
+09:19:55.626 ADBLOCK g.doubleclick.net
+09:19:55.632 ADBLOCK pubads.g.doubleclick.net
+09:19:55.775 DNS yandex.com
+09:19:56.933 ADBLOCK gateway.unityads.unity3d.com
