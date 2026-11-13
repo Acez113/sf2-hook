@@ -521,3 +521,7 @@ K_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  @.0....................C......
 22:10:53.631 FOUND[PERK_BOSS_] #3 @0x1288e506d
 Set Frames="300" FlagX..0.................... .............Q.......t.'...e.(.....].#...Y.........q...R.......N.....L.......H.+...e.8...........S.........!...H.......Y.<.....U.......n..........._.:.....U.......n.....X.......;...L.......z.'...V.........'...l.........d.....%.....E.+...n.......Q.+...[.......Y.....W.......].7...L.U...22:08:33.883 FOUND[PERK_BOSS_] #2 @0x133c7dfe3..P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...D.e.f.a.u.l.t.P.e.r.k.s.A.s.p.e.c.t...ar" Image="S ...............)...1.k.e.y.|.D.o.w.n.|.N.o.t.T.i.t.a.n.|.C.o.n.t.r.o.l.l.e.d.|.S.o.u.n.d.S.t.r.i.k.e...plate="PX..0....................$...........a.......I.............O.....V.............`.......x.....{.......^...erk Name="PERK_
 22:10:53.631 ---- boss perk hunt done ----
+22:10:59.244 ADBLOCK gateway.unityads.unity3d.com
+22:10:59.431 ADBLOCK o-sdk.mediation.unity3d.com
+22:11:02.127 ADBLOCK gw1.mediation.unity3d.com
+22:11:03.309 ADBLOCK gw1.mediation.unity3d.com
