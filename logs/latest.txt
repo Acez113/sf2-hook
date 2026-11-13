@@ -315,3 +315,29 @@
 23:18:38.352 DNS google.com
 23:18:38.354 DNS consent.google.com
 23:18:38.590 DNS consent.google.com
+23:18:49.976 ADBLOCK o-sdk.mediation.unity3d.com
+23:18:50.148 ADBLOCK telemetry.tk0x1.com
+23:18:50.148 ADBLOCK prefetch.monetization-sdk.chartboost.com
+23:18:50.148 ADBLOCK config.monetization-sdk.chartboost.com
+23:18:50.155 ADBLOCK install.monetization-sdk.chartboost.com
+23:18:50.167 ADBLOCK prefetch.monetization-sdk.chartboost.com
+23:18:50.174 ADBLOCK config.monetization-sdk.chartboost.com
+23:18:50.184 ADBLOCK install.monetization-sdk.chartboost.com
+23:18:51.233 ADBLOCK gateway.unityads.unity3d.com
+23:18:51.251 ADBLOCK googleads.g.doubleclick.net
+23:18:51.269 ADBLOCK pubads.g.doubleclick.net
+23:18:51.311 CONFIGSPROBE[R] fd=56 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+23:18:51.315 CONFIGSPROBE[R] fd=59 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+23:18:51.316 RAIDCONFIG MISS raid_configs (exists=YES errno=2)
+23:18:51.350 DNS itunes.apple.com
+23:18:51.433 ADBLOCK cdn.iads.unity3d.com
+23:18:51.543 DNS yandex.com
+23:18:51.743 CONFIGSPROBE[R] fd=16 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+23:18:51.743 RAIDCONFIG MISS(retry) raid_configs
+23:18:51.762 DNS yandex.com
+23:18:53.496 DNS yastatic.net
+23:18:54.667 ---- hack self-check (single pass) ----
+23:18:55.584 DNS yastatic.net
+23:18:56.431 ADBLOCK cdn.iads.unity3d.com
+23:18:56.456 ADBLOCK gw1.mediation.unity3d.com
+23:18:56.487 ADBLOCK gw1.mediation.unity3d.com
