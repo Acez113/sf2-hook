@@ -429,3 +429,5 @@ a.3.R.......A...3.F.......R.V...N...[...S.].>.J......... .r.........Y.h. .j.....
 21:07:22.363 ADBLOCK o-sdk.mediation.unity3d.com
 21:07:23.378 ADBLOCK o-sdk.mediation.unity3d.com
 21:07:26.407 ADBLOCK gateway.unityads.unity3d.com
+21:07:29.205 ADBLOCK gw1.mediation.unity3d.com
+21:07:47.363 ---- boss perk hunt (read-only) ----
