@@ -452,3 +452,25 @@
 17:41:44.449 RAIDCONFIG GOT econfig.zip bytes=220089
 17:41:50.317 dump upload dumps/econfig.zip -> HTTP 200
 17:42:41.903 ---- hack self-check (single pass) ----
+17:43:32.851   [PASS] moves: thruster      found=2  (need 1+)
+17:43:32.852   [PASS] moves: no-block      found=35  (need 1+)
+17:43:32.852   [PASS] moves: ignores evade found=29  (need 1+)
+17:43:32.852   [PASS] moves: long range    found=121  (need 1+)
+17:43:32.853   [PASS] moves: geometry      found=496  (need 1+)
+17:43:32.853   [PASS] moves: stance skip   found=22  (need 1+)
+17:43:32.853   [FAIL] perks: antiban       found=0  (need 1+)
+17:43:32.853   [PASS] perks: frenzy name   found=247  (need 1+)
+17:43:32.853   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+17:43:32.853   [FAIL] perks: boss gutted   found=0  (need 1+)
+17:43:32.853   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+17:43:32.854   [PASS] BAD empty parts      found=0  (need 0 exactly)
+17:43:32.854   [FAIL] rc: clean perk       found=0  (need 1+)
+17:43:32.854   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+17:43:32.854   [FAIL] rc: clean cd         found=0  (need 1+)
+17:43:32.854   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+17:43:32.854   [FAIL] rc: clean ammo       found=0  (need 1+)
+17:43:32.854   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+17:43:32.855   scanned 2048 MB in 50.9s
+17:43:32.855   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+17:43:32.855   redirect CONFIGS.bundle: reads=0 ready=YES
+17:43:32.855 ---- self-check: 12 pass / 6 fail ----
