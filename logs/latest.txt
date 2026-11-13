@@ -285,3 +285,6 @@
 21:03:43.094 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
 21:03:43.095 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com
 21:03:45.812 dump upload dumps/econfig.zip -> HTTP 200
+21:03:47.846 GAMEDATA      720  sessions.json
+21:03:47.847 GAMEDATA      516  events_data.xml
+21:04:02.355 ---- hack self-check (single pass) ----
