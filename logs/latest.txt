@@ -435,3 +435,36 @@
 12:06:56.374 DNS region1.app-analytics-services.com
 12:06:56.505 DNS app-analytics-services.com
 12:06:56.520 DNS region1.app-analytics-services.com
+12:08:45.256 ---- boss perk hunt (read-only) ----
+12:08:45.510 DNS api.github.com
+12:08:45.602 DNS itunes.apple.com
+12:08:45.640 DNS a58pbd.launches.appsflyersdk.com
+12:08:45.674 DNS ep2.facebook.com
+12:08:45.681 DNS api.github.com
+12:08:45.690 DNS a58pbd.launches.appsflyersdk.com
+12:08:45.694 DNS ep2.facebook.com
+12:08:45.700 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
+12:08:45.704 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
+12:08:45.731 DNS report.appmetrica.yandex.net
+12:08:45.737 DNS a58pbd.launches.appsflyersdk.com
+12:08:45.744 DNS star.fallback.c10r.facebook.com.
+12:08:45.746 DNS ep2.facebook.com
+12:08:45.773 DNS a58pbd.launches.appsflyersdk.com
+12:08:45.797 DNS a58pbd.launches.appsflyersdk.com
+12:08:45.804 DNS facebook.com
+12:08:45.806 DNS ep2.facebook.com
+12:08:46.912 FOUND[Karcer] #1 @0x12e8564f2
+5 DNS facebook.com.12:05:27.906 DNS ep2.facebook.com.12:05:28.165 DNS star.fallback.c10r.facebook.com..12:05:28.166 DNS ep2.facebook.com.12:05:28.167 DNS star.fallback.c10r.facebook.com..12:05:28.167 DNS ep2.facebook.com.12:05:29.270 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path.12:05:31.486 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.12:05:33.385 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=21).12:05:33.386 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=21).12:05:34.309 DNS time-server.nekki.com.12:05:34.313 ADBLOCK i-adq.mediation.unity3d.com.12:05:34.328 ADBLOCK init.supersonicads.com.12:05:34.358 ADBLOCK gateway-a.offerwall.unity3d.com.12
+12:08:46.913 FOUND[Karcer] #2 @0x12e856be9
+14 ADBLOCK config.monetization-sdk.chartboost.com.12:05:35.181 ADBLOCK monetization-sdk.chartboost.com.12:05:35.181 ADBLOCK config.monetization-sdk.chartboost.com.12:05:35.182 ADBLOCK monetization-sdk.chartboost.com.12:05:35.182 ADBLOCK install.monetization-sdk.chartboost.com.12:05:35.229 ADBLOCK telemetry.tk0x1.com.12:05:35.828 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=4.12:05:36.134 ADBLOCK gateway.unityads.unity3d.com.12:05:36.149 ADBLOCK googleads.g.doubleclick.net.12:05:36.159 ADBLOCK pubads.g.doubleclick.net.12:05:36.161 ADBLOCK googleads.g.doubleclick.net.12:05:36.165 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/L
+12:08:47.029 FOUND[Karcer] #3 @0x131383041
+.............................................................................................................................................P...33..33.>....33.>33.>....33..33......33.>33.............................................@...C...B...B.......................B..FB...B.@.C...?...............>....{...{..>{...{..>...>............Enchantments.KarcerHunger......C...C..pB..pB...........................B...?...?..........~|...F..S...oJ)..|......................... ...^:.....................................................................................................................................................P..........>.......>...>...................>...............................
+12:08:53.548 FOUND[Drakaina] nothing in 2049 MB
+12:08:57.991 FOUND[Tenebris] nothing in 2049 MB
+12:09:02.587 FOUND[Stalker] nothing in 2048 MB
+12:09:03.673 FOUND[KARCER] #1 @0x12e858be1
+EVENT_FALL_26.12:05:44.992 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26.12:05:44.993 GAMEDATA   733768  NEKKI_FEST_26.12:05:44.994 GAMEDATA  1379404  WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25.12:05:44.996 GAMEDATA   418519  WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON.12:05:44.996 GAMEDATA  1979866  EVENT_FALL_24.12:05:44.997 GAMEDATA  6467165  KARCER_SET.12:05:44.997 GAMEDATA  8202511  VOLCANO_SET.12:05:44.998 GAMEDATA  7418077  FUNGUS_SET.12:05:44.998 GAMEDATA 15508617  ZONE_7_3.12:05:44.999 GAMEDATA  3460593  ZONE_7_2.12:05:44.999 GAMEDATA 13258953  ZONE_7.12:05:45.000 GAMEDATA  2537402  EVENT_HW_24.12:05:45.000 GAMEDATA  4476476  ZONE_IM.12:05:45.001 GAMEDATA 15368234  ZONE_5.12:05:45
+12:09:03.747 FOUND[KARCER] #2 @0x131ac0c63
+/Caches/gamedata/bundles/EVENTS/NEKKI_FEST_26...............Z{.........$...z/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/EVENT_FALL_24......................Z{.............|/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/SETS/KARCER_SET...................X..#...Z.........................................................................................................................................................Z{.............x/var/mobile/Containers/Data/Application/18AA2809-FA59-41E4-9E28-97C615944174/Library/Caches/gamedata/bundles/VOLCANO_SET........................
+12:09:03.941 FOUND[KARCER] #3 @0x13a9a937a
+66DE ..&................1.1... Name= ..&................$...rl="http ..&................0...dowfight ..&................2...eklyoffe ..&................1.1...da9cb5 ..&................$..._3475651 ..&................0...1.0" Pla ..&................2...ctive="0 ..&................1.1... Hash= ..&................$...4D7CE1CD ..&................0...S/KARCER ..&................2...s.nekki. ..&................1.1...s/SF2_ ..&................$..._21_03_2 ..&................0...467b3595 ..&................2...Version= ..&................1.1...tach=" ..&................$... Size="9 ..&................0...28F4AA34 ..&................2...em Name= ..&................1.1...ttps:/ ..&................$...
