@@ -372,3 +372,14 @@
 23:19:56.888   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 23:19:56.889   redirect CONFIGS.bundle: reads=0 ready=YES
 23:19:56.889 ---- self-check: 12 pass / 6 fail ----
+23:19:56.890 DNS api.github.com
+23:19:57.106 DNS api.github.com
+23:20:07.849 DNS ledger.nekki.com
+23:20:07.999 DNS ledger.nekki.com
+23:20:09.770 ---- boss perk hunt (read-only) ----
+23:20:10.199 ADBLOCK gateway.unityads.unity3d.com
+23:20:11.106 FOUND[Karcer] #1 @0x12e77f3ec
+ok.com..23:17:45.332 DNS facebook.com.23:17:45.334 DNS ep2.facebook.com.23:17:45.535 DNS ep2.facebook.com.23:17:45.536 DNS star.fallback.c10r.facebook.com..23:17:45.590 DNS ep2.facebook.com.23:17:47.775 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=26).23:17:47.776 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=26).23:17:48.481 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.23:17:49.606 DNS time-server.nekki.com.23:17:49.612 ADBLOCK i-adq.mediation.unity3d.com.23:17:49.649 ADBLOCK init.supersonicads.com.23:17:49.693 DNS time-server.nekki.com.23:17:49.718 ADBLOCK gateway-a.offerwall.unity3d.com.23:17:49.911 ADBLOCK gateway-a.offerwall.unity3d.com.23:17:49.913 ADBLOCK i-sdk.mediation.u
+23:20:11.459 FOUND[Karcer] #2 @0x13c4d2654
+............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
+23:20:13.124 ADBLOCK gw1.mediation.unity3d.com
