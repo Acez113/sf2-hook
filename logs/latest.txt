@@ -415,3 +415,23 @@
 12:05:55.486 DNS firebaselogging-pa.googleapis.com
 12:05:55.540 DNS googleapis.com
 12:05:55.540 DNS firebaselogging-pa.googleapis.com
+12:06:10.075 DNS region1.app-analytics-services.com
+12:06:10.076 DNS region1.app-analytics-services.com
+12:06:10.109 DNS app-analytics-services.com
+12:06:10.110 DNS region1.app-analytics-services.com
+12:06:10.182 DNS app-analytics-services.com
+12:06:10.183 DNS region1.app-analytics-services.com
+12:06:10.277 DNS app-analytics-services.com
+12:06:10.279 DNS region1.app-analytics-services.com
+12:06:40.985 ---- hack self-check (single pass) ----
+12:06:43.148 DNS itunes.apple.com
+12:06:49.085 DNS report.appmetrica.yandex.net
+12:06:49.453 DNS report.appmetrica.yandex.net
+12:06:56.057 DNS region1.app-analytics-services.com
+12:06:56.067 DNS region1.app-analytics-services.com
+12:06:56.192 DNS app-analytics-services.com
+12:06:56.208 DNS region1.app-analytics-services.com
+12:06:56.364 DNS app-analytics-services.com
+12:06:56.374 DNS region1.app-analytics-services.com
+12:06:56.505 DNS app-analytics-services.com
+12:06:56.520 DNS region1.app-analytics-services.com
