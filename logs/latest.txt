@@ -421,3 +421,5 @@
 11:51:54.208 DNS report.appmetrica.yandex.net
 11:51:54.550 DNS report.appmetrica.yandex.net
 11:51:54.858 DNS report.appmetrica.yandex.net
+11:52:04.890 DNS api.github.com
+11:52:05.002 DNS api.github.com
