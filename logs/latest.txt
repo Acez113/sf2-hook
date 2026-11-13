@@ -559,3 +559,4 @@ STEAL" Image="SkillsEnch02.EnchantmentLifeDrain" ...................?.H.i.t.[.].
 21:25:51.492 DNS a58pbd.launches.appsflyersdk.com
 21:26:47.655 DNS region1.app-analytics-services.com
 21:26:47.656 DNS region1.app-analytics-services.com
+21:26:48.409 DNS itunes.apple.com
