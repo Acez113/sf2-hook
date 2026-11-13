@@ -390,3 +390,7 @@
 11:50:44.987 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
 11:50:44.992 GAMEDATA      720  sessions.json
 11:50:44.993 GAMEDATA      516  events_data.xml
+11:50:55.572 DNS crashlyticsreports-pa.googleapis.com
+11:50:55.573 DNS crashlyticsreports-pa.googleapis.com
+11:50:55.595 DNS googleapis.com
+11:50:55.596 DNS crashlyticsreports-pa.googleapis.com
