@@ -498,3 +498,8 @@ STEAL" Image="SkillsEnch02.EnchantmentLifeDrain" ...................?.H.i.t.[.].
 21:08:11.434 ---- boss perk hunt done ----
 21:08:13.884 ADBLOCK gw1.mediation.unity3d.com
 21:08:26.516 ADBLOCK o-sdk.mediation.unity3d.com
+21:08:29.250 ADBLOCK o-sdk.mediation.unity3d.com
+21:08:39.552 ADBLOCK o-sdk.mediation.unity3d.com
+21:08:43.242 ADBLOCK gateway.unityads.unity3d.com
+21:08:43.261 ADBLOCK gateway.unityads.unity3d.com
+21:08:46.074 ADBLOCK gw1.mediation.unity3d.com
