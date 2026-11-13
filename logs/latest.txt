@@ -556,3 +556,14 @@ K_RAKS ..-....................C...........;.\.`..A.2..*b2..PA?8|..cE/..qe@....@.
 11:57:54.221 DNS app-analytics-services.com
 11:57:54.224 DNS region1.app-analytics-services.com
 11:57:54.226 DNS region1.app-analytics-services.com
+11:58:26.726 DNS api.github.com
+11:58:26.841 DNS itunes.apple.com
+11:58:26.892 DNS api.github.com
+11:58:27.024 DNS report.appmetrica.yandex.net
+11:58:27.097 DNS a58pbd.launches.appsflyersdk.com
+11:58:27.188 DNS a58pbd.launches.appsflyersdk.com
+11:58:27.215 DNS a58pbd.launches.appsflyersdk.com
+11:58:27.280 DNS report.appmetrica.yandex.net
+11:58:27.351 DNS a58pbd.launches.appsflyersdk.com
+11:58:31.484 DNS report.appmetrica.yandex.net
+11:58:31.596 DNS a58pbd.launches.appsflyersdk.com
