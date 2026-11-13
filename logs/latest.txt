@@ -399,3 +399,4 @@
 13:58:41.611 DNS firebaselogging-pa.googleapis.com
 13:58:41.663 DNS googleapis.com
 13:58:41.664 DNS firebaselogging-pa.googleapis.com
+13:59:25.540 ---- hack self-check (single pass) ----
