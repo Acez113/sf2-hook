@@ -505,3 +505,7 @@ K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.
 01:50:43.072 ADBLOCK o-sdk.mediation.unity3d.com
 01:50:45.778 ADBLOCK gw1.mediation.unity3d.com
 01:50:45.786 ADBLOCK gw1.mediation.unity3d.com
+01:51:21.710 DNS ledger.nekki.com
+01:51:21.850 DNS ledger.nekki.com
+01:51:23.786 ADBLOCK gateway.unityads.unity3d.com
+01:51:26.728 ADBLOCK gw1.mediation.unity3d.com
