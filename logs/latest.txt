@@ -551,3 +551,5 @@ K_RAKS .,+....................C........n..."A.6K...B..`...XH=.P\.......l...O..0.
 14:03:22.936 FOUND[PERK_BOSS_] #3 @0x15678cb86
 K_RAKS .,+....................C........n..."A.6K...B..`...XH=.P\.......l...O..0...l...QD...........$.......ehA"y..!....4.@-n...,.....B.....V..7F.A.u..y#..4..A ...^......."....]......0;..A.W.+*.A.i...J..^........v..a.........f.........<H...+..c7...r.......X......`T........8.}bVB.<..2....i.B`t..b......B)o...m-....BGW....%..k.B.v...14:01:07.633 FOUND[PERK_BOSS_] nothing in 2049 MB.14:01:07.633 ---- boss perk hunt done ----.14:01:34.305 DNS app-analytics-services.com.14:01:34.306 DNS app-analytics-services.com.14:01:34.312 DNS com.14:01:34.314 DNS app-analytics-services.com.14:01:34.382 DNS itunes.apple.com.14:01:34.408 DNS report.appmetrica.yandex.net.14:01:34.558 DNS report.appmetrica.yandex.n
 14:03:22.936 ---- boss perk hunt done ----
+14:03:42.865 ADBLOCK o-adq.mediation.unity3d.com
+14:03:42.922 ADBLOCK o-adq.mediation.unity3d.com
