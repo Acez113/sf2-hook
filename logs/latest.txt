@@ -53,3 +53,26 @@
 21:02:50.283 DNS star.fallback.c10r.facebook.com.
 21:02:50.845 DNS ep2.facebook.com
 21:02:51.070 DNS ep2.facebook.com
+21:02:51.771 dump upload dumps/Info.plist -> HTTP 200
+21:02:52.344 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+21:02:58.357 DNS app-analytics-services.com
+21:02:58.358 DNS app-analytics-services.com
+21:02:59.301 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0
+21:03:03.445 DNS ep2.facebook.com
+21:03:03.447 DNS ep2.facebook.com
+21:03:03.467 DNS ep2.facebook.com
+21:03:03.468 DNS star.fallback.c10r.facebook.com.
+21:03:03.478 DNS facebook.com
+21:03:03.480 DNS ep2.facebook.com
+21:03:05.202 DNS ep2.facebook.com
+21:03:05.204 DNS ep2.facebook.com
+21:03:05.229 DNS ep2.facebook.com
+21:03:05.232 DNS star.fallback.c10r.facebook.com.
+21:03:05.243 DNS facebook.com
+21:03:05.247 DNS ep2.facebook.com
+21:03:05.260 DNS ep2.facebook.com
+21:03:05.264 DNS ep2.facebook.com
+21:03:05.280 DNS ep2.facebook.com
+21:03:05.281 DNS star.fallback.c10r.facebook.com.
+21:03:05.300 DNS facebook.com
+21:03:05.303 DNS ep2.facebook.com
