@@ -325,3 +325,9 @@
 01:46:40.873 DNS yastatic.net
 01:46:43.380 ADBLOCK gw1.mediation.unity3d.com
 01:46:43.399 ADBLOCK gw1.mediation.unity3d.com
+01:46:53.117 ADBLOCK gateway.unityads.unity3d.com
+01:46:57.457 ADBLOCK gateway.unityads.unity3d.com
+01:47:00.615 ADBLOCK gw1.mediation.unity3d.com
+01:47:00.669 ADBLOCK gw1.mediation.unity3d.com
+01:47:00.945 DNS region1.app-analytics-services.com
+01:47:00.947 DNS region1.app-analytics-services.com
