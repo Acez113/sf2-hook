@@ -549,3 +549,12 @@ pmetrica.yandex.net.13:00:10.621 DNS com.13:00:10.624 DNS app-analytics-services
 13:03:12.640 DNS a58pbd.inapps.appsflyersdk.com
 13:03:12.690 DNS a58pbd.inapps.appsflyersdk.com
 13:03:12.710 DNS a58pbd.inapps.appsflyersdk.com
+13:03:18.550 DNS ep2.facebook.com
+13:03:18.550 DNS ep2.facebook.com
+13:03:18.553 DNS star.fallback.c10r.facebook.com.
+13:03:18.553 DNS ep2.facebook.com
+13:03:18.580 DNS facebook.com
+13:03:18.581 DNS ep2.facebook.com
+13:03:18.878 DNS facebook.com
+13:03:18.879 DNS ep2.facebook.com
+13:03:18.918 DNS star.fallback.c10r.facebook.com.
