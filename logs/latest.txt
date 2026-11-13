@@ -425,3 +425,25 @@
 12:58:32.586 ---- hack self-check (single pass) ----
 12:58:37.954 DNS api.github.com
 12:58:38.024 DNS api.github.com
+12:59:32.335   [PASS] moves: thruster      found=3  (need 1+)
+12:59:32.336   [PASS] moves: no-block      found=36  (need 1+)
+12:59:32.336   [PASS] moves: ignores evade found=35  (need 1+)
+12:59:32.336   [PASS] moves: long range    found=123  (need 1+)
+12:59:32.336   [PASS] moves: geometry      found=549  (need 1+)
+12:59:32.337   [PASS] moves: stance skip   found=21  (need 1+)
+12:59:32.337   [FAIL] perks: antiban       found=0  (need 1+)
+12:59:32.337   [PASS] perks: frenzy name   found=172  (need 1+)
+12:59:32.337   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+12:59:32.337   [FAIL] perks: boss gutted   found=0  (need 1+)
+12:59:32.337   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+12:59:32.337   [PASS] BAD empty parts      found=0  (need 0 exactly)
+12:59:32.338   [FAIL] rc: my zeroed perk   found=0  (need 1+)
+12:59:32.338   [PASS] rc: ORIGINAL 480     found=0  (need 0 exactly)
+12:59:32.338   [FAIL] rc: my zeroed inmove found=0  (need 1+)
+12:59:32.338   [PASS] rc: ORIGINAL 60      found=0  (need 0 exactly)
+12:59:32.338   [FAIL] rc: my ammo gate 0   found=0  (need 1+)
+12:59:32.339   [PASS] rc: ORIGINAL ammo 1  found=0  (need 0 exactly)
+12:59:32.339   scanned 2049 MB in 59.8s
+12:59:32.339   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+12:59:32.339   redirect CONFIGS.bundle: reads=0 ready=YES
+12:59:32.339 ---- self-check: 12 pass / 6 fail ----
