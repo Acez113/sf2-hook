@@ -1,571 +1,91 @@
-=== SF2Mod ACE v8.7 session 20261113-130842 ===
-15:08:42.356 ACE v8.7 bosspatch loaded (patches=4 hacks=3)
-15:08:42.356 redirect armed: VERSIONAL_CONFIGS.bundle
-15:08:42.357 redirect armed: CONFIGS.bundle
-15:08:42.357 2/2 redirects armed
-15:08:42.359 users.xml already present - keeping player's save
-15:08:44.081 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/initSettings.bin
-15:08:44.161 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/statistics/crashLog.json
-15:08:44.164 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/statistics/crashLog.json
-15:08:44.350 DNS app-analytics-services.com
-15:08:44.354 DNS app-analytics-services.com
-15:08:44.360 ADBLOCK config.uca.cloud.unity3d.com
-15:08:44.362 ADBLOCK config.uca.cloud.unity3d.com
-15:08:44.372 DNS www.google.com
-15:08:44.387 OPEN[R] fd=23 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/users.xml
-15:08:44.437 ADBLOCK uca.cloud.unity3d.com
-15:08:44.446 ADBLOCK config.uca.cloud.unity3d.com
-15:08:44.510 DNS api.github.com
-15:08:44.609 DNS www.google.com
-15:08:44.632 DNS ep2.facebook.com
-15:08:44.790 ADBLOCK fundingchoicesmessages.google.com
-15:08:44.873 DNS ep2.facebook.com
-15:08:44.888 ADBLOCK fundingchoicesmessages.google.com
-15:08:44.900 DNS crashlyticsreports-pa.googleapis.com
-15:08:44.908 ADBLOCK uca.cloud.unity3d.com
-15:08:44.917 ADBLOCK config.uca.cloud.unity3d.com
-15:08:44.937 DNS ep2.facebook.com
-15:08:44.940 DNS star.fallback.c10r.facebook.com.
-15:08:44.950 DNS crashlyticsreports-pa.googleapis.com
-15:08:44.983 DNS fcmtoken.googleapis.com
-15:08:44.991 DNS star.fallback.c10r.facebook.com.
-15:08:44.992 DNS ep2.facebook.com
-15:08:45.027 DNS api.github.com
-15:08:45.038 DNS facebook.com
-15:08:45.040 DNS ep2.facebook.com
-15:08:45.044 DNS facebook.com
-15:08:45.047 DNS ep2.facebook.com
-15:08:45.060 DNS google.com
-15:08:45.061 ADBLOCK fundingchoicesmessages.google.com
-15:08:45.067 DNS google.com
-15:08:45.068 ADBLOCK fundingchoicesmessages.google.com
-15:08:45.072 DNS googleapis.com
-15:08:45.072 RAIDCONFIG PREAD Info.plist bytes=827
-15:08:45.073 DNS crashlyticsreports-pa.googleapis.com
-15:08:45.093 DNS googleapis.com
-15:08:45.094 DNS crashlyticsreports-pa.googleapis.com
-15:08:45.158 DNS api.github.com
-15:08:45.160 DNS fcmtoken.googleapis.com
-15:08:45.180 DNS app-measurement.com
-15:08:45.208 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/users.xml
-15:08:45.238 OPEN[R] fd=36 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/packs.xml
-15:08:45.248 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/ZONE_1
-15:08:45.324 DNS fcmtoken.googleapis.com
-15:08:45.343 DNS google.com
-15:08:45.344 ADBLOCK fundingchoicesmessages.google.com
-15:08:45.347 DNS google.com
-15:08:45.348 ADBLOCK fundingchoicesmessages.google.com
-15:08:45.351 DNS googleapis.com
-15:08:45.352 DNS crashlyticsreports-pa.googleapis.com
-15:08:45.354 DNS googleapis.com
-15:08:45.355 DNS crashlyticsreports-pa.googleapis.com
-15:08:45.411 OPEN[R] fd=40 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/ZONE_1
-15:08:45.412 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/ZONE_1
-15:08:45.419 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:08:45.424 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:08:45.424 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
-15:08:45.426 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:08:45.432 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:08:45.433 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
-15:08:45.434 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:08:45.440 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:08:45.441 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL
-15:08:45.442 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:08:45.445 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:08:45.446 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
-15:08:45.448 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:08:45.451 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:08:45.452 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:08:45.453 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:08:45.459 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:08:45.459 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:08:45.461 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:08:45.467 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:08:45.468 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:08:45.470 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:08:45.474 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:08:45.474 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:08:45.476 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:08:45.493 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:08:45.494 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
-15:08:45.496 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:08:45.501 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:08:45.502 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
-15:08:45.503 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:08:45.507 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:08:45.508 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:08:45.509 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:08:45.514 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:08:45.515 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
-15:08:45.517 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:08:45.522 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:08:45.523 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
-15:08:45.524 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:08:45.526 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:08:45.527 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
-15:08:45.528 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:08:45.538 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:08:45.539 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:08:45.541 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:08:45.552 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:08:45.553 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
-15:08:45.555 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:08:45.559 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:08:45.559 OPEN[R] fd=20 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:08:46.977 dump upload dumps/Info.plist -> HTTP 200
-15:08:48.429 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
-15:08:48.462 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=20)
-15:08:48.464 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=20)
-15:08:48.513 DNS assets.nekki.com
-15:08:48.534 ACE bubble shown
-15:08:48.539 DNS ep2.facebook.com
-15:08:48.540 DNS ep2.facebook.com
-15:08:48.544 DNS ep2.facebook.com
-15:08:48.546 DNS ep2.facebook.com
-15:08:48.547 DNS ep2.facebook.com
-15:08:48.547 DNS star.fallback.c10r.facebook.com.
-15:08:48.547 DNS ep2.facebook.com
-15:08:48.556 DNS ep2.facebook.com
-15:08:48.564 DNS ep2.facebook.com
-15:08:48.565 DNS star.fallback.c10r.facebook.com.
-15:08:48.567 DNS ep2.facebook.com
-15:08:48.568 DNS star.fallback.c10r.facebook.com.
-15:08:48.578 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
-15:08:48.609 DNS facebook.com
-15:08:48.611 DNS ep2.facebook.com
-15:08:48.658 DNS facebook.com
-15:08:48.666 DNS ep2.facebook.com
-15:08:48.668 DNS assets.nekki.com
-15:08:48.682 DNS a58pbd.launches.appsflyersdk.com
-15:08:48.693 DNS facebook.com
-15:08:48.699 DNS ep2.facebook.com
-15:08:48.703 DNS facebook.com
-15:08:48.705 DNS ep2.facebook.com
-15:08:48.707 DNS star.fallback.c10r.facebook.com.
-15:08:48.708 DNS ep2.facebook.com
-15:08:48.708 DNS star.fallback.c10r.facebook.com.
-15:08:48.709 DNS ep2.facebook.com
-15:08:48.714 DNS star.fallback.c10r.facebook.com.
-15:08:48.715 DNS ep2.facebook.com
-15:08:48.724 DNS a58pbd.launches.appsflyersdk.com
-15:08:48.736 DNS facebook.com
-15:08:48.740 DNS ep2.facebook.com
-15:08:48.758 DNS facebook.com
-15:08:48.759 DNS ep2.facebook.com
-15:08:48.763 DNS assets.nekki.com
-15:08:48.767 DNS facebook.com
-15:08:48.768 DNS ep2.facebook.com
-15:08:48.775 DNS a58pbd.launches.appsflyersdk.com
-15:08:48.824 DNS a58pbd.launches.appsflyersdk.com
-15:08:48.833 DNS a58pbd.launches.appsflyersdk.com
-15:08:48.859 DNS a58pbd.launches.appsflyersdk.com
-15:08:48.900 DNS a58pbd.launches.appsflyersdk.com
-15:08:49.023 DNS ep2.facebook.com
-15:08:49.025 DNS ep2.facebook.com
-15:08:49.036 DNS ep2.facebook.com
-15:08:49.036 DNS star.fallback.c10r.facebook.com.
-15:08:49.040 DNS facebook.com
-15:08:49.042 DNS ep2.facebook.com
-15:08:49.138 DNS star.fallback.c10r.facebook.com.
-15:08:49.138 DNS ep2.facebook.com
-15:08:49.141 DNS facebook.com
-15:08:49.143 DNS ep2.facebook.com
-15:08:49.154 ADBLOCK cdp.cloud.unity3d.com
-15:08:49.154 ADBLOCK cdp.cloud.unity3d.com
-15:08:49.258 ADBLOCK cloud.unity3d.com
-15:08:49.259 ADBLOCK cdp.cloud.unity3d.com
-15:08:49.278 ADBLOCK cloud.unity3d.com
-15:08:49.287 ADBLOCK cdp.cloud.unity3d.com
-15:08:50.685 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=20)
-15:08:50.686 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=20)
-15:08:53.669 DNS sfxlbalt.nekki.com
-15:08:53.680 ADBLOCK i-adq.mediation.unity3d.com
-15:08:53.718 ADBLOCK init.supersonicads.com
-15:08:53.799 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0
-15:08:53.804 ADBLOCK gateway-a.offerwall.unity3d.com
-15:08:53.826 ADBLOCK i-sdk.mediation.unity3d.com
-15:08:53.855 DNS sfxlbalt.nekki.com
-15:08:53.914 DNS sfxlbalt.nekki.com
-15:08:53.918 ADBLOCK gateway-a.offerwall.unity3d.com
-15:08:53.931 ADBLOCK i-sdk.mediation.unity3d.com
-15:08:53.952 ADBLOCK gateway-a.offerwall.unity3d.com
-15:08:53.971 ADBLOCK i-sdk.mediation.unity3d.com
-15:08:54.374 ADBLOCK o-sdk.mediation.unity3d.com
-15:08:54.530 ADBLOCK o-sdk.mediation.unity3d.com
-15:08:54.532 ADBLOCK o-sdk.mediation.unity3d.com
-15:08:54.789 ADBLOCK i-adq.mediation.unity3d.com
-15:08:54.899 ADBLOCK telemetry.tk0x1.com
-15:08:54.906 ADBLOCK i-adq.mediation.unity3d.com
-15:08:54.944 ADBLOCK i-adq.mediation.unity3d.com
-15:08:55.109 ADBLOCK telemetry.tk0x1.com
-15:08:55.118 ADBLOCK telemetry.tk0x1.com
-15:08:55.286 ADBLOCK prefetch.monetization-sdk.chartboost.com
-15:08:55.287 ADBLOCK prefetch.monetization-sdk.chartboost.com
-15:08:55.296 ADBLOCK config.monetization-sdk.chartboost.com
-15:08:55.299 ADBLOCK config.monetization-sdk.chartboost.com
-15:08:55.305 ADBLOCK monetization-sdk.chartboost.com
-15:08:55.307 ADBLOCK prefetch.monetization-sdk.chartboost.com
-15:08:55.309 ADBLOCK install.monetization-sdk.chartboost.com
-15:08:55.311 ADBLOCK install.monetization-sdk.chartboost.com
-15:08:55.319 ADBLOCK monetization-sdk.chartboost.com
-15:08:55.321 ADBLOCK config.monetization-sdk.chartboost.com
-15:08:55.325 ADBLOCK monetization-sdk.chartboost.com
-15:08:55.328 ADBLOCK install.monetization-sdk.chartboost.com
-15:08:55.399 ADBLOCK monetization-sdk.chartboost.com
-15:08:55.400 ADBLOCK prefetch.monetization-sdk.chartboost.com
-15:08:55.405 ADBLOCK monetization-sdk.chartboost.com
-15:08:55.406 ADBLOCK config.monetization-sdk.chartboost.com
-15:08:55.420 ADBLOCK monetization-sdk.chartboost.com
-15:08:55.421 ADBLOCK install.monetization-sdk.chartboost.com
-15:08:56.324 ADBLOCK gateway.unityads.unity3d.com
-15:08:56.356 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
-15:08:56.357 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
-15:08:56.357 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
-15:08:56.381 DNS itunes.apple.com
-15:08:56.397 ADBLOCK cdn.iads.unity3d.com
-15:08:56.440 ADBLOCK unityads.unity3d.com
-15:08:56.444 ADBLOCK gateway.unityads.unity3d.com
-15:08:56.681 DNS report.appmetrica.yandex.net
-15:08:56.705 ADBLOCK googleads.g.doubleclick.net
-15:08:56.708 ADBLOCK pubads.g.doubleclick.net
-15:08:56.741 DNS a58pbd.launches.appsflyersdk.com
-15:08:56.743 DNS yandex.com
-15:08:56.773 CONFIGSPROBE[R] fd=57 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
-15:08:56.774 RAIDCONFIG MISS(retry) raid_configs
-15:08:57.827 ADBLOCK unityads.unity3d.com
-15:08:57.837 ADBLOCK gateway.unityads.unity3d.com
-15:08:58.194 ADBLOCK googleads.g.doubleclick.net
-15:08:58.212 ADBLOCK pubads.g.doubleclick.net
-15:08:59.405 ADBLOCK cdn.iads.unity3d.com
-15:09:01.309 ADBLOCK unityads.unity3d.com
-15:09:01.312 ADBLOCK gateway.unityads.unity3d.com
-15:09:01.316 ADBLOCK cdn.iads.unity3d.com
-15:09:02.669 DNS ep2.facebook.com
-15:09:02.731 ADBLOCK googleads.g.doubleclick.net
-15:09:02.795 ADBLOCK g.doubleclick.net
-15:09:02.807 ADBLOCK googleads.g.doubleclick.net
-15:09:02.829 ADBLOCK g.doubleclick.net
-15:09:02.838 ADBLOCK pubads.g.doubleclick.net
-15:09:02.842 ADBLOCK pubads.g.doubleclick.net
-15:09:02.844 ADBLOCK googleads.g.doubleclick.net
-15:09:02.845 ADBLOCK pubads.g.doubleclick.net
-15:09:02.881 ADBLOCK cdn.iads.unity3d.com
-15:09:02.886 ADBLOCK gw1.mediation.unity3d.com
-15:09:02.887 ADBLOCK gw1.mediation.unity3d.com
-15:09:03.049 DNS ep2.facebook.com
-15:09:03.143 GAMEDATA       34  crashLog.json
-15:09:03.145 GAMEDATA    26414  packs.xml
-15:09:03.152 GAMEDATA 36553344  ZONE_1
-15:09:03.156 GAMEDATA   618490  RITUAL_VULCAN
-15:09:03.173 GAMEDATA   890124  RITUAL_HUNGER
-15:09:03.175 GAMEDATA   951400  RITUAL
-15:09:03.177 GAMEDATA   185987  EVENTS_COMMON
-15:09:03.178 GAMEDATA   228462  WEEKLY_OFFER_47_HEART_OF_LILY_26
-15:09:03.183 GAMEDATA   795575  WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
-15:09:03.190 GAMEDATA  1073691  WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
-15:09:03.191 GAMEDATA   412642  WEEKLY_OFFER_44_BLADES_OF_FAITH_26
-15:09:03.193 GAMEDATA  3455005  WEEKLY_OFFER_43_GENTLE_STORM_26
-15:09:03.228 GAMEDATA   636946  RITUAL_FUNGUS
-15:09:03.232 GAMEDATA   423183  WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
-15:09:03.235 GAMEDATA   295689  WEEKLY_OFFER_40_OLD_KING_25
-15:09:03.237 GAMEDATA   815043  WEEKLY_OFFER_39_SHADOW_LORD_25
-15:09:03.238 GAMEDATA    84390  GIFT_12_YEARS_SF2_NAGINATA
-15:09:03.240 GAMEDATA  1809671  WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
-15:09:03.242 GAMEDATA  2079297  SUMMER_FEST_25
-15:09:03.244 GAMEDATA   420412  WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
-15:09:03.245 GAMEDATA  1511423  WEEKLY_OFFER_36_MAGIC_SONG_OF_THE_TIDE_25
-15:09:03.248 GAMEDATA   800039  WEEKLY_OFFER_35_WEAPON_SEERS_STAFF_25
-15:09:03.250 GAMEDATA   330585  WEEKLY_OFFER_34_RANGED_WINDS_HARMONY_25
-15:09:03.252 GAMEDATA    45323  WEEKLY_OFFER_41_FLAVOR_OF_DEMISE_25
-15:09:03.254 GAMEDATA   731460  WEEKLY_OFFER_33_HELM_VEIL_OF_DAWN_25
-15:09:03.256 GAMEDATA  4196093  AMERICAN_25
-15:09:03.257 GAMEDATA  1979843  EVENT_FALL_24
-15:09:03.259 GAMEDATA 14139354  HW26
-15:09:03.260 GAMEDATA  4343544  VAISAKHI_25
-15:09:03.261 GAMEDATA  1200664  SUMMER_FEST_26
-15:09:03.263 GAMEDATA  5452463  SUMMER_FEST_25
-15:09:03.266 GAMEDATA   469805  SUMMER_FEST_CHEST
-15:09:03.271 GAMEDATA  5164567  WEEKLY_OFFER_58_STACCATO_26
-15:09:03.272 GAMEDATA   912554  WEEKLY_OFFER_57_DARK_FUGUE_26
-15:09:03.274 GAMEDATA   401165  WEEKLY_OFFER_56_DANCE_OF_DRAGONS_26
-15:09:03.275 GAMEDATA   766413  WEEKLY_OFFER_55_SHADOW_DJ_26
-15:09:03.276 GAMEDATA  1712056  AMERICAN_26
-15:09:03.284 GAMEDATA  3185112  WEEKLY_OFFER_54_SONG_OF_INEVITABILITY_26
-15:09:03.286 GAMEDATA   181064  WEEKLY_OFFER_52_VALOR_AND_DISCIPLINE_26
-15:09:03.287 GAMEDATA   584218  WEEKLY_OFFER_51_BARRIER_REEF_26
-15:09:03.289 GAMEDATA   815313  WEEKLY_OFFER_50_DRAGONS_GIFT_26
-15:09:03.290 GAMEDATA   335682  WEEKLY_OFFER_49_JASPER_SUNSET_26
-15:09:03.291 GAMEDATA   338575  WEEKLY_OFFER_48_DIESEL_SCREAM_26
-15:09:03.293 GAMEDATA   503345  SUMMER_FEST_26
-15:09:03.294 GAMEDATA  5759112  HW_26_ITEMS
-15:09:03.295 GAMEDATA  5374495  MA_FEST_26_ITEMS
-15:09:03.309 GAMEDATA   356750  EVENT_FALL_26
-15:09:03.443 GAMEDATA   444344  WEEKLY_OFFER_53_GIANTS_WRATH_26
-15:09:03.460 GAMEDATA   733768  NEKKI_FEST_26
-15:09:03.464 GAMEDATA  1379404  WEEKLY_OFFER_32_WEAPON_ORDERS_OATH_25
-15:09:03.467 GAMEDATA   418519  WEEKLY_OFFER_30_WEAPON_KUSARIGAMA_SILENT_MOON
-15:09:03.471 GAMEDATA  1979866  EVENT_FALL_24
-15:09:03.473 GAMEDATA  6467165  KARCER_SET
-15:09:03.475 GAMEDATA  8202511  VOLCANO_SET
-15:09:03.476 GAMEDATA  7418077  FUNGUS_SET
-15:09:03.477 GAMEDATA 15508617  ZONE_7_3
-15:09:03.483 GAMEDATA  3460593  ZONE_7_2
-15:09:03.484 GAMEDATA 13258953  ZONE_7
-15:09:03.486 GAMEDATA  2537402  EVENT_HW_24
-15:09:03.488 GAMEDATA  4476476  ZONE_IM
-15:09:03.489 GAMEDATA 15368234  ZONE_5
-15:09:03.505 GAMEDATA 13591298  ZONE_4
-15:09:03.508 GAMEDATA 15218649  ZONE_3
-15:09:03.510 GAMEDATA 15499911  ZONE_2
-15:09:03.511 GAMEDATA 63583196  TACTICS
-15:09:03.518 GAMEDATA 81039982  MODELS
-15:09:03.520 GAMEDATA 71765824  CLANS
-15:09:03.529 GAMEDATA 103031521  ZONE_RAID
-15:09:03.532 GAMEDATA  6355087  ANIMATIONS
-15:09:03.534 GAMEDATA 26240767  ZONE_6
-15:09:03.536 GAMEDATA  3552016  WEEKLY_OFFER_31_MAGIC_BOMB_SEED_OF_CREATION
-15:09:03.537 GAMEDATA  3827132  ASCENSION
-15:09:03.555 GAMEDATA  2627880  NEW_YEAR_25
-15:09:03.557 GAMEDATA    62978  WEEKLY_OFFER_29_RANGED_NEEDLES_NEMESIS_STINGER
-15:09:03.559 GAMEDATA  1036259  WEEKLY_OFFER_28_MAGIC_GAZEOFTHEVOID
-15:09:03.561 GAMEDATA  1275770  WEEKLY_OFFER_27_NUNCHAKU_DANCEOFSTATIC
-15:09:03.562 GAMEDATA  1637029  WEEKLY_OFFER_26_RANGED_ROGUESFORTUNE
-15:09:03.569 GAMEDATA   339104  WEEKLY_OFFER_25_RITUAL_KATANA_WEAPON
-15:09:03.571 GAMEDATA   538621  WEEKLY_OFFER_24_EGYPT_ARMOR
-15:09:03.573 GAMEDATA  3003451  WEEKLY_OFFER_23_PINK_ENERGYBALL_MAGIC
-15:09:03.579 GAMEDATA   364031  WEEKLY_OFFER_22_GLAIVE_GOD_EATER
-15:09:03.585 GAMEDATA   516237  AGNISSEAL_OFFER
-15:09:03.589 GAMEDATA  3541659  AZTEC_24
-15:09:03.591 GAMEDATA   234113  WEEKLY_OFFER_21
-15:09:03.592 GAMEDATA  1021687  WEEKLY_OFFER_19
-15:09:03.594 GAMEDATA   595632  WEEKLY_OFFER_18
-15:09:03.599 DNS report.appmetrica.yandex.net
-15:09:03.602 GAMEDATA   505405  WEEKLY_OFFER_17
-15:09:03.604 GAMEDATA  1300714  WEEKLY_OFFER_16
-15:09:03.606 GAMEDATA   952762  WEEKLY_OFFER_15
-15:09:03.607 GAMEDATA   554472  WEEKLY_OFFER_14
-15:09:03.609 GAMEDATA   501673  WEEKLY_OFFER_13
-15:09:03.610 GAMEDATA   278494  WEEKLYOFFER12
-15:09:03.611 GAMEDATA  4448696  FOREST_DEMON_25
-15:09:03.612 GAMEDATA   990233  WEEKLY_OFFER_20_FUTURIST_MAGIC
-15:09:03.623 GAMEDATA      720  sessions.json
-15:09:03.634 GAMEDATA      516  events_data.xml
-15:09:03.653 DNS yandex.com
-15:09:03.843 ADBLOCK googleads.g.doubleclick.net
-15:09:03.887 ADBLOCK pubads.g.doubleclick.net
-15:09:03.888 DNS ep2.facebook.com
-15:09:03.888 DNS star.fallback.c10r.facebook.com.
-15:09:03.988 ADBLOCK g.doubleclick.net
-15:09:03.990 ADBLOCK googleads.g.doubleclick.net
-15:09:04.023 ADBLOCK g.doubleclick.net
-15:09:04.042 ADBLOCK pubads.g.doubleclick.net
-15:09:04.311 DNS report.appmetrica.yandex.net
-15:09:04.326 ADBLOCK gw1.mediation.unity3d.com
-15:09:04.336 ADBLOCK gw1.mediation.unity3d.com
-15:09:04.372 ADBLOCK gw1.mediation.unity3d.com
-15:09:04.373 ADBLOCK gw1.mediation.unity3d.com
-15:09:04.621 ADBLOCK g.doubleclick.net
-15:09:04.635 ADBLOCK pubads.g.doubleclick.net
-15:09:04.658 ADBLOCK googleads.g.doubleclick.net
-15:09:04.660 ADBLOCK pubads.g.doubleclick.net
-15:09:05.086 DNS star.fallback.c10r.facebook.com.
-15:09:05.087 DNS ep2.facebook.com
-15:09:05.123 DNS yandex.com
-15:09:05.303 ADBLOCK g.doubleclick.net
-15:09:05.305 ADBLOCK googleads.g.doubleclick.net
-15:09:05.405 ADBLOCK g.doubleclick.net
-15:09:05.458 ADBLOCK pubads.g.doubleclick.net
-15:09:05.704 BOSSPATCH pass 4: 'Karcer orb of hunger' total hits=6
-15:09:05.944 ADBLOCK cdn.iads.unity3d.com
-15:09:05.958 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.021 DNS ep2.facebook.com
-15:09:06.026 DNS star.fallback.c10r.facebook.com.
-15:09:06.027 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.032 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.036 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.037 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.061 DNS facebook.com
-15:09:06.068 DNS ep2.facebook.com
-15:09:06.122 ADBLOCK googleads.g.doubleclick.net
-15:09:06.124 ADBLOCK pubads.g.doubleclick.net
-15:09:06.256 DNS star.fallback.c10r.facebook.com.
-15:09:06.258 DNS ep2.facebook.com
-15:09:06.310 ADBLOCK g.doubleclick.net
-15:09:06.316 ADBLOCK googleads.g.doubleclick.net
-15:09:06.345 ADBLOCK gateway.unityads.unity3d.com
-15:09:06.404 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.411 DNS yandex.com
-15:09:06.531 ADBLOCK cdn.iads.unity3d.com
-15:09:06.585 DNS facebook.com
-15:09:06.593 DNS ep2.facebook.com
-15:09:06.655 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.658 ADBLOCK gw1.mediation.unity3d.com
-15:09:06.858 DNS facebook.com
-15:09:06.867 DNS ep2.facebook.com
-15:09:07.645 DNS ep2.facebook.com
-15:09:07.720 DNS facebook.com
-15:09:07.724 DNS ep2.facebook.com
-15:09:07.727 DNS report.appmetrica.yandex.net
-15:09:07.803 ADBLOCK unityads.unity3d.com
-15:09:07.804 ADBLOCK gateway.unityads.unity3d.com
-15:09:07.819 DNS ep2.facebook.com
-15:09:07.838 ADBLOCK unityads.unity3d.com
-15:09:07.841 ADBLOCK gateway.unityads.unity3d.com
-15:09:08.011 DNS sfxlbalt.nekki.com
-15:09:08.022 DNS google.com
-15:09:08.029 DNS google.com
-15:09:08.051 DNS google.com
-15:09:08.055 DNS com
-15:09:08.056 DNS google.com
-15:09:08.170 DNS google.com
-15:09:08.223 DNS com
-15:09:08.225 DNS google.com
-15:09:08.235 DNS sfxlbalt.nekki.com
-15:09:08.241 DNS sfxlbalt.nekki.com
-15:09:08.310 DNS sfxlbalt.nekki.com
-15:09:08.428 DNS sfxlbalt.nekki.com
-15:09:08.466 ADBLOCK googleads.g.doubleclick.net
-15:09:08.468 DNS ep2.facebook.com
-15:09:08.468 DNS star.fallback.c10r.facebook.com.
-15:09:08.469 ADBLOCK gw1.mediation.unity3d.com
-15:09:08.470 ADBLOCK gw1.mediation.unity3d.com
-15:09:08.483 ADBLOCK pubads.g.doubleclick.net
-15:09:08.760 DNS www.google.com
-15:09:08.761 DNS www.google.com
-15:09:08.771 DNS www.google.com
-15:09:08.775 DNS google.com
-15:09:08.779 DNS www.google.com
-15:09:08.874 DNS www.google.com
-15:09:08.882 DNS google.com
-15:09:08.885 DNS www.google.com
-15:09:09.042 DNS google.com
-15:09:09.045 DNS www.google.com
-15:09:09.570 DNS sfxlbalt.nekki.com
-15:09:09.929 DNS sfxlbalt.nekki.com
-15:09:10.238 ADBLOCK ms.applovin.com
-15:09:10.559 DNS sfxlbalt.nekki.com
-15:09:12.048 DNS consent.google.com
-15:09:12.050 DNS consent.google.com
-15:09:15.567 CONFIGSPROBE[W] fd=45 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
-15:09:15.721 CONFIGSPROBE[R] fd=45 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
-15:09:15.724 CONFIGSPROBE[R] fd=-1 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
-15:09:15.725 RAIDCONFIG MISS econfig.zip (exists=NO errno=2)
-15:09:16.149 CONFIGSPROBE[R] fd=-1 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
-15:09:16.150 RAIDCONFIG MISS(retry) econfig.zip
-15:09:57.387 ---- hack self-check (single pass) ----
-15:11:12.558 ---- boss perk hunt (read-only) ----
-15:11:16.526   [PASS] moves: thruster      found=12  (need 1+)
-15:11:16.527   [PASS] moves: no-block      found=259  (need 1+)
-15:11:16.527   [PASS] moves: ignores evade found=241  (need 1+)
-15:11:16.527   [PASS] moves: long range    found=862  (need 1+)
-15:11:16.528   [PASS] moves: geometry      found=3485  (need 1+)
-15:11:16.528   [PASS] moves: stance skip   found=151  (need 1+)
-15:11:16.529   [FAIL] perks: antiban       found=0  (need 1+)
-15:11:16.529   [PASS] perks: frenzy name   found=191  (need 1+)
-15:11:16.529   [FAIL] perks: frenzy HACKED found=0  (need 1+)
-15:11:16.530   [FAIL] perks: boss gutted   found=0  (need 1+)
-15:11:16.530   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
-15:11:16.530   [PASS] BAD empty parts      found=0  (need 0 exactly)
-15:11:16.531   [FAIL] rc: clean perk       found=0  (need 1+)
-15:11:16.531   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
-15:11:16.531   [PASS] rc: clean cd         found=3  (need 1+)
-15:11:16.531   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
-15:11:16.532   [PASS] rc: clean ammo       found=4  (need 1+)
-15:11:16.532   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
-15:11:16.532   scanned 2049 MB in 79.1s
-15:11:16.533   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
-15:11:16.533   redirect CONFIGS.bundle: reads=0 ready=YES
-15:11:16.533 ---- self-check: 14 pass / 4 fail ----
-15:11:17.219 FOUND[Karcer] #1 @0x16107bb0c
-cloud.unity3d.com.15:08:49.287 ADBLOCK cdp.cloud.unity3d.com.15:08:50.685 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=20).15:08:50.686 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=20).15:08:53.669 DNS sfxlbalt.nekki.com.15:08:53.680 ADBLOCK i-adq.mediation.unity3d.com.15:08:53.718 ADBLOCK init.supersonicads.com.15:08:53.799 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.15:08:53.804 ADBLOCK gateway-a.offerwall.unity3d.com.15:08:53.826 ADBLOCK i-sdk.mediation.unity3d.com.15:08:53.855 DNS sfxlbalt.nekki.com.15:08:53.914 DNS sfxlbalt.nekki.com.15:08:53.918 ADBLOCK gateway-a.offerwall.unity3d.com.15:08:53.931 ADBLOCK i-sdk.mediation.unity3d.com.15:08:53.952 ADBLOCK gateway-a.offerwal
-15:11:17.220 FOUND[Karcer] #2 @0x16107e2a4
-ADBLOCK pubads.g.doubleclick.net.15:09:05.086 DNS star.fallback.c10r.facebook.com..15:09:05.087 DNS ep2.facebook.com.15:09:05.123 DNS yandex.com.15:09:05.303 ADBLOCK g.doubleclick.net.15:09:05.305 ADBLOCK googleads.g.doubleclick.net.15:09:05.405 ADBLOCK g.doubleclick.net.15:09:05.458 ADBLOCK pubads.g.doubleclick.net.15:09:05.704 BOSSPATCH pass 4: 'Karcer orb of hunger' total hits=6.15:09:05.944 ADBLOCK cdn.iads.unity3d.com.15:09:05.958 ADBLOCK gw1.mediation.unity3d.com.15:09:06.021 DNS ep2.facebook.com.15:09:06.026 DNS star.fallback.c10r.facebook.com..15:09:06.027 ADBLOCK gw1.mediation.unity3d.com.15:09:06.032 ADBLOCK gw1.mediation.unity3d.com.15:09:06.036 ADBLOCK gw1.mediation.unity3d.com.1
-15:11:17.231 FOUND[Karcer] #3 @0x161454654
-............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
-15:11:25.560 FOUND[Drakaina] nothing in 2048 MB
-15:11:27.847 FOUND[Tenebris] #1 @0x1418a3935
-... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<C<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .,^...............
-15:11:27.848 FOUND[Tenebris] #2 @0x1418a39e6
-ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .,^....................C.........oC.......C*.kCq,[...+C..PC/.[..-+C$_.C..P.{.)C...C.]=...'C.8.C......#CQ.8C_....;LCtO.Cb.....6C".4C....8$GC...CH.....=CpbgC.%..|U2C...C....WV'C.\3Cw'..}._C...C....
-15:11:27.849 FOUND[Tenebris] #3 @0x1418a3ddb
-TKC8..C+.....<C0.6C......JCb..C.h....=C.bmC..w...-C.|^C..7..m,C,.yC..8..b#CsEaC.P.././C..|C....a.%C'.pCg.6.Zd5C.zsC....O.8C..yC.`....9C..hC.vw..0;C..qCr.w... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<Cns><CreatePlayer Name="TenebrisMagic" Frame="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=
-15:11:37.124 FOUND[Stalker] nothing in 2049 MB
-15:11:39.035 FOUND[KARCER] #1 @0x127d0837a
-66DE ..Z................1...em Name= ..Z................0...rl="http ..Z................1...dowfight ..Z................1...eklyoffe ..Z................0...11da9cb5 ..Z................1..._3475651 ..Z................1...1.0" Pla ..Z................0...ctive="0 ..Z................1...4" Hash= ..Z................1...4D7CE1CD ..Z................1...S/KARCER ..Z................0...s.nekki. ..Z................1...cks/SF2_ ..Z................1..._21_03_2 ..Z................1...467b3595 ..Z................0...Version= ..Z................1...Attach=" ..Z................1... Size="9 ..Z................0...28F4AA34 ..Z................0...em Name= ..Z................1..."https:/ ..Z................1...
-15:11:39.420 FOUND[KARCER] #2 @0x136fb63e4
-S.D...A2936"/>.    <item N ..Z................8...9.9...="https://assets.n ..Z................1.2.8...acks/SF2_free/weekly ..Z................R.U.B...fb041148aedab3852cd3 ..Z................1.0.4...9.9...nVersion="2.41 ..Z................U.S.D...="1" Active="0" Relo ..Z................2...9.9...F72B5F727C056CD115 ..Z................1.2.7...e="SETS/KARCER_SET"  ..Z................R.U.B...m/shadowfight/unity_ ..Z................3.1.4...9.9..._21_03_2025_e3 ..Z................U.S.D...b6_1682519592_androi ..Z................8...9.9...mID="2,11" Attach= ..Z................1.2.6...ze="998089" Hash="0C ..Z................R.U.B...A1"/>.    <item Name ..Z................1.0.4...9.9...assets.nekki.c .
-15:11:39.429 FOUND[KARCER] #3 @0x1370ce4d4
-......................40_OXD.^............................!.....[./.y...owXD.^..............................,.(.].!....._k ..Z................3.0.0...b52a959b8f59b63ae7ac ..Z................N.P.i.v.o.t...0.0.0.0.R...41 ..Z................F.u.n.c.t.i.o.n.0..."0" ReloXD.^..................................o.X.P...C9 ..Z................3.0.0...e="SETS/KARCER_SET"  ..Z................R.o.o.t...shadowfight/unity_XD.^..................................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD
-15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB
-15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB
-15:12:10.864 FOUND[STALKER] nothing in 2049 MB
-15:12:15.367 FOUND[<Perk Name="BOSS] #1 @0x141900fbb
- ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger><Trigger Name="RakshasCurseZoneBeginningOn"><Events><ModExpires Player="Me" Name="RakshasCurseZoneBeginningOn" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .,^....................C........t.A..@..)=..A%B.`..R....O6B9|(...=..N.Bl....*..~.CB.....!.Bo.+B....6.%.-t.B.+%..B.B.{HB..P..fa....BW.#....BD.HB..?..%n..#.B.......?...B.....S..J..C.o.....A.\.B......`....B&vH.jYcB...B{wq..] ....B.......B ..B.W.. .b....BM.......H.,.oF...=....HB..P.s
-15:12:15.368 FOUND[<Perk Name="BOSS] #2 @0x141901908
-..NF.B........2..B...........A.|..XT*....A].....t....A....q.Y....B......{....B.t/.&.HA...B..)..X.A3..Bu.(....A...B%.%....Az..B~.)...OA.<.B.a&.Zn.A...A....e.#.a..A.R.......a.AM...e....Z.A.r.......~.A.S...Y..~..A........er><Trigger Name="RakshasCurseZonePreBlastOff"><Events><ModExpires Player="Me" Name="RakshasCurseZonePreBlastOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or">
-15:12:15.370 FOUND[<Perk Name="BOSS] #3 @0x141901a66
-<Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,^....................C........d......V...N1.AQ.....&....A![../"..4..A....P*...uZBTI#...H.$.wA..u..N..,..B../.W...lE ?B.......e..B..*.("..AM...&.........B3..........BV...=.`..t.C.......A...B......%..^0C?......B.l.B........Q.CC..../..Bi..B......].<r.BPU....=..O..p.......r..?$Y.."......A.8.....A.DR..........s.B..b.....R..B
-15:12:29.644 FOUND[PERK_BOSS_] nothing in 2048 MB
-15:12:29.649 ---- boss perk hunt done ----
-15:13:42.962 ---- boss perk hunt (read-only) ----
-15:13:48.090 FOUND[Karcer] #1 @0x16146ea54
-............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
-15:13:48.223 FOUND[Karcer] #2 @0x16328fb0c
-cloud.unity3d.com.15:08:49.287 ADBLOCK cdp.cloud.unity3d.com.15:08:50.685 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=20).15:08:50.686 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=20).15:08:53.669 DNS sfxlbalt.nekki.com.15:08:53.680 ADBLOCK i-adq.mediation.unity3d.com.15:08:53.718 ADBLOCK init.supersonicads.com.15:08:53.799 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.15:08:53.804 ADBLOCK gateway-a.offerwall.unity3d.com.15:08:53.826 ADBLOCK i-sdk.mediation.unity3d.com.15:08:53.855 DNS sfxlbalt.nekki.com.15:08:53.914 DNS sfxlbalt.nekki.com.15:08:53.918 ADBLOCK gateway-a.offerwall.unity3d.com.15:08:53.931 ADBLOCK i-sdk.mediation.unity3d.com.15:08:53.952 ADBLOCK gateway-a.offerwal
-15:13:48.224 FOUND[Karcer] #3 @0x1632922a4
-ADBLOCK pubads.g.doubleclick.net.15:09:05.086 DNS star.fallback.c10r.facebook.com..15:09:05.087 DNS ep2.facebook.com.15:09:05.123 DNS yandex.com.15:09:05.303 ADBLOCK g.doubleclick.net.15:09:05.305 ADBLOCK googleads.g.doubleclick.net.15:09:05.405 ADBLOCK g.doubleclick.net.15:09:05.458 ADBLOCK pubads.g.doubleclick.net.15:09:05.704 BOSSPATCH pass 4: 'Karcer orb of hunger' total hits=6.15:09:05.944 ADBLOCK cdn.iads.unity3d.com.15:09:05.958 ADBLOCK gw1.mediation.unity3d.com.15:09:06.021 DNS ep2.facebook.com.15:09:06.026 DNS star.fallback.c10r.facebook.com..15:09:06.027 ADBLOCK gw1.mediation.unity3d.com.15:09:06.032 ADBLOCK gw1.mediation.unity3d.com.15:09:06.036 ADBLOCK gw1.mediation.unity3d.com.1
-15:13:54.160 FOUND[Drakaina] #1 @0x163293e98
-..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s................................15:11:25.560 FOUND[Drakaina] nothing in 2048 MB.15:11:27.847 FOUND[Tenebris] #1 @0x1418a3935.... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<C<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-15:13:54.236 FOUND[Drakaina] #2 @0x164653e97
-..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s................................15:11:25.560 FOUND[Drakaina] nothing in 2048 MB.15:11:27.847 FOUND[Tenebris] #1 @0x1418a3935.... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<C<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-15:13:54.407 FOUND[Drakaina] #3 @0x1673d6984
-..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s................................15:11:25.560 FOUND[Drakaina] nothing in 2048 MB.15:11:27.847 FOUND[Tenebris] #1 @0x1418a3935.... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<C<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><
-15:13:58.474 FOUND[Tenebris] #1 @0x1418a3935
-... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<C<Actions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .,^...............
-15:13:58.477 FOUND[Tenebris] #2 @0x1418a39e6
-ions><Delete Player="Me" Frame="1" /></Actions><Locks><Item Type="Weapon" SubType="PrinceMagic" /><Item Type="Skeleton" SubType="SkeletonMagic" /></Locks></Move><Move Name="TenebrisMagicPlayer" Template="1key|MagicPlayer|Controlled|SoundStrike" Type="ATTACK" FileName="fireball_player.bytes" MidFrames="2" FirstFrame="2" Priority="110" TacticWeapon="TenebrisMagic" MirrorNode="NHeel_1" PackName="ANIMATIONS"><Tactics><Conditions><Distance Min="400" Axis="X"><From Player="Me" Object="Pivot" /><To Player= .,^....................C.........oC.......C*.kCq,[...+C..PC/.[..-+C$_.C..P.{.)C...C.]=...'C.8.C......#CQ.8C_....;LCtO.Cb.....6C".4C....8$GC...CH.....=CpbgC.%..|U2C...C....WV'C.\3Cw'..}._C...C....
-15:13:58.478 FOUND[Tenebris] #3 @0x1418a3ddb
-TKC8..C+.....<C0.6C......JCb..C.h....=C.bmC..w...-C.|^C..7..m,C,.yC..8..b#CsEaC.P.././C..|C....a.%C'.pCg.6.Zd5C.zsC....O.8C..yC.`....9C..hC.vw..0;C..qCr.w... C..zC.Iv...2C.cuCC...WD1C..=C.h..p;KC..3C.9....NC..1C.[...zQC.>0C......LC*.7C.5....GC..1C.~....ICI..C......9CC..C.....:5CF..C......6C.r.C}p....;C.s.C.D..6=>Ci..C.....<<Cns><CreatePlayer Name="TenebrisMagic" Frame="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=
-15:14:03.928 FOUND[Stalker] #1 @0x163294786
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.15:11:37.124 FOUND[Stalker] nothing in 2049 MB.15:11:39.035 FOUND[KARCER] #1 @0x127d0837a.66DE ..Z................1...em Name= ..Z................0...rl="http ..Z................1...dowfight ..Z................1...eklyoffe ..Z................0...11da9cb5 ..Z................1..._3475651 ..Z................1...1.0" Pla ..Z................0...ctive="0 ..Z...............
-15:14:03.997 FOUND[Stalker] #2 @0x164654785
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.15:11:37.124 FOUND[Stalker] nothing in 2049 MB.15:11:39.035 FOUND[KARCER] #1 @0x127d0837a.66DE ..Z................1...em Name= ..Z................0...rl="http ..Z................1...dowfight ..Z................1...eklyoffe ..Z................0...11da9cb5 ..Z................1..._3475651 ..Z................1...1.0" Pla ..Z................0...ctive="0 ..Z...............
-15:14:04.281 FOUND[Stalker] #3 @0x1673d6983
-="2"><Item Type="Skeleton" Name="SkeletonMagic" /><Item CopyParentType="Magic" Type="Weapon" /></CreatePlayer><AddBullets Type="MagicBullet" Frame="13" Value="-1" /><RandomSound Event="Strike"><Sound Name="snd_hit1" /><Sound Name="snd_hit2" /><Sound Name="snd_hit3" /><Sound Name="snd_hit4" /><Sound Name="snd_hit5" /><Sound Name=.15:11:37.124 FOUND[Stalker] nothing in 2049 MB.15:11:39.035 FOUND[KARCER] #1 @0x127d0837a.66DE ..Z................1...em Name= ..Z................0...rl="http ..Z................1...dowfight ..Z................1...eklyoffe ..Z................0...11da9cb5 ..Z................1..._3475651 ..Z................1...1.0" Pla ..Z................0...ctive="0 ..Z...............
-15:14:07.281 FOUND[KARCER] #1 @0x127d0837a
-66DE ..Z................1...em Name= ..Z................0...rl="http ..Z................1...dowfight ..Z................1...eklyoffe ..Z................0...11da9cb5 ..Z................1..._3475651 ..Z................1...1.0" Pla ..Z................0...ctive="0 ..Z................1...4" Hash= ..Z................1...4D7CE1CD ..Z................1...S/KARCER ..Z................0...s.nekki. ..Z................1...cks/SF2_ ..Z................1..._21_03_2 ..Z................1...467b3595 ..Z................0...Version= ..Z................1...Attach=" ..Z................1... Size="9 ..Z................0...28F4AA34 ..Z................0...em Name= ..Z................1..."https:/ ..Z................1...
-15:14:07.941 FOUND[KARCER] #2 @0x136fb63e4
-S.D...A2936"/>.    <item N ..Z................8...9.9...="https://assets.n ..Z................1.2.8...acks/SF2_free/weekly ..Z................R.U.B...fb041148aedab3852cd3 ..Z................1.0.4...9.9...nVersion="2.41 ..Z................U.S.D...="1" Active="0" Relo ..Z................2...9.9...F72B5F727C056CD115 ..Z................1.2.7...e="SETS/KARCER_SET"  ..Z................R.U.B...m/shadowfight/unity_ ..Z................3.1.4...9.9..._21_03_2025_e3 ..Z................U.S.D...b6_1682519592_androi ..Z................8...9.9...mID="2,11" Attach= ..Z................1.2.6...ze="998089" Hash="0C ..Z................R.U.B...A1"/>.    <item Name ..Z................1.0.4...9.9...assets.nekki.c .
-15:14:07.955 FOUND[KARCER] #3 @0x1370ce4d4
-......................40_OXD.^............................!.....[./.y...owXD.^..............................,.(.].!....._k ..Z................3.0.0...b52a959b8f59b63ae7ac ..Z................N.P.i.v.o.t...0.0.0.0.R...41 ..Z................F.u.n.c.t.i.o.n.0..."0" ReloXD.^..................................o.X.P...C9 ..Z................3.0.0...e="SETS/KARCER_SET"  ..Z................R.o.o.t...shadowfight/unity_XD.^..................................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD
-15:14:16.194 FOUND[DRAKAINA] #1 @0x16329506d
-............R.o.o.t...shadowfight/unity_XD.^..................................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB.15:12:10.864 FOUND[STALKER] nothing in 2049 MB.15:12:15.367 FOUND[<Perk Name="BOSS] #1 @0x141900fbb. ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" P
-15:14:16.341 FOUND[DRAKAINA] #2 @0x16465506c
-............R.o.o.t...shadowfight/unity_XD.^..................................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB..................................................................................................................................................................................................................................................................................
-15:14:16.620 FOUND[DRAKAINA] #3 @0x1673d6984
-............R.o.o.t...shadowfight/unity_XD.^..................................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB..................................................................................................................................................................................................................................................................................
-15:14:22.221 FOUND[TENEBRIS] #1 @0x16329509d
-..............................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB.15:12:10.864 FOUND[STALKER] nothing in 2049 MB.15:12:15.367 FOUND[<Perk Name="BOSS] #1 @0x141900fbb. ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger>
-15:14:22.269 FOUND[TENEBRIS] #2 @0x16465509c
-..............................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB..................................................................................................................................................................................................................................................................................................................................
-15:14:22.389 FOUND[TENEBRIS] #3 @0x1673d6984
-..............................m...W...37 ..Z................?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB..................................................................................................................................................................................................................................................................................................................................
-15:14:26.575 FOUND[STALKER] #1 @0x1632950cd
-............?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB.15:12:10.864 FOUND[STALKER] nothing in 2049 MB.15:12:15.367 FOUND[<Perk Name="BOSS] #1 @0x141900fbb. ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger><Trigger Name="RakshasCurseZoneBeginningOn"><Eve
-15:14:26.740 FOUND[STALKER] #2 @0x1673d6983
-............?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB.15:12:10.864 FOUND[STALKER] nothing in 2049 MB.15:12:15.367 FOUND[<Perk Name="BOSS] #1 @0x141900fbb. ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger><Trigger Name="RakshasCurseZoneBeginningOn"><Eve
-15:14:27.106 FOUND[STALKER] #3 @0x172a1d0cd
-............?.R.o.o.t.[.3.0.0.]...ndroid ..Z................N.o.d.e.s.......T.,...[.T.=" ..Z................1.0.0.0.0.......6.w.....M.E4XD.^..............................    <item Name ..Z................E.n.e.m.y...n.c.e....nekki.cXD.15:11:48.920 FOUND[DRAKAINA] nothing in 2049 MB.15:11:59.285 FOUND[TENEBRIS] nothing in 2049 MB.15:12:10.864 FOUND[STALKER] nothing in 2049 MB.15:12:15.367 FOUND[<Perk Name="BOSS] #1 @0x141900fbb. ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger><Trigger Name="RakshasCurseZoneBeginningOn"><Eve
-15:14:29.292 FOUND[<Perk Name="BOSS] #1 @0x141900fbb
- ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger><Trigger Name="RakshasCurseZoneBeginningOn"><Events><ModExpires Player="Me" Name="RakshasCurseZoneBeginningOn" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .,^....................C........t.A..@..)=..A%B.`..R....O6B9|(...=..N.Bl....*..~.CB.....!.Bo.+B....6.%.-t.B.+%..B.B.{HB..P..fa....BW.#....BD.HB..?..%n..#.B.......?...B.....S..J..C.o.....A.\.B......`....B&vH.jYcB...B{wq..] ....B.......B ..B.W.. .b....BM.......H.,.oF...=....HB..P.s
-15:14:29.293 FOUND[<Perk Name="BOSS] #2 @0x141901908
-..NF.B........2..B...........A.|..XT*....A].....t....A....q.Y....B......{....B.t/.&.HA...B..)..X.A3..Bu.(....A...B%.%....Az..B~.)...OA.<.B.a&.Zn.A...A....e.#.a..A.R.......a.AM...e....Z.A.r.......~.A.S...Y..~..A........er><Trigger Name="RakshasCurseZonePreBlastOff"><Events><ModExpires Player="Me" Name="RakshasCurseZonePreBlastOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or">
-15:14:29.294 FOUND[<Perk Name="BOSS] #3 @0x141901a66
-<Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .,^....................C........d......V...N1.AQ.....&....A![../"..4..A....P*...uZBTI#...H.$.wA..u..N..,..B../.W...lE ?B.......e..B..*.("..AM...&.........B3..........BV...=.`..t.C.......A...B......%..^0C?......B.l.B........Q.CC..../..Bi..B......].<r.BPU....=..O..p.......r..?$Y.."......A.8.....A.DR..........s.B..b.....R..B
-15:14:33.441 FOUND[PERK_BOSS_] #1 @0x1632959d2
-K_RAKS .,^....................C........d......V...N1.AQ.....&....A![../"..4..A....P*...uZBTI#...H.$.wA..u..N..,..B../.W...lE ?B.......e..B..*.("..AM...&.........B3..........BV...=.`..t.C.......A...B......%..^0C?......B.l.B........Q.CC..../..Bi..B......].<r.BPU....=..O..p.......r..?$Y.."......A.8.....A.DR..........s.B..b.....R..B.15:12:29.644 FOUND[PERK_BOSS_] nothing in 2048 MB.15:12:29.649 ---- boss perk hunt done ----.15:13:42.962 ---- boss perk hunt (read-only) ----.15:13:48.090 FOUND[Karcer] #1 @0x16146ea54.............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1..
-15:14:33.635 FOUND[PERK_BOSS_] #2 @0x1673d6986
-K_RAKS .,^....................C........d......V...N1.AQ.....&....A![../"..4..A....P*...uZBTI#...H.$.wA..u..N..,..B../.W...lE ?B.......e..B..*.("..AM...&.........B3..........BV...=.`..t.C.......A...B......%..^0C?......B.l.B........Q.CC..../..Bi..B......].<r.BPU....=..O..p.......r..?$Y.."......A.8.....A.DR..........s.B..b.....R..B.15:12:29.644 FOUND[PERK_BOSS_] nothing in 2048 MB.15:12:29.649 ---- boss perk hunt done ----.15:13:42.962 ---- boss perk hunt (read-only) ----.15:13:48.090 FOUND[Karcer] #1 @0x16146ea54.............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1..
-15:14:34.099 FOUND[PERK_BOSS_] #3 @0x172a1d9d2
-K_RAKS .,^....................C........d......V...N1.AQ.....&....A![../"..4..A....P*...uZBTI#...H.$.wA..u..N..,..B../.W...lE ?B.......e..B..*.("..AM...&.........B3..........BV...=.`..t.C.......A...B......%..^0C?......B.l.B........Q.CC..../..Bi..B......].<r.BPU....=..O..p.......r..?$Y.."......A.8.....A.DR..........s.B..b.....R..B.15:12:29.644 FOUND[PERK_BOSS_] nothing in 2048 MB.15:12:29.649 ---- boss perk hunt done ----.15:13:42.962 ---- boss perk hunt (read-only) ----.15:13:48.090 FOUND[Karcer] #1 @0x16146ea54.............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1..
-15:14:34.100 ---- boss perk hunt done ----
+=== SF2Mod ACE v8.7 session 20261113-133922 ===
+15:39:22.985 ACE v8.7 bosspatch loaded (patches=4 hacks=3)
+15:39:22.988 redirect armed: VERSIONAL_CONFIGS.bundle
+15:39:22.988 redirect armed: CONFIGS.bundle
+15:39:22.988 2/2 redirects armed
+15:39:22.989 users.xml already present - keeping player's save
+15:39:23.884 OPEN[R] fd=11 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/initSettings.bin
+15:39:23.911 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/statistics/crashLog.json
+15:39:23.912 OPEN[R] fd=13 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/statistics/crashLog.json
+15:39:23.913 OPEN[W] fd=13 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/statistics/crashLog.json
+15:39:23.960 DNS app-analytics-services.com
+15:39:23.962 DNS app-analytics-services.com
+15:39:23.965 ADBLOCK config.uca.cloud.unity3d.com
+15:39:23.966 ADBLOCK config.uca.cloud.unity3d.com
+15:39:23.968 DNS www.google.com
+15:39:23.974 OPEN[R] fd=24 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/users.xml
+15:39:23.997 OPEN[R] fd=25 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/users.xml
+15:39:24.032 ADBLOCK uca.cloud.unity3d.com
+15:39:24.050 ADBLOCK config.uca.cloud.unity3d.com
+15:39:24.070 DNS ep2.facebook.com
+15:39:24.071 DNS www.google.com
+15:39:24.075 ADBLOCK fundingchoicesmessages.google.com
+15:39:24.076 DNS ep2.facebook.com
+15:39:24.093 OPEN[R] fd=35 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Documents/userdata/users.xml
+15:39:24.109 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/packs.xml
+15:39:24.112 ADBLOCK fundingchoicesmessages.google.com
+15:39:24.116 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/ZONE_1
+15:39:24.117 DNS star.fallback.c10r.facebook.com.
+15:39:24.118 DNS ep2.facebook.com
+15:39:24.159 DNS app-measurement.com
+15:39:24.173 DNS facebook.com
+15:39:24.174 DNS ep2.facebook.com
+15:39:24.176 DNS google.com
+15:39:24.177 ADBLOCK fundingchoicesmessages.google.com
+15:39:24.204 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/ZONE_1
+15:39:24.204 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/ZONE_1
+15:39:24.207 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:39:24.210 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:39:24.210 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_VULCAN
+15:39:24.211 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:39:24.214 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:39:24.214 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_HUNGER
+15:39:24.215 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:39:24.218 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:39:24.218 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL
+15:39:24.219 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:39:24.220 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:39:24.220 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/EVENTS_COMMON
+15:39:24.221 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:39:24.223 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:39:24.223 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_47_HEART_OF_LILY_26
+15:39:24.223 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:39:24.227 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:39:24.227 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_46_DEPTH_OF_HOLINESS_26
+15:39:24.227 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:39:24.231 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:39:24.231 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_45_CROWN_OF_DESPAIR_26
+15:39:24.232 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:39:24.234 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:39:24.234 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_44_BLADES_OF_FAITH_26
+15:39:24.234 OPEN[R] fd=39 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:39:24.236 RAIDCONFIG PREAD Info.plist bytes=827
+15:39:24.238 DNS api.github.com
+15:39:24.244 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:39:24.244 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_43_GENTLE_STORM_26
+15:39:24.245 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:39:24.248 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:39:24.248 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/EVENTS/RITUAL_FUNGUS
+15:39:24.248 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:39:24.250 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:39:24.251 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_42_CLAW_OF_WISDOM_26
+15:39:24.251 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:39:24.253 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:39:24.253 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_40_OLD_KING_25
+15:39:24.253 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:39:24.257 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:39:24.257 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_39_SHADOW_LORD_25
+15:39:24.257 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:39:24.258 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:39:24.258 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/GIFT_12_YEARS_SF2_NAGINATA
+15:39:24.259 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:39:24.265 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:39:24.265 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_38_SPARKS_OF_PROMETHEUS_25
+15:39:24.266 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:39:24.272 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:39:24.273 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/SUMMER_FEST_25
+15:39:24.273 OPEN[R] fd=38 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+15:39:24.417 DNS api.github.com
+15:39:25.715 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+15:39:25.731 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=22)
+15:39:25.731 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=22)
