@@ -543,3 +543,9 @@ pmetrica.yandex.net.13:00:10.621 DNS com.13:00:10.624 DNS app-analytics-services
 13:02:45.662 FOUND[PERK_BOSS_] #3 @0x14e5c79cb
  region1.app-analytics-services.com.13:00:10.963 DNS app-analytics-services.com.13:00:10.965 DNS region1.app-analytics-services.com.13:00:12.250 FOUND[DRAKAINA] nothing in 2049 MB.13:00:20.279 FOUND[TENEBRIS] nothing in 2048 MB.13:00:27.802 FOUND[STALKER] nothing in 2048 MB.13:00:35.275 FOUND[<Perk Name="BOSS] nothing in 2048 MB.13:00:42.425 FOUND[PERK_BOSS_] nothing in 2048 MB.13:00:42.425 ---- boss perk hunt done ----.13:02:17.819 ---- boss perk hunt (read-only) ----.13:02:18.898 FOUND[Karcer] .13:02:32.809 FOUND[DRAKAINA] #2 @0x15f61ee85.pmetrica.yandex.net.13:00:10.621 DNS com.13:00:10.624 DNS app-analytics-services.com.13:00:10.743 DNS report.appmetrica.yandex.net.13:00:10.922 DNS regio
 13:02:45.662 ---- boss perk hunt done ----
+13:03:09.558 DNS ledger.nekki.com
+13:03:09.654 DNS ledger.nekki.com
+13:03:12.634 DNS a58pbd.inapps.appsflyersdk.com
+13:03:12.640 DNS a58pbd.inapps.appsflyersdk.com
+13:03:12.690 DNS a58pbd.inapps.appsflyersdk.com
+13:03:12.710 DNS a58pbd.inapps.appsflyersdk.com
