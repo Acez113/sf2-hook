@@ -546,3 +546,8 @@ K_RAKS ..*....................C.......qM9DeQ@....C..4D.d..X..B.t/D.1..l\.B..9D<^
 18:52:21.746 ADBLOCK config.monetization-sdk.chartboost.com
 18:52:21.753 ADBLOCK install.monetization-sdk.chartboost.com
 18:52:21.753 ADBLOCK install.monetization-sdk.chartboost.com
+18:52:44.138 DNS report.appmetrica.yandex.net
+18:52:46.887 ADBLOCK gateway.unityads.unity3d.com
+18:52:49.839 ADBLOCK gw1.mediation.unity3d.com
+18:52:55.256 DNS region1.app-analytics-services.com
+18:52:55.258 DNS region1.app-analytics-services.com
