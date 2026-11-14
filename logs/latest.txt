@@ -398,3 +398,7 @@
 11:18:03.505 ADBLOCK o-sdk.mediation.unity3d.com
 11:18:03.518 ADBLOCK o-sdk.mediation.unity3d.com
 11:18:03.549 ADBLOCK o-sdk.mediation.unity3d.com
+11:18:30.345 DNS region1.app-analytics-services.com
+11:18:30.345 DNS region1.app-analytics-services.com
+11:18:40.444 ---- hack self-check (single pass) ----
+11:18:41.672 DNS itunes.apple.com
