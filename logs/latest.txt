@@ -426,3 +426,8 @@
 11:19:15.124   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 11:19:15.124   redirect CONFIGS.bundle: reads=0 ready=YES
 11:19:15.124 ---- self-check: 14 pass / 4 fail ----
+11:19:29.098 DNS region1.app-analytics-services.com
+11:19:29.098 DNS region1.app-analytics-services.com
+11:19:30.641 DNS itunes.apple.com
+11:19:44.060 DNS region1.app-analytics-services.com
+11:19:44.060 DNS region1.app-analytics-services.com
