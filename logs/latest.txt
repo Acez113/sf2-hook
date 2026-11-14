@@ -530,3 +530,7 @@ o.t.[.3.0.0.0.0.]...c.e.]...er Name="OXD=*..................................{...
 09:51:35.913 ---- boss perk hunt done ----
 09:55:44.809 DNS ledger.nekki.com
 09:55:45.052 DNS ledger.nekki.com
+09:56:25.122 DNS region1.app-analytics-services.com
+09:56:25.123 DNS region1.app-analytics-services.com
+09:56:26.953 DNS itunes.apple.com
+09:56:27.172 DNS report.appmetrica.yandex.net
