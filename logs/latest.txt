@@ -415,3 +415,4 @@
 16:19:33.338 ADBLOCK gateway.unityads.unity3d.com
 16:19:35.297 ADBLOCK gw1.mediation.unity3d.com
 16:19:35.313 ADBLOCK gw1.mediation.unity3d.com
+16:20:06.313 ---- hack self-check (single pass) ----
