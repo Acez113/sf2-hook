@@ -87,3 +87,158 @@
 16:18:53.375 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 16:18:53.379 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
 16:18:53.380 OPEN[R] fd=37 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/bundles/OFFERS/WEEKLY_OFFER_37_RANGED_PATH_OF_HERESY_25
+16:18:54.677 dump upload dumps/Info.plist -> HTTP 200
+16:18:56.168 VERSIONAL_CONFIGS.bundle read #1 -> real (verify)
+16:18:56.194 VERSIONAL_CONFIGS.bundle read #2 -> HACKED (fd=22)
+16:18:56.195 VERSIONAL_CONFIGS.bundle read #3 -> HACKED (fd=22)
+16:18:56.212 DNS assets.nekki.com
+16:18:56.214 DNS www.google.com
+16:18:56.219 DNS ep2.facebook.com
+16:18:56.219 DNS ep2.facebook.com
+16:18:56.220 DNS ep2.facebook.com
+16:18:56.220 DNS ep2.facebook.com
+16:18:56.221 DNS ep2.facebook.com
+16:18:56.221 DNS star.fallback.c10r.facebook.com.
+16:18:56.221 DNS ep2.facebook.com
+16:18:56.222 DNS ep2.facebook.com
+16:18:56.223 DNS ep2.facebook.com
+16:18:56.223 DNS star.fallback.c10r.facebook.com.
+16:18:56.224 DNS ep2.facebook.com
+16:18:56.224 DNS star.fallback.c10r.facebook.com.
+16:18:56.225 DNS facebook.com
+16:18:56.225 DNS ep2.facebook.com
+16:18:56.226 DNS facebook.com
+16:18:56.227 DNS ep2.facebook.com
+16:18:56.227 DNS facebook.com
+16:18:56.228 DNS ep2.facebook.com
+16:18:56.228 ACE bubble shown
+16:18:56.244 ADS: MAInterstitialAd.isReady forced NO - interstitials suppressed via no-fill path
+16:18:56.294 ADBLOCK cdp.cloud.unity3d.com
+16:18:56.295 ADBLOCK cdp.cloud.unity3d.com
+16:18:56.300 DNS a58pbd.launches.appsflyersdk.com
+16:18:56.340 DNS crashlyticsreports-pa.googleapis.com
+16:18:56.349 DNS crashlyticsreports-pa.googleapis.com
+16:18:56.386 DNS assets.nekki.com
+16:18:56.443 DNS googleapis.com
+16:18:56.444 DNS crashlyticsreports-pa.googleapis.com
+16:18:56.527 DNS ep2.facebook.com
+16:18:56.527 DNS ep2.facebook.com
+16:18:56.528 DNS ep2.facebook.com
+16:18:56.529 DNS star.fallback.c10r.facebook.com.
+16:18:56.530 DNS facebook.com
+16:18:56.531 DNS ep2.facebook.com
+16:18:57.667 ADBLOCK cdp.cloud.unity3d.com
+16:18:57.667 ADBLOCK cdp.cloud.unity3d.com
+16:18:57.744 VERSIONAL_CONFIGS.bundle read #4 -> HACKED (fd=22)
+16:18:57.745 VERSIONAL_CONFIGS.bundle read #5 -> HACKED (fd=22)
+16:18:59.596 DNS time-server.nekki.com
+16:18:59.602 ADBLOCK i-adq.mediation.unity3d.com
+16:18:59.636 ADBLOCK init.supersonicads.com
+16:18:59.831 DNS time-server.nekki.com
+16:18:59.982 ADBLOCK gateway-a.offerwall.unity3d.com
+16:19:00.115 ADBLOCK gateway-a.offerwall.unity3d.com
+16:19:00.295 ADBLOCK i-sdk.mediation.unity3d.com
+16:19:00.962 ADBLOCK i-adq.mediation.unity3d.com
+16:19:01.033 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0
+16:19:01.115 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:01.269 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:01.416 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:01.580 ADBLOCK i-adq.mediation.unity3d.com
+16:19:01.869 ADBLOCK telemetry.tk0x1.com
+16:19:02.153 ADBLOCK prefetch.monetization-sdk.chartboost.com
+16:19:02.154 ADBLOCK prefetch.monetization-sdk.chartboost.com
+16:19:02.159 ADBLOCK config.monetization-sdk.chartboost.com
+16:19:02.161 ADBLOCK config.monetization-sdk.chartboost.com
+16:19:02.167 ADBLOCK install.monetization-sdk.chartboost.com
+16:19:02.167 ADBLOCK install.monetization-sdk.chartboost.com
+16:19:02.227 ADBLOCK configure-tcp-ios.mtgglobals.com
+16:19:02.231 ADBLOCK configure-tcp.rayjump.com
+16:19:02.235 ADBLOCK policy-tcp.rayjump.com
+16:19:02.238 ADBLOCK lazy-tcp.rayjump.com
+16:19:02.242 ADBLOCK check-tcp.rayjump.com
+16:19:02.249 ADBLOCK pok.mintegral.net
+16:19:02.784 DNS app-analytics-services.com
+16:19:02.784 DNS app-analytics-services.com
+16:19:02.980 DNS itunes.apple.com
+16:19:02.990 CONFIGSPROBE[R] fd=49 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+16:19:02.991 CONFIGSPROBE[R] fd=51 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+16:19:02.991 RAIDCONFIG MISS raid_configs (exists=YES errno=0)
+16:19:03.014 ADBLOCK cdn.iads.unity3d.com
+16:19:03.078 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:03.227 ADBLOCK googleads.g.doubleclick.net
+16:19:03.229 ADBLOCK pubads.g.doubleclick.net
+16:19:03.271 ADBLOCK gateway.unityads.unity3d.com
+16:19:03.272 DNS yandex.com
+16:19:03.416 CONFIGSPROBE[R] fd=47 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+16:19:03.417 RAIDCONFIG MISS(retry) raid_configs
+16:19:03.590 DNS yandex.com
+16:19:04.277 ADBLOCK gateway.unityads.unity3d.com
+16:19:04.279 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:04.884 DNS time-server.nekki.com
+16:19:04.949 DNS sf2ios.nekki.com
+16:19:04.959 DNS time-server.nekki.com
+16:19:05.261 DNS sf2ios.nekki.com
+16:19:05.282 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:05.295 DNS yastatic.net
+16:19:05.439 ADBLOCK gateway.unityads.unity3d.com
+16:19:05.703 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:06.137 DNS yastatic.net
+16:19:06.186 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:06.588 DNS google.com
+16:19:06.688 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:06.756 DNS google.com
+16:19:06.932 DNS google.com
+16:19:07.179 DNS com
+16:19:07.193 DNS google.com
+16:19:07.238 DNS google.com
+16:19:07.240 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:07.248 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:07.259 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:07.263 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:07.294 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:07.315 DNS google.com
+16:19:07.515 DNS com
+16:19:07.524 DNS google.com
+16:19:07.764 ADBLOCK gateway.unityads.unity3d.com
+16:19:07.818 BOSSPATCH pass 4: 'Karcer orb of hunger' total hits=5
+16:19:08.031 DNS www.google.com
+16:19:08.033 DNS www.google.com
+16:19:08.038 DNS www.google.com
+16:19:08.044 DNS google.com
+16:19:08.046 DNS www.google.com
+16:19:08.136 DNS ep2.facebook.com
+16:19:08.156 DNS ep2.facebook.com
+16:19:08.188 DNS ep2.facebook.com
+16:19:08.189 DNS star.fallback.c10r.facebook.com.
+16:19:08.209 DNS facebook.com
+16:19:08.218 DNS ep2.facebook.com
+16:19:08.248 DNS sf2ios-dumps.nekki.com
+16:19:08.437 DNS www.google.com
+16:19:08.576 DNS ep2.facebook.com
+16:19:08.578 DNS star.fallback.c10r.facebook.com.
+16:19:08.604 DNS www.google.com
+16:19:08.687 DNS ep2.facebook.com
+16:19:08.789 DNS ep2.facebook.com
+16:19:08.790 DNS star.fallback.c10r.facebook.com.
+16:19:08.791 DNS ep2.facebook.com
+16:19:08.792 DNS star.fallback.c10r.facebook.com.
+16:19:08.927 ADBLOCK gw1.mediation.unity3d.com
+16:19:08.932 ADBLOCK gw1.mediation.unity3d.com
+16:19:09.266 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:09.273 DNS sf2ios-dumps.nekki.com
+16:19:09.387 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:09.464 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:09.613 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:09.637 DNS consent.google.com
+16:19:09.638 DNS consent.google.com
+16:19:09.648 DNS google.com
+16:19:09.676 DNS consent.google.com
+16:19:09.781 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:09.859 DNS assets.nekki.com
+16:19:09.894 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:09.905 DNS assets.nekki.com
+16:19:10.162 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:10.350 ADBLOCK gateway.unityads.unity3d.com
+16:19:11.448 ADBLOCK o-sdk.mediation.unity3d.com
+16:19:11.595 DNS region1.app-analytics-services.com
+16:19:11.597 DNS region1.app-analytics-services.com
