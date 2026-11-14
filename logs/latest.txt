@@ -417,3 +417,37 @@
 16:24:58.579 DNS region1.app-analytics-services.com
 16:24:58.580 DNS region1.app-analytics-services.com
 16:25:29.412 ---- hack self-check (single pass) ----
+16:26:21.061 DNS region1.app-analytics-services.com
+16:26:21.063 DNS region1.app-analytics-services.com
+16:26:21.317   [PASS] moves: thruster      found=7  (need 1+)
+16:26:21.317   [PASS] moves: no-block      found=109  (need 1+)
+16:26:21.318   [PASS] moves: ignores evade found=98  (need 1+)
+16:26:21.318   [PASS] moves: long range    found=356  (need 1+)
+16:26:21.318   [PASS] moves: geometry      found=1505  (need 1+)
+16:26:21.319   [PASS] moves: stance skip   found=80  (need 1+)
+16:26:21.319   [FAIL] perks: antiban       found=0  (need 1+)
+16:26:21.319   [PASS] perks: frenzy name   found=117  (need 1+)
+16:26:21.319   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+16:26:21.319   [FAIL] perks: boss gutted   found=0  (need 1+)
+16:26:21.320   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+16:26:21.320   [PASS] BAD empty parts      found=0  (need 0 exactly)
+16:26:21.320   [FAIL] rc: clean perk       found=0  (need 1+)
+16:26:21.320   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+16:26:21.320   [PASS] rc: clean cd         found=3  (need 1+)
+16:26:21.321   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+16:26:21.321   [PASS] rc: clean ammo       found=2  (need 1+)
+16:26:21.321   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+16:26:21.321   scanned 2049 MB in 51.9s
+16:26:21.321   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+16:26:21.322   redirect CONFIGS.bundle: reads=0 ready=YES
+16:26:21.322 ---- self-check: 14 pass / 4 fail ----
+16:26:43.521 DNS region1.app-analytics-services.com
+16:26:43.521 DNS region1.app-analytics-services.com
+16:26:44.616 ---- boss perk hunt (read-only) ----
+16:26:46.410 FOUND[Karcer] #1 @0x134845a54
+............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
+16:26:47.618 FOUND[Karcer] #2 @0x15a6ad583
+............#.ff..R...ff..G.........@.....{...p=..\...........{.......)\..p=......=...33..)\.......(...Q......G...{...G........G...Q..\....p..=...ff&.......%.....=.'..Ga.G.*...L..G1...@..G1.R....p-.......(.)\....#........?.G.....?.......?.......?G...ff.?G...p=.?.......?{...p=.?....p=.?.G.......z....+.....333.)\...Q8.....$...SkillsEnch02.EnchantmentKarcerHunger.@.D...D..>C..>C...........................B...?...?........tj*.}..@...!.s,U..R.............................\q.(....................................................................................................................................................P...33s.33s?....33s?33s?....33s.33s.....33s?33s...............................
+16:26:47.645 FOUND[Karcer] #3 @0x15b47b5d3
+NAL_CONFIGS.bundle read #5 -> HACKED (fd=22).16:24:23.391 DNS time-server.nekki.com.16:24:23.398 ADBLOCK i-adq.mediation.unity3d.com.16:24:23.430 ADBLOCK init.supersonicads.com.16:24:23.696 DNS time-server.nekki.com.16:24:23.808 ADBLOCK gateway-a.offerwall.unity3d.com.16:24:23.820 ADBLOCK i-sdk.mediation.unity3d.com.16:24:24.473 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.16:24:24.579 ADBLOCK o-sdk.mediation.unity3d.com.16:24:24.702 ADBLOCK i-adq.mediation.unity3d.com.16:24:24.753 ADBLOCK o-sdk.mediation.unity3d.com.16:24:24.901 ADBLOCK o-sdk.mediation.unity3d.com.16:24:24.939 ADBLOCK gateway-a.offerwall.unity3d.com.16:24:24.948 ADBLOCK o-sdk.mediation.unity3d.com.16:24:25.369 ADBL
+16:26:54.523 FOUND[Drakaina] nothing in 2049 MB
