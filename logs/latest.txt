@@ -524,3 +524,8 @@ K_RAKS .,-....................C........}.C..^.I.+CE..C..3..A0C8 .C..7...9CDj.C?o
 11:28:06.888 DNS report.appmetrica.yandex.net
 11:29:16.351 DNS ledger.nekki.com
 11:29:16.594 DNS ledger.nekki.com
+11:35:08.684 DNS region1.app-analytics-services.com
+11:35:08.684 DNS region1.app-analytics-services.com
+11:35:08.735 DNS itunes.apple.com
+11:35:23.644 DNS region1.app-analytics-services.com
+11:35:23.645 DNS region1.app-analytics-services.com
