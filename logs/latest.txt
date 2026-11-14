@@ -551,3 +551,5 @@ K_RAKS .ld....................C.......{.cD.!V.s&)C.IaD^.,.^. C.s\D.@(...)C..eD!B
 15:00:42.045 DNS region1.app-analytics-services.com
 15:00:42.046 DNS region1.app-analytics-services.com
 15:00:42.973 DNS itunes.apple.com
+15:00:56.875 DNS region1.app-analytics-services.com
+15:00:56.876 DNS region1.app-analytics-services.com
