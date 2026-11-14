@@ -538,3 +538,5 @@ K_RAKS .,-....................C........}.C..^.I.+CE..C..3..A0C8 .C..7...9CDj.C?o
 11:38:34.190 DNS region1.app-analytics-services.com
 11:38:35.481 DNS itunes.apple.com
 11:38:36.305 DNS a58pbd.launches.appsflyersdk.com
+11:38:44.999 DNS api.github.com
+11:38:45.159 DNS api.github.com
