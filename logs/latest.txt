@@ -531,3 +531,5 @@ d.o.w.f.i.g.h.t...h.u.a.w.e.i...a.n.n.i.v.e.r.s.a.r.y.1.0._.t.h._.1.9...B028F4AA
 10:44:35.213 FOUND[PERK_BOSS_] #3 @0x13ebc7e35
 .l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...i.s.P.l.a.y.e.r...g.e.itions><OperXD=,....................................U.............A.........8.+.I...S.....3...M.......Player .6.................A.c.h.i.e.v.e.m.e.n.t.s.0.1...a.c.h._.l.e.v.e.l.c.a.p....................."  .6.................?.P.l.a.y.e.r.P.a.r.a.m.e.t.e.r.[.M.e.]...i.s.P.l.a.y.e.r...g.e."PERK_BOSS_A .6............."...c.o.m...n.e.k.k.i...s.h.a.d.o.w.f.i.g.h.t...t.i.t.a.n.r.e.m.a.t.c.h...h.]."  .6.................A.c.h.i.e.v.e.m.e.n.t.s.0.2...a.c.h._.T.i.t.a.n.R.e.m.a.t.c.h...agName="WaspXD=,................................}...*...y.\...G...%...~.S..._..."...x.U...}...7...i.m...~.OS .6.................A.c.h.i.e.v.e.m.e.n.t._.D.e.s.c
 10:44:35.214 ---- boss perk hunt done ----
+10:47:20.235 DNS ledger.nekki.com
+10:47:20.638 DNS ledger.nekki.com
