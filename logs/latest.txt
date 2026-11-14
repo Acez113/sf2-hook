@@ -543,3 +543,6 @@ o.t.[.3.0.0.0.0.]...c.e.]...er Name="OXD=*..................................{...
 10:06:57.050 DNS report.appmetrica.yandex.net
 10:07:43.753 DNS ledger.nekki.com
 10:07:44.032 DNS ledger.nekki.com
+10:08:27.254 DNS region1.app-analytics-services.com
+10:08:27.255 DNS region1.app-analytics-services.com
+10:08:27.379 DNS itunes.apple.com
