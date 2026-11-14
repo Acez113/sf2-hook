@@ -416,3 +416,25 @@
 16:19:35.297 ADBLOCK gw1.mediation.unity3d.com
 16:19:35.313 ADBLOCK gw1.mediation.unity3d.com
 16:20:06.313 ---- hack self-check (single pass) ----
+16:20:56.324   [PASS] moves: thruster      found=2  (need 1+)
+16:20:56.326   [PASS] moves: no-block      found=102  (need 1+)
+16:20:56.327   [PASS] moves: ignores evade found=91  (need 1+)
+16:20:56.328   [PASS] moves: long range    found=322  (need 1+)
+16:20:56.328   [PASS] moves: geometry      found=1221  (need 1+)
+16:20:56.328   [PASS] moves: stance skip   found=65  (need 1+)
+16:20:56.329   [FAIL] perks: antiban       found=0  (need 1+)
+16:20:56.330   [PASS] perks: frenzy name   found=39  (need 1+)
+16:20:56.331   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+16:20:56.332   [FAIL] perks: boss gutted   found=0  (need 1+)
+16:20:56.333   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+16:20:56.334   [PASS] BAD empty parts      found=0  (need 0 exactly)
+16:20:56.334   [FAIL] rc: clean perk       found=0  (need 1+)
+16:20:56.335   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+16:20:56.335   [PASS] rc: clean cd         found=1  (need 1+)
+16:20:56.336   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+16:20:56.336   [PASS] rc: clean ammo       found=3  (need 1+)
+16:20:56.336   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+16:20:56.336   scanned 2048 MB in 50.0s
+16:20:56.337   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+16:20:56.337   redirect CONFIGS.bundle: reads=0 ready=YES
+16:20:56.337 ---- self-check: 14 pass / 4 fail ----
