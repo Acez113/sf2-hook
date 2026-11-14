@@ -546,3 +546,5 @@ o.t.[.3.0.0.0.0.]...c.e.]...er Name="OXD=*..................................{...
 10:08:27.254 DNS region1.app-analytics-services.com
 10:08:27.255 DNS region1.app-analytics-services.com
 10:08:27.379 DNS itunes.apple.com
+10:08:42.101 DNS region1.app-analytics-services.com
+10:08:42.102 DNS region1.app-analytics-services.com
