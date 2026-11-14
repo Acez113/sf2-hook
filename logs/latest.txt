@@ -554,3 +554,5 @@ o.t.[.3.0.0.0.0.]...c.e.]...er Name="OXD=*..................................{...
 10:09:51.845 DNS region1.app-analytics-services.com
 10:09:51.847 DNS region1.app-analytics-services.com
 10:10:58.675 DNS google.com
+10:38:13.476 CONFIGSPROBE[W] fd=42 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
+10:38:13.531 CONFIGSPROBE[R] fd=42 /var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs/econfig.zip
