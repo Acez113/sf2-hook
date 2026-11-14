@@ -483,3 +483,8 @@ a.c.k.1...F8A1D59"/> Ox.............(...c.o.m...n.e.k.k.i...s.h.a.d.o.w.f.i.g.h.
 16:22:46.764 DNS itunes.apple.com
 16:22:47.236 DNS region1.app-analytics-services.com
 16:22:47.238 DNS region1.app-analytics-services.com
+16:22:54.446 DNS itunes.apple.com
+16:22:54.525 DNS a58pbd.launches.appsflyersdk.com
+16:22:59.653 DNS region1.app-analytics-services.com
+16:22:59.654 DNS region1.app-analytics-services.com
+16:23:20.374 DNS startup.mobile.yandex.net
