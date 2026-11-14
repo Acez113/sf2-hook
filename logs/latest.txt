@@ -521,3 +521,4 @@ K_RAKS .,-....................C........}.C..^.I.+CE..C..3..A0C8 .C..7...9CDj.C?o
 11:25:28.566 DNS firebaselogging-pa.googleapis.com
 11:25:29.226 DNS region1.app-analytics-services.com
 11:25:29.227 DNS region1.app-analytics-services.com
+11:28:06.888 DNS report.appmetrica.yandex.net
