@@ -556,3 +556,13 @@ K_RAKS .ld....................C.......{.cD.!V.s&)C.IaD^.,.^. C.s\D.@(...)C..eD!B
 15:01:06.718 DNS startup.mobile.yandex.net
 15:05:32.871 DNS ledger.nekki.com
 15:05:33.140 DNS ledger.nekki.com
+15:08:00.377 DNS google.com
+15:08:00.377 DNS google.com
+15:08:00.418 DNS sf2ios-dumps.nekki.com
+15:08:00.521 DNS google.com
+15:08:00.523 DNS com
+15:08:00.525 DNS google.com
+15:08:00.643 DNS sf2ios-dumps.nekki.com
+15:08:00.914 DNS www.google.com
+15:08:00.915 DNS www.google.com
+15:08:00.918 DNS google.com
