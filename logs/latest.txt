@@ -424,3 +424,5 @@
 09:47:15.916 DNS region1.app-analytics-services.com
 09:47:25.837 DNS itunes.apple.com
 09:47:25.896 DNS a58pbd.launches.appsflyersdk.com
+09:47:34.451 DNS api.github.com
+09:47:34.548 DNS api.github.com
