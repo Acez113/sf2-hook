@@ -534,3 +534,5 @@ d.o.w.f.i.g.h.t...h.u.a.w.e.i...a.n.n.i.v.e.r.s.a.r.y.1.0._.t.h._.1.9...B028F4AA
 10:47:20.235 DNS ledger.nekki.com
 10:47:20.638 DNS ledger.nekki.com
 10:49:03.991 DNS report.appmetrica.yandex.net
+10:51:47.436 DNS ledger.nekki.com
+10:51:47.744 DNS ledger.nekki.com
