@@ -540,3 +540,4 @@ o.t.[.3.0.0.0.0.]...c.e.]...er Name="OXD=*..................................{...
 09:59:20.167 DNS ledger.nekki.com
 10:02:29.835 DNS ledger.nekki.com
 10:02:30.140 DNS ledger.nekki.com
+10:06:57.050 DNS report.appmetrica.yandex.net
