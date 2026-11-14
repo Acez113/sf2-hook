@@ -404,3 +404,25 @@
 11:18:41.672 DNS itunes.apple.com
 11:18:45.322 DNS region1.app-analytics-services.com
 11:18:45.323 DNS region1.app-analytics-services.com
+11:19:15.122   [PASS] moves: thruster      found=6  (need 1+)
+11:19:15.122   [PASS] moves: no-block      found=100  (need 1+)
+11:19:15.122   [PASS] moves: ignores evade found=93  (need 1+)
+11:19:15.123   [PASS] moves: long range    found=355  (need 1+)
+11:19:15.123   [PASS] moves: geometry      found=1493  (need 1+)
+11:19:15.123   [PASS] moves: stance skip   found=69  (need 1+)
+11:19:15.123   [FAIL] perks: antiban       found=0  (need 1+)
+11:19:15.123   [PASS] perks: frenzy name   found=154  (need 1+)
+11:19:15.123   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+11:19:15.123   [FAIL] perks: boss gutted   found=0  (need 1+)
+11:19:15.123   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+11:19:15.123   [PASS] BAD empty parts      found=0  (need 0 exactly)
+11:19:15.124   [FAIL] rc: clean perk       found=0  (need 1+)
+11:19:15.124   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+11:19:15.124   [PASS] rc: clean cd         found=1  (need 1+)
+11:19:15.124   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+11:19:15.124   [PASS] rc: clean ammo       found=1  (need 1+)
+11:19:15.124   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+11:19:15.124   scanned 2048 MB in 34.7s
+11:19:15.124   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+11:19:15.124   redirect CONFIGS.bundle: reads=0 ready=YES
+11:19:15.124 ---- self-check: 14 pass / 4 fail ----
