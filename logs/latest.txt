@@ -471,3 +471,4 @@ n.e.k.k.i...s.h.a.d.o.w.f.i.g.h.t...h.u.a.w.e.i...b.l.a.c.k._.f.r.i.d.a.y.2.3._.
 10:42:49.232 FOUND[PERK_BOSS_] #3 @0x13ebc7ff6
 ..h.]."  .6.................A.c.h.i.e.v.e.m.e.n.t.s.0.2...a.c.h._.T.i.t.a.n.R.e.m.a.t.c.h...agName="WaspXD=,................................}...*...y.\...G...%...~.S..._..."...x.U...}...7...i.m...~.OS .6.................A.c.h.i.e.v.e.m.e.n.t._.D.e.s.c._.T.i.t.a.n._.E.c.l.i.p.s.e.....o.r.].e.].nStart" /></Perk><Perk Name="PERK_ASSISTANTS" Template="PERK_BOSS_ .6.................?.C.o.m.p.a.r.e.[.?.V.a.r.i.a.b.l.e.[.R.e.g.u.l.a.r.A.n.i.m.a.t.i.o.n.B.a.s.e.D.a.m.a.g.e.]. .*. .(. .?.V.a.r.i.a.b.l.e.[.E.f.f.e.c.t.H.i.t.]. .*. .(. .1. .+. .1./.?.V.a.r.i.a.b.l.e.[.E.f.f.e.c.t.s.C.o.u.n.t.]. .). .*. .(. .(.0...2.5. .-. .1.)./.(.0...7.5.2. .-. .1.). .-. .1.). .-. .?.V.a.r.i.a.b.l.e.[.R.e.g.u.l.a.r.H.
 10:42:49.233 ---- boss perk hunt done ----
+10:43:22.132 ---- boss perk hunt (read-only) ----
