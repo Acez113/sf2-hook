@@ -554,3 +554,5 @@ K_RAKS .ld....................C.......{.cD.!V.s&)C.IaD^.,.^. C.s\D.@(...)C..eD!B
 15:00:56.875 DNS region1.app-analytics-services.com
 15:00:56.876 DNS region1.app-analytics-services.com
 15:01:06.718 DNS startup.mobile.yandex.net
+15:05:32.871 DNS ledger.nekki.com
+15:05:33.140 DNS ledger.nekki.com
