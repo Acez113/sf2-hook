@@ -314,3 +314,41 @@
 02:24:59.588 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
 02:24:59.589 DNS ec2-18-153-8-51.eu-central-1.compute.amazonaws.com
 02:25:20.717 DNS google.com
+02:25:24.069 dump upload dumps/Info.plist -> HTTP 200
+02:25:29.957 ADBLOCK cdp.cloud.unity3d.com
+02:25:29.957 ADBLOCK cdp.cloud.unity3d.com
+02:25:30.028 ADBLOCK o-sdk.mediation.unity3d.com
+02:25:30.088 ADBLOCK telemetry.tk0x1.com
+02:25:30.097 ADBLOCK prefetch.monetization-sdk.chartboost.com
+02:25:30.098 ADBLOCK prefetch.monetization-sdk.chartboost.com
+02:25:30.101 ADBLOCK config.monetization-sdk.chartboost.com
+02:25:30.102 ADBLOCK config.monetization-sdk.chartboost.com
+02:25:30.107 ADBLOCK install.monetization-sdk.chartboost.com
+02:25:30.107 ADBLOCK install.monetization-sdk.chartboost.com
+02:25:31.206 ADBLOCK gateway.unityads.unity3d.com
+02:25:31.210 ADBLOCK googleads.g.doubleclick.net
+02:25:31.214 ADBLOCK pubads.g.doubleclick.net
+02:25:31.250 DNS itunes.apple.com
+02:25:31.266 CONFIGSPROBE[R] fd=53 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+02:25:31.271 CONFIGSPROBE[R] fd=55 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+02:25:31.273 RAIDCONFIG MISS raid_configs (exists=YES errno=2)
+02:25:31.339 ADBLOCK cdn.iads.unity3d.com
+02:25:31.375 DNS yandex.com
+02:25:31.398 DNS report.appmetrica.yandex.net
+02:25:31.510 DNS yandex.com
+02:25:31.701 CONFIGSPROBE[R] fd=50 /private/var/mobile/Containers/Data/Application/5ECA021E-F9B6-4207-94B4-EBF7B091C1C5/Library/Caches/gamedata/raid_configs
+02:25:31.702 RAIDCONFIG MISS(retry) raid_configs
+02:25:32.956 ADBLOCK o-sdk.mediation.unity3d.com
+02:25:32.960 ADBLOCK o-sdk.mediation.unity3d.com
+02:25:32.965 ADBLOCK o-sdk.mediation.unity3d.com
+02:25:33.316 ADBLOCK cdp.cloud.unity3d.com
+02:25:33.318 ADBLOCK cdp.cloud.unity3d.com
+02:25:33.431 ADBLOCK o-sdk.mediation.unity3d.com
+02:25:33.507 ADBLOCK gateway.unityads.unity3d.com
+02:25:33.641 DNS yandex.com
+02:25:36.165 ADBLOCK gw1.mediation.unity3d.com
+02:25:36.172 ADBLOCK gw1.mediation.unity3d.com
+02:25:39.131 ---- hack self-check (single pass) ----
+02:25:48.257 DNS yastatic.net
+02:25:48.332 DNS yastatic.net
+02:25:51.027 ADBLOCK gw1.mediation.unity3d.com
