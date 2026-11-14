@@ -426,3 +426,25 @@
 09:47:25.896 DNS a58pbd.launches.appsflyersdk.com
 09:47:34.451 DNS api.github.com
 09:47:34.548 DNS api.github.com
+09:48:09.724   [FAIL] moves: thruster      found=0  (need 1+)
+09:48:09.725   [PASS] moves: no-block      found=5  (need 1+)
+09:48:09.725   [PASS] moves: ignores evade found=2  (need 1+)
+09:48:09.725   [PASS] moves: long range    found=6  (need 1+)
+09:48:09.726   [PASS] moves: geometry      found=92  (need 1+)
+09:48:09.726   [PASS] moves: stance skip   found=4  (need 1+)
+09:48:09.726   [FAIL] perks: antiban       found=0  (need 1+)
+09:48:09.726   [PASS] perks: frenzy name   found=268  (need 1+)
+09:48:09.726   [FAIL] perks: frenzy HACKED found=0  (need 1+)
+09:48:09.726   [FAIL] perks: boss gutted   found=0  (need 1+)
+09:48:09.727   [PASS] BAD crit suppressed  found=0  (need 0 exactly)
+09:48:09.727   [PASS] BAD empty parts      found=0  (need 0 exactly)
+09:48:09.727   [FAIL] rc: clean perk       found=0  (need 1+)
+09:48:09.727   [PASS] rc: zeroed perk      found=0  (need 0 exactly)
+09:48:09.727   [FAIL] rc: clean cd         found=0  (need 1+)
+09:48:09.728   [PASS] rc: zeroed cd        found=0  (need 0 exactly)
+09:48:09.728   [FAIL] rc: clean ammo       found=0  (need 1+)
+09:48:09.728   [PASS] rc: zeroed ammo      found=0  (need 0 exactly)
+09:48:09.728   scanned 2048 MB in 59.8s
+09:48:09.729   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
+09:48:09.729   redirect CONFIGS.bundle: reads=0 ready=YES
+09:48:09.729 ---- self-check: 11 pass / 7 fail ----
