@@ -479,3 +479,4 @@ r"><Events><ModExpires Player="Me" Name="RemoveOrbOfHunger" /></Events><Locks><P
 <Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .ld....................C.......{.cD.!V.s&)C.IaD^.,.^. C.s\D.@(...)C..eD!B&..>.CR.\DB...T.6C`2iD.....`.C.*fD=...x.@C..lDD.....6CG>gD......>C..mDOM...A<C.U^D....h..C..cDs......CWSYD].q.B4FCM.pD....]..Ch,ZDt.^... C..pD..p.P..C..YD......0C:ptD.......C..`D.....:.Cz..D\...._5C.LiD......>C.lnD......]C..kD;...b..Cz..D\...._5C.LiD
 14:43:31.770 FOUND[PERK_BOSS_] nothing in 2049 MB
 14:43:31.771 ---- boss perk hunt done ----
+14:45:23.718 ---- boss perk hunt (read-only) ----
