@@ -429,3 +429,12 @@
 10:40:32.402   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 10:40:32.402   redirect CONFIGS.bundle: reads=0 ready=YES
 10:40:32.402 ---- self-check: 14 pass / 4 fail ----
+10:40:52.364 ---- boss perk hunt (read-only) ----
+10:40:54.655 DNS ledger.nekki.com
+10:40:54.922 DNS ledger.nekki.com
+10:40:55.819 FOUND[Karcer] #1 @0x14974af74
+.com.10:38:30.811 DNS com.10:38:30.812 DNS google.com.10:38:30.813 DNS sf2ios-dumps.nekki.com.10:38:30.848 DNS yastatic.net.10:38:31.093 DNS com.10:38:31.094 DNS google.com.10:38:31.101 DNS google.com.10:38:31.210 DNS google.com.10:38:31.351 DNS com.10:38:31.352 DNS google.com.10:38:31.372 DNS sf2ios-dumps.nekki.com.10:38:31.578 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.10:38:31.765 DNS www.google.com.10:38:31.766 DNS www.google.com.10:38:31.768 DNS www.google.com.10:38:31.771 DNS google.com.10:38:31.772 DNS www.google.com.10:38:31.837 DNS assets.nekki.com.10:38:31.873 DNS assets.nekki.com.10:38:32.194 ADBLOCK gateway.unityads.unity3d.com.10:38:32.432 DNS consent.google.com.10:38
+10:40:55.820 FOUND[Karcer] #2 @0x14974b693
+.10:38:33.467 ADBLOCK o-sdk.mediation.unity3d.com.10:38:33.513 ADBLOCK o-sdk.mediation.unity3d.com.10:38:33.516 ADBLOCK o-sdk.mediation.unity3d.com.10:38:33.664 DNS ledger.nekki.com.10:38:33.859 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com.10:38:33.859 DNS ec2-18-153-8-50.eu-central-1.compute.amazonaws.com.10:38:33.880 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.10:38:34.750 ADBLOCK gateway.unityads.unity3d.com.10:38:35.505 ADBLOCK o-sdk.mediation.unity3d.com.10:38:35.507 ADBLOCK o-sdk.mediation.unity3d.com.10:38:35.531 ADBLOCK o-sdk.mediation.unity3d.com.10:38:35.544 ADBLOCK o-sdk.mediation.unity3d.com.10:38:35.572 ADBLOCK o-sdk.mediation.unity3d.com.10:38:35.584 ADBLOCK
+10:40:55.884 FOUND[Karcer] #3 @0x14acaff74
+.com.10:38:30.811 DNS com.10:38:30.812 DNS google.com.10:38:30.813 DNS sf2ios-dumps.nekki.com.10:38:30.848 DNS yastatic.net.10:38:31.093 DNS com.10:38:31.094 DNS google.com.10:38:31.101 DNS google.com.10:38:31.210 DNS google.com.10:38:31.351 DNS com.10:38:31.352 DNS google.com.10:38:31.372 DNS sf2ios-dumps.nekki.com.10:38:31.578 BOSSPATCH pass 2: 'Karcer orb of hunger' total hits=0.10:38:31.765 DNS www.google.com.10:38:31.766 DNS www.google.com.10:38:31.768 DNS www.google.com.10:38:31.771 DNS google.com.10:38:31.772 DNS www.google.com.10:38:31.837 DNS assets.nekki.com.10:38:31.873 DNS assets.nekki.com.10:38:32.194 ADBLOCK gateway.unityads.unity3d.com.10:38:32.432 DNS consent.google.com.10:38
