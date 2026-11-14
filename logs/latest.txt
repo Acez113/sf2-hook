@@ -513,3 +513,11 @@ K_RAKS .,-....................C........}.C..^.I.+CE..C..3..A0C8 .C..7...9CDj.C?o
 11:23:07.148 ---- boss perk hunt done ----
 11:25:14.258 DNS region1.app-analytics-services.com
 11:25:14.259 DNS region1.app-analytics-services.com
+11:25:28.330 DNS itunes.apple.com
+11:25:28.373 DNS a58pbd.launches.appsflyersdk.com
+11:25:28.403 DNS firebaselogging-pa.googleapis.com
+11:25:28.404 DNS firebaselogging-pa.googleapis.com
+11:25:28.565 DNS googleapis.com
+11:25:28.566 DNS firebaselogging-pa.googleapis.com
+11:25:29.226 DNS region1.app-analytics-services.com
+11:25:29.227 DNS region1.app-analytics-services.com
