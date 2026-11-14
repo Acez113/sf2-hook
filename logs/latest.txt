@@ -548,3 +548,4 @@ K gateway.unityads.unity3d.com.01:48:20.267 ADBLOCK o-sdk.mediation.unity3d.com.
 01:59:40.545 DNS ledger.nekki.com
 01:59:40.696 DNS ledger.nekki.com
 01:59:42.783 DNS ledger.nekki.com
+02:01:00.019 DNS report.appmetrica.yandex.net
