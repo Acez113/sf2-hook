@@ -548,3 +548,6 @@ K_RAKS .ld....................C.......{.cD.!V.s&)C.IaD^.,.^. C.s\D.@(...)C..eD!B
 14:56:36.704 DNS region1.app-analytics-services.com
 14:59:29.763 DNS ledger.nekki.com
 14:59:30.040 DNS ledger.nekki.com
+15:00:42.045 DNS region1.app-analytics-services.com
+15:00:42.046 DNS region1.app-analytics-services.com
+15:00:42.973 DNS itunes.apple.com
