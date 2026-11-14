@@ -438,3 +438,13 @@
 16:20:56.337   redirect VERSIONAL_CONFIGS.bundle: reads=5 ready=YES
 16:20:56.337   redirect CONFIGS.bundle: reads=0 ready=YES
 16:20:56.337 ---- self-check: 14 pass / 4 fail ----
+16:21:21.362 ---- boss perk hunt (read-only) ----
+16:21:22.582 FOUND[Karcer] #1 @0x12a6a68fc
+tl7.n..%.+.1...$......l..'.B..............\.........(.C.n.............v\.P..Sr's.....Overheat...B..$D...B........P...u3.J....<v..<.....e..4o.p|.....#.?...?..........|...\......9...3|...dr.....X..D.0..#......................8..$.....@..z.pn.,..D...n. ......`..h........X...u.p.....@....@.Ga>l..h..p..D.0..L......d..,...........T.....T.... .>8.........KarcerHung..o@TD.@...2O..~,....\...\~"cD....@w........t..p.................(..d..(.. ...........,............8..\.....P..Xz....<.....$........r8.upperFq.../tB8w!...I..V'.M....cV.......5...l..8w..\...P.........5...8w0)\....t.........$...........Xw.....#.p..Eduel.w.3..".....X...I.s.hp4,......6...D.@..../.3...%.F<...0..(...........x.....p..L..<.......
+16:21:23.912 FOUND[Karcer] #2 @0x1510374b0
+CK i-adq.mediation.unity3d.com.16:18:59.636 ADBLOCK init.supersonicads.com.16:18:59.831 DNS time-server.nekki.com.16:18:59.982 ADBLOCK gateway-a.offerwall.unity3d.com.16:19:00.115 ADBLOCK gateway-a.offerwall.unity3d.com.16:19:00.295 ADBLOCK i-sdk.mediation.unity3d.com.16:19:00.962 ADBLOCK i-adq.mediation.unity3d.com.16:19:01.033 BOSSPATCH pass 1: 'Karcer orb of hunger' total hits=0.16:19:01.115 ADBLOCK o-sdk.mediation.unity3d.com.16:19:01.269 ADBLOCK o-sdk.mediation.unity3d.com.16:19:01.416 ADBLOCK o-sdk.mediation.unity3d.com.16:19:01.580 ADBLOCK i-adq.mediation.unity3d.com.16:19:01.869 ADBLOCK telemetry.tk0x1.com.16:19:02.153 ADBLOCK prefetch.monetization-sdk.chartboost.com.16:19:02.154 ADB
+16:21:23.913 FOUND[Karcer] #3 @0x15103807c
+:07.248 ADBLOCK o-sdk.mediation.unity3d.com.16:19:07.259 ADBLOCK o-sdk.mediation.unity3d.com.16:19:07.263 ADBLOCK o-sdk.mediation.unity3d.com.16:19:07.294 ADBLOCK o-sdk.mediation.unity3d.com.16:19:07.315 DNS google.com.16:19:07.515 DNS com.16:19:07.524 DNS google.com.16:19:07.764 ADBLOCK gateway.unityads.unity3d.com.16:19:07.818 BOSSPATCH pass 4: 'Karcer orb of hunger' total hits=5.16:19:08.031 DNS www.google.com.16:19:08.033 DNS www.google.com.16:19:08.038 DNS www.google.com.16:19:08.044 DNS google.com.16:19:08.046 DNS www.google.com.16:19:08.136 DNS ep2.facebook.com.16:19:08.156 DNS ep2.facebook.com.16:19:08.188 DNS ep2.facebook.com.16:19:08.189 DNS star.fallback.c10r.facebook.com..16:19:0
+16:21:24.203 DNS ledger.nekki.com
+16:21:25.269 DNS ledger.nekki.com
+16:21:25.441 DNS ledger.nekki.com
