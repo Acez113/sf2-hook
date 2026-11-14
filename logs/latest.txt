@@ -465,3 +465,21 @@ a.c.k.1...F8A1D59"/> Ox.............(...c.o.m...n.e.k.k.i...s.h.a.d.o.w.f.i.g.h.
 16:21:53.569 FOUND[DRAKAINA] nothing in 2048 MB
 16:22:02.723 FOUND[TENEBRIS] nothing in 2049 MB
 16:22:11.567 FOUND[STALKER] nothing in 2048 MB
+16:22:14.152 FOUND[<Perk Name="BOSS] #1 @0x143b70fbb
+ ShiftY="15" /></Effect><StopEffect Player="Me" Name="MagicThornsLoop" /><StopEffect Player="Me" Name="MagicThornsBG" /><Sound Name="forest_demon/snd_mgc_forest_demon_end" PackName="FOREST_DEMON_25" /></Actions></Trigger><Trigger Name="RakshasCurseZoneBeginningOn"><Events><ModExpires Player="Me" Name="RakshasCurseZoneBeginningOn" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><Effect  .-*....................C..........C..F....CjO.C....j..CC..C/H.....C.5.C....~..B.y.C.....6.C.<.C.......C.+.Ct...q+5C...CR....G&C...Cq...!.7Cs..C;1...L%C...CJ......C...C'1...<.B.'.C..3...$C...C..y.~..Bf=.Cv.K.M..B.,.Ct.~....B$U.C.......CR..C\.w....BQ..C|t...N.B...D..H.FN.C...C{.'..
+16:22:14.152 FOUND[<Perk Name="BOSS] #2 @0x143b71908
+.C.8.C.......C...C.......Cw..C`.&..E.C.z.C7.&.:..B...C.k%....C...C.X...:.C...Ci....[3CV..C.5...2.C1..C%...}.2CD..C.....q4CG..C.K...S6C...CY.....3C#/.C.....R"CR{.C......#C.e.C.l....)C...C......'C...C......#Cf..C.t..X.$Cer><Trigger Name="RakshasCurseZonePreBlastOff"><Events><ModExpires Player="Me" Name="RakshasCurseZonePreBlastOff" /></Events><Locks><Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or">
+16:22:14.153 FOUND[<Perk Name="BOSS] #3 @0x143b71a66
+<Perk Name="BOSS_PERK_RAKSHAS_CURSE_ZONE" /></Locks><Actions><StopEffect Name="RakshasCurseZonePreBlast" /></Actions></Trigger><Trigger Name="RakshasBlast"><Events><ModExpires Player="Me" Name="RakshasBlast" /></Events><Conditions><Health Player="Enemy" Max="0" Not="1" /><Health Player="Me" Max="0" Not="1" /></Conditions><Locks><Operator Type="Or"><Perk Name="BOSS_PERK_RAKS .-*....................C........5.C}#4....C!..CC......C.R.C.....).C...C.2..O..B.c.C.R....0C.n.CT......C...C.u...Y C2..C.......C.y.C......&C...CV...^..C.j.C[... ..Cyp.C.[.....B.~.C....-.,CJ..C.Tg.B..BV{.C.......CU..Cxs|....B.&.C..9....CY{.C.......B...C>=.....B.d$D.5&..t.B...DR...C2.C...D.....6.B...D.}(.N..B.d$D.5&..t.B...D
+16:22:17.144 FOUND[PERK_BOSS_] #1 @0x158b7efe3
+...........ING" Status="REJ@^.A............+..N+..q.......?.....8ho.H8....... ........]...]................ Status="REJECT"@^.A.............?.B..?}......`?....|g.X|Yg..............e.G.e.G................us="REJECT" Grou@^.A............oq.uo.qJ......@?....@..l@...............B..]B..]................ECT" GroupName="General" />.  <Perk ID="108" Name="PERK_BOSS_WIDOW_SHIELDING" St@F......................p..G.......I....@,eI....@..G....@_|.....@_|.....@_|.....@_|.....@_|.....P..G............@_|.............@_|.....@_|.....@_|........(....@_|.....@_|.....@_|..... ..G........r.......#.............................k...'\..k...'\..................X.'.V1).X.'.V1?...............]....._YX....._Y.........
+16:22:17.188 FOUND[PERK_BOSS_] #2 @0x15a297fe3
+.e.2.1.1._.1...r.e...s="REJ .-*............................................................................1...].....EJECT" .-*............................................................................t.....JECT" Grou.M.*..............................HB...C...C.. C..*C..HC..RC..pC..zC...C...C...CECT" GroupName="General" />.  <Perk ID="108" Name="PERK_BOSS_WIDOW_SHIELDING" St 8..............................1..........E.... 8..............................(.......@_|..... 8..............................7.......@_|..... 8..............................%.......@rPG.... 8..............................O........,..e..s.M.*..............................>....A.........M.*.............................
+16:22:22.292 ---- boss perk hunt done ----
+16:22:36.712 DNS api.github.com
+16:22:37.141 DNS api.github.com
+16:22:44.756 DNS region1.app-analytics-services.com
+16:22:44.757 DNS region1.app-analytics-services.com
+16:22:46.764 DNS itunes.apple.com
+16:22:47.236 DNS region1.app-analytics-services.com
+16:22:47.238 DNS region1.app-analytics-services.com
