@@ -420,3 +420,8 @@
 14:41:02.660 ADBLOCK o-sdk.mediation.unity3d.com
 14:41:02.739 ADBLOCK o-sdk.mediation.unity3d.com
 14:41:02.770 ADBLOCK o-sdk.mediation.unity3d.com
+14:41:24.769 DNS firebaselogging-pa.googleapis.com
+14:41:24.770 DNS firebaselogging-pa.googleapis.com
+14:41:24.871 DNS googleapis.com
+14:41:24.872 DNS firebaselogging-pa.googleapis.com
+14:41:39.395 ---- hack self-check (single pass) ----
